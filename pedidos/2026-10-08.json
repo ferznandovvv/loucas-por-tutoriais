@@ -1,0 +1,10 @@
+{
+  "date": "2026-10-08",
+  "items": [
+    {"file": "p1_capa.jpg", "type": "article", "url": "https://www.metropoles.com/vida-e-estilo/alem-de-zendaya-veja-outras-atrizes-que-aderiram-a-franja-em-2026"},
+    {"file": "p2_capa.jpg", "type": "article", "url": "https://jornaldebrasilia.com.br/entretenimento/katia-flavia/jordana-morais-muda-o-visual-apos-bbb-26-e-sinaliza-nova-fase/"},
+    {"file": "p3_capa.jpg", "type": "article", "url": "https://www.folhavitoria.com.br/cultura/jojo-todynho-compartilha-video-de-transformacao-no-cabelo/"},
+    {"file": "p4_capa.jpg", "type": "article", "url": "https://elle.com.br/beleza/maquiagem-gotica"},
+    {"file": "p5_capa.jpg", "type": "ai", "aspect": "4:5", "prompt": "Editorial beauty photograph of a woman's vanity table seen from slightly above, soft morning window light, a few skincare bottles in frosted glass, a jade roller, a small vase with dried pink flowers, linen towel, warm blush and off-white color palette, shallow depth of field, shot on 50mm lens, magazine style, no text, no logos, vertical 4:5 composition"}
+  ]
+}
