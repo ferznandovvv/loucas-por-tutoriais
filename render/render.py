@@ -161,8 +161,11 @@ def gradient_top(w, h, frac=0.2, strength=150):
     return black
 
 
+SHOW_CREDITS = False  # o Fernando pediu para nao mostrar a origem da foto na arte
+
+
 def credit(d, text, w, h, y=None):
-    if not text:
+    if not text or not SHOW_CREDITS:
         return
     f = font("reg", 22)
     tw = f.getlength(text)
@@ -254,7 +257,7 @@ def render_slide(slide, n, total, photos_dir):
         mask = Image.new("L", ph.size, 0)
         ImageDraw.Draw(mask).rounded_rectangle([0, 0, ph.width, ph.height], radius=28, fill=255)
         img.paste(ph, (M, top), mask)
-        if slide.get("credit"):
+        if slide.get("credit") and SHOW_CREDITS:
             f = font("reg", 20)
             d.text((M, top + 648), slide["credit"], font=f, fill=(120, 108, 112))
         top += 710

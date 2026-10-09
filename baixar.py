@@ -115,6 +115,25 @@ def gemini_image(prompt, aspect, key, model):
     raise RuntimeError("Gemini nao devolveu imagem: " + r.text[:300])
 
 
+def free_image(prompt, aspect):
+    """Gerador gratuito sem chave (Pollinations). Tenta algumas vezes porque a fila gratuita oscila."""
+    from urllib.parse import quote
+    w, h = {"4:5": (1080, 1350), "9:16": (1080, 1920), "1:1": (1080, 1080)}.get(aspect, (1080, 1350))
+    last = None
+    for attempt in range(4):
+        url = (f"https://image.pollinations.ai/prompt/{quote(prompt)}"
+               f"?width={w}&height={h}&nologo=true&private=true&seed={int(time.time()) % 100000 + attempt}")
+        try:
+            r = S.get(url, timeout=180)
+            if r.status_code == 200 and r.headers.get("content-type", "").startswith("image"):
+                return r.content
+            last = f"HTTP {r.status_code}: {r.text[:150]}"
+        except Exception as e:
+            last = str(e)
+        time.sleep(15)
+    raise RuntimeError("gerador gratuito falhou: " + str(last))
+
+
 def main():
     pedido_path = sys.argv[1]
     pedido = json.load(open(pedido_path, encoding="utf-8"))
@@ -152,12 +171,17 @@ def main():
                 size = save_image(fetch(it["url"], referer=it.get("referer")).content, os.path.join(outdir, name))
                 res.update(ok=True, source=it["url"], size=size)
             elif it["type"] == "ai":
-                if not key:
-                    raise RuntimeError("secret GEMINI_API_KEY nao configurado")
-                model = model or gemini_model(key)
-                data = gemini_image(it["prompt"], it.get("aspect", "4:5"), key, model)
+                aspect = it.get("aspect", "4:5")
+                use_gemini = key and os.environ.get("USE_GEMINI", "") == "1"
+                if use_gemini:
+                    model = model or gemini_model(key)
+                    data = gemini_image(it["prompt"], aspect, key, model)
+                    res["model"] = model
+                else:
+                    data = free_image(it["prompt"], aspect)
+                    res["model"] = "pollinations-gratuito"
                 size = save_image(data, os.path.join(outdir, name))
-                res.update(ok=True, model=model, size=size)
+                res.update(ok=True, size=size)
         except Exception as e:
             res["error"] = str(e)[:300]
         status["items"].append(res)

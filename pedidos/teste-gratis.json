@@ -1,0 +1,7 @@
+{
+  "date": "teste-gratis",
+  "items": [
+    {"file": "ia_penteadeira.jpg", "type": "ai", "aspect": "4:5", "prompt": "Editorial beauty photograph of a woman's vanity table seen from slightly above, soft morning window light, a few skincare bottles in frosted glass, a jade roller, a small vase with dried pink flowers, linen towel, warm blush and off-white color palette, shallow depth of field, shot on 50mm lens, magazine style, no text, no logos, vertical 4:5 composition"},
+    {"file": "ia_organizacao.jpg", "type": "ai", "aspect": "9:16", "prompt": "Bright minimalist closet with neatly folded pastel sweaters in clear acrylic organizers, soft natural daylight, warm off-white walls, a woven basket and a small plant, editorial interior photography, shallow depth of field, no text, no logos, no people, vertical 9:16 composition"}
+  ]
+}

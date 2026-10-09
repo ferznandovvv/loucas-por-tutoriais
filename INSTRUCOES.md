@@ -101,7 +101,8 @@ Fotos boas são obrigatórias: post só tipográfico engaja pouco. O ambiente de
 6. Para cada foto escolhida, olhe onde está o rosto ou o assunto principal e defina "focus" (posição horizontal de 0.0 a 1.0, padrão 0.5) para o corte vertical não cortar o rosto.
 7. Se um item falhou ou nenhuma foto presta, use uma imagem IA aprovada de outra pauta genérica ou deixe o slide sem foto (o render faz a versão tipográfica). Nunca trave a entrega.
 8. NUNCA gere com IA o rosto ou o corpo de uma pessoa real ou famosa.
-9. Crédito de toda foto de matéria: "Foto: Reprodução/nome do veículo" (ou "Foto: Getty Images/Reprodução nome do veículo" quando a matéria indicar agência). Imagem IA não leva crédito.
+9. Não escreva crédito ou origem da foto na arte (decisão do Fernando). Registre no guia.md, em cada pauta, de qual matéria veio cada foto usada.
+10. Imagens IA saem pelo gerador gratuito por padrão. A qualidade varia: descarte as que vierem com texto, mãos ou rostos deformados, ou fora do tema.
 
 Distribuição de fotos: toda capa de carrossel deve ter foto quando houver uma boa. Use foto também em 1 ou 2 slides internos por carrossel e em 1 ou 2 cenas de cada reel. Varie: não repita a mesma foto em todos os lugares do mesmo post.
 
