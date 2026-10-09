@@ -1,0 +1,112 @@
+{
+ "reels": [
+  {
+   "post_id": 1,
+   "scenes": [
+    {
+     "text": "Mariana Ximenes foi à Festa MASP de **coque polido**",
+     "dur": 2.8,
+     "photo": {
+      "src": "masp.jpg",
+      "mode": "card",
+      "focus": 0.265,
+      "focusY": 0.0,
+      "zoom": 1.6,
+      "cardTop": 300,
+      "cardH": 940
+     }
+    },
+    {
+     "text": "E dá pra fazer **em casa**",
+     "dur": 2.0,
+     "style": "dark"
+    },
+    {
+     "text": "Cabelo lavado há **3 ou 4 dias** segura melhor",
+     "dur": 2.6,
+     "photo": {
+      "src": "sheer_alt2.jpg",
+      "focus": 0.5,
+      "focusY": 0.35
+     }
+    },
+    {
+     "text": "Risca no meio e tudo **pra trás**",
+     "dur": 2.4,
+     "photo": {
+      "src": "elle_gel_alt2.jpg",
+      "focus": 0.5,
+      "focusY": 0.3
+     }
+    },
+    {
+     "text": "Rabo baixo, elástico firme e **grampos**",
+     "dur": 2.4,
+     "photo": {
+      "src": "sheer_alt1.jpg",
+      "focus": 0.45,
+      "focusY": 0.4
+     }
+    },
+    {
+     "text": "Arrepiou? Spray na **escova de dente**",
+     "dur": 2.6,
+     "photo": {
+      "src": "gazeta_alt3.jpg",
+      "focus": 0.62,
+      "focusY": 0.45
+     }
+    },
+    {
+     "text": "Passo a passo completo no **carrossel**",
+     "dur": 2.0
+    },
+    {
+     "cta": true,
+     "text": "Salva pra **próxima festa**",
+     "sub": "Comenta COQUE se você vai testar",
+     "dur": 2.6
+    }
+   ]
+  }
+ ],
+ "stories": [
+  {
+   "kicker": "Enquete",
+   "text": "Você usaria **coque polido** numa festa?",
+   "hint": "Vota aqui em cima",
+   "photo": {
+    "src": "elle_coques.jpg",
+    "focus": 0.5,
+    "focusY": 0.25
+   }
+  },
+  {
+   "kicker": "Quiz",
+   "text": "Qual cabelo segura **melhor** o coque?",
+   "hint": "Responde aqui embaixo"
+  },
+  {
+   "kicker": "Enquete",
+   "text": "Quanto você sofre com **fio arrepiado**?",
+   "hint": "Desliza aqui em cima",
+   "photo": {
+    "src": "gazeta_alt3.jpg",
+    "focus": 0.62,
+    "focusY": 0.4
+   }
+  },
+  {
+   "kicker": "Post novo",
+   "text": "O passo a passo do **coque polido**",
+   "hint": "Toca no post pra ver",
+   "card": "post_01/slide_01.jpg"
+  },
+  {
+   "kicker": "Caixinha",
+   "text": "Qual **penteado** você quer aprender?",
+   "hint": "Manda aqui embaixo",
+   "style": "dark"
+  }
+ ]
+}

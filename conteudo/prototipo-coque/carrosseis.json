@@ -1,0 +1,87 @@
+{
+ "posts": [
+  {
+   "cover": {
+    "photo": "sheer_alt2.jpg",
+    "focus": 0.5,
+    "focus_y": 0.42,
+    "headline": "Mariana Ximenes foi à Festa MASP de **coque polido.** Veja como fazer o seu **em casa**",
+    "sub": "Só precisa de gel, grampo e **uma escova de dente.**",
+    "circles": [
+     {
+      "photo": "masp.jpg",
+      "x": 820,
+      "y": 300,
+      "r": 190,
+      "fx": 0.27,
+      "fy": 0.1,
+      "zoom": 1.9
+     }
+    ]
+   },
+   "slides": [
+    {
+     "text": "**Na quarta (7), a Festa MASP reuniu famosas em São Paulo.** Teve muito brilho, fenda e decote. Mas um dos looks mais elegantes da noite foi o mais simples.\n\nMariana Ximenes foi de terno off-white, saia longa e **cabelo preso num coque polido.** E esse penteado dá pra fazer em casa...",
+     "photo": "masp_alt1.jpg",
+     "focus": 0.42,
+     "focus_y": 0.35
+    },
+    {
+     "text": "**O segredo do coque polido está no acabamento.** Segundo a Elle, é a risca no meio e os fios bem alinhados, sem nenhum arrepiado.\n\nEle fica mais fácil em cabelo liso ou alisado. **Em cabelo ondulado, entra um pouco de gel ou pomada.** Mas antes do produto, vem uma escolha que muda tudo...",
+     "photo": "elle_coques.jpg",
+     "focus": 0.5,
+     "focus_y": 0.3
+    },
+    {
+     "text": "**Escolha o dia certo.** O cabeleireiro Syd Hayes, ouvido pela SheerLuxe, diz que o coque segura melhor em cabelo lavado há três ou quatro dias, **um pouco oleoso.**\n\nCabelo recém-lavado escorrega e não firma. Mas se você precisa lavar antes...",
+     "photo": "sheer.jpg",
+     "focus": 0.5,
+     "focus_y": 0.4
+    },
+    {
+     "text": "**...faça com o cabelo ainda molhado.** A beauty artist Laura La Laina ensinou à Elle: divida o cabelo em quatro partes e passe o gel em cada uma, **de baixo pra cima, com o pente.**\n\nAssim o produto se espalha pela cabeça toda, e não só por cima.",
+     "photo": "elf_alt5.jpg",
+     "focus": 0.5,
+     "focus_y": 0.5
+    },
+    {
+     "text": "**Agora defina a risca:** no meio ou de lado. Com o cabelo seco, a dica da SheerLuxe é secar já na direção que ele vai ficar e borrifar um spray fixador.\n\nDepois, **puxe tudo pra trás das orelhas com as mãos,** com um pouquinho de óleo ou sérum.",
+     "photo": "elle_gel_alt2.jpg",
+     "focus": 0.5,
+     "focus_y": 0.3
+    },
+    {
+     "text": "**Faça um rabo baixo e prenda com um elástico firme.** Se o cabelo for comprido ou pesado, faça uma trança no rabo antes de enrolar: o coque fica mais firme.\n\nEnrole, prenda com grampos e esconda bem as pontas. **E aí sobra o maior inimigo do coque polido...**",
+     "photo": "sheer_alt1.jpg",
+     "focus": 0.5,
+     "focus_y": 0.4
+    },
+    {
+     "text": "**...os fiozinhos arrepiados.** O truque, divulgado pela L'Oréal Paris: borrife spray fixador numa **escova de dente** e passe de leve nos fios soltos.\n\nConfira no espelho, ajeite o que sobrou e finalize com um jato de ar frio do secador. **Leva menos de dois minutos.**",
+     "photo": "gazeta_alt3.jpg",
+     "focus": 0.6,
+     "focus_y": 0.45
+    },
+    {
+     "text": "**Tem cabelo cacheado ou crespo?** Segundo a SheerLuxe, o gel pode marcar ainda mais os cachos. Pra quem tem cabelo crespo, a sugestão é usar **edge control** no lugar do gel pra alinhar a raiz.\n\nO coque fica polido do mesmo jeito, respeitando a textura do fio.",
+     "photo": "prose_alt2.jpg",
+     "focus": 0.5,
+     "focus_y": 0.4
+    },
+    {
+     "text": "**Só não exagere na força.** Os cabeleireiros avisam: puxe firme, mas nunca a ponto de doer. E quem tem queda de cabelo deve evitar o penteado bem esticado.\n\nPra tirar o gel, a Elle ensina: **condicionador primeiro,** depois shampoo antirresíduo e máscara. E nada de dormir com gel.",
+     "photo": "elle_coques_alt6.jpg",
+     "focus": 0.5,
+     "focus_y": 0.4
+    },
+    {
+     "text": "Coque polido é aquele penteado que parece de salão e **custa um gel e uma escova de dente.** Pra completar, o cabeleireiro Patrick Wilson sugere make leve: delineado ou batom vermelho.\n\nSalva pra próxima festa e **comenta COQUE** se você vai testar.",
+     "photo": "elle_gel.jpg",
+     "focus": 0.5,
+     "focus_y": 0.3
+    }
+   ],
+   "id": 1
+  }
+ ]
+}
