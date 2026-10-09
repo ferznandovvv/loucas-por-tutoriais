@@ -81,8 +81,9 @@ Antes de escolher, leia o arquivo historico.txt deste repositório e não repita
 Fotos boas são obrigatórias: post só tipográfico engaja pouco. O ambiente de renderização não baixa imagens da internet, então quem baixa é a automação do GitHub deste repositório.
 
 1. Durante o garimpo, para cada pauta, guarde de 1 a 3 links de matérias que tenham a foto certa (a pessoa da pauta, o look, a make, o produto). Prefira portais de notícia e revistas. Instagram não funciona.
-2. Para pautas genéricas (organização, receita, skincare sem famosa), escreva um prompt de imagem IA completo em inglês: cena, luz, enquadramento, estilo fotográfico editorial, paleta rosada e off-white, sem texto, sem logo, sem pessoa real identificável, vertical 4:5.
-3. Grave `pedidos/AAAA-MM-DD.json` no formato:
+2. Prefira SEMPRE foto de matéria, inclusive nas pautas genéricas (organização, receita, skincare): procure uma matéria recente de revista ou portal sobre o mesmo assunto que tenha uma foto bonita e use o link dela. Foto de matéria tem qualidade muito melhor que a IA gratuita.
+3. Só quando nenhuma matéria tiver foto boa, escreva um prompt de imagem IA completo em inglês: cena, luz, enquadramento, estilo fotográfico editorial, paleta rosada e off-white, sem texto, sem logo, sem pessoa, vertical 4:5. O gerador é gratuito, mas de qualidade e resolução menores: no máximo 2 imagens IA por dia, e de preferência como fundo de cena de reel ou story, não como capa.
+4. Grave `pedidos/AAAA-MM-DD.json` no formato:
 
 ```json
 {
@@ -96,13 +97,13 @@ Fotos boas são obrigatórias: post só tipográfico engaja pouco. O ambiente de
 }
 ```
 
-4. Faça commit e push só desse arquivo. A automação roda sozinha (leva de 20 segundos a 2 minutos) e grava `fotos/AAAA-MM-DD/` com as fotos, as alternativas (`_alt1`, `_alt2`...) e `status.json`. Faça `git pull` a cada 15 segundos até o status.json aparecer, por no máximo 6 minutos. Se não aparecer, siga sem fotos e avise na entrega.
-5. CURADORIA, obrigatória: abra com Read cada imagem baixada, inclusive as alternativas. Descarte logo de site, foto de outra pessoa, notícia sem relação (política, propaganda, matérias relacionadas da lateral), imagem cortada, borrada ou com texto grande por cima. A foto precisa mostrar de verdade quem ou o que a pauta diz. Nunca use foto de uma pessoa como se fosse outra.
-6. Para cada foto escolhida, olhe onde está o rosto ou o assunto principal e defina "focus" (posição horizontal de 0.0 a 1.0, padrão 0.5) para o corte vertical não cortar o rosto.
-7. Se um item falhou ou nenhuma foto presta, use uma imagem IA aprovada de outra pauta genérica ou deixe o slide sem foto (o render faz a versão tipográfica). Nunca trave a entrega.
-8. NUNCA gere com IA o rosto ou o corpo de uma pessoa real ou famosa.
-9. Não escreva crédito ou origem da foto na arte (decisão do Fernando). Registre no guia.md, em cada pauta, de qual matéria veio cada foto usada.
-10. Imagens IA saem pelo gerador gratuito por padrão. A qualidade varia: descarte as que vierem com texto, mãos ou rostos deformados, ou fora do tema.
+5. Faça commit e push só desse arquivo. A automação roda sozinha (leva de 20 segundos a 2 minutos) e grava `fotos/AAAA-MM-DD/` com as fotos, as alternativas (`_alt1`, `_alt2`...) e `status.json`. Faça `git pull` a cada 15 segundos até o status.json aparecer, por no máximo 6 minutos. Se não aparecer, siga sem fotos e avise na entrega.
+6. CURADORIA, obrigatória: abra com Read cada imagem baixada, inclusive as alternativas. Descarte logo de site, foto de outra pessoa, notícia sem relação (política, propaganda, matérias relacionadas da lateral), imagem cortada, borrada ou com texto grande por cima. A foto precisa mostrar de verdade quem ou o que a pauta diz. Nunca use foto de uma pessoa como se fosse outra.
+7. Para cada foto escolhida, olhe onde está o rosto ou o assunto principal e defina "focus" (posição horizontal de 0.0 a 1.0, padrão 0.5) para o corte vertical não cortar o rosto.
+8. Se um item falhou ou nenhuma foto presta, use uma imagem IA aprovada de outra pauta genérica ou deixe o slide sem foto (o render faz a versão tipográfica). Nunca trave a entrega.
+9. NUNCA gere com IA o rosto ou o corpo de uma pessoa real ou famosa.
+10. Não escreva crédito ou origem da foto na arte (decisão do Fernando). Registre no guia.md, em cada pauta, de qual matéria veio cada foto usada.
+11. Imagens IA saem pelo gerador gratuito por padrão. A qualidade varia: descarte as que vierem com texto, mãos ou rostos deformados, ou fora do tema.
 
 Distribuição de fotos: toda capa de carrossel deve ter foto quando houver uma boa. Use foto também em 1 ou 2 slides internos por carrossel e em 1 ou 2 cenas de cada reel. Varie: não repita a mesma foto em todos os lugares do mesmo post.
 

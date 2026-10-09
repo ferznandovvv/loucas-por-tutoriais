@@ -18,7 +18,7 @@ UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
       "(KHTML, like Gecko) Chrome/129.0 Safari/537.36")
 S = requests.Session()
 S.headers.update({"User-Agent": UA, "Accept-Language": "pt-BR,pt;q=0.9,en;q=0.8"})
-MIN_SIDE = 500
+MIN_SIDE = 480
 
 
 SEEN = set()
@@ -126,7 +126,11 @@ def free_image(prompt, aspect):
         try:
             r = S.get(url, timeout=180)
             if r.status_code == 200 and r.headers.get("content-type", "").startswith("image"):
-                return r.content
+                im = Image.open(io.BytesIO(r.content)).convert("RGB")
+                im = im.crop((0, 0, im.width, int(im.height * 0.93)))  # remove a marca d'agua do rodape
+                buf = io.BytesIO()
+                im.save(buf, "JPEG", quality=92)
+                return buf.getvalue()
             last = f"HTTP {r.status_code}: {r.text[:150]}"
         except Exception as e:
             last = str(e)
