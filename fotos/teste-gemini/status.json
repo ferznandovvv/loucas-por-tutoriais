@@ -1,0 +1,17 @@
+{
+  "date": "teste-gemini",
+  "finished_at": "2026-10-09T01:20:58Z",
+  "items": [
+    {
+      "file": "ia_penteadeira.jpg",
+      "type": "ai",
+      "ok": true,
+      "alts": [],
+      "model": "pollinations-gratuito",
+      "size": [
+        686,
+        858
+      ]
+    }
+  ]
+}

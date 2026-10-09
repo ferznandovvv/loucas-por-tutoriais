@@ -1,0 +1,28 @@
+{
+  "date": "teste-gratis",
+  "finished_at": "2026-10-09T01:22:37Z",
+  "items": [
+    {
+      "file": "ia_penteadeira.jpg",
+      "type": "ai",
+      "ok": true,
+      "alts": [],
+      "model": "pollinations-gratuito",
+      "size": [
+        686,
+        858
+      ]
+    },
+    {
+      "file": "ia_organizacao.jpg",
+      "type": "ai",
+      "ok": true,
+      "alts": [],
+      "model": "pollinations-gratuito",
+      "size": [
+        576,
+        1024
+      ]
+    }
+  ]
+}
