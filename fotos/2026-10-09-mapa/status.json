@@ -1,0 +1,458 @@
+{
+  "date": "2026-10-09-mapa",
+  "finished_at": "2026-10-09T19:14:16Z",
+  "items": [
+    {
+      "file": "ju_cnn.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [],
+      "source": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/10/juliana-paes-e1791413752559.jpg?w=1200&h=630&crop=1",
+      "size": [
+        1200,
+        630
+      ]
+    },
+    {
+      "file": "ju_otempo.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [],
+      "source": "https://www.otempo.com.br/content/dam/otempo/editorias/entretenimento/2026/10/8/entretenimento-juliana_paes-1791474631.jpg",
+      "size": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "file": "ju_novela.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [
+        {
+          "file": "ju_novela_alt1.jpg",
+          "source": "https://www.folhavitoria.com.br/wp-content/uploads/2025/02/TDUNiuHA-Copia-de-CORTE-DE-FOTOS-86-png.webp",
+          "size": [
+            1320,
+            768
+          ]
+        }
+      ],
+      "source": "https://www.folhavitoria.com.br/wp-content/uploads/2024/10/3mBOBUHz-562855222-juliana-jpg.webp",
+      "size": [
+        610,
+        617
+      ]
+    },
+    {
+      "file": "ju_transicao.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [
+        {
+          "file": "ju_transicao_alt1.jpg",
+          "source": "https://www.folhavitoria.com.br/wp-content/uploads/2025/06/Procedimentos-oftalmologicos.png",
+          "size": [
+            1320,
+            768
+          ]
+        },
+        {
+          "file": "ju_transicao_alt2.jpg",
+          "source": "https://www.folhavitoria.com.br/wp-content/uploads/2025/06/ceratocone-doenca-ocular.jpg",
+          "size": [
+            1320,
+            768
+          ]
+        },
+        {
+          "file": "ju_transicao_alt3.jpg",
+          "source": "https://www.folhavitoria.com.br/wp-content/uploads/2025/02/wSEQIoMO-Design-sem-nome-87.webp",
+          "size": [
+            1320,
+            768
+          ]
+        },
+        {
+          "file": "ju_transicao_alt4.jpg",
+          "source": "https://www.folhavitoria.com.br/wp-content/uploads/2025/01/sRDPnYPT-48e067f0-c6f8-11ef-b848-f1b364b7a42d.webp",
+          "size": [
+            1280,
+            750
+          ]
+        }
+      ],
+      "source": "https://www.folhavitoria.com.br/wp-content/uploads/2024/10/rPhnTBG8-630536b0-9fab-0138-414c-0a58a9feac2a-jpg.webp",
+      "size": [
+        675,
+        645
+      ]
+    },
+    {
+      "file": "camadas1.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [
+        {
+          "file": "camadas1_alt1.jpg",
+          "source": "https://catracalivre.com.br/i/Ns8yWh1qVOfBgR41Tt88xkdAHHmKXK3s1VtLKsGFSnE/rs:fit:1080:0:1/g:sm/q:80/bG9jYWw6Ly8vMjAyNi8wOS9vLWZpbS1kb3MtY29ydGVzLXNlbS1tb3ZpbWVudG8tZXN0ZXMtNS1lc3RpbG9zLWVzdGFvLWdhbmhhbmRvLWVzcGFjby1lbnRyZS1tdWxoZXJlcy1xdWUtcXVlcmVtLWxldmV6YS1jYXRyYWNhLTItZTE3ODkyMzgzNTA5NTcucG5n",
+          "size": [
+            1080,
+            608
+          ]
+        },
+        {
+          "file": "camadas1_alt2.jpg",
+          "source": "https://catracalivre.com.br/i/GqmXiO6eZfBSN19cp8oYnukmKPLmvC52pMevnKDSCRA/rs:fit:1080:0:1/g:sm/q:80/bG9jYWw6Ly8vMjAyNi8wOS9vLWZpbS1kb3MtY29ydGVzLXNlbS1tb3ZpbWVudG8tZXN0ZXMtNS1lc3RpbG9zLWVzdGFvLWdhbmhhbmRvLWVzcGFjby1lbnRyZS1tdWxoZXJlcy1xdWUtcXVlcmVtLWxldmV6YS1jYXRyYWNhLTEtZTE3ODkyMzgzMjE2NTUucG5n",
+          "size": [
+            1080,
+            608
+          ]
+        }
+      ],
+      "source": "https://catracalivre.com.br/i/5ATv5K3IMC4LVKWd_6gEMt5iE02syK2XIgMxkbbI-UA/rs:fill:1200:630:1/g:sm/q:80/bG9jYWw6Ly8vMjAyNi8wOS9vLWZpbS1kb3MtY29ydGVzLXNlbS1tb3ZpbWVudG8tZXN0ZXMtNS1lc3RpbG9zLWVzdGFvLWdhbmhhbmRvLWVzcGFjby1lbnRyZS1tdWxoZXJlcy1xdWUtcXVlcmVtLWxldmV6YS1jYXRyYWNhLTItZTE3ODkyMzgzNTA5NTcucG5n",
+      "size": [
+        1200,
+        630
+      ]
+    },
+    {
+      "file": "camadas2.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [
+        {
+          "file": "camadas2_alt1.jpg",
+          "source": "https://uploads.folhavitoria.com.br/2026/01/PENTEADOS-CABELO-CACHEADO-VERAO-7.png",
+          "size": [
+            1320,
+            768
+          ]
+        },
+        {
+          "file": "camadas2_alt2.jpg",
+          "source": "https://uploads.folhavitoria.com.br/2026/01/PENTEADOS-CABELO-CACHEADO-VERAO-8.png",
+          "size": [
+            1320,
+            768
+          ]
+        },
+        {
+          "file": "camadas2_alt3.jpg",
+          "source": "https://uploads.folhavitoria.com.br/2026/01/PENTEADOS-CABELO-CACHEADO-VERAO-9.png",
+          "size": [
+            1320,
+            768
+          ]
+        },
+        {
+          "file": "camadas2_alt4.jpg",
+          "source": "https://uploads.folhavitoria.com.br/2026/01/os-cortes-de-cabelo-que-vao-dominar-o-verao-de-2026.png",
+          "size": [
+            1320,
+            768
+          ]
+        },
+        {
+          "file": "camadas2_alt5.jpg",
+          "source": "https://uploads.folhavitoria.com.br/2026/01/os-cortes-de-cabelo-que-vao-dominar-o-verao-de-2026-1.png",
+          "size": [
+            1320,
+            768
+          ]
+        }
+      ],
+      "source": "https://uploads.folhavitoria.com.br/2026/01/os-cortes-de-cabelo-que-vao-dominar-o-verao-de-2026-2.png",
+      "size": [
+        1320,
+        768
+      ]
+    },
+    {
+      "file": "camadas3.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [
+        {
+          "file": "camadas3_alt1.jpg",
+          "source": "https://uploads.folhavitoria.com.br/imagens/2026/04/Para-todos-os-tipos-4-novos-cortes-de-cabelo-que-dao-volume-aos-fios-1000x582.png",
+          "size": [
+            1000,
+            582
+          ]
+        },
+        {
+          "file": "camadas3_alt2.jpg",
+          "source": "https://www.folhavitoria.com.br/wp-content/uploads/2025/02/Z1zSX0hZ-Copia-de-CORTE-DE-FOTOS-38-1024x596.webp",
+          "size": [
+            1024,
+            596
+          ]
+        },
+        {
+          "file": "camadas3_alt3.jpg",
+          "source": "https://www.folhavitoria.com.br/wp-content/uploads/2025/03/IrPDMWza-Pousada-Peterle-39-1024x596.webp",
+          "size": [
+            1024,
+            596
+          ]
+        },
+        {
+          "file": "camadas3_alt4.jpg",
+          "source": "https://www.folhavitoria.com.br/wp-content/uploads/2025/03/IrPDMWza-Pousada-Peterle-39-png.webp",
+          "size": [
+            1320,
+            768
+          ]
+        },
+        {
+          "file": "camadas3_alt5.jpg",
+          "source": "https://www.folhavitoria.com.br/wp-content/uploads/2025/03/ifU2rIZ1-CORTE-DE-FOTOS-2025-03-28T143146.045-1024x596.webp",
+          "size": [
+            1024,
+            596
+          ]
+        },
+        {
+          "file": "camadas3_alt6.jpg",
+          "source": "https://www.folhavitoria.com.br/wp-content/uploads/2025/09/tapete-chuveiro-23.png",
+          "size": [
+            1320,
+            768
+          ]
+        }
+      ],
+      "source": "https://uploads.folhavitoria.com.br/imagens/2026/04/Para-todos-os-tipos-4-novos-cortes-de-cabelo-que-dao-volume-aos-fios.png",
+      "size": [
+        1320,
+        768
+      ]
+    },
+    {
+      "file": "mechas1.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [],
+      "source": "https://catracalivre.com.br/i/NYSyHny2_6GPmXorvd1H3USBU9S282qrVSGejFAPRts/rs:fill:1200:630:1/g:sm/q:80/bG9jYWw6Ly8vMjAyNi8wOS9tdWxoZXJmYXplbmRvY2FiZWxvY29tbWVjaGFzc2FsYW8ud2VicA",
+      "size": [
+        1200,
+        630
+      ]
+    },
+    {
+      "file": "mechas2.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [
+        {
+          "file": "mechas2_alt1.jpg",
+          "source": "https://i.metroimg.com/Iq18sQUmUaCJw21YXWAh_lja9KPBG26upHEDX_Cn3CA/rs:fill:1200:675:1/g:no/q:85/f:webp/plain/https://images.metroimg.com/2019/01/25165828/iStock-501125674.jpg",
+          "size": [
+            1200,
+            675
+          ]
+        },
+        {
+          "file": "mechas2_alt2.jpg",
+          "source": "https://i.metroimg.com/0kQi--8BCuU1Hp9DrUiB87uzVOAzOZkLYkeGrWVfGeI/rs:fill:1200:900:1/g:no/q:85/f:webp/plain/https://images.metroimg.com/2019/01/25165828/iStock-501125674.jpg",
+          "size": [
+            1200,
+            900
+          ]
+        },
+        {
+          "file": "mechas2_alt3.jpg",
+          "source": "https://i.metroimg.com/yh2bYlBL7LNB7Paa3c86VVHUuDupqDWptqKnR_6enOc/rs:fill:1200:1200:1/g:no/q:85/f:webp/plain/https://images.metroimg.com/2019/01/25165828/iStock-501125674.jpg",
+          "size": [
+            1200,
+            1200
+          ]
+        }
+      ],
+      "source": "https://i.metroimg.com/eevc_pMZrTrgf4xxxHHDXTpCuPO4El2hPCFim1T_5nQ/rs:fill:1200:800:1/g:no/q:85/f:webp/plain/https://images.metroimg.com/2019/01/25165828/iStock-501125674.jpg",
+      "size": [
+        1200,
+        800
+      ]
+    },
+    {
+      "file": "mechas3.jpg",
+      "type": "article",
+      "ok": false,
+      "alts": [],
+      "error": "403 Client Error: Forbidden for url: https://www.belezanaweb.com.br/loucas-por-beleza/como-usar-matizador-em-casa/"
+    },
+    {
+      "file": "mechas4.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [
+        {
+          "file": "mechas4_alt1.jpg",
+          "source": "https://catracalivre.com.br/i/bS8Y1X02o8sXRnMM8ANkn3dQl70Kq5Clp-Ic00FxI3I/rs:fit:1080:0:1/g:sm/q:80/bG9jYWw6Ly8vMjAyNi8wMS9mcmVlcGlrLW11bGhlci1hZHVsdGEtY29tLWNhYmVsby1sb2lyby1iZW0tY3VpZGFkby1zZW50YWRhLTU2ODQxLmpwZWc",
+          "size": [
+            1080,
+            617
+          ]
+        },
+        {
+          "file": "mechas4_alt2.jpg",
+          "source": "https://catracalivre.com.br/i/-_mkZNLWEb_aX99wUiAI1SegSEi2tuZGuqlXfng-Lck/rs:fit:1080:0:1/g:sm/q:80/bG9jYWw6Ly8vMjAyNi8wMS9mcmVlcGlrLW11bGhlci1hZHVsdGEtZW0tY2FzYS1yZWFsaXphbmRvLWN1aWRhZG8tY2FwaWxhci1uLTU2ODYyLXNjYWxlZC1lMTc2ODAzMTc3MDY1NS5qcGVn",
+          "size": [
+            1080,
+            618
+          ]
+        }
+      ],
+      "source": "https://catracalivre.com.br/i/RbcmoCvNquO-bZZFSCLM29Al7KoaOAPDN-l5TTcIYOA/rs:fill:1200:630:1/g:sm/q:80/bG9jYWw6Ly8vMjAyNi8wMS9mcmVlcGlrLW11bGhlci1hZHVsdGEtY29tLWNhYmVsby1sb2lyby1iZW0tY3VpZGFkby1zZW50YWRhLTU2ODQyLmpwZWc",
+      "size": [
+        1200,
+        630
+      ]
+    },
+    {
+      "file": "tais_metro.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [
+        {
+          "file": "tais_metro_alt1.jpg",
+          "source": "https://i.metroimg.com/KCrG-pnJyfJWRJpShuNzwY03FWVoPHq7aogtCYP_VXE/rs:fill:1200:675:1/g:no/q:85/f:webp/plain/https://images.metroimg.com/2026/09/tais-araujo-recebe-elogios-ao-exibir-cabelo-curto-em-corte-pixie-rainha-2.png",
+          "size": [
+            1200,
+            675
+          ]
+        },
+        {
+          "file": "tais_metro_alt2.jpg",
+          "source": "https://i.metroimg.com/kYok70L3SoYCpqfYFEg3rv9tZBdvFiMwx2q95zTPk6M/rs:fill:1200:900:1/g:no/q:85/f:webp/plain/https://images.metroimg.com/2026/09/tais-araujo-recebe-elogios-ao-exibir-cabelo-curto-em-corte-pixie-rainha-2.png",
+          "size": [
+            1200,
+            900
+          ]
+        },
+        {
+          "file": "tais_metro_alt3.jpg",
+          "source": "https://i.metroimg.com/fOgV0d74VMa71fFBG30D4-dMREkeqhIpQdhlKrcFKlk/rs:fill:1200:1200:1/g:no/q:85/f:webp/plain/https://images.metroimg.com/2026/09/tais-araujo-recebe-elogios-ao-exibir-cabelo-curto-em-corte-pixie-rainha-2.png",
+          "size": [
+            1200,
+            1200
+          ]
+        },
+        {
+          "file": "tais_metro_alt4.jpg",
+          "source": "https://images.metroimg.com/2026/09/tais-araujo-recebe-elogios-ao-exibir-cabelo-curto-em-corte-pixie-rainha-1.png",
+          "size": [
+            800,
+            1200
+          ]
+        }
+      ],
+      "source": "https://i.metroimg.com/Dc_S4i9GpOu0e2umuaDFi3usaXbb0gcRk3ffN-t8tWY/rs:fill:1200:800:1/g:no/q:85/f:webp/plain/https://images.metroimg.com/2026/09/tais-araujo-recebe-elogios-ao-exibir-cabelo-curto-em-corte-pixie-rainha-2.png",
+      "size": [
+        1200,
+        800
+      ]
+    },
+    {
+      "file": "tais_dgabc.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [
+        {
+          "file": "tais_dgabc_alt1.jpg",
+          "source": "https://www.dgabc.com.br/Content/themes/dgabc2023/img/setaDireitaTransparente.webp",
+          "size": [
+            492,
+            492
+          ]
+        },
+        {
+          "file": "tais_dgabc_alt2.jpg",
+          "source": "https://www.dgabc.com.br/Content/themes/dgabc2023/img/SeguirDiarioWhatsApp.webp",
+          "size": [
+            2400,
+            307
+          ]
+        }
+      ],
+      "source": "https://www.dgabc.com.br/img/2026929111842.jpg",
+      "size": [
+        1200,
+        720
+      ]
+    },
+    {
+      "file": "tais_propmark.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [
+        {
+          "file": "tais_propmark_alt1.jpg",
+          "source": "https://propmark.com.br/wp-content/uploads/2026/10/Brenda-Maia-CEO-da-Eagle-1024x674.jpeg",
+          "size": [
+            1024,
+            674
+          ]
+        },
+        {
+          "file": "tais_propmark_alt2.jpg",
+          "source": "https://propmark.com.br/wp-content/uploads/2026/10/masoheck_horizontal-2-1024x701.png",
+          "size": [
+            1024,
+            701
+          ]
+        },
+        {
+          "file": "tais_propmark_alt3.jpg",
+          "source": "https://propmark.com.br/wp-content/uploads/2026/10/IMG_6322.JPG-1024x617.jpeg",
+          "size": [
+            1024,
+            617
+          ]
+        },
+        {
+          "file": "tais_propmark_alt4.jpg",
+          "source": "https://propmark.com.br/wp-content/uploads/2026/10/image-53-1024x612.png",
+          "size": [
+            1024,
+            612
+          ]
+        }
+      ],
+      "source": "https://propmark.com.br/wp-content/uploads/2026/09/unnamed-81.webp",
+      "size": [
+        800,
+        534
+      ]
+    },
+    {
+      "file": "tais_abc.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [
+        {
+          "file": "tais_abc_alt1.jpg",
+          "source": "https://cdn-imgs.s3.sa-east-1.amazonaws.com/wp-content/uploads/2026/09/unnamed-40-800x570.webp",
+          "size": [
+            800,
+            570
+          ]
+        },
+        {
+          "file": "tais_abc_alt2.jpg",
+          "source": "https://cdn-imgs.s3.sa-east-1.amazonaws.com/wp-content/uploads/2026/09/unnamed-41-e1790450247785-800x570.webp",
+          "size": [
+            800,
+            570
+          ]
+        }
+      ],
+      "source": "https://cdn-imgs.s3.sa-east-1.amazonaws.com/wp-content/uploads/2026/09/unnamed-39.webp",
+      "size": [
+        800,
+        534
+      ]
+    }
+  ]
+}
