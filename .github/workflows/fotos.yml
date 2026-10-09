@@ -1,0 +1,61 @@
+name: Baixar fotos do dia
+
+on:
+  push:
+    paths:
+      - "pedidos/*.json"
+  workflow_dispatch:
+    inputs:
+      pedido:
+        description: "Arquivo do pedido (ex: pedidos/2026-10-09.json)"
+        required: true
+
+permissions:
+  contents: write
+
+concurrency:
+  group: fotos
+  cancel-in-progress: false
+
+jobs:
+  baixar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Instalar dependencias
+        run: pip install requests beautifulsoup4 pillow
+
+      - name: Descobrir pedidos novos
+        id: pedidos
+        run: |
+          if [ -n "${{ github.event.inputs.pedido }}" ]; then
+            echo "lista=${{ github.event.inputs.pedido }}" >> "$GITHUB_OUTPUT"
+          else
+            LISTA=$(git diff --name-only HEAD~1 HEAD -- 'pedidos/*.json' | tr '\n' ' ')
+            echo "lista=$LISTA" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Baixar e gerar imagens
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GEMINI_IMAGE_MODEL: ${{ vars.GEMINI_IMAGE_MODEL }}
+        run: |
+          for p in ${{ steps.pedidos.outputs.lista }}; do
+            echo "== $p"
+            python baixar.py "$p"
+          done
+
+      - name: Salvar no repositorio
+        run: |
+          git config user.name "loucas-bot"
+          git config user.email "loucas-bot@users.noreply.github.com"
+          git add fotos
+          git commit -m "fotos: ${{ steps.pedidos.outputs.lista }}" || echo "nada novo"
+          for i in 1 2 3; do git pull --rebase && git push && break; sleep 5; done
