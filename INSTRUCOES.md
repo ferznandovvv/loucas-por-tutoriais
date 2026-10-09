@@ -11,10 +11,15 @@ Regra de escrita absoluta: nunca use travessão (—) em nenhum texto, nem em le
 
 ## Entregáveis de cada rodada
 
-1. 5 carrosséis (JPG 1080x1350), um por pauta, de 10 a 12 slides cada.
-2. 5 reels (MP4 1080x1920, sem áudio, a música em alta é adicionada no app na hora de postar), feitos no Remotion.
-3. 1 sequência de stories do dia (5 a 7 telas), feita no Remotion: cada tela sai em PNG (para postar com adesivo) e em MP4 animado de 5 segundos.
-4. Um guia de postagem (guia.md) com legendas, hashtags, áudio sugerido, horários, fontes, fotos usadas e instruções dos adesivos dos stories.
+**Regra de formato (decisão do Fernando em 09/10/2026): cada pauta vira UM formato principal, nunca carrossel e reel da mesma coisa.**
+- Pauta com muito passo a passo, que vale salvar e consultar → **carrossel + stories**.
+- Pauta visual, de impacto rápido (transformação, antes e depois, look, corte) → **reel + stories**.
+- Mix diário sugerido: 3 pautas em carrossel + stories e 2 pautas em reel + stories.
+
+1. Carrosséis (JPG 1080x1350) de 10 a 12 slides, um por pauta de carrossel.
+2. Reels (MP4 1080x1920, sem áudio, a música em alta é adicionada no app na hora de postar), feitos no Remotion, um por pauta de reel.
+3. Stories (Remotion, PNG para postar com adesivo + MP4 animado de 5 segundos): de 3 a 4 telas por pauta, sempre terminando com a tela "Post novo" ou "Reel novo", e uma caixinha no fim do dia.
+4. O mapa do dia (guia.md): ordem e horário de cada publicação, legendas, hashtags, áudio sugerido, fontes, fotos usadas e, para cada story, um bloco pronto para copiar com o tipo de adesivo, as opções, a resposta certa do quiz e onde posicionar o adesivo.
 
 ## Passo 0: preparar o ambiente
 
@@ -66,8 +71,8 @@ Antes de escolher, leia o arquivo historico.txt deste repositório e não repita
 Referência visual: @marcioeugeniooficial. Renderizador: `render/carrossel.py`.
 
 **Capa (slide 1):**
-- Foto em tela cheia, forte e nítida, com degradê escuro embaixo. De preferência o rosto da famosa do gancho. NUNCA use o rosto de outra pessoa como foto principal numa capa que cita uma famosa (o leitor vai achar que é ela); nesse caso use uma foto sem rosto (o cabelo de costas, a unha, o prato, o look) e coloque a famosa num círculo.
-- De 1 a 2 círculos com foto extra (a famosa, o detalhe do tutorial, o lugar), sempre no alto, longe da manchete.
+- A foto grande é SEMPRE a famosa do gancho, com o rosto em destaque e em boa resolução (de preferência 1000 px ou mais na altura da área usada). É ela que para o dedo no feed. Se não houver foto boa da famosa, troque a pauta.
+- De 1 a 2 círculos com foto extra, no alto, longe da manchete: outra foto da mesma famosa (o antes, outro ângulo) ou um detalhe sem rosto (o produto, a unha, o cabelo de costas). Nunca o rosto de outra pessoa, porque o leitor vai achar que é a famosa.
 - Manchete longa, em formato de história, de 12 a 20 palavras, em caixa alta condensada. De 2 a 3 trechos marcados com **asteriscos duplos** saem com tarja rosa. Exemplo: "Mariana Ximenes foi à Festa MASP de **coque polido.** Veja como fazer o seu **em casa**".
 - Linha de apoio curta embaixo, com um trecho em **negrito**. Exemplo: "Só precisa de gel, grampo e **uma escova de dente.**"
 - Rodapé automático com avatar, @ e "ENTENDA →".
@@ -85,14 +90,15 @@ Referência visual: @marcioeugeniooficial. Renderizador: `render/carrossel.py`.
 - Texto em caixa alta condensada, entrando palavra por palavra; trechos em **asteriscos duplos** ganham tarja rosa animada. No máximo 8 palavras por cena e 1 destaque por cena.
 - Cena 1 é o gancho da notícia, com foto da famosa ou do assunto.
 - Cenas do meio: um passo do tutorial por cena, cada uma com uma foto diferente. Alterne com 1 ou 2 cenas sem foto: `"style": "dark"` (fundo escuro) ou sem style (fundo claro).
-- Penúltima cena chama pro carrossel ("Passo a passo completo no **carrossel**").
+- Como a pauta de reel não tem carrossel, o próprio reel entrega o tutorial resumido; a penúltima cena fecha a ideia principal.
 - Última cena: `"cta": true`, com avatar grande, frase curta e `"sub"` com a palavra para comentar.
 - Foto em baixa resolução ou colagem: use `"mode": "card"` (a foto aparece num cartão sobre ela mesma desfocada) com `zoom` e `focusY` para mostrar o rosto.
 
 ## Stories do dia (Remotion)
 
 - De 5 a 7 telas. Objetivo é interação, não alcance.
-- Estrutura: abertura com enquete ligada à pauta mais forte; 2 ou 3 telas de enquete, quiz ou controle deslizante sobre as pautas do dia; tela "Post novo" com a capa do carrossel (`"card": "post_01/slide_01.jpg"`); tela final de caixinha pedindo sugestão de tutorial.
+- Estrutura por pauta: enquete ou "Trend do momento" com a foto da famosa; 1 ou 2 telas de quiz ou controle deslizante; tela "Post novo" (`"card": "post_01/slide_01.jpg"`) ou "Reel novo" (`"card": "reel_02_capa.jpg"`, um quadro do reel extraído com ffmpeg). No fim do dia, uma caixinha pedindo sugestão de tutorial.
+- Toda resposta certa de quiz precisa estar na fonte.
 - Cada tela: "kicker" (Enquete, Quiz, Post novo, Caixinha, Trend do momento), "text" de até 12 palavras com 1 destaque, "hint" de até 5 palavras.
 - Com foto, o texto vai embaixo e o adesivo vai no meio da tela (hint "Vota aqui em cima"). Sem foto, o texto fica no alto e a metade de baixo fica livre (hint "Responde aqui embaixo"). Use foto em pelo menos metade das telas.
 

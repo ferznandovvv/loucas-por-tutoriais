@@ -16,11 +16,21 @@ export const Fonts = () => (
 );
 
 // "texto com **destaque**" -> [{text, hl}]
-export const segments = (text) =>
-  text
+export const segments = (text) => {
+  const segs = text
     .split(/(\*\*[^*]+\*\*)/)
     .filter(Boolean)
     .map((p) => ({ text: p.replace(/\*\*/g, ""), hl: p.startsWith("**") }));
+  // pontuacao logo depois de um destaque ("**coragem**?") gruda na palavra anterior para nao quebrar sozinha na linha
+  for (let i = 1; i < segs.length; i++) {
+    const m = segs[i].text.match(/^[.,!?:;]+/);
+    if (m) {
+      segs[i - 1].text += m[0];
+      segs[i].text = segs[i].text.slice(m[0].length);
+    }
+  }
+  return segs.filter((s) => s.text.trim().length);
+};
 
 /** Manchete condensada em caixa alta, palavras entram uma a uma, destaque com tarja rosa que se desenha. */
 export const Headline = ({ text, size = 104, delay = 0, align = "center", color = "#fff", maxWidth = 940 }) => {

@@ -1,0 +1,87 @@
+{
+ "posts": [
+  {
+   "id": 1,
+   "cover": {
+    "photo": "ju_otempo.jpg",
+    "focus": 0.25,
+    "focus_y": 0.3,
+    "headline": "Juliana Paes retocou o **loiro** e ganhou **camadas com movimento.** Veja como pedir o seu no salão",
+    "sub": "E como manter as mechas **sem detonar o fio.**",
+    "circles": [
+     {
+      "photo": "ju_otempo.jpg",
+      "x": 850,
+      "y": 290,
+      "r": 165,
+      "fx": 0.8,
+      "fy": 0.35,
+      "zoom": 1.5
+     }
+    ]
+   },
+   "slides": [
+    {
+     "text": "**Nesta semana, o hairstylist Tiago Parente mostrou o novo cabelo de Juliana Paes.** Ele retocou as mechas loiras da atriz e fez um corte com camadas, movimento e leveza. \"Um novo cabelo, a mesma potência\", escreveu.\n\nJuliana respondeu: **\"Meu amor, você me deixa linda sempre.\"** E dá pra levar essa ideia pro seu salão...",
+     "photo": "ju_otempo.jpg",
+     "focus": 0.75,
+     "focus_y": 0.3
+    },
+    {
+     "text": "**Camada é o que tira o peso sem tirar o comprimento.** Segundo a Catraca Livre, a ideia é remover volume em pontos estratégicos e manter o corpo do cabelo.\n\nPor isso ela virou a queridinha de quem quer leveza **sem cortar muito.** Mas existe mais de um tipo de camada...",
+     "photo": "camadas1.jpg",
+     "focus": 0.5,
+     "focus_y": 0.35
+    },
+    {
+     "text": "**Camadas longas** dão movimento sem encurtar o fio. **Contorno no rosto** deixa as mechas da frente leves e mantém o comprimento. E as **ghost layers** são camadas escondidas por baixo, que tiram peso sem aparecer.\n\nQual escolher depende de uma coisa só...",
+     "photo": "camadas2.jpg",
+     "focus": 0.5,
+     "focus_y": 0.3
+    },
+    {
+     "text": "**...a textura do seu fio.** Liso, ondulado, cacheado, crespo, fino ou muito volumoso: cada cabelo responde de um jeito às camadas.\n\nPor isso a dica é **levar uma foto de referência** e pedir pro profissional adaptar o corte à sua textura e à rotina que você vai conseguir manter.",
+     "photo": "camadas2_alt1.jpg",
+     "focus": 0.25,
+     "focus_y": 0.3
+    },
+    {
+     "text": "**Agora, o loiro.** No Metrópoles, a jornalista Carolina Oliveira, que faz mechas há anos, contou o roteiro dela: antes de clarear, **nutrição e reconstrução,** pra o fio aguentar melhor a química. E cortar antes, pra não perder as pontas loiras depois.\n\nE tem um truque pra **espaçar os retoques...**",
+     "photo": "mechas2_alt3.jpg",
+     "focus": 0.6,
+     "focus_y": 0.35
+    },
+    {
+     "text": "**Alternar as áreas.** Uma sessão clareia a cabeça toda; a seguinte, só o contorno, que é o que aparece. E um tonalizante na cor natural disfarça a raiz.\n\nAssim ela conta que retoca **a cada quatro meses.** Mas o cuidado que mais pesa é o de casa...",
+     "photo": "mechas4.jpg",
+     "focus": 0.3,
+     "focus_y": 0.35
+    },
+    {
+     "text": "O hair stylist José Marques, ouvido pela Catraca Livre, ensina: shampoo **só no couro cabeludo,** nutrição reforçada **uma vez por semana** e **protetor térmico** antes do secador e da chapinha.\n\nNo salão, cauterização e reconstrução ajudam o loiro a durar mais.",
+     "photo": "mechas1.jpg",
+     "focus": 0.5,
+     "focus_y": 0.4
+    },
+    {
+     "text": "**E o matizador?** Segundo o hair stylist Bruno DViana, no blog da Beleza na Web, ele só neutraliza o amarelado. **Não clareia.**\n\nUsado sem necessidade ou demais, o loiro fica acinzentado. Os de pigmento forte, cerca de **uma vez por mês.** E nada de pular a hidratação.",
+     "photo": "mechas4_alt2.jpg",
+     "focus": 0.5,
+     "focus_y": 0.4
+    },
+    {
+     "text": "**Um alerta antes de outra química:** depois de mechas, alguns alisamentos e colorações podem quebrar o fio.\n\nJosé Marques recomenda fazer **teste de mecha** e conversar com quem fez o seu loiro antes de qualquer procedimento novo.",
+     "photo": "camadas3_alt2.jpg",
+     "focus": 0.25,
+     "focus_y": 0.3
+    },
+    {
+     "text": "Cabelo com movimento e loiro bonito não é sorte: **é corte certo e cuidado em casa.**\n\nSalva pra mostrar no salão e **comenta CAMADAS** se você vai pedir o seu.",
+     "photo": "ju_cnn.jpg",
+     "focus": 0.35,
+     "focus_y": 0.3
+    }
+   ]
+  }
+ ]
+}

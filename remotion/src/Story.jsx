@@ -66,10 +66,11 @@ export const Story = ({ kicker, text, hint, photo, style, card, guide = false })
         <div
           style={{
             position: "absolute",
-            left: 190,
-            top: 760,
-            width: 700,
-            height: 875,
+            // capa de carrossel = 4:5; quadro de reel = 9:16
+            left: card.includes("reel") ? 250 : 190,
+            top: card.includes("reel") ? 600 : 760,
+            width: card.includes("reel") ? 580 : 700,
+            height: card.includes("reel") ? 1031 : 875,
             borderRadius: 30,
             overflow: "hidden",
             boxShadow: "0 40px 100px rgba(0,0,0,.6)",
@@ -77,7 +78,7 @@ export const Story = ({ kicker, text, hint, photo, style, card, guide = false })
             opacity: p,
           }}
         >
-          <Img src={staticFile(card)} style={{ width: "100%", height: "100%", objectFit: "cover" }} />
+          <Img src={staticFile(card)} style={{ width: "100%", height: "100%", objectFit: "cover", objectPosition: "50% 12%" }} />
         </div>
         <div style={{ position: "absolute", bottom: 150, left: 0, right: 0, display: "flex", justifyContent: "center" }}>
           <Hint text={hint} color="#fff" />

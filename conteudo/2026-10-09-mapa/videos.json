@@ -1,0 +1,138 @@
+{
+ "reels": [
+  {
+   "post_id": 2,
+   "scenes": [
+    {
+     "text": "Taís Araujo cortou o cabelo **curtinho** em Paris",
+     "dur": 2.8,
+     "photo": {
+      "src": "tais_metro_alt4.jpg",
+      "focus": 0.45,
+      "focusY": 0.2
+     }
+    },
+    {
+     "text": "Joãozinho com cara de pixie e **cacho natural**",
+     "dur": 2.6,
+     "photo": {
+      "src": "tais_metro_alt3.jpg",
+      "focus": 0.78,
+      "focusY": 0.3
+     }
+    },
+    {
+     "text": "Antes de cortar, saiba **3 coisas**",
+     "dur": 2.0,
+     "style": "dark"
+    },
+    {
+     "text": "Ele valoriza **olhos, maçãs e pescoço**",
+     "dur": 2.6,
+     "photo": {
+      "src": "tais_dgabc.jpg",
+      "mode": "card",
+      "focus": 0.5,
+      "focusY": 0.3,
+      "cardTop": 330,
+      "cardH": 760
+     }
+    },
+    {
+     "text": "Curto não é **pouca manutenção**",
+     "dur": 2.4,
+     "photo": {
+      "src": "camadas3_alt6.jpg",
+      "mode": "card",
+      "focus": 0.5,
+      "focusY": 0.3,
+      "cardTop": 330,
+      "cardH": 760
+     }
+    },
+    {
+     "text": "Cacho curto pede **hidratação** e corte frequente",
+     "dur": 2.6,
+     "photo": {
+      "src": "camadas2_alt1.jpg",
+      "mode": "card",
+      "focus": 0.25,
+      "focusY": 0.3,
+      "cardTop": 330,
+      "cardH": 760
+     }
+    },
+    {
+     "text": "E cortar sozinho não **salva** fio danificado",
+     "dur": 2.4
+    },
+    {
+     "cta": true,
+     "text": "Você teria **coragem**?",
+     "sub": "Comenta CURTO ou LONGO",
+     "dur": 2.6
+    }
+   ]
+  }
+ ],
+ "stories": [
+  {
+   "kicker": "Enquete",
+   "text": "Você faria **camadas** igual Juliana Paes?",
+   "hint": "Vota aqui em cima",
+   "photo": {
+    "src": "ju_otempo.jpg",
+    "focus": 0.25,
+    "focusY": 0.3
+   }
+  },
+  {
+   "kicker": "Quiz",
+   "text": "O matizador **clareia** o cabelo?",
+   "hint": "Responde aqui embaixo"
+  },
+  {
+   "kicker": "Enquete",
+   "text": "Quanto você ama **cabelo loiro**?",
+   "hint": "Desliza aqui em cima",
+   "photo": {
+    "src": "mechas2_alt3.jpg",
+    "focus": 0.62,
+    "focusY": 0.4
+   }
+  },
+  {
+   "kicker": "Post novo",
+   "text": "Como pedir **camadas** no salão",
+   "hint": "Toca no post pra ver",
+   "card": "post_01/slide_01.jpg"
+  },
+  {
+   "kicker": "Trend do momento",
+   "text": "Você cortaria **curtinho** igual Taís Araujo?",
+   "hint": "Vota aqui em cima",
+   "photo": {
+    "src": "tais_dgabc.jpg",
+    "focus": 0.5,
+    "focusY": 0.3
+   }
+  },
+  {
+   "kicker": "Quiz",
+   "text": "Cabelo curto dá **menos trabalho**?",
+   "hint": "Responde aqui embaixo",
+   "style": "dark"
+  },
+  {
+   "kicker": "Reel novo",
+   "text": "O que saber antes do **pixie**",
+   "hint": "Toca no reel pra ver",
+   "card": "reel_02_capa.jpg"
+  },
+  {
+   "kicker": "Caixinha",
+   "text": "Qual **tutorial** você quer ver amanhã?",
+   "hint": "Manda aqui embaixo"
+  }
+ ]
+}
