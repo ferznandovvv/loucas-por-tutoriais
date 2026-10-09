@@ -1,0 +1,20 @@
+{
+  "date": "2026-10-09-mapa",
+  "items": [
+    {"file": "ju_cnn.jpg", "type": "article", "max": 12, "url": "https://www.cnnbrasil.com.br/pop/celebridades/juliana-paes-faz-transformacao-no-cabelo-e-mostra-antes-e-depois-veja/"},
+    {"file": "ju_otempo.jpg", "type": "article", "max": 12, "url": "https://www.otempo.com.br/entretenimento/2026/10/8/juliana-paes-muda-o-cabelo-e-mostra-antes-e-depois"},
+    {"file": "ju_novela.jpg", "type": "article", "url": "https://www.folhavitoria.com.br/cultura/juliana-paes-exibe-novo-corte-de-cabelo-para-novela/"},
+    {"file": "ju_transicao.jpg", "type": "article", "url": "https://www.folhavitoria.com.br/cultura/agora-posso-ser-eu-afirma-juliana-paes-sobre-transicao-capilar/"},
+    {"file": "camadas1.jpg", "type": "article", "url": "https://catracalivre.com.br/noticias/o-fim-dos-cortes-sem-movimento-estes-5-estilos-estao-ganhando-espaco-entre-mulheres-que-querem-leveza/"},
+    {"file": "camadas2.jpg", "type": "article", "url": "https://www.folhavitoria.com.br/viralizou/leveza-movimento-e-personalidade-os-cortes-de-cabelo-que-vao-dominar-o-verao-de-2026-viral/"},
+    {"file": "camadas3.jpg", "type": "article", "url": "https://www.folhavitoria.com.br/beleza/para-todos-os-tipos-4-novos-cortes-de-cabelo-que-dao-volume-aos-fios-viral/"},
+    {"file": "mechas1.jpg", "type": "article", "url": "https://catracalivre.com.br/saude-bem-estar/fez-luzes-ou-mechas-veja-6-cuidados-para-evitar-danos-aos-cabelos/"},
+    {"file": "mechas2.jpg", "type": "article", "url": "https://www.metropoles.com/que-beleza/como-retocar-mechas-loiras-sem-detonar-o-cabelo"},
+    {"file": "mechas3.jpg", "type": "article", "url": "https://www.belezanaweb.com.br/loucas-por-beleza/como-usar-matizador-em-casa/"},
+    {"file": "mechas4.jpg", "type": "article", "url": "https://catracalivre.com.br/saude-bem-estar/quanto-custa-manter-o-cabelo-loiro-em-2026/"},
+    {"file": "tais_metro.jpg", "type": "article", "max": 12, "url": "https://www.metropoles.com/vida-e-estilo/tais-araujo-cabelo-corte-pixie"},
+    {"file": "tais_dgabc.jpg", "type": "article", "url": "https://www.dgabc.com.br/Noticia/4349668/tais-araujo-surpreende-ao-revelar-cabelo-curtinho-durante-semana-de-moda-de-paris"},
+    {"file": "tais_propmark.jpg", "type": "article", "max": 12, "url": "https://propmark.com.br/anunciantes/loreal-paris-reune-liniker-bella-campos-tais-araujo-e-anitta-no-le-defile-2026"},
+    {"file": "tais_abc.jpg", "type": "article", "url": "https://abcdoabc.com.br/le-defile-tais-araujo-anitta-paris-fashion-week/"}
+  ]
+}
