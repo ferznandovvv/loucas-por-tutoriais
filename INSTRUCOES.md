@@ -74,7 +74,7 @@ Antes de escolher, leia o arquivo historico.txt deste repositório e não repita
 - De 5 a 7 telas. Objetivo é interação, não alcance.
 - Estrutura: abertura com pergunta ligada à pauta mais forte; 2 ou 3 telas para enquete, quiz ou controle deslizante sobre as pautas do dia; tela "Post novo" chamando pro carrossel (style dark); tela final de caixinha pedindo sugestão de tutorial.
 - Cada tela: "kicker" (Enquete, Quiz, Post novo, Caixinha, Trend do momento), "text" de até 12 palavras, "hint" curto de até 5 palavras.
-- A metade de baixo da tela fica livre de propósito: é onde vai o adesivo interativo, colocado no app.
+- Sem foto, o texto fica no alto e a metade de baixo fica livre para o adesivo. Com foto, o texto vai para a parte de baixo (pra não cobrir o rosto) e o adesivo vai no meio da tela: nesse caso use hint como "Vota aqui em cima". Use foto em pelo menos metade das telas.
 
 ## Fotos
 

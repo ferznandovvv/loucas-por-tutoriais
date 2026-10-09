@@ -507,8 +507,9 @@ def render_story(st, outpath, photos_dir):
     W, H = 1080, 1920
     photo = load_photo(st.get("photo"), photos_dir)
     if photo:
-        img = cover_crop(photo, W, H, 1.0, st.get("focus", 0.5), 0.3).convert("RGBA")
-        img.alpha_composite(Image.new("RGBA", (W, H), (20, 12, 16, 110)))
+        img = cover_crop(photo, W, H, 1.0, st.get("focus", 0.5), 0.25).convert("RGBA")
+        img.alpha_composite(gradient_bottom(W, H, 0.42, 245))
+        img.alpha_composite(gradient_top(W, H, 0.16, 140))
         color, acc = WHITE, (244, 178, 190)
     else:
         img = Image.new("RGBA", (W, H), (BLUSH if st.get("style") != "dark" else INK) + (255,))
@@ -520,18 +521,23 @@ def render_story(st, outpath, photos_dir):
         acc = ROSE_DARK if st.get("style") != "dark" else (244, 178, 190)
     d = ImageDraw.Draw(img)
     d.text((90, 170), HANDLE, font=font("semi", 30), fill=color)
+    size, lines, lh, sp = fit(st["text"], W - 180, 620, 96, 52, upper=True)
+    hint_h = 70 if st.get("hint") else 0
+    if photo:
+        # foto: texto embaixo, para nao cobrir o rosto; o adesivo vai no meio da tela
+        y = H - 360 - hint_h - len(lines) * lh
+        ky = y - 100
+    else:
+        y = 400
+        ky = 300
     if st.get("kicker"):
         kf = font("bold", 28)
         kw = kf.getlength(st["kicker"].upper())
-        d.rounded_rectangle([90, 300, 90 + kw + 40, 352], radius=26, fill=ROSE)
-        d.text((110, 309), st["kicker"].upper(), font=kf, fill=WHITE)
-    size, lines, lh, sp = fit(st["text"], W - 180, 620, 96, 52, upper=True)
-    y = 400
+        d.rounded_rectangle([90, ky, 90 + kw + 40, ky + 52], radius=26, fill=ROSE)
+        d.text((110, ky + 9), st["kicker"].upper(), font=kf, fill=WHITE)
     y = draw_lines(d, lines, lh, sp, size, 90, y, color, acc, upper=True)
     if st.get("hint"):
         d.text((90, y + 30), st["hint"], font=font("body", 36), fill=color)
-    if st.get("credit"):
-        credit(d, st["credit"], W, H, y=H - 330)
     return img.convert("RGB").save(outpath, optimize=True)
 
 
