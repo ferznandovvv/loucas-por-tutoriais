@@ -1,0 +1,193 @@
+{
+  "date": "2026-10-09-v3",
+  "finished_at": "2026-10-09T16:22:44Z",
+  "items": [
+    {
+      "file": "h1.jpg",
+      "type": "article",
+      "ok": false,
+      "alts": [],
+      "error": "403 Client Error: Forbidden for url: https://dentistry.co.uk/2026/08/30/tooth-gems-the-potential-oral-health-risks-dental-professionals-need-to-know/"
+    },
+    {
+      "file": "h2.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [],
+      "source": "https://img.rdhmag.com/files/base/ebm/rdh/image/2024/06/6671bd0842b0ac183f2748d0-tooth_gem.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630",
+      "size": [
+        1200,
+        630
+      ]
+    },
+    {
+      "file": "h3.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [
+        {
+          "file": "h3_alt1.jpg",
+          "source": "https://www.stylerave.com/wp-content/uploads/2023/08/1000-x-1000-6.png",
+          "size": [
+            1000,
+            1000
+          ]
+        },
+        {
+          "file": "h3_alt2.jpg",
+          "source": "https://www.stylerave.com/wp-content/uploads/2026/10/Depositphotos_157945012_L-2-e1791356613503.jpg",
+          "size": [
+            1280,
+            720
+          ]
+        },
+        {
+          "file": "h3_alt3.jpg",
+          "source": "https://www.stylerave.com/wp-content/uploads/2026/10/IMG_7204-1.jpeg",
+          "size": [
+            1206,
+            1594
+          ]
+        },
+        {
+          "file": "h3_alt4.jpg",
+          "source": "https://www.stylerave.com/wp-content/uploads/2026/10/zendaya-on-collection-e1790996477631.jpg",
+          "size": [
+            1280,
+            853
+          ]
+        },
+        {
+          "file": "h3_alt5.jpg",
+          "source": "https://www.stylerave.com/wp-content/uploads/2026/10/1000-x-1000-16.png",
+          "size": [
+            1000,
+            1000
+          ]
+        },
+        {
+          "file": "h3_alt6.jpg",
+          "source": "https://www.stylerave.com/wp-content/uploads/2026/10/PDP_LooseEnds_9-e1791522162366.webp",
+          "size": [
+            1300,
+            1300
+          ]
+        },
+        {
+          "file": "h3_alt7.jpg",
+          "source": "https://www.stylerave.com/wp-content/uploads/2026/09/fall-2026-nail-art-designs.jpeg",
+          "size": [
+            1206,
+            1596
+          ]
+        },
+        {
+          "file": "h3_alt8.jpg",
+          "source": "https://www.stylerave.com/wp-content/uploads/2026/10/coffee-table-book-1-copy.jpg",
+          "size": [
+            1200,
+            1504
+          ]
+        }
+      ],
+      "source": "https://www.stylerave.com/wp-content/uploads/2023/08/1000-x-1000-5.png",
+      "size": [
+        1000,
+        1000
+      ]
+    },
+    {
+      "file": "h4.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [
+        {
+          "file": "h4_alt1.jpg",
+          "source": "https://vitat.com.br/wp-content/uploads/2022/10/grillz-pedro-sampaio.jpg",
+          "size": [
+            1080,
+            1325
+          ]
+        },
+        {
+          "file": "h4_alt2.jpg",
+          "source": "https://vitat.com.br/wp-content/uploads/2025/10/adobestock_465779988-1-2048x1365.jpeg",
+          "size": [
+            2048,
+            1365
+          ]
+        },
+        {
+          "file": "h4_alt3.jpg",
+          "source": "https://vitat.com.br/wp-content/uploads/2025/10/adobestock_669210363-1-1536x1024.jpeg",
+          "size": [
+            1536,
+            1024
+          ]
+        },
+        {
+          "file": "h4_alt4.jpg",
+          "source": "https://vitat.com.br/wp-content/uploads/2020/01/suar-emagrece.jpg",
+          "size": [
+            1280,
+            496
+          ]
+        }
+      ],
+      "source": "https://vitat.com.br/wp-content/uploads/2022/10/grillz.jpg",
+      "size": [
+        1920,
+        700
+      ]
+    },
+    {
+      "file": "h5.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [],
+      "source": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/10/virginia-vini-jr-8.jpg?w=1200&h=630&crop=1",
+      "size": [
+        1200,
+        630
+      ]
+    },
+    {
+      "file": "h6.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [],
+      "source": "https://imagens.bandab.com.br/file/bandab/2026/02/virginia-vini-jr-homenagem-desfile-carnaval.jpg",
+      "size": [
+        1200,
+        740
+      ]
+    },
+    {
+      "file": "h7.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [
+        {
+          "file": "h7_alt1.jpg",
+          "source": "https://cdn.atarde.com.br/img/inline/1400000/724x0/virginia-fonseca-presta-homenagem-a-vini-jr-com-jo0140123100202609071658-1.webp?fallback=https%3A%2F%2Fcdn.atarde.com.br%2Fimg%2Finline%2F1400000%2Fvirginia-fonseca-presta-homenagem-a-vini-jr-com-jo0140123100202609071658.jpg%3Fxid%3D7208415&xid=7208415",
+          "size": [
+            723,
+            491
+          ]
+        }
+      ],
+      "source": "https://cdn.atarde.com.br/img/Artigo-Destaque/1400000/virginia-fonseca-presta-homenagem-a-vini-jr-com-jo0140123100202609071658.jpg?xid=7208412",
+      "size": [
+        1920,
+        1200
+      ]
+    },
+    {
+      "file": "h8.jpg",
+      "type": "article",
+      "ok": false,
+      "alts": [],
+      "error": "nenhuma imagem utilizavel (14 candidatas)"
+    }
+  ]
+}
