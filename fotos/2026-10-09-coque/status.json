@@ -1,0 +1,414 @@
+{
+  "date": "2026-10-09-coque",
+  "finished_at": "2026-10-09T16:28:34Z",
+  "items": [
+    {
+      "file": "masp.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [
+        {
+          "file": "masp_alt1.jpg",
+          "source": "https://static1.purepeople.com.br/uploads/06/80/47/a2/b1407fdf736dbe47-1200x0-2.png",
+          "size": [
+            1200,
+            675
+          ]
+        }
+      ],
+      "source": "https://static1.purepeople.com.br/uploads/06/80/47/a2/b1407fdf736dbe47-1200x630-2.png",
+      "size": [
+        1200,
+        630
+      ]
+    },
+    {
+      "file": "elle_coques.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [
+        {
+          "file": "elle_coques_alt1.jpg",
+          "source": "https://images.elle.com.br/2025/09/475571087_18481088380014388_7042874830443655505_n.jpg",
+          "size": [
+            1080,
+            1350
+          ]
+        },
+        {
+          "file": "elle_coques_alt2.jpg",
+          "source": "https://images.elle.com.br/2025/09/461279797_1965879850523329_8299753001183436075_n.jpg",
+          "size": [
+            1080,
+            1350
+          ]
+        },
+        {
+          "file": "elle_coques_alt3.jpg",
+          "source": "https://images.elle.com.br/2025/09/465523942_497021953308996_1675283655011147093_n-1-620x775.jpg",
+          "size": [
+            620,
+            775
+          ]
+        },
+        {
+          "file": "elle_coques_alt4.jpg",
+          "source": "https://images.elle.com.br/2025/09/482230729_18537766174007479_9081157475294151935_n.jpg",
+          "size": [
+            1080,
+            1350
+          ]
+        },
+        {
+          "file": "elle_coques_alt5.jpg",
+          "source": "https://images.elle.com.br/2025/09/441882232_1190641602096535_6799675456003829326_n.jpg",
+          "size": [
+            1080,
+            1151
+          ]
+        },
+        {
+          "file": "elle_coques_alt6.jpg",
+          "source": "https://images.elle.com.br/2025/09/387092272_18387695008014388_5583771989515420783_n.jpg",
+          "size": [
+            1080,
+            1281
+          ]
+        },
+        {
+          "file": "elle_coques_alt7.jpg",
+          "source": "https://elle.com.br/wp-content/themes/theme-elle-brasil/library/images/capa-impressa-menu.png",
+          "size": [
+            597,
+            792
+          ]
+        },
+        {
+          "file": "elle_coques_alt8.jpg",
+          "source": "https://elle.com.br/wp-content/themes/theme-elle-brasil/library/images/mockup-decor-3.png",
+          "size": [
+            597,
+            792
+          ]
+        }
+      ],
+      "source": "https://images.elle.com.br/2025/09/465494056_1099400284910054_3636274289374028893_n.jpg",
+      "size": [
+        1080,
+        1350
+      ]
+    },
+    {
+      "file": "elle_gel.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [
+        {
+          "file": "elle_gel_alt1.jpg",
+          "source": "https://images.elle.com.br/2023/11/Penteado-com-gel_victoriabeckham.jpeg",
+          "size": [
+            1080,
+            1350
+          ]
+        },
+        {
+          "file": "elle_gel_alt2.jpg",
+          "source": "https://images.elle.com.br/2023/11/Penteado-com-gel_sau-n56-agencia-fotosite-divulgacao.jpg",
+          "size": [
+            888,
+            1332
+          ]
+        },
+        {
+          "file": "elle_gel_alt3.jpg",
+          "source": "https://elle.com.br/wp-content/themes/theme-elle-brasil/library/images/capa-menu-elle-men.png",
+          "size": [
+            597,
+            792
+          ]
+        },
+        {
+          "file": "elle_gel_alt4.jpg",
+          "source": "https://elle.com.br/wp-content/themes/theme-elle-brasil/library/images/capa-menu-elle-a-table.png",
+          "size": [
+            597,
+            792
+          ]
+        }
+      ],
+      "source": "https://images.elle.com.br/2023/11/Penteado-com-gel_lauraharrier.jpeg",
+      "size": [
+        1080,
+        1350
+      ]
+    },
+    {
+      "file": "sheer.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [
+        {
+          "file": "sheer_alt1.jpg",
+          "source": "https://media.sheerluxe.com/b-tL-gOIIIYwBTGgDgOF2Ol00UE=/1200x0/smart/https%3A%2F%2Fsheerluxe.com%2Fsites%2Fsheerluxe%2Ffiles%2Farticles%2F2022%2F10%2Fslicked-back-hair-thum.jpeg",
+          "size": [
+            1200,
+            1200
+          ]
+        },
+        {
+          "file": "sheer_alt2.jpg",
+          "source": "https://media.sheerluxe.com/MrGqYiPA6qXkKHPDzFO9w5yf5s0=/1200x0/smart/https%3A%2F%2Fsheerluxe.com%2Fsites%2Fsheerluxe%2Ffiles%2Farticles%2F2022%2F10%2Fsl-slick-hair.png",
+          "size": [
+            1200,
+            1800
+          ]
+        },
+        {
+          "file": "sheer_alt3.jpg",
+          "source": "https://media.sheerluxe.com/dcLM2LPoh25_cmzu744y-8cEl7A=/1140x0/smart/https%3A%2F%2Fsheerluxe.com%2Fsites%2Fsheerluxe%2Ffiles%2Farticles%2F2022%2F10%2Fcrs-olive-oil-edge-control.png",
+          "size": [
+            1140,
+            1140
+          ]
+        },
+        {
+          "file": "sheer_alt4.jpg",
+          "source": "https://media.sheerluxe.com/Ztj1M9s99vvsqEUJkTVu-Rj4-XM=/1140x0/smart/https%3A%2F%2Fsheerluxe.com%2Fsites%2Fsheerluxe%2Ffiles%2Farticles%2F2022%2F10%2Fhair-pomade-cock-grease.png",
+          "size": [
+            1140,
+            1140
+          ]
+        },
+        {
+          "file": "sheer_alt5.jpg",
+          "source": "https://media.sheerluxe.com/888fEhyR2Y7WuomB38eZQjoF13s=/1140x0/smart/https%3A%2F%2Fsheerluxe.com%2Fsites%2Fsheerluxe%2Ffiles%2Farticles%2F2022%2F10%2Fhershesons-foam.png",
+          "size": [
+            1140,
+            1140
+          ]
+        },
+        {
+          "file": "sheer_alt6.jpg",
+          "source": "https://media.sheerluxe.com/piIfVtxs8tNRTujozRilqGyvIVs=/1140x0/smart/https%3A%2F%2Fsheerluxe.com%2Fsites%2Fsheerluxe%2Ffiles%2Farticles%2F2022%2F10%2Fkent-tail-comb-fine-hair.png",
+          "size": [
+            1140,
+            1140
+          ]
+        },
+        {
+          "file": "sheer_alt7.jpg",
+          "source": "https://media.sheerluxe.com/oOdGTwOiSzVBXSa1sqTQOaVSGsE=/1140x0/smart/https%3A%2F%2Fsheerluxe.com%2Fsites%2Fsheerluxe%2Ffiles%2Farticles%2F2022%2F10%2Fkerastase-elixir-ultime-lhuile-original.png",
+          "size": [
+            1140,
+            1140
+          ]
+        },
+        {
+          "file": "sheer_alt8.jpg",
+          "source": "https://media.sheerluxe.com/p3eZxsCjdN4HtkBfLKfX9kjH_iQ=/1140x0/smart/https%3A%2F%2Fsheerluxe.com%2Fsites%2Fsheerluxe%2Ffiles%2Farticles%2F2022%2F10%2Flarry-king-social-life-your-hair.png",
+          "size": [
+            1140,
+            1140
+          ]
+        }
+      ],
+      "source": "https://media.sheerluxe.com/LHe0OOsOB6OOtBR2Nwz5SakMN7M=/1600x900/smart/https%3A%2F%2Fsheerluxe.com%2Fsites%2Fsheerluxe%2Ffiles%2Farticles%2F2022%2F10%2Fslicked-back-hair-hero.jpg",
+      "size": [
+        1600,
+        900
+      ]
+    },
+    {
+      "file": "gazeta.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [
+        {
+          "file": "gazeta_alt1.jpg",
+          "source": "https://cdn.gazetasp.com.br/uploads/dn_arquivo/2026/03/novo-projeto-2026-03-20t002143123.jpg",
+          "size": [
+            1200,
+            675
+          ]
+        },
+        {
+          "file": "gazeta_alt2.jpg",
+          "source": "https://cdn.gazetasp.com.br/uploads/dn_arquivo/2026/03/novo-projeto-2026-03-20t002150367_1.jpg",
+          "size": [
+            1200,
+            675
+          ]
+        },
+        {
+          "file": "gazeta_alt3.jpg",
+          "source": "https://www.gazetasp.com.br/wp-content/uploads/dn_arquivo/2026/03/novo-projeto-2026-03-20t002135744_1.jpg",
+          "size": [
+            1200,
+            675
+          ]
+        }
+      ],
+      "source": "https://www.gazetasp.com.br/wp-content/uploads/dn_arquivo/2026/03/novo-projeto-2026-03-20t003013749.jpg",
+      "size": [
+        1200,
+        675
+      ]
+    },
+    {
+      "file": "prose.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [
+        {
+          "file": "prose_alt1.jpg",
+          "source": "https://cdn-blog.prose.com/1/2024/05/6-1024x709.jpg",
+          "size": [
+            1024,
+            709
+          ]
+        },
+        {
+          "file": "prose_alt2.jpg",
+          "source": "https://cdn-blog.prose.com/1/2020/11/how-to-style-curly-hair.jpg",
+          "size": [
+            2030,
+            2400
+          ]
+        },
+        {
+          "file": "prose_alt3.jpg",
+          "source": "https://cdn-blog.prose.com/1/2023/03/curly-hair-men-1156x800.jpg",
+          "size": [
+            1156,
+            800
+          ]
+        },
+        {
+          "file": "prose_alt4.jpg",
+          "source": "https://cdn-blog.prose.com/1/2022/07/Claw-Clip-1024x709.png",
+          "size": [
+            1024,
+            709
+          ]
+        }
+      ],
+      "source": "https://cdn-blog.prose.com/1/2023/11/Untitled-1-5.jpg",
+      "size": [
+        1300,
+        900
+      ]
+    },
+    {
+      "file": "elf.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [
+        {
+          "file": "elf_alt1.jpg",
+          "source": "https://cdn.builder.io/api/v1/image/assets%2F34401d5a4f21469a9be21fb9dc95e6a4%2F4bee8ccd1651488c8aae57834463f23f",
+          "size": [
+            900,
+            900
+          ]
+        },
+        {
+          "file": "elf_alt2.jpg",
+          "source": "https://cdn.builder.io/api/v1/image/assets%2F34401d5a4f21469a9be21fb9dc95e6a4%2Fe45e922ed4ac4165908544e8632668a8",
+          "size": [
+            900,
+            900
+          ]
+        },
+        {
+          "file": "elf_alt3.jpg",
+          "source": "https://cdn.builder.io/api/v1/image/assets%2F34401d5a4f21469a9be21fb9dc95e6a4%2F8aabdd8c434e42c1b49941ae603e2d18",
+          "size": [
+            900,
+            900
+          ]
+        },
+        {
+          "file": "elf_alt4.jpg",
+          "source": "https://cdn.builder.io/api/v1/image/assets%2F34401d5a4f21469a9be21fb9dc95e6a4%2Feb79618649d14391bc5318d08df00e7c",
+          "size": [
+            900,
+            900
+          ]
+        },
+        {
+          "file": "elf_alt5.jpg",
+          "source": "https://cdn.builder.io/api/v1/image/assets%2F34401d5a4f21469a9be21fb9dc95e6a4%2F00658a3539d34606910035766dd8cd20",
+          "size": [
+            900,
+            900
+          ]
+        },
+        {
+          "file": "elf_alt6.jpg",
+          "source": "https://cdn.builder.io/api/v1/image/assets%2F34401d5a4f21469a9be21fb9dc95e6a4%2Ff9de431ef71c4994bf596600c474ef5e",
+          "size": [
+            900,
+            900
+          ]
+        },
+        {
+          "file": "elf_alt7.jpg",
+          "source": "https://cdn.builder.io/api/v1/image/assets%2F34401d5a4f21469a9be21fb9dc95e6a4%2F554dc3aa56ee48e7a666be2dbc6b5bae",
+          "size": [
+            900,
+            900
+          ]
+        },
+        {
+          "file": "elf_alt8.jpg",
+          "source": "https://cdn.builder.io/api/v1/image/assets%2F34401d5a4f21469a9be21fb9dc95e6a4%2F0cd2c0b38c0e4592a6ed42dd00e6c2f6",
+          "size": [
+            900,
+            900
+          ]
+        }
+      ],
+      "source": "https://cdn.builder.io/api/v1/image/assets%2F34401d5a4f21469a9be21fb9dc95e6a4%2F01734716deda4a7387b604babe7b9991",
+      "size": [
+        1200,
+        703
+      ]
+    },
+    {
+      "file": "rio2c.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [
+        {
+          "file": "rio2c_alt1.jpg",
+          "source": "https://static1.purepeople.com.br/uploads/8d/54/1b/a6/e523c5d9521a9a71-1200x0-2.png",
+          "size": [
+            1200,
+            675
+          ]
+        },
+        {
+          "file": "rio2c_alt2.jpg",
+          "source": "https://static1.purepeople.com.br/uploads/4f/f8/b0/d2/0e9ccd35959d299d-orig-2.jpg",
+          "size": [
+            1800,
+            2400
+          ]
+        },
+        {
+          "file": "rio2c_alt3.jpg",
+          "source": "https://static1.purepeople.com.br/uploads/e4/1d/e0/98/0a0dff3ca7843c00-580x0-1.jpg",
+          "size": [
+            580,
+            868
+          ]
+        }
+      ],
+      "source": "https://static1.purepeople.com.br/uploads/8d/54/1b/a6/e523c5d9521a9a71-1200x630-2.png",
+      "size": [
+        1200,
+        630
+      ]
+    }
+  ]
+}
