@@ -21,11 +21,25 @@ S.headers.update({"User-Agent": UA, "Accept-Language": "pt-BR,pt;q=0.9,en;q=0.8"
 MIN_SIDE = 500
 
 
+SEEN = set()
+
+
+def fingerprint(im):
+    small = im.convert("L").resize((12, 12))
+    px = list(small.getdata())
+    avg = sum(px) / len(px)
+    return "".join("1" if p > avg else "0" for p in px)
+
+
 def save_image(data, path):
     im = Image.open(io.BytesIO(data))
     im = im.convert("RGB")
     if min(im.size) < MIN_SIDE:
         raise ValueError(f"imagem pequena demais {im.size}")
+    fp = fingerprint(im)
+    if fp in SEEN:
+        raise ValueError("imagem repetida")
+    SEEN.add(fp)
     if max(im.size) > 2400:
         im.thumbnail((2400, 2400))
     im.save(path, "JPEG", quality=90)
@@ -48,7 +62,7 @@ def article_images(url):
             c = tag.get("content")
             if c:
                 cands.append(urljoin(url, c))
-    for img in soup.select("article img, main img, figure img"):
+    for img in (soup.select("article img") or soup.select("main img, figure img")):
         src = img.get("data-src") or img.get("data-lazy-src") or img.get("src")
         srcset = img.get("srcset") or img.get("data-srcset")
         if srcset:

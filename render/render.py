@@ -150,6 +150,17 @@ def gradient_bottom(w, h, start=0.35, strength=235):
     return black
 
 
+def gradient_top(w, h, frac=0.2, strength=150):
+    g = Image.new("L", (1, h), 0)
+    lim = int(h * frac)
+    for yy in range(lim):
+        g.putpixel((0, yy), int(strength * (1 - yy / lim) ** 1.6))
+    g = g.resize((w, h))
+    black = Image.new("RGBA", (w, h), (15, 10, 14, 255))
+    black.putalpha(g)
+    return black
+
+
 def credit(d, text, w, h, y=None):
     if not text:
         return
@@ -189,8 +200,9 @@ def render_cover(post, photos_dir, total):
     cv = post["cover"]
     photo = load_photo(cv.get("photo"), photos_dir)
     if photo:
-        img = cover_crop(photo, CW, CH).convert("RGBA")
+        img = cover_crop(photo, CW, CH, 1.0, cv.get("focus", 0.5), 0.3).convert("RGBA")
         img.alpha_composite(gradient_bottom(CW, CH, 0.30, 240))
+        img.alpha_composite(gradient_top(CW, CH))
         d = ImageDraw.Draw(img)
         header(d, None, None, dark=True)
         tag = post.get("tag", "").upper()
@@ -238,14 +250,14 @@ def render_slide(slide, n, total, photos_dir):
     photo = load_photo(slide.get("photo"), photos_dir)
     top = 150
     if photo:
-        ph = cover_crop(photo, CW - 2 * M, 520)
+        ph = cover_crop(photo, CW - 2 * M, 640, 1.0, slide.get("focus", 0.5), 0.3)
         mask = Image.new("L", ph.size, 0)
         ImageDraw.Draw(mask).rounded_rectangle([0, 0, ph.width, ph.height], radius=28, fill=255)
         img.paste(ph, (M, top), mask)
         if slide.get("credit"):
             f = font("reg", 20)
-            d.text((M, top + 528), slide["credit"], font=f, fill=(120, 108, 112))
-        top += 590
+            d.text((M, top + 648), slide["credit"], font=f, fill=(120, 108, 112))
+        top += 710
     avail = CH - top - 150
     maxw = CW - 2 * M
     t = slide.get("title")
@@ -405,7 +417,7 @@ def render_reel(reel, outpath, photos_dir):
         words, nl, lh = word_sprites(s["text"], size, maxw, color, acc)
         big = None
         if photo:
-            big = cover_crop(photo, RW, RH, 1.0, 0.5, 0.35)
+            big = cover_crop(photo, RW, RH, 1.0, s.get("focus", 0.5), 0.35)
         prepared.append({"s": s, "photo": big, "dark": dark, "words": words, "nl": nl, "lh": lh, "size": size})
 
     proc = subprocess.Popen([
@@ -414,6 +426,7 @@ def render_reel(reel, outpath, photos_dir):
         "-c:v", "libx264", "-preset", "medium", "-crf", "19", "-pix_fmt", "yuv420p", "-c:a", "aac", "-b:a", "128k",
         "-movflags", "+faststart", outpath], stdin=subprocess.PIPE)
     grad = gradient_bottom(RW, RH, 0.0, 170)
+    gtop = gradient_top(RW, RH, 0.18, 150)
     t0 = 0.0
     starts = []
     for s in scenes:
@@ -435,6 +448,7 @@ def render_reel(reel, outpath, photos_dir):
             oy = (ph.height - bh) / 2
             frame = ph.crop((int(ox), int(oy), int(ox + bw), int(oy + bh))).resize((RW, RH), Image.BILINEAR).convert("RGBA")
             frame.alpha_composite(grad)
+            frame.alpha_composite(gtop)
             ov = Image.new("RGBA", (RW, RH), (20, 12, 16, 70))
             frame.alpha_composite(ov)
             if P["s"].get("credit"):
@@ -490,7 +504,7 @@ def render_story(st, outpath, photos_dir):
     W, H = 1080, 1920
     photo = load_photo(st.get("photo"), photos_dir)
     if photo:
-        img = cover_crop(photo, W, H).convert("RGBA")
+        img = cover_crop(photo, W, H, 1.0, st.get("focus", 0.5), 0.3).convert("RGBA")
         img.alpha_composite(Image.new("RGBA", (W, H), (20, 12, 16, 110)))
         color, acc = WHITE, (244, 178, 190)
     else:
