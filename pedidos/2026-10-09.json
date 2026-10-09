@@ -1,0 +1,16 @@
+{
+  "date": "2026-10-09",
+  "items": [
+    {"file": "p1_capa.jpg", "type": "article", "url": "https://www.purepeople.com.br/noticia/looks-elegantes-de-famosos-sexy-sabrina-sato-nicolas-prattes-dora-de-quem-ama-cuida-resumo-mariana-ximenes-em-fotos-da-gucci_a425048/1"},
+    {"file": "p2_capa.jpg", "type": "article", "url": "https://www.itatiaia.com.br/entretenimento/sorriso-de-milhoes-virginia-coloca-diamantes-nos-dentes-e-exibe-resultado/"},
+    {"file": "p2_extra.jpg", "type": "article", "url": "https://www.tnh1.com.br/noticia/nid/diamante-no-dente-como-o-de-virginia-pode-favorecer-acumulo-de-placa-se-higiene-for-inadequada/"},
+    {"file": "p3_capa.jpg", "type": "article", "url": "https://elle.com.br/beleza/esmalte-azul-turquesa-e-a-aposta-da-vez"},
+    {"file": "p3_extra.jpg", "type": "article", "url": "https://www.itatiaia.com.br/porlucasmachado/unhas-turquesa-viram-febre-e-prometem-dominar-os-saloes-em-2026/"},
+    {"file": "p4_capa.jpg", "type": "article", "url": "https://receitasdepesos.com.br/2026/10/08/panqueca-de-carinha-para-o-dia-das-criancas-fofinha-e-divertida/"},
+    {"file": "p4_extra.jpg", "type": "article", "url": "https://www.tudogostoso.com.br/noticias/minichef-em-acao-32-receitas-faceis-e-divertidas-para-o-seu-filho-brilhar-na-cozinha-no-dia-das-criancas-e-no-resto-do-ano-tambem-a15891.htm"},
+    {"file": "p5_capa.jpg", "type": "article", "url": "https://fashionunited.es/noticias/moda/estas-son-las-tendencias-para-primavera-verano-segun-el-front-row-de-las-big-4/2026100750879"},
+    {"file": "p5_extra.jpg", "type": "article", "url": "https://hypebae.com/pt/2026/9/runway-trends-fashion-week-ss27-milan-paris-london-new-york-simone-rocha-mowalola-prada-burberry"},
+    {"file": "p4_reel.jpg", "type": "ai", "aspect": "9:16", "prompt": "Editorial food photograph seen from above of a stack of small golden pancakes on a pale pink ceramic plate, decorated with strawberry slices and banana rounds forming playful smiling faces, a drizzle of chocolate, soft natural morning window light, off-white linen tablecloth, blush pink and cream color palette, shallow depth of field, magazine food styling, no people, no hands, no text, no logos, vertical 9:16 composition"},
+    {"file": "p3_reel.jpg", "type": "ai", "aspect": "9:16", "prompt": "Editorial still life photograph of three glass nail polish bottles in turquoise, aqua mint and milky sea green standing on a pale pink marble surface, soft diffused daylight, gentle shadows, off-white and blush pink background, minimal luxury beauty magazine style, shot on 100mm macro lens, no people, no hands, no text, no labels, no logos, vertical 9:16 composition"}
+  ]
+}
