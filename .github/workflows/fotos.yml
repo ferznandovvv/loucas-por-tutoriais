@@ -23,7 +23,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          fetch-depth: 2
+          fetch-depth: 0
 
       - uses: actions/setup-python@v5
         with:
@@ -32,15 +32,20 @@ jobs:
       - name: Instalar dependencias
         run: pip install requests beautifulsoup4 pillow
 
-      - name: Descobrir pedidos novos
+      - name: Descobrir pedidos pendentes
         id: pedidos
         run: |
+          LISTA=""
           if [ -n "${{ github.event.inputs.pedido }}" ]; then
-            echo "lista=${{ github.event.inputs.pedido }}" >> "$GITHUB_OUTPUT"
+            LISTA="${{ github.event.inputs.pedido }}"
           else
-            LISTA=$(git diff --name-only HEAD~1 HEAD -- 'pedidos/*.json' | tr '\n' ' ')
-            echo "lista=$LISTA" >> "$GITHUB_OUTPUT"
+            for f in pedidos/*.json; do
+              d=$(python -c "import json,sys;print(json.load(open(sys.argv[1]))['date'])" "$f")
+              [ -f "fotos/$d/status.json" ] || LISTA="$LISTA $f"
+            done
           fi
+          echo "Pedidos pendentes: $LISTA"
+          echo "lista=$LISTA" >> "$GITHUB_OUTPUT"
 
       - name: Baixar e gerar imagens
         env:
@@ -57,5 +62,10 @@ jobs:
           git config user.name "loucas-bot"
           git config user.email "loucas-bot@users.noreply.github.com"
           git add fotos
-          git commit -m "fotos: ${{ steps.pedidos.outputs.lista }}" || echo "nada novo"
-          for i in 1 2 3; do git pull --rebase && git push && break; sleep 5; done
+          if git diff --cached --quiet; then echo "nada novo"; exit 0; fi
+          git commit -m "fotos:${{ steps.pedidos.outputs.lista }}"
+          for i in 1 2 3 4 5; do
+            if git pull --rebase && git push; then exit 0; fi
+            sleep 5
+          done
+          echo "push falhou" && exit 1
