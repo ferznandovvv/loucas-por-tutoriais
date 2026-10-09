@@ -2,7 +2,8 @@
 """Baixa as fotos do dia para o @loucasportutoriais.
 
 Le pedidos/AAAA-MM-DD.json e grava em fotos/AAAA-MM-DD/:
-  type "article": abre a materia, pega a foto principal (og:image) e ate 3 alternativas do corpo
+  type "article": abre a materia, pega a foto principal (og:image) e ate 8 alternativas do corpo
+                  (galeria, fotos internas, JSON-LD). Campo opcional "max" muda o limite total.
   type "image":   baixa a URL direta de imagem
   type "ai":      gera a imagem pela API do Gemini (precisa do secret GEMINI_API_KEY)
 Ao final grava status.json com o resultado de cada item.
@@ -62,8 +63,33 @@ def article_images(url):
             c = tag.get("content")
             if c:
                 cands.append(urljoin(url, c))
-    for img in (soup.select("article img") or soup.select("main img, figure img")):
-        src = img.get("data-src") or img.get("data-lazy-src") or img.get("src")
+    # imagens declaradas em JSON-LD (muitos portais listam a galeria inteira aqui)
+    for tag in soup.find_all("script", attrs={"type": "application/ld+json"}):
+        try:
+            data = json.loads(tag.string or "")
+        except Exception:
+            continue
+        stack = [data]
+        while stack:
+            cur = stack.pop()
+            if isinstance(cur, list):
+                stack.extend(cur)
+            elif isinstance(cur, dict):
+                img = cur.get("image")
+                for v in (img if isinstance(img, list) else [img]):
+                    if isinstance(v, str):
+                        cands.append(urljoin(url, v))
+                    elif isinstance(v, dict) and v.get("url"):
+                        cands.append(urljoin(url, v["url"]))
+                stack.extend(x for k, x in cur.items() if k != "image" and isinstance(x, (dict, list)))
+    body = []
+    for sel in ["article img", "figure img", "[class*=gallery] img", "[class*=galeria] img",
+                "[class*=content] img", "[class*=materia] img", "[class*=post] img", "main img"]:
+        for img in soup.select(sel):
+            if img not in body:
+                body.append(img)
+    for img in body:
+        src = img.get("data-src") or img.get("data-lazy-src") or img.get("data-original") or img.get("src")
         srcset = img.get("srcset") or img.get("data-srcset")
         if srcset:
             best = sorted(
@@ -76,7 +102,7 @@ def article_images(url):
     seen, out = set(), []
     for c in cands:
         key = c.split("?")[0]
-        if key not in seen and not re.search(r"(logo|icon|avatar|sprite|placeholder)", c, re.I):
+        if key not in seen and not re.search(r"(logo|icon|avatar|sprite|placeholder|banner|publicidade|\.svg|\.gif)", c, re.I):
             seen.add(key)
             out.append(c)
     return out
@@ -155,8 +181,9 @@ def main():
             if it["type"] == "article":
                 imgs = article_images(it["url"])
                 saved = 0
+                limit = int(it.get("max", 9))
                 for img_url in imgs:
-                    if saved >= 4:
+                    if saved >= limit:
                         break
                     try:
                         data = fetch(img_url, referer=it["url"]).content
