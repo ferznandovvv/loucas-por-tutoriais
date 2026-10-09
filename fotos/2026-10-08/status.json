@@ -1,0 +1,124 @@
+{
+  "date": "2026-10-08",
+  "finished_at": "2026-10-09T01:02:13Z",
+  "items": [
+    {
+      "file": "p1_capa.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [
+        {
+          "file": "p1_capa_alt1.jpg",
+          "source": "https://i.metroimg.com/vX6D6skQltf1fWWM35wjV7T7Aa4mfip4l6xgiVgNoVY/w:1200/q:85/f:webp/plain/https://images.metroimg.com/2026/07/gettyimages-2276747011.jpg",
+          "size": [
+            1200,
+            800
+          ]
+        },
+        {
+          "file": "p1_capa_alt2.jpg",
+          "source": "https://images.metroimg.com/2026/07/design-sem-nome-30.jpg",
+          "size": [
+            1200,
+            800
+          ]
+        },
+        {
+          "file": "p1_capa_alt3.jpg",
+          "source": "https://images.metroimg.com/2026/08/margot-robbie.jpg",
+          "size": [
+            1200,
+            800
+          ]
+        }
+      ],
+      "source": "https://i.metroimg.com/IV6-9ektUdbwtgFEUGSc7tNX_9khzojn67O10YEJx0s/rs:fill:1200:800:1/g:no/q:85/f:webp/plain/https://images.metroimg.com/2026/07/gettyimages-2276747011.jpg",
+      "size": [
+        1200,
+        800
+      ]
+    },
+    {
+      "file": "p2_capa.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [
+        {
+          "file": "p2_capa_alt1.jpg",
+          "source": "https://cdn.jornaldebrasilia.com.br/wp-content/uploads/2026/04/06101639/jordanabbb-1.jpg",
+          "size": [
+            1024,
+            683
+          ]
+        },
+        {
+          "file": "p2_capa_alt2.jpg",
+          "source": "https://cdn.jornaldebrasilia.com.br/wp-content/uploads/2026/10/06131905/17912387376ac42251ea17f_1791238737_3x2_rt-2048x1365.jpg",
+          "size": [
+            2048,
+            1365
+          ]
+        }
+      ],
+      "source": "https://cdn.jornaldebrasilia.com.br/wp-content/uploads/2026/04/17133318/1_jordanaaaaa-38503297.jpg",
+      "size": [
+        1200,
+        750
+      ]
+    },
+    {
+      "file": "p3_capa.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [],
+      "source": "https://www.folhavitoria.com.br/wp-content/uploads/2024/11/gI2Qfdxk-image-default-projeto-1320x745-1-png.webp",
+      "size": [
+        1320,
+        746
+      ]
+    },
+    {
+      "file": "p4_capa.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [
+        {
+          "file": "p4_capa_alt1.jpg",
+          "source": "https://images.elle.com.br/2025/12/566886155_18532192741058575_2963131786838744841_n-768x1023.jpg",
+          "size": [
+            768,
+            1023
+          ]
+        },
+        {
+          "file": "p4_capa_alt2.jpg",
+          "source": "https://images.elle.com.br/2025/12/602175256_18550835764046969_6303312888893769974_n-768x929.jpg",
+          "size": [
+            768,
+            929
+          ]
+        },
+        {
+          "file": "p4_capa_alt3.jpg",
+          "source": "https://images.elle.com.br/2025/12/586804090_18087959318477353_1767524257873018770_n-768x1021.jpg",
+          "size": [
+            768,
+            1021
+          ]
+        }
+      ],
+      "source": "https://images.elle.com.br/2025/12/529764398_18523963711046969_1162230338620614007_n.jpg",
+      "size": [
+        1080,
+        1308
+      ]
+    },
+    {
+      "file": "p5_capa.jpg",
+      "type": "ai",
+      "ok": false,
+      "alts": [],
+      "error": "secret GEMINI_API_KEY nao configurado"
+    }
+  ]
+}
