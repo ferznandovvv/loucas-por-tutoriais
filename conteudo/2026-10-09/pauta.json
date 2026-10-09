@@ -1,0 +1,448 @@
+{
+ "date": "2026-10-09",
+ "posts": [
+  {
+   "id": 1,
+   "tag": "Famosas",
+   "cover": {
+    "headline": "O **brilho** da Festa MASP cabe no seu look",
+    "sub": "Decodificamos 4 looks das famosas",
+    "photo": "p1_capa.jpg",
+    "focus": 0.79
+   },
+   "slides": [
+    {
+     "title": "A noite virou passarela",
+     "text": "Na quarta (7), a 12ª Festa MASP, com patrocínio da Gucci, reuniu famosas em São Paulo. A gente olhou look por look e traduziu pra **vida real**."
+    },
+    {
+     "title": "Sabrina Sato: costas de fora",
+     "text": "Longo preto todo em **brilho**, costas totalmente abertas e cauda leve. O resto foi simples: cabelo liso solto, brincos redondos prateados e clutch preta."
+    },
+    {
+     "title": "Marina Sena: um ombro só",
+     "text": "Longo justo de paetês com um ombro só, fenda lateral profunda e scarpin preto metalizado. O destaque fica nos **olhos** bem marcados, com cabelo liso e solto."
+    },
+    {
+     "title": "Mariana Ximenes: alfaiataria clara",
+     "text": "Blazer off-white acinturado, saia longa ajustada, blusa transparente com brilho sutil e **coque** polido. Prova de que festa não pede só vestido.",
+     "photo": "p1_capa.jpg",
+     "focus": 0.27
+    },
+    {
+     "title": "Isis Valverde: renda e fenda",
+     "text": "Body de renda azul-marinho com decote profundo, saia preta com fenda e meia-calça estampada. Body de **renda** e saia com fenda já resolvem a ideia."
+    },
+    {
+     "title": "A regra que une todos",
+     "text": "Uma peça protagonista por vez. Se o vestido brilha, cabelo liso e acessório limpo. Se a roupa é clara e lisa, o **coque** faz o trabalho."
+    }
+   ],
+   "final": {
+    "text": "Brilho pede **calma** no resto do look.",
+    "cta": "Salva pra próxima festa e manda pra amiga que nunca sabe o que usar"
+   }
+  },
+  {
+   "id": 2,
+   "tag": "Trend viral",
+   "cover": {
+    "headline": "**Diamante** no dente: o que saber antes",
+    "sub": "Dentistas explicam a joia da Virgínia",
+    "photo": "p2_extra.jpg",
+    "focus": 0.62
+   },
+   "slides": [
+    {
+     "title": "Por que todo mundo fala disso",
+     "text": "Virgínia Fonseca mostrou um V de diamantes nos dentes e o assunto voltou à tona nesta semana. Antes de copiar, vale entender como **funciona**."
+    },
+    {
+     "title": "Como é colado",
+     "text": "Segundo o dentista Flávio Pinheiro, ouvido pela Folhapress, é como colar aparelho: limpa, condiciona o esmalte e fixa com **resina** e luz azul. Em geral, sem broca."
+    },
+    {
+     "title": "Quanto custa",
+     "text": "Cristal simples sai de R$ 600 a R$ 1.000 com aplicação, segundo a reportagem. Ouro, pedra preciosa ou **diamante** de verdade podem passar disso."
+    },
+    {
+     "title": "O risco está na higiene",
+     "text": "O dentista Carlos Reis diz que a joia sozinha não causa problema, mas acumula **placa** se a limpeza falhar: manchas, cárie em volta, gengiva inflamada e mau hálito.",
+     "photo": "p2_capa.jpg",
+     "focus": 0.5
+    },
+    {
+     "title": "Quem deve esperar",
+     "text": "Dente com cárie, trinca ou gengiva inflamada precisa ser tratado antes. Quem range os dentes ou tem faceta deve **conversar** com o dentista primeiro."
+    },
+    {
+     "title": "Nunca faça em casa",
+     "text": "Cola de unha ou adesivo improvisado pode causar dano **irreversível** ao esmalte. Aplicação e remoção só com dentista, e nem assim é totalmente reversível."
+    }
+   ],
+   "final": {
+    "text": "Brilho no sorriso, sim. Improviso, **nunca**.",
+    "cta": "Manda pra amiga que já tá pensando em colar uma pedrinha"
+   }
+  },
+  {
+   "id": 3,
+   "tag": "Unhas",
+   "cover": {
+    "headline": "Unha **turquesa** é a cor do momento",
+    "sub": "4 jeitos de usar sem errar",
+    "photo": "p3_capa.jpg",
+    "focus": 0.5
+   },
+   "slides": [
+    {
+     "title": "Adeus, unha discreta",
+     "text": "Azul, verde-água e turquesa: a Steal the Look chamou os tons aquosos de maior tendência de unhas desta semana. E a Elle aponta o **turquesa** como a aposta da vez."
+    },
+    {
+     "title": "Jeito 1: todas iguais",
+     "text": "Turquesa em todas as unhas, aplicado por igual. Segundo a Elle, uma cor lisa bem feita pode chamar mais atenção que **nail art** elaborada."
+    },
+    {
+     "title": "Jeito 2: francesinha colorida",
+     "text": "Troque a ponta branca por **turquesa**, sobre base transparente ou leitosa. Fica moderno e ainda discreto pra quem tem medo de cor.",
+     "photo": "p3_capa_alt1.jpg",
+     "focus": 0.5
+    },
+    {
+     "title": "Jeito 3: arte abstrata",
+     "text": "Linhas curvas, ondas, pontinhos ou formas geométricas, sem técnica avançada. Combina com branco, amarelo manteiga ou **rosa**.",
+     "photo": "p3_capa_alt2.jpg",
+     "focus": 0.5
+    },
+    {
+     "title": "Jeito 4: só algumas unhas",
+     "text": "Turquesa em algumas unhas e neutro ou transparente nas outras. Ou uma cor diferente por dedo, pra quem curte **maximalismo**."
+    },
+    {
+     "title": "Claro ou vibrante?",
+     "text": "Turquesa leitoso deixa o efeito mais suave. O saturado causa mais impacto. Cremoso é o clássico, mas perolado ou glitter dá **profundidade**."
+    }
+   ],
+   "final": {
+    "text": "Turquesa combina com o **calor** que tá chegando.",
+    "cta": "Comenta TURQUESA se você teria coragem"
+   }
+  },
+  {
+   "id": 4,
+   "tag": "Salva esse",
+   "cover": {
+    "headline": "Panqueca de **carinha** pro Dia das Crianças",
+    "sub": "Massa simples com o que tem em casa",
+    "photo": "p4_capa.jpg",
+    "focus": 0.5
+   },
+   "slides": [
+    {
+     "title": "Segunda é Dia das Crianças",
+     "text": "O dia 12 cai na segunda e o café da manhã pode virar **programa** em família. Essa receita fofa foi publicada nesta quinta (8)."
+    },
+    {
+     "title": "Ingredientes",
+     "text": "1 xícara de farinha de trigo, 3/4 de xícara de leite integral, 1 ovo, 2 colheres (sopa) de açúcar, 1 colher (sopa) de **manteiga** derretida e uma pitada de fermento."
+    },
+    {
+     "title": "Passo 1: a massa",
+     "text": "Misture farinha, açúcar e fermento. Junte ovo, leite e manteiga e mexa até ficar **lisinha**. Separe uma parte num saco de confeitar."
+    },
+    {
+     "title": "Passo 2: o desenho",
+     "text": "Na frigideira antiaderente untada e quente, desenhe olhos, sorriso e contorno do rosto. Deixe firmar, preencha a carinha e **vire** com cuidado."
+    },
+    {
+     "title": "Truque do cacau",
+     "text": "Misture um pouco de cacau em pó numa parte da massa. Os olhos e o cabelo ficam **escuros** e a carinha ganha contraste."
+    },
+    {
+     "title": "Hora de decorar",
+     "text": "Banana e morango viram cabelo e bochechas. Chocolate derretido faz caretas engraçadas. Calda de frutas vermelhas pra servir. Deixa a **criançada** montar o prato."
+    },
+    {
+     "title": "Quer mais ideias?",
+     "text": "O TudoGostoso separou 32 receitas fáceis pra fazer com as crianças, como **mini pizza**, donuts, cachorro-quente e brigadeiro.",
+     "photo": "p4_extra.jpg",
+     "focus": 0.25
+    }
+   ],
+   "final": {
+    "text": "A melhor receita é a que a **criançada** ajuda a fazer.",
+    "cta": "Salva pra segunda e manda pro grupo da família"
+   }
+  },
+  {
+   "id": 5,
+   "tag": "Moda",
+   "cover": {
+    "headline": "A **saia** é a peça do próximo verão",
+    "sub": "O que Paris mostrou e como usar",
+    "photo": "p5_capa_alt2.jpg",
+    "focus": 0.9
+   },
+   "slides": [
+    {
+     "title": "Recado direto de Paris",
+     "text": "A Semana de Moda de Paris do verão 2027 acabou e a agência AFP listou as tendências da temporada. A mais forte é bem fácil de usar: a **saia**."
+    },
+    {
+     "title": "O comprimento Chanel",
+     "text": "A Chanel repetiu saias logo abaixo do joelho, o chamado comprimento Chanel. A Prada ficou quase obcecada por um único modelo de **saia**.",
+     "photo": "p5_capa_alt2.jpg",
+     "focus": 0.6
+    },
+    {
+     "title": "Conjunto agora se separa",
+     "text": "Na Schiaparelli, conjuntos viraram peças avulsas de cima e de baixo. Segundo compradora das Galeries Lafayette, o styling vale quase tanto quanto a **roupa**.",
+     "photo": "p5_capa_alt1.jpg",
+     "focus": 0.13
+    },
+    {
+     "title": "A paleta que acalma",
+     "text": "Amarelo **manteiga**, lavanda e verde sálvia dominaram. Bottega Veneta juntou calça amarela clara com blusa rosa, e a Diesel, saia verde menta com jaqueta rosa chiclete."
+    },
+    {
+     "title": "Sutiã à mostra",
+     "text": "Sutiãs apareceram sozinhos ou sob jaquetas, como **top**. Na Fendi, um sutiã triângulo de cetim surgiu na maioria dos looks."
+    },
+    {
+     "title": "E a saia balão?",
+     "text": "Voltou forte na Dior e curtinha na Miu Miu e na Zimmermann. Mas a reportagem avisa: pode passar **rápido**, porque é quase impossível sentar com ela."
+    }
+   ],
+   "final": {
+    "text": "Comece pela **saia** midi e misture com o que já tem.",
+    "cta": "Comenta SAIA se você já tá nessa"
+   }
+  }
+ ],
+ "reels": [
+  {
+   "post_id": 1,
+   "scenes": [
+    {
+     "text": "Quer brilhar sem **exagerar**?",
+     "dur": 2.6,
+     "underline": true
+    },
+    {
+     "text": "As famosas da Festa MASP ensinaram",
+     "dur": 2.6,
+     "photo": "p1_capa.jpg",
+     "align": "bottom",
+     "focus": 0.76
+    },
+    {
+     "text": "Vestido que brilha pede cabelo **liso**",
+     "dur": 2.6
+    },
+    {
+     "text": "Roupa clara e lisa pede **coque**",
+     "dur": 2.6
+    },
+    {
+     "text": "Uma protagonista por **look**",
+     "dur": 2.4,
+     "style": "dark"
+    },
+    {
+     "text": "Salva pra próxima **festa**",
+     "dur": 2.4,
+     "style": "dark"
+    }
+   ]
+  },
+  {
+   "post_id": 2,
+   "scenes": [
+    {
+     "text": "Diamante no dente vale a **pena**?",
+     "dur": 2.6,
+     "underline": true
+    },
+    {
+     "text": "A joia da Virgínia virou assunto",
+     "dur": 2.6,
+     "photo": "p2_extra.jpg",
+     "align": "bottom",
+     "focus": 0.62
+    },
+    {
+     "text": "É colado com **resina**, sem broca",
+     "dur": 2.6
+    },
+    {
+     "text": "O risco é acumular **placa**",
+     "dur": 2.4,
+     "photo": "p2_capa.jpg",
+     "align": "bottom",
+     "focus": 0.25
+    },
+    {
+     "text": "Cola de unha? **Nunca**",
+     "dur": 2.4,
+     "style": "dark"
+    },
+    {
+     "text": "Manda pra amiga que quer **colar**",
+     "dur": 2.6,
+     "style": "dark"
+    }
+   ]
+  },
+  {
+   "post_id": 3,
+   "scenes": [
+    {
+     "text": "Unha discreta? Essa fase **acabou**",
+     "dur": 2.6,
+     "underline": true
+    },
+    {
+     "text": "O **turquesa** é a cor da vez",
+     "dur": 2.6,
+     "photo": "p3_capa.jpg",
+     "align": "bottom",
+     "focus": 0.5
+    },
+    {
+     "text": "Francesinha com ponta **colorida**",
+     "dur": 2.4,
+     "photo": "p3_capa_alt1.jpg",
+     "align": "bottom",
+     "focus": 0.5
+    },
+    {
+     "text": "Ou arte abstrata sem técnica **difícil**",
+     "dur": 2.6
+    },
+    {
+     "text": "Leitoso suaviza, saturado **impacta**",
+     "dur": 2.6,
+     "style": "dark"
+    },
+    {
+     "text": "Comenta **TURQUESA** se você topa",
+     "dur": 2.4,
+     "style": "dark"
+    }
+   ]
+  },
+  {
+   "post_id": 4,
+   "scenes": [
+    {
+     "text": "Café da manhã que vira **festa**",
+     "dur": 2.6,
+     "underline": true
+    },
+    {
+     "text": "Panqueca de carinha pro dia **12**",
+     "dur": 2.6,
+     "photo": "p4_capa.jpg",
+     "align": "bottom",
+     "focus": 0.5
+    },
+    {
+     "text": "Desenhe o rosto com saco de **confeitar**",
+     "dur": 2.8
+    },
+    {
+     "text": "Cacau na massa escurece os **olhos**",
+     "dur": 2.6,
+     "style": "dark"
+    },
+    {
+     "text": "Fruta vira cabelo e **bochecha**",
+     "dur": 2.4
+    },
+    {
+     "text": "Salva pra **segunda** de manhã",
+     "dur": 2.4,
+     "style": "dark"
+    }
+   ]
+  },
+  {
+   "post_id": 5,
+   "scenes": [
+    {
+     "text": "Paris decidiu: a **saia** voltou",
+     "dur": 2.6,
+     "underline": true
+    },
+    {
+     "text": "Logo abaixo do joelho, estilo **Chanel**",
+     "dur": 2.6,
+     "photo": "p5_capa_alt2.jpg",
+     "align": "bottom",
+     "focus": 0.9
+    },
+    {
+     "text": "Separe os **conjuntos** e misture",
+     "dur": 2.4,
+     "photo": "p5_capa_alt1.jpg",
+     "align": "bottom",
+     "focus": 0.87
+    },
+    {
+     "text": "Manteiga, lavanda e **sálvia**",
+     "dur": 2.4
+    },
+    {
+     "text": "Saia balão? Moda **passageira**",
+     "dur": 2.6,
+     "style": "dark"
+    },
+    {
+     "text": "Comenta **SAIA** se você aderiu",
+     "dur": 2.4,
+     "style": "dark"
+    }
+   ]
+  }
+ ],
+ "stories": [
+  {
+   "kicker": "Trend do momento",
+   "text": "Você colaria um **diamante** no dente?",
+   "hint": "Vota aqui em cima",
+   "photo": "p2_extra.jpg",
+   "focus": 0.62
+  },
+  {
+   "kicker": "Enquete",
+   "text": "Unha **turquesa**: você usaria?",
+   "hint": "Vota aqui em cima",
+   "photo": "p3_capa.jpg",
+   "focus": 0.5
+  },
+  {
+   "kicker": "Quiz",
+   "text": "Qual comprimento de **saia** Paris mais amou?",
+   "hint": "Responde aqui embaixo"
+  },
+  {
+   "kicker": "Enquete",
+   "text": "Quanto você ama look com **brilho**?",
+   "hint": "Desliza aqui em cima",
+   "photo": "p1_capa.jpg",
+   "focus": 0.76
+  },
+  {
+   "kicker": "Post novo",
+   "text": "Diamante no dente: o que saber **antes**",
+   "hint": "Toca no post pra ver",
+   "style": "dark"
+  },
+  {
+   "kicker": "Caixinha",
+   "text": "Qual **tutorial** você quer ver aqui amanhã?",
+   "hint": "Manda aqui embaixo"
+  }
+ ]
+}
