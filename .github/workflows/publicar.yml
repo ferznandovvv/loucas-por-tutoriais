@@ -1,0 +1,54 @@
+name: Publicar no Instagram
+
+on:
+  schedule:
+    - cron: "*/15 * * * *"
+  workflow_dispatch:
+    inputs:
+      forcar:
+        description: "Publicar agora um item aprovado, ignorando o horario (ex: 2026-10-10.json:juliana). Deixe vazio para seguir os horarios."
+        required: false
+      simular:
+        description: "Digite 1 para so conferir (nao publica)"
+        required: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: publicar
+  cancel-in-progress: false
+
+jobs:
+  publicar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Instalar dependencias
+        run: pip install requests
+
+      - name: Publicar o que estiver aprovado e no horario
+        env:
+          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+          IG_USER_ID: ${{ secrets.IG_USER_ID }}
+          FORCAR: ${{ github.event.inputs.forcar }}
+          DRY_RUN: ${{ github.event.inputs.simular }}
+        run: python publicar.py
+
+      - name: Salvar resultado na fila
+        run: |
+          git config user.name "loucas-bot"
+          git config user.email "loucas-bot@users.noreply.github.com"
+          git add publicar
+          if git diff --cached --quiet; then echo "nada novo"; exit 0; fi
+          git commit -m "publicar: resultado $(date -u +%Y-%m-%dT%H:%M)"
+          for i in 1 2 3 4 5; do
+            if git pull --rebase && git push; then exit 0; fi
+            sleep 5
+          done
+          echo "push falhou" && exit 1

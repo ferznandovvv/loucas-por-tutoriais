@@ -11,12 +11,12 @@ Regra de escrita absoluta: nunca use travessão (—) em nenhum texto, nem em le
 
 ## Entregáveis de cada rodada
 
-**Regra de formato (decisão do Fernando em 09/10/2026): cada pauta vira UM formato principal, nunca carrossel e reel da mesma coisa.**
-- Pauta com muito passo a passo, que vale salvar e consultar → **carrossel + stories**.
-- Pauta visual, de impacto rápido (transformação, antes e depois, look, corte) → **reel + stories**.
-- Mix diário sugerido: 3 pautas em carrossel + stories e 2 pautas em reel + stories.
+**Fase atual (decisão do Fernando em 10/10/2026): SÓ CARROSSEL, publicado automaticamente.**
+- Reels e stories estão pausados (o código do Remotion continua no repositório para quando voltarem).
+- Todo carrossel tem NO MÁXIMO 10 imagens (capa + até 9 slides), que é o limite da API do Instagram.
+- O Fernando aprovou a publicação automática: os carrosséis entram na fila com `"aprovado": true` e saem sozinhos no horário.
 
-1. Carrosséis (JPG 1080x1350) de 10 a 12 slides, um por pauta de carrossel.
+1. Carrosséis (JPG 1080x1350) de 8 a 10 imagens no total, um por pauta.
 2. Reels (MP4 1080x1920, sem áudio, a música em alta é adicionada no app na hora de postar), feitos no Remotion, um por pauta de reel.
 3. Stories (Remotion, PNG para postar com adesivo + MP4 animado de 5 segundos): de 3 a 4 telas por pauta, sempre terminando com a tela "Post novo" ou "Reel novo", e uma caixinha no fim do dia.
 4. O mapa do dia (guia.md): ordem e horário de cada publicação, legendas, hashtags, áudio sugerido, fontes, fotos usadas e, para cada story, um bloco pronto para copiar com o tipo de adesivo, as opções, a resposta certa do quiz e onde posicionar o adesivo.
@@ -77,7 +77,7 @@ Referência visual: @marcioeugeniooficial. Renderizador: `render/carrossel.py`.
 - Linha de apoio curta embaixo, com um trecho em **negrito**. Exemplo: "Só precisa de gel, grampo e **uma escova de dente.**"
 - Rodapé automático com avatar, @ e "ENTENDA →".
 
-**Slides internos (9 a 11):** estilo post de rede social, fundo branco, cabeçalho com avatar, nome, selo e @ (automático).
+**Slides internos (7 a 9):** estilo post de rede social, fundo branco, cabeçalho com avatar, nome, selo e @ (automático).
 - Texto corrido de 45 a 70 palavras, em 2 parágrafos (separe com `\n\n`). Frases-chave em **negrito** (1 a 3 por slide).
 - Conta a história: slide 2 retoma o gancho da notícia e promete o tutorial; os seguintes são os passos, na ordem; depois cuidados, variações por tipo de cabelo ou pele, erros comuns.
 - Cada slide termina puxando o próximo, com "..." ou uma frase de suspense ("Mas antes do produto, vem uma escolha que muda tudo..."). O slide seguinte começa continuando a frase quando fizer sentido ("...faça com o cabelo ainda molhado.").
@@ -217,3 +217,11 @@ E no fim:
 - Capas com foto em tela cheia, círculos com foto extra, degradê escuro embaixo e rodapé "ENTENDA →".
 - Reels com texto entrando palavra por palavra, tarja rosa que se desenha, zoom lento nas fotos, @ fixo no alto e área segura respeitada para os botões do Instagram.
 - O renderizador antigo (`render/render.py`, estilo tipográfico rosado) fica só como reserva.
+
+## Publicação automática (fila)
+
+1. Copie as imagens finais do carrossel para a branch `midia` (repositório público), em `AAAA-MM-DD/<id>/01.jpg ... 10.jpg`. Use `git worktree add <pasta> midia` para não misturar com a main. Commit e push na branch `midia`.
+2. Na main, crie ou atualize `publicar/AAAA-MM-DD.json` (formato no topo de `publicar.py`) com: id, `"tipo": "carrossel"`, horário em `AAAA-MM-DDTHH:MM` (fuso de São Paulo), `"aprovado": true`, legenda pronta (pode ter emojis, nunca travessão, até 5 hashtags no fim) e a lista de imagens.
+3. Commit e push. O workflow "Publicar no Instagram" roda a cada 15 minutos, publica o que estiver aprovado e no horário e grava o link do post (ou o erro) no próprio arquivo.
+4. Para pausar tudo, crie o arquivo `publicar/PAUSADO`. Para publicar um item na hora, rode o workflow manualmente com `forcar` = `AAAA-MM-DD.json:<id>`.
+5. Na entrega, avise o horário de cada post na fila. Se um post anterior ficou com "erro" no arquivo, avise o Fernando.
