@@ -1,0 +1,303 @@
+{
+ "posts": [
+  {
+   "id": 1,
+   "cover": {
+    "photo": "jade_perfil_alt1.jpg",
+    "focus": 0.45,
+    "focus_y": 0.35,
+    "zoom": 1.0,
+    "headline": "Jade Picon estreou em Paris de **franja nova.** Veja 3 jeitos de testar a sua **sem cortar**",
+    "sub": "Com grampo, rabo de cavalo ou **aplique de tic-tac.**",
+    "circles": [
+     {
+      "photo": "jade_perfil.jpg",
+      "x": 220,
+      "y": 270,
+      "r": 170,
+      "fx": 0.5,
+      "fy": 0.3,
+      "zoom": 1.0
+     },
+     {
+      "photo": "franja_mulher_alt2.jpg",
+      "x": 470,
+      "y": 160,
+      "r": 110,
+      "fx": 0.55,
+      "fy": 0.4,
+      "zoom": 1.2
+     }
+    ]
+   },
+   "slides": [
+    {
+     "text": "**Jade Picon estreou na Semana de Moda de Paris com franja.** Foi no desfile da Stella McCartney, no dia 30, e o Portal IN contou que a franja recém-adotada mudou o formato do rosto dela.\n\nDias depois, o Diário da Mídia chamou de **\"franjinha temporária\".** E é exatamente isso que dá pra fazer em casa...",
+     "photo": "jade_agitos.jpg",
+     "focus": 0.45,
+     "focus_y": 0.3
+    },
+    {
+     "text": "**...testar a franja antes de passar a tesoura.** Existem 3 jeitos, do mais simples ao mais parecido com franja de verdade.\n\n**Jeito 1, franja lateral com o próprio cabelo:** puxe uma mecha da frente, leve até o lado oposto passando pelo alto da testa e prenda por baixo do cabelo com grampos. Mas tem um detalhe que entrega...",
+     "photo": "franja_lafemme.jpg",
+     "focus": 0.5,
+     "focus_y": 0.3
+    },
+    {
+     "text": "**...mecha esticada demais parece penteado, não franja.** Segundo o La Femme Institut, o truque é dar curvatura e volume à mecha antes de prender.\n\n**Jeito 2, a franja do rabo de cavalo:** faça um rabo bem alto e divida em duas partes, deixando a da frente mais fina. Agora vem a parte que parece mágica...",
+     "photo": "franja_mulher.jpg",
+     "focus": 0.5,
+     "focus_y": 0.3
+    },
+    {
+     "text": "**...vire a parte de cima do rabo em direção à testa.** Escolha o comprimento da franja e prenda os fios com grampos invertidos ou cruzados, como ensina o passo a passo publicado pelo portal Mulher.\n\nDá pra ajustar o formato, **de lado ou reta.** Só que ainda sobra cabelo lá em cima...",
+     "photo": "franja_mulher_alt1.jpg",
+     "focus": 0.5,
+     "focus_y": 0.3
+    },
+    {
+     "text": "**...e ele vira o coque.** Solte o restante do rabo de cavalo e faça um coque que esconda as pontas da parte usada na franja. Fixe tudo com grampos.\n\nO La Femme indica esse jeito pra **ocasiões especiais,** como casamento e aniversário. E o acabamento é o que deixa natural...",
+     "photo": "franja_mulher_alt2.jpg",
+     "focus": 0.5,
+     "focus_y": 0.3
+    },
+    {
+     "text": "**...modele a franja com babyliss ou chapinha.** Assim os fios caem com curvinha, como franja cortada. Quando estiver do jeito que você quer, finalize com **fixador em pó ou spray.**\n\nO resultado depende do comprimento do seu cabelo. Agora, se você quer franja cheia e reta, o caminho é outro...",
+     "photo": "franja_mulher_alt3.jpg",
+     "focus": 0.5,
+     "focus_y": 0.3
+    },
+    {
+     "text": "**Jeito 3, aplique de franja de tic-tac.** Ele vem pronto, em vários tons, e sai fácil porque é preso por presilhas.\n\nNa hora de escolher: o All Things Hair explica que **fibra sintética não pode ser tingida.** Se você quer uma cor sob medida, o aplique precisa ser de cabelo natural. E colocar tem um segredo de altura...",
+     "photo": "jade_dm2.jpg",
+     "focus": 0.79,
+     "focus_y": 0.3,
+     "zoom": 2.0
+    },
+    {
+     "text": "**...prenda sempre três dedos acima da linha do cabelo.** Use a presilha de cima pra definir a altura e centralize bem. Testar um pouco acima ou abaixo deixa a franja mais curta ou mais longa.\n\nDepois prenda as presilhas das laterais e **misture as mechas do lado com o seu cabelo.** Ficou comprida?...",
+     "photo": "franja_lafemme_alt1.jpg",
+     "focus": 0.5,
+     "focus_y": 0.3
+    },
+    {
+     "text": "**...apare com cuidado, olhando no espelho,** até chegar no comprimento que você quer. Vá de pouquinho em pouquinho.\n\nPra quem tem cacho, dá pra remodelar os fios do aplique com babyliss, seguindo o rótulo. Segundo o All Things Hair, essas peças em geral **aguentam até 180°C.** E pra durar, tem o cuidado de lavagem...",
+     "photo": "franja_cacho.jpg",
+     "focus": 0.5,
+     "focus_y": 0.4
+    },
+    {
+     "text": "**Lave o aplique a cada cinco usos,** com pouco shampoo sem sulfato. Seque com secador e desembarace com condicionador ou finalizador, sempre conferindo o rótulo da peça.\n\nCom isso, você testa a franja quantas vezes quiser e só corta quando tiver certeza. **Foi assim que a ideia de franja temporária pegou.**",
+     "photo": "franja_alto_alt2.jpg",
+     "focus": 0.48,
+     "focus_y": 0.3,
+     "zoom": 1.7
+    },
+    {
+     "text": "**Franja não precisa ser decisão pra vida toda.** Grampo, rabo de cavalo ou tic-tac: escolha o jeito que combina com seu dia e teste antes de cortar.\n\n**Salva esse post pra quando bater a vontade de mudar.** E comenta FRANJA se você vai testar!",
+     "photo": "jade_perfil.jpg",
+     "focus": 0.5,
+     "focus_y": 0.35
+    }
+   ]
+  },
+  {
+   "id": 3,
+   "cover": {
+    "photo": "rih_essence_alt3.jpg",
+    "focus": 0.52,
+    "focus_y": 0.2,
+    "zoom": 1.55,
+    "headline": "Rihanna levou o **delineado vermelho** pra Paris e virou trend. Veja como usar o seu **sem errar**",
+    "sub": "Da versão discreta à de **Halloween.**",
+    "circles": [
+     {
+      "photo": "rih_mc_alt1.jpg",
+      "x": 870,
+      "y": 260,
+      "r": 165,
+      "fx": 0.07,
+      "fy": 0.21,
+      "zoom": 3.5
+     },
+     {
+      "photo": "rih_mc_alt1.jpg",
+      "x": 640,
+      "y": 150,
+      "r": 100,
+      "fx": 0.15,
+      "fy": 0.4,
+      "zoom": 4.0
+     }
+    ]
+   },
+   "slides": [
+    {
+     "text": "**Rihanna apareceu na Semana de Moda de Paris, no fim de setembro, com um detalhe que roubou a cena.** Segundo o Metrópoles, foi uma faixa de vermelho rubi na linha d'água de baixo, contornando os cantos interno e externo do olho.\n\nE **sem sombra esfumada.** O resto da make explica por que ficou tão elegante...",
+     "photo": "rih_mc.jpg",
+     "focus": 0.25,
+     "focus_y": 0.3
+    },
+    {
+     "text": "**...a pálpebra de cima ficou neutra,** com sombra dourada e cílios pretos, como descreveu o site Who What Wear. Nada competindo com o vermelho.\n\nE as unhas vieram vermelhas, **no mesmo tom do delineado.** Pronto: o detalhe virou tendência e foi parar até nas inspirações de Halloween...",
+     "photo": "rih_essence.jpg",
+     "focus": 0.5,
+     "focus_y": 0.3
+    },
+    {
+     "text": "**O Metrópoles chamou de trend de make pro Halloween.** E não foi só Rihanna: Zendaya usou um tom ferrugem na estreia romana de O Drama, outra versão do mesmo vermelho nos olhos.\n\nA boa notícia é que dá pra usar **do jeito discreto ao mais ousado.** Começando pela versão da Rihanna...",
+     "photo": "rih_metro_alt4.jpg",
+     "focus": 0.5,
+     "focus_y": 0.3
+    },
+    {
+     "text": "**Na linha d'água, seque a área com cotonete antes.** A Maybelline recomenda lápis à prova d'água e bem pigmentado, e o macio e cremoso pra olho sensível.\n\nSe incomodar, passe **rente à linha d'água, e não dentro dela.** Borra menos e lacrimeja menos. Prefere o vermelho em cima? Aí a regra é outra...",
+     "photo": "deli_dicas_alt2.jpg",
+     "focus": 0.4,
+     "focus_y": 0.3
+    },
+    {
+     "text": "**Comece com uma linha fina rente aos cílios de cima.** Depois leve a ponta na direção do fim da sobrancelha, subindo, e ligue ao traço, como ensina a TV Foco.\n\nO segredo, segundo a matéria: **não puxe o traço pra baixo,** porque isso deixa o olhar caído. E se você não tem lápis vermelho...",
+     "photo": "rih_metro.jpg",
+     "focus": 0.5,
+     "focus_y": 0.45
+    },
+    {
+     "text": "**...dá pra usar batom líquido vermelho.** O Dicas Delas ensina: passe uma sombra marrom na linha e, por cima, o batom líquido com pincel fino. Depois, mais uma camada pra ficar mais forte.\n\nA regra de ouro é **usar pouco produto e construir camadas.** Agora, um truque pra quem quer mais definição...",
+     "photo": "deli_dicas_alt1.jpg",
+     "focus": 0.5,
+     "focus_y": 0.3
+    },
+    {
+     "text": "**...faça primeiro um traço preto.** Por cima, o vermelho com pincel chanfrado, e sele com uma sombra do mesmo tom. Limpe o contorno com esponja e corrija com corretivo.\n\nA maquiadora Nathalia Capelo, ouvida pela Beleza na Web, faz parecido: **traço preto, espera secar e lápis colorido por cima.** Mas qual vermelho escolher?",
+     "photo": "deli_dicas_alt3.jpg",
+     "focus": 0.5,
+     "focus_y": 0.3
+    },
+    {
+     "text": "**Depende da cor dos seus olhos.** Segundo a TV Foco, olhos castanhos combinam com bordô. Olhos verdes ficam lindos com borgonha, rente aos cílios, sem carregar ao redor.\n\nE o ferrugem da Zendaya mostra que **o vermelho mais queimado também vale.** Escolhido o tom, falta equilibrar o resto do rosto...",
+     "photo": "deli_dicas_alt5.jpg",
+     "focus": 0.5,
+     "focus_y": 0.3
+    },
+    {
+     "text": "**Com o olho vermelho, o resto pede calma.** A maquiadora Karol Rodriguez, citada pelo Metrópoles, sugere suavizar o blush, em tons rosa avermelhados menos intensos.\n\nNa boca, **cores próximas do tom da pele.** A Maybelline concorda: com foco nos olhos, lábios mais neutros. E se a ideia é ousar no Halloween...",
+     "photo": "deli_dicas_alt4.jpg",
+     "focus": 0.5,
+     "focus_y": 0.3
+    },
+    {
+     "text": "**...aí vale exagerar.** A Karol indica rímel vermelho ou bordô pra quem quer mais drama. E a equipe da Zendaya já passou lápis vermelho vivo na pálpebra inteira num ensaio.\n\nVersões gráficas, delineado invertido e pontinhos também aparecem nas inspirações. **Comece pelo fino e vá subindo.**",
+     "photo": "deli_dicas_alt8.jpg",
+     "focus": 0.5,
+     "focus_y": 0.3
+    },
+    {
+     "text": "**Delineado vermelho não é só pra fantasia.** Na linha d'água, no traço fino ou no gatinho, ele levanta qualquer make neutra.\n\n**Salva pra testar no próximo rolê.** E comenta VERMELHO se você teria coragem!",
+     "photo": "deli_dicas_alt9.jpg",
+     "focus": 0.5,
+     "focus_y": 0.3
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "cover": {
+    "photo": "zen_terra2_alt3.jpg",
+    "focus": 0.5,
+    "focus_y": 0.3,
+    "zoom": 1.0,
+    "headline": "Zendaya repetiu o casaco do **tapete vermelho** com jeans. Veja como usar **peça de festa** no dia a dia",
+    "sub": "Só precisa de **um básico bem escolhido.**",
+    "circles": [
+     {
+      "photo": "zen_terra1_alt5.jpg",
+      "x": 860,
+      "y": 260,
+      "r": 165,
+      "fx": 0.5,
+      "fy": 0.22,
+      "zoom": 1.6
+     },
+     {
+      "photo": "zen_mc_alt9.jpg",
+      "x": 630,
+      "y": 150,
+      "r": 100,
+      "fx": 0.5,
+      "fy": 0.35,
+      "zoom": 1.3
+     }
+    ]
+   },
+   "slides": [
+    {
+     "text": "**Na terça (6), Zendaya foi ao desfile de verão 2027 da Louis Vuitton, em Paris, com uma peça que já tinha aparecido antes.** Era o casaco branco de renda e babados que ela usou no tapete vermelho.\n\nO Terra chamou de **lição de estilo.** E pra entender por quê, precisa ver a primeira vez...",
+     "photo": "zen_www_alt2.jpg",
+     "focus": 0.5,
+     "focus_y": 0.3
+    },
+    {
+     "text": "**...foi em julho, na estreia de A Odisseia, em Paris.** O casaco ficou aberto sobre um vestido branco de renda, longo e com fenda, num visual de inspiração nupcial.\n\nTrês meses depois, a mesma peça voltou **com regata branca e calça jeans.** E a fórmula é mais simples do que parece...",
+     "photo": "zen_terra1_alt3.jpg",
+     "focus": 0.5,
+     "focus_y": 0.25
+    },
+    {
+     "text": "**Peça marcante, regata branca, jeans e scarpin branco.** O site Who What Wear resumiu assim: \"você só precisa de uma jaqueta marcante e de um par de saltos brancos\".\n\nO contraste entre o casaco cheio de detalhe e o resto simples deixa o look **casual e fashionista ao mesmo tempo.** Mas tem um cuidado com o volume...",
+     "photo": "zen_mc_alt3.jpg",
+     "focus": 0.5,
+     "focus_y": 0.12
+    },
+    {
+     "text": "**...equilibre os babados com calça reta ou ajustada.** Essa é uma das dicas do Terra: se a parte de cima é volumosa, a de baixo fica mais limpa.\n\nZendaya foi de jeans reto e de cintura baixa. **Nada de muito volume em cima e embaixo ao mesmo tempo.** E tem um jeito de vestir a peça que muda tudo...",
+     "photo": "zen_www_alt5.jpg",
+     "focus": 0.5,
+     "focus_y": 0.42
+    },
+    {
+     "text": "**...use aberto, como terceira peça.** Sobre uma base básica, o casaco vira o centro do look sem esforço. É exatamente o que ela fez com a regata.\n\nOutra dica da matéria: **misture com peças urbanas,** como jeans, camiseta e acessórios. E nos acessórios, menos é mais...",
+     "photo": "zen_pw_alt3.jpg",
+     "focus": 0.5,
+     "focus_y": 0.15
+    },
+    {
+     "text": "**...prefira acessórios discretos e geométricos.** A dica é do FFW, pra não sobrecarregar o visual quando a renda já chama atenção. Zendaya foi de argolinhas e anéis.\n\nE se a ocasião pede mais arrumação? Dá pra fazer o contrário e montar **um look monocromático,** com vestido branco de renda...",
+     "photo": "zen_www_alt3.jpg",
+     "focus": 0.5,
+     "focus_y": 0.25
+    },
+    {
+     "text": "**...igual ao da estreia.** Peça de renda com vestido no mesmo tom fica elegante, e o FFW lembra que tons pastel e neutros deixam a renda mais solar e contemporânea.\n\nJá preto e vermelho dão um ar mais sensual e clássico. **A cor muda o clima da mesma peça.** Não tem casaco de renda? Calma...",
+     "photo": "zen_mc_alt4.jpg",
+     "focus": 0.5,
+     "focus_y": 0.15
+    },
+    {
+     "text": "**...a renda entra de outros jeitos.** O FFW sugere blusa de renda ajustada como segunda pele, por baixo de blazer ou cardigã. Ou saia de renda com camiseta oversized ou jaqueta de couro.\n\nPra trabalhar, **camisa de renda com calça reta de alfaiataria,** em cores sóbrias e com menos transparência. E a regata branca também pede atenção...",
+     "photo": "zen_mc_alt1.jpg",
+     "focus": 0.5,
+     "focus_y": 0.35
+    },
+    {
+     "text": "**...porque regata com jeans pode ficar básico demais.** O Steal the Look ensina a tirar do óbvio: sapato na mesma cor da regata, ou bolsa, óculos e sandália todos no mesmo tom.\n\nUma **regata de cetim com detalhe de renda** já faz o papel da peça especial. E a última dica é a mais libertadora...",
+     "photo": "regata_stl_alt5.jpg",
+     "focus": 0.5,
+     "focus_y": 0.3
+    },
+    {
+     "text": "**...repita a peça.** O Terra fecha assim: troque o vestido pela calça, mude o sapato e os acessórios, e a mesma roupa de festa ganha vida nova.\n\nZendaya mostrou que **repetir é estilo, não falta de opção.** Aquela peça parada no armário pode sair na semana que vem.",
+     "photo": "regata_stl_alt4.jpg",
+     "focus": 0.5,
+     "focus_y": 0.3
+    },
+    {
+     "text": "**Peça de festa não precisa esperar a próxima festa.** Com regata, jeans e um sapato certo, ela vira look de dia.\n\n**Salva pra montar o seu.** E comenta RENDA se você tem uma peça parada esperando a chance!",
+     "photo": "regata_stl_alt1.jpg",
+     "focus": 0.5,
+     "focus_y": 0.3
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,224 @@
+{
+ "reels": [
+  {
+   "post_id": 2,
+   "scenes": [
+    {
+     "text": "Cherry cola subiu **788%** no Pinterest",
+     "dur": 2.6,
+     "photo": {
+      "src": "cherry_anto_alt3.jpg",
+      "focus": 0.5,
+      "focusY": 0.3
+     }
+    },
+    {
+     "text": "Castanho com reflexo de **cereja escura**",
+     "dur": 2.4,
+     "photo": {
+      "src": "cherry_corte_alt5.jpg",
+      "focus": 0.5,
+      "focusY": 0.4
+     }
+    },
+    {
+     "text": "Antes de pintar, olhe sua **base**",
+     "dur": 2.2,
+     "style": "dark"
+    },
+    {
+     "text": "Fio escuro geralmente pede **descoloração** antes",
+     "dur": 2.6,
+     "photo": {
+      "src": "cherry_anto_alt4.jpg",
+      "focus": 0.5,
+      "focusY": 0.3
+     }
+    },
+    {
+     "text": "Faça com profissional e **teste antes**",
+     "dur": 2.4,
+     "photo": {
+      "src": "cherry_em_alt7.jpg",
+      "focus": 0.5,
+      "focusY": 0.4,
+      "mode": "card"
+     }
+    },
+    {
+     "text": "Primeira lavagem só depois de **72 horas**",
+     "dur": 2.6,
+     "photo": {
+      "src": "cherry_anto_alt1.jpg",
+      "focus": 0.5,
+      "focusY": 0.35
+     }
+    },
+    {
+     "text": "Água fria e **sem sulfato** pra durar",
+     "dur": 2.4,
+     "photo": {
+      "src": "cherry_em_alt5.jpg",
+      "focus": 0.5,
+      "focusY": 0.5,
+      "mode": "card"
+     }
+    },
+    {
+     "cta": true,
+     "text": "Você teria **coragem**?",
+     "sub": "Comenta CEREJA se faria",
+     "dur": 2.6
+    }
+   ]
+  },
+  {
+   "post_id": 4,
+   "scenes": [
+    {
+     "text": "Batom na **blusa branca** antes de sair?",
+     "dur": 2.6,
+     "photo": {
+      "src": "mancha_stl_alt2.jpg",
+      "focus": 0.5,
+      "focusY": 0.3
+     }
+    },
+    {
+     "text": "Primeiro: **não esfregue**",
+     "dur": 2.0,
+     "style": "dark"
+    },
+    {
+     "text": "Tire o excesso com uma **colher**",
+     "dur": 2.4,
+     "photo": {
+      "src": "mancha_decor.jpg",
+      "focus": 0.45,
+      "focusY": 0.5,
+      "mode": "card"
+     }
+    },
+    {
+     "text": "Pouco **detergente**, só na mancha",
+     "dur": 2.6,
+     "photo": {
+      "src": "mancha_anto_alt2.jpg",
+      "focus": 0.4,
+      "focusY": 0.5,
+      "mode": "card"
+     }
+    },
+    {
+     "text": "Espere e pressione pano com **água fria**",
+     "dur": 2.6,
+     "photo": {
+      "src": "mancha_decor_alt3.jpg",
+      "focus": 0.5,
+      "focusY": 0.5,
+      "mode": "card"
+     }
+    },
+    {
+     "text": "Seque com papel e **secador fraco**",
+     "dur": 2.4,
+     "photo": {
+      "src": "mancha_decor_alt4.jpg",
+      "focus": 0.6,
+      "focusY": 0.5,
+      "mode": "card"
+     }
+    },
+    {
+     "text": "Nada de **água sanitária** sem ler etiqueta",
+     "dur": 2.4
+    },
+    {
+     "cta": true,
+     "text": "Salva pra **emergência**",
+     "sub": "Comenta BATOM se já passou por isso",
+     "dur": 2.6
+    }
+   ]
+  }
+ ],
+ "stories": [
+  {
+   "kicker": "Enquete",
+   "text": "Você teria coragem de **franja** igual Jade Picon?",
+   "hint": "Vota aqui em cima",
+   "photo": {
+    "src": "jade_perfil_alt1.jpg",
+    "focus": 0.36,
+    "focusY": 0.3
+   }
+  },
+  {
+   "kicker": "Post novo",
+   "text": "3 jeitos de testar **franja** sem cortar",
+   "hint": "Toca no post pra ver",
+   "card": "post_01/slide_01.jpg"
+  },
+  {
+   "kicker": "Quiz",
+   "text": "Cabelo escuro precisa **descolorir** pro cherry cola?",
+   "hint": "Responde aqui embaixo",
+   "style": "dark"
+  },
+  {
+   "kicker": "Reel novo",
+   "text": "Tudo sobre o **cherry cola**",
+   "hint": "Toca no reel pra ver",
+   "card": "reel_02_capa.jpg"
+  },
+  {
+   "kicker": "Trend do momento",
+   "text": "Você usaria **delineado vermelho** igual Rihanna?",
+   "hint": "Vota aqui em cima",
+   "photo": {
+    "src": "rih_essence_alt3.jpg",
+    "focus": 0.52,
+    "focusY": 0.15
+   }
+  },
+  {
+   "kicker": "Post novo",
+   "text": "Como usar **delineado vermelho**",
+   "hint": "Toca no post pra ver",
+   "card": "post_03/slide_01.jpg"
+  },
+  {
+   "kicker": "Quiz",
+   "text": "Mancha de batom: pode **esfregar**?",
+   "hint": "Responde aqui embaixo"
+  },
+  {
+   "kicker": "Reel novo",
+   "text": "Tire **batom** da roupa em minutos",
+   "hint": "Toca no reel pra ver",
+   "card": "reel_04_capa.jpg"
+  },
+  {
+   "kicker": "Enquete",
+   "text": "Quanto você ama **renda** no dia a dia?",
+   "hint": "Desliza aqui em cima",
+   "photo": {
+    "src": "zen_www_alt6.jpg",
+    "focus": 0.5,
+    "focusY": 0.12
+   }
+  },
+  {
+   "kicker": "Post novo",
+   "text": "Como usar **peça de festa** no dia a dia",
+   "hint": "Toca no post pra ver",
+   "card": "post_05/slide_01.jpg"
+  },
+  {
+   "kicker": "Caixinha",
+   "text": "Qual **tutorial** você quer ver amanhã?",
+   "hint": "Manda aqui embaixo",
+   "style": "dark"
+  }
+ ]
+}
