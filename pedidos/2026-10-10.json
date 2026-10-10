@@ -1,0 +1,51 @@
+{
+  "date": "2026-10-10",
+  "items": [
+    {"file": "jade_portalin.jpg", "type": "article", "max": 10, "url": "https://www.portalin.com.br/notas/de-franja-jade-picon-estreia-na-temporada-de-paris-em-desfile-da-stella-mccartney/"},
+    {"file": "jade_celeb.jpg", "type": "article", "max": 14, "url": "https://celebmafia.com/jade-picon-wears-ice-blue-stella-mccartney-tailoring-in-paris-4726299/"},
+    {"file": "jade_perfil.jpg", "type": "article", "url": "https://brasil.perfil.com/beleza/paris-fashion-week-jade-picon-muda-visual-e-exibe-franja-em-desfile-de-luxo.phtml"},
+    {"file": "jade_dm1.jpg", "type": "article", "url": "https://diariodamidia.com.br/ex-bbbs-jade-picon-chama-atencao-com-franja-em-paris"},
+    {"file": "jade_dm2.jpg", "type": "article", "url": "https://diariodamidia.com.br/jade-picon-exibe-abdomen-em-alfaiataria-da-stella-mccartney"},
+    {"file": "jade_agitos.jpg", "type": "article", "url": "https://www.agitossp.com.br/jade-picon-radicaliza-no-visual-em-seu-primeiro-desfile-na-semana-de-moda-em-paris/"},
+    {"file": "franja_alto.jpg", "type": "article", "url": "https://altoastral.joaobidu.com.br/beleza/dakota-j-law-e-jade-picon-as-franjas-sao-a-grande-aposta-de-2026.phtml"},
+    {"file": "franja_ath.jpg", "type": "article", "max": 12, "url": "https://www.allthingshair.com/br/penteados-cortes/franjas/aplique-de-franja-para-mudar-o-visual-sem-cortar-o-cabelo.html"},
+    {"file": "franja_lafemme.jpg", "type": "article", "url": "https://lafemmeinstitut.com.br/como-fazer-uma-franja-falsa-e-mudar-totalmente-o-visual/"},
+    {"file": "franja_mulher.jpg", "type": "article", "url": "https://www.mulher.com.br/moda-e-beleza/beleza/video-ensina-como-fazer-franja-de-mentirinha-usando-o-proprio-cabelo"},
+    {"file": "franja_salao.jpg", "type": "article", "max": 12, "url": "https://salaovirtual.org/tudo-sobre-franja-falsa/"},
+    {"file": "franja_cacho.jpg", "type": "article", "url": "https://todecacho.com.br/franja-falsa-cabelo-cacheado/"},
+
+    {"file": "cherry_cnn.jpg", "type": "article", "url": "https://www.cnnbrasil.com.br/lifestyle/saiba-como-aderir-ao-cabelo-vermelho-cherry-nova-tendencia-entre-famosas/"},
+    {"file": "cherry_corte.jpg", "type": "article", "max": 14, "url": "https://cortedecabelofeminino.com.br/cabelo-vermelho/"},
+    {"file": "cherry_anto.jpg", "type": "article", "max": 12, "url": "https://antoniettasp.com.br/cabelo-dark-cherry/"},
+    {"file": "cherry_loreal.jpg", "type": "article", "url": "https://www.loreal-paris.com.br/cabelo-vermelho-cereja"},
+    {"file": "cherry_em.jpg", "type": "article", "url": "https://www.em.com.br/emfoco/2026/05/25/a-cor-de-cabelo-que-fez-sucesso-nos-anos-90-voltou-com-forca-e-ja-e-tendencia-em-2026/"},
+    {"file": "cherry_pin.jpg", "type": "article", "url": "https://ocapixaba.com.br/beleza/2026/10/cabelo-rosa-e-maquiagem-gelada-as-novas-tendencias-de-beleza-do-pinterest/"},
+
+    {"file": "rih_metro.jpg", "type": "article", "max": 10, "url": "https://www.metropoles.com/vida-e-estilo/delineado-vermelho-vira-trend-de-make-para-o-halloween-confira-inspiracoes"},
+    {"file": "rih_glp4.jpg", "type": "article", "url": "https://glp4.com/noticia/rihanna-transforma-detalhe-de-maquiagem-em-tendencia-durante-passagem-por-paris"},
+    {"file": "rih_www.jpg", "type": "article", "url": "https://www.whowhatwear.com/beauty/makeup/rihanna-inde-navarrette-paris-fashion-week-eyeliner"},
+    {"file": "rih_essence.jpg", "type": "article", "max": 12, "url": "https://www.essence.com/beauty/rihanna-matieres-fecales-pfw-ss27/"},
+    {"file": "rih_mc.jpg", "type": "article", "max": 10, "url": "https://www.marieclaire.com/fashion/celebrity-style/rihanna-matieres-fecales-paris-fashion-week-show-zendaya/"},
+    {"file": "rih_wwd.jpg", "type": "article", "max": 14, "url": "https://wwd.com/pop-culture/celebrity-news/gallery/celebrity-beauty-paris-fashion-week-photos-1239286911/"},
+    {"file": "deli_dicas.jpg", "type": "article", "max": 14, "url": "https://dicasdelas.dci.com.br/beleza/delineado-vermelho/12752/"},
+    {"file": "deli_tvfoco.jpg", "type": "article", "url": "https://tvfoco.uai.com.br/como-usar-o-delineador-colorido-para-levantar-e-destacar-o-olhar/"},
+    {"file": "deli_bnw.jpg", "type": "article", "url": "https://www.belezanaweb.com.br/loucas-por-beleza/como-fazer-delineador-colorido/"},
+    {"file": "deli_mayb.jpg", "type": "article", "url": "https://www.maybelline.com.br/dicas-de-maquiagem/tendencias/maquiagem-vermelha"},
+
+    {"file": "mancha_stl.jpg", "type": "article", "url": "https://stealthelook.com.br/como-tirar-mancha-de-batom-da-roupa-branca-antes-de-sair-de-casa-rapido/"},
+    {"file": "mancha_clean.jpg", "type": "article", "url": "https://www.cleanipedia.com/br/lavanderia/como-tirar-mancha-de-batom-da-roupa.html"},
+    {"file": "mancha_casa.jpg", "type": "article", "url": "https://www.cuidadodacasa.com.br/truques-e-dicas-de-limpeza/roupa/como-remover-manchas-de-batom-de-sua-roupa"},
+    {"file": "mancha_decor.jpg", "type": "article", "max": 12, "url": "https://www.decorfacil.com/como-tirar-mancha-de-batom/"},
+    {"file": "mancha_anto.jpg", "type": "article", "url": "https://antoniettasp.com.br/como-tirar-mancha-de-batom-de-roupa-colorida/"},
+
+    {"file": "zen_terra2.jpg", "type": "article", "url": "https://www.terra.com.br/vida-e-estilo/autocuidado/moda/zendaya-da-licao-de-estilo-ao-repetir-casaco-da-louis-vuitton-de-tapete-vermelho-com-jeans-e-regata-branca,64505ac70550f40881d8a51047471ea4ep4soger.html"},
+    {"file": "zen_terra1.jpg", "type": "article", "url": "https://www.terra.com.br/diversao/zendaya-reinventa-look-com-mesma-jaqueta-no-desfile-da-louis-vuitton,0f6f4b1e022431a4f3f655d8fff735b4lautyzmr.html"},
+    {"file": "zen_www.jpg", "type": "article", "url": "https://www.whowhatwear.com/fashion/celebrity-style/zendaya-louis-vuitton-tank-top-jeans-outfit-paris-fashion-week"},
+    {"file": "zen_mc.jpg", "type": "article", "max": 10, "url": "https://www.marieclaire.com/fashion/celebrity-style/zendaya-louis-vuitton-spring-summer-2027-show-ruffled-jacket-french-girl-denim/"},
+    {"file": "zen_pw.jpg", "type": "article", "url": "https://www.purewow.com/news/zendaya-rewears-louis-vuitton-jacket"},
+    {"file": "zen_ffw.jpg", "type": "article", "url": "https://ffw.com.br/noticias/moda/zendaya-rouba-a-cena-com-vestido-louis-vuitton-exclusivo-na-estreia-de-a-odisseia-em-paris/"},
+    {"file": "renda_ffw.jpg", "type": "article", "max": 10, "url": "https://ffw.com.br/noticias/moda/como-usar-renda-no-dia-a-dia-7-dicas-para-combinar-a-peca-chave-com-jeans-e-alfaiataria/"},
+    {"file": "regata_stl.jpg", "type": "article", "max": 10, "url": "https://stealthelook.com.br/como-tirar-do-basico-os-looks-com-calca-jeans-e-regata/"},
+    {"file": "renda_stl.jpg", "type": "article", "max": 10, "url": "https://stealthelook.com.br/looks-com-renda-estilosos-para-copiar-ja/"}
+  ]
+}
