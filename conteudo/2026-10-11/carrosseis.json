@@ -1,0 +1,413 @@
+{
+ "posts": [
+  {
+   "id": 1,
+   "cover": {
+    "photo": "giulia_alo1_alt3.jpg",
+    "focus": 0.4,
+    "focus_y": 0.2,
+    "zoom": 1.0,
+    "headline": "Giulia Be casou ontem no Rio de **ondas e semipreso.** Veja como fazer o penteado **em casa**",
+    "sub": "Ondas, pente fino e **um elástico de silicone.**",
+    "circles": [
+     {
+      "photo": "giulia_poder_alt2.jpg",
+      "x": 905,
+      "y": 600,
+      "r": 150,
+      "fx": 0.22,
+      "fy": 0.35,
+      "zoom": 2.2
+     },
+     {
+      "photo": "giulia_caras_alt3.jpg",
+      "x": 175,
+      "y": 640,
+      "r": 105,
+      "fx": 0.6,
+      "fy": 0.4,
+      "zoom": 1.6
+     }
+    ]
+   },
+   "slides": [
+    {
+     "text": "**Giulia Be se casou com Conor Kennedy neste sábado (10),** na Igreja Nossa Senhora do Carmo da Antiga Sé, no centro do Rio. Segundo o Purepeople, ela usou **ondas suaves num semipreso,** com a frente puxada para trás para segurar o véu.\n\nÉ o penteado curinga de casamento, formatura e jantar. E ele começa antes do babyliss...",
+     "photo": "giulia_poder_alt2.jpg",
+     "focus": 0.0,
+     "focus_y": 0.5,
+     "zoom": 1.3
+    },
+    {
+     "text": "**...com o cabelo lavado e bem seco.** O passo a passo publicado pelo All Things Hair começa na lavagem, e as ondas só entram com os fios secos.\n\nPra fazer as ondas, vale o que você tiver em casa: **modelador de cachos, prancha ou até papel alumínio.** Feitas as ondas, nada de escova...",
+     "photo": "giulia_caras_alt1.jpg",
+     "focus": 0.5,
+     "focus_y": 0.3
+    },
+    {
+     "text": "**...solte os cachos com os dedos.** Passe um pouquinho de sérum nas mãos e vá abrindo as ondas, mecha por mecha.\n\nO efeito que você quer é o da noiva: **onda solta, com movimento, sem cachinho marcado.** Agora vem a parte que dá altura ao penteado...",
+     "photo": "semi_tudo_alt11.jpg",
+     "focus": 0.2,
+     "focus_y": 0.3
+    },
+    {
+     "text": "**...separe uma mecha redonda no alto da cabeça.** Use a ponta de um pente fino e prenda essa parte com uma presilha. O resto do cabelo fica preso com outra presilha, só pra não atrapalhar.\n\nCom o topo separado, **desfie de cima para baixo, com delicadeza.** E tem um produto que segura esse volume...",
+     "photo": "semi_tudo_alt8.jpg",
+     "focus": 0.5,
+     "focus_y": 0.35
+    },
+    {
+     "text": "**...shampoo a seco na raiz da mecha do topo.** É ele que dá corpo e mantém o volume no lugar.\n\nDepois, penteie o topo suavemente para trás, **sem desmanchar o volume.** Foi essa frente puxada para trás que segurou o véu da Giulia. Falta só prender sem marcar...",
+     "photo": "giulia_alo1.jpg",
+     "focus": 0.55,
+     "focus_y": 0.3
+    },
+    {
+     "text": "**...com um elástico de silicone.** O All Things Hair indica esse tipo porque ele é mais fino e evita quebrar os fios.\n\nPra acabamento de salão, **enrole uma mecha fina em volta do elástico e prenda com um grampo.** Pronto, o elástico some. Agora é cuidar do comprimento...",
+     "photo": "semi_tudo_alt2.jpg",
+     "focus": 0.4,
+     "focus_y": 0.4
+    },
+    {
+     "text": "**...solte o comprimento e alinhe com os dedos.** Assim as ondas continuam abertas e o penteado fica com cara de natural.\n\nNo grande dia, a Giulia completou o visual com **make luminosa, pele com efeito glow, blush rosado e boca nude rosada,** como descreveu o Purepeople. E não precisa ser noiva pra usar...",
+     "photo": "giulia_caras_alt3.jpg",
+     "focus": 0.6,
+     "focus_y": 0.4
+    },
+    {
+     "text": "**O próprio passo a passo indica o semipreso para casamentos e encontros.** E também pro dia a dia, quando o cabelo está sem volume.\n\nOu seja: **funciona pra noiva, pra madrinha, pra convidada e pra segunda-feira.** São só ondas, um topo com volume e um elástico bem escondido...",
+     "photo": "semi_tudo_alt7.jpg",
+     "focus": 0.5,
+     "focus_y": 0.3
+    },
+    {
+     "text": "**Ondas abertas, topo com volume e elástico escondido.** É assim que o semipreso da Giulia Be vira o seu penteado de festa, sem precisar de salão.\n\nSalva pra fazer no próximo casamento e **comenta NOIVA** se você vai testar.",
+     "photo": "giulia_poder.jpg",
+     "focus": 0.1,
+     "focus_y": 0.3
+    }
+   ]
+  },
+  {
+   "id": 2,
+   "cover": {
+    "photo": "glitter_mgt.jpg",
+    "focus": 0.24,
+    "focus_y": 0.3,
+    "zoom": 1.0,
+    "headline": "Zara Larsson trouxe de volta a **tatuagem de glitter** e ela virou trend antes do Halloween. Veja como fazer **sem irritar a pele**",
+    "sub": "Molde, adesivo próprio e **glitter cosmético.**",
+    "circles": [
+     {
+      "photo": "glitter_fv.jpg",
+      "x": 200,
+      "y": 250,
+      "r": 160,
+      "fx": 0.75,
+      "fy": 0.5,
+      "zoom": 1.4
+     },
+     {
+      "photo": "glitter_tikkido_alt3.jpg",
+      "x": 200,
+      "y": 520,
+      "r": 100,
+      "fx": 0.45,
+      "fy": 0.5,
+      "zoom": 1.3
+     }
+    ]
+   },
+   "slides": [
+    {
+     "text": "**A tatuagem de glitter voltou, e o TikTok tem culpa.** Um relatório da agência francesa NellyRodi, de setembro, aponta a volta da técnica e cita a cantora Zara Larsson entre as famosas que trouxeram a moda de volta.\n\nNa turnê dela, a maquiadora Sophia Sinot fez **borboletas de glitter descendo pela coluna,** contou a Marie Claire. Mas o que é, exatamente...",
+     "photo": "zara_mc_alt1.jpg",
+     "focus": 0.5,
+     "focus_y": 0.3
+    },
+    {
+     "text": "**...um desenho temporário feito com molde vazado, glitter cosmético e adesivo próprio para a pele.** Sem agulha e sem pigmento, explica a Folha Vitória.\n\nPor isso virou opção pro Halloween, **no lugar de uma make elaborada.** Só que antes de pegar o glitter, vem a regra mais importante...",
+     "photo": "zara_vogue.jpg",
+     "focus": 0.5,
+     "focus_y": 0.4
+    },
+    {
+     "text": "**...use só glitter com indicação cosmética.** Glitter escolar ou de artesanato não vai na pele. O mesmo vale para a cola: tem que ser adesivo corporal próprio.\n\nConfira no rótulo a área permitida, porque **produto liberado pro corpo não serve automaticamente pros olhos ou pra boca.** E escolha bem onde aplicar...",
+     "photo": "glitter_beautylish.jpg",
+     "focus": 0.5,
+     "focus_y": 0.5
+    },
+    {
+     "text": "**...numa área sem ferimento, irritação ou queimadura de sol.** Limpe a pele e deixe secar por completo, sem hidratante, óleo ou suor.\n\nSe o produto for novo, a Folha Vitória recomenda **testar numa área pequena e observar por 24 horas.** Pele pronta? Agora sim, o molde...",
+     "photo": "glitter_mgt2.jpg",
+     "focus": 0.5,
+     "focus_y": 0.5
+    },
+    {
+     "text": "**...posicione o molde sem deixar dobras.** Ele precisa ficar bem rente à pele pra o desenho sair com contorno certinho.\n\nPor cima do molde, **aplique uma camada fina do adesivo cosmético.** É nele que o glitter vai grudar. E tem um jeito certo de colocar o glitter...",
+     "photo": "glitter_tikkido.jpg",
+     "focus": 0.45,
+     "focus_y": 0.5
+    },
+    {
+     "text": "**...pressione o glitter com um pincel pequeno, sem arrastar.** Vá preenchendo todo o desenho com toquinhos leves.\n\nDá pra brincar com cores, como nas borboletas da Zara. **O segredo é pressionar, nunca esfregar o pincel.** E agora vem o momento mais satisfatório...",
+     "photo": "glitter_tikkido_alt1.jpg",
+     "focus": 0.45,
+     "focus_y": 0.5
+    },
+    {
+     "text": "**...retire o molde devagar.** Com calma, pra não levar junto o glitter do desenho.\n\nDepois, **tire o excesso em volta com um pincel limpo.** Pro Halloween, a Folha Vitória sugere teias, luas, morcegos e estrelas metalizadas. E na hora de tirar, nada de raspar...",
+     "photo": "glitter_tikkido_alt2.jpg",
+     "focus": 0.45,
+     "focus_y": 0.5
+    },
+    {
+     "text": "**...use o removedor indicado pelo fabricante, ou um óleo de limpeza ou demaquilante.** Movimentos leves, depois sabonete suave e hidratante.\n\nE atenção: **nada de glitter perto dos olhos, nem na linha d'água.** Se coçar, arder, avermelhar ou inchar, pare, lave com bastante água e procure atendimento se não passar.",
+     "photo": "glitter_fv.jpg",
+     "focus": 0.75,
+     "focus_y": 0.5
+    },
+    {
+     "text": "**Molde, adesivo próprio e glitter cosmético: a trend é fácil, desde que seja segura.** A borboleta da Zara pode virar a sua fantasia mais rápida deste Halloween.\n\nSalva pra fazer no dia 31 e **comenta GLITTER** se você vai testar.",
+     "photo": "zara_mc.jpg",
+     "focus": 0.5,
+     "focus_y": 0.3
+    }
+   ]
+  },
+  {
+   "id": 3,
+   "cover": {
+    "photo": "khloe_mc3.jpg",
+    "focus": 0.45,
+    "focus_y": 0.25,
+    "zoom": 1.0,
+    "headline": "Khloé Kardashian mostrou **unha de Bambi,** com pintinhas de filhote de cervo. Veja como fazer a sua **só com palito**",
+    "sub": "Esmalte nude, caramelo, branco e **um palito de dente.**",
+    "circles": [
+     {
+      "photo": "khloe_mcweek_alt7.jpg",
+      "x": 860,
+      "y": 250,
+      "r": 170,
+      "fx": 0.5,
+      "fy": 0.45,
+      "zoom": 1.3
+     },
+     {
+      "photo": "khloe_zoe.jpg",
+      "x": 640,
+      "y": 140,
+      "r": 105,
+      "fx": 0.52,
+      "fy": 0.4,
+      "zoom": 1.4
+     }
+    ]
+   },
+   "slides": [
+    {
+     "text": "**Khloé Kardashian apareceu com uma unha inspirada no Bambi.** Quem assina é a manicure Zola Ganzorigt, que mostrou o trabalho no Instagram, segundo o The Zoe Report.\n\nA unha é stiletto, com **base nude rosada, francesinha bege e caramelo com pintinhas brancas,** lembrando o pelo de filhote de cervo. E dá pra adaptar em casa...",
+     "photo": "khloe_mcweek_alt7.jpg",
+     "focus": 0.5,
+     "focus_y": 0.75
+    },
+    {
+     "text": "**...com o que você já tem na nécessaire.** O passo a passo de unha de bolinhas do Beleza na Web pede base fortalecedora, um esmalte nude, as cores das bolinhas, um pratinho, um palito e top coat.\n\nPra versão Bambi, **as cores são caramelo e branco.** E o primeiro passo protege a sua unha...",
+     "photo": "khloe_zoe.jpg",
+     "focus": 0.52,
+     "focus_y": 0.4
+    },
+    {
+     "text": "**...a base fortalecedora.** Passe em toda a unha. Segundo o Beleza na Web, ela ajuda a decoração de bolinhas a descascar menos.\n\nDepois vem o fundo: **um esmalte nude, perto do tom natural da sua unha.** Na Khloé, a base é nude rosada e a ponta ganhou francesinha bege. Agora entra o caramelo...",
+     "photo": "bolinha_cb.jpg",
+     "focus": 0.5,
+     "focus_y": 0.5
+    },
+    {
+     "text": "**...de um jeito alternado.** A Zola aplicou o caramelo ora perto da cutícula, ora na ponta da unha, conta o The Zoe Report. É esse revezamento que deixa o desenho divertido.\n\nEm casa, **o caramelo vai com o pincel do próprio esmalte.** Já as pintinhas pedem um truque de pratinho...",
+     "photo": "khloe_mc2_alt3.jpg",
+     "focus": 0.5,
+     "focus_y": 0.45
+    },
+    {
+     "text": "**...pingue uma gotinha de esmalte branco num pratinho.** Molhe a ponta de um palito de dente e pressione pontinhos irregulares sobre a unha.\n\nNa unha de Bambi, **as pintinhas têm tamanhos alternados,** e é isso que dá cara de pelo de filhote. Terminou os pontinhos? Falta o passo que faz durar...",
+     "photo": "khloe_mcweek_alt11.jpg",
+     "focus": 0.5,
+     "focus_y": 0.4
+    },
+    {
+     "text": "**...o top coat.** Sele tudo com uma camada por cima. Segundo o Beleza na Web, é ele que ajuda a nail art a durar mais.\n\nE a mesma técnica serve pra outras versões: no passo a passo original, **as bolinhas são de várias cores, no estilo confete.** É só trocar os esmaltes do pratinho...",
+     "photo": "bolinha_opovo.jpg",
+     "focus": 0.5,
+     "focus_y": 0.5
+    },
+    {
+     "text": "**Base, nude, caramelo, pintinhas no palito e top coat.** É assim que a unha de Bambi da Khloé Kardashian sai da manicure das famosas pra sua casa.\n\nSalva pra fazer no fim de semana e **comenta BAMBI** se você vai testar.",
+     "photo": "khloe_mc2_alt1.jpg",
+     "focus": 0.5,
+     "focus_y": 0.3
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "cover": {
+    "photo": "manu_correio.jpg",
+    "focus": 0.2,
+    "focus_y": 0.3,
+    "zoom": 1.0,
+    "headline": "Manu Gavassi abriu o apê com **toque japonês** em São Paulo. Veja como levar esse clima pra sua casa **sem reforma**",
+    "sub": "Menos objetos, madeira, fibra natural e **luz suave.**",
+    "circles": [
+     {
+      "photo": "manu_correio_alt1.jpg",
+      "x": 860,
+      "y": 250,
+      "r": 170,
+      "fx": 0.72,
+      "fy": 0.5,
+      "zoom": 1.5
+     },
+     {
+      "photo": "jap_elle_alt8.jpg",
+      "x": 640,
+      "y": 140,
+      "r": 105,
+      "fx": 0.5,
+      "fy": 0.5,
+      "zoom": 1.1
+     }
+    ]
+   },
+   "slides": [
+    {
+     "text": "**Manu Gavassi e Jullio Reis abriram o dúplex onde vivem com a filha, Nara, em São Paulo.** O tour saiu no canal da Casa Vogue Brasil e foi contado pelo Purepeople.\n\nO projeto é do escritório Meireles + Pavan e **mistura referências japonesas, design mid-century e clima dos anos 70.** E o detalhe japonês mais bonito fica logo na entrada...",
+     "photo": "manu_tudo.jpg",
+     "focus": 0.5,
+     "focus_y": 0.35
+    },
+    {
+     "text": "**...um recorte redondo num painel de jacarandá.** Ele faz referência à satori no mado, janela de templos zen-budistas associada à lua cheia.\n\nE o Japão não está só na decoração: **a filha se chama Nara, nome da cidade japonesa onde o casal ficou noivo.** Pra trazer esse clima pra sua casa, a primeira regra não custa nada...",
+     "photo": "manu_correio_alt1.jpg",
+     "focus": 0.72,
+     "focus_y": 0.5
+    },
+    {
+     "text": "**...tirar o excesso.** No estilo japandi, que mistura Japão e Escandinávia, a Elle Brasil resume: tudo dentro de casa deve ter uma função.\n\nEscolha **poucos objetos decorativos, com critério.** O resto vai pra dentro do armário. Com espaço livre, vem a escolha das cores...",
+     "photo": "jap_elle.jpg",
+     "focus": 0.5,
+     "focus_y": 0.5
+    },
+    {
+     "text": "**...tons suaves, inspirados na natureza.** Cru, bege e branco, inclusive no piso, são os indicados pela Elle Brasil.\n\nA paleta clara deixa o ambiente calmo e **faz os materiais naturais aparecerem.** E o material número um desse estilo é a madeira...",
+     "photo": "jap_nsc.jpg",
+     "focus": 0.5,
+     "focus_y": 0.5
+    },
+    {
+     "text": "**...de preferência clara, em móveis, pisos e revestimentos,** segundo a Elle. No apê da Manu, parte da madeira escura original do imóvel foi preservada.\n\nPra completar, **fibras naturais como sisal, corda e palha,** e tecidos como linho, algodão e tricô, que deixam o minimalismo aconchegante. Falta o toque vivo...",
+     "photo": "manu_correio_alt8.jpg",
+     "focus": 0.5,
+     "focus_y": 0.5
+    },
+    {
+     "text": "**...plantas e natureza dentro de casa.** Se não tem janela pra jardim, posicione vasos em pontos estratégicos, sugere a Elle.\n\nCerâmica artesanal e **arranjos de ikebana,** a arte japonesa de arranjar flores, trazem significado sem encher a casa de coisa. E tem um detalhe que muda tudo à noite...",
+     "photo": "jap_elle_alt7.jpg",
+     "focus": 0.5,
+     "focus_y": 0.4
+    },
+    {
+     "text": "**...a luz.** Priorize a luz natural ou uma luz suave. No inverno, as velas entram como opção, segundo a Elle.\n\nPra apartamento pequeno, a arquiteta Marina Lacerda, ouvida pela revista, sugere **cômodos flexíveis, que mudam de função.** E o terraço da Manu mostra como o verde fecha o projeto...",
+     "photo": "manu_correio_alt9.jpg",
+     "focus": 0.5,
+     "focus_y": 0.5
+    },
+    {
+     "text": "**...com plantas, poltronas e móveis de descanso,** numa referência às alamedas do Instituto Inhotim, segundo o Purepeople.\n\nÉ o mesmo princípio do japandi: **pouca coisa, material natural e verde.** Dá pra começar hoje, por uma prateleira só...",
+     "photo": "manu_correio_alt5.jpg",
+     "focus": 0.5,
+     "focus_y": 0.5
+    },
+    {
+     "text": "**Menos objetos, madeira, fibra natural, planta e luz suave.** É assim que o clima japonês do apê da Manu Gavassi cabe na sua casa, sem quebrar parede.\n\nSalva pra arrumar a sua e **comenta CASA** se você vai testar.",
+     "photo": "manu_pure.jpg",
+     "focus": 0.35,
+     "focus_y": 0.3
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "cover": {
+    "photo": "zoe_www_alt5.jpg",
+    "focus": 0.5,
+    "focus_y": 0.25,
+    "zoom": 1.0,
+    "headline": "Zoë Kravitz saiu toda de preto com **um lenço roxo** e virou a prova da trend. Veja como usar a cor **sem errar**",
+    "sub": "Roxo é o novo neutro, e **começa por um acessório.**",
+    "circles": [
+     {
+      "photo": "zoe_www_alt2.jpg",
+      "x": 860,
+      "y": 250,
+      "r": 170,
+      "fx": 0.6,
+      "fy": 0.35,
+      "zoom": 1.3
+     }
+    ]
+   },
+   "slides": [
+    {
+     "text": "**Zoë Kravitz voltou da temporada de moda e saiu pelas ruas de Nova York toda de preto.** Casaco curto, bolsa de couro, bota de salto bloco e óculos.\n\nA única cor era **um lenço roxo que ela tem desde dezembro de 2025,** contou a Marie Claire. E a revista decretou: roxo é o novo neutro. Mas por que agora...",
+     "photo": "zoe_mc_alt4.jpg",
+     "focus": 0.5,
+     "focus_y": 0.12
+    },
+    {
+     "text": "**...porque o roxo tomou as passarelas.** Segundo a Marie Claire, a cor apareceu no inverno 2025 de Miu Miu, Gucci e McQueen e voltou no verão 2027 de Bottega Veneta, Tory Burch e Vivienne Westwood.\n\nNa rua, **convidadas em Nova York, Londres e Paris também foram de roxo.** O jeito mais fácil de começar é o da Zoë...",
+     "photo": "zoe_mc_alt6.jpg",
+     "focus": 0.5,
+     "focus_y": 0.3
+    },
+    {
+     "text": "**...um acessório roxo sobre básicos neutros.** A FFW indica peças roxas ou lilases com cinza, bege, off-white ou marrom.\n\nBolsa, sapato ou lenço na cor **levantam um look simples, tipo jeans com camiseta branca.** Quer ir um passo além? Tem o blazer...",
+     "photo": "zoe_www_alt10.jpg",
+     "focus": 0.5,
+     "focus_y": 0.3
+    },
+    {
+     "text": "**...um blazer oversized lilás sobre um look neutro.** Segundo a FFW, ele eleva a produção com pouco esforço.\n\nA Jennifer Lawrence foi pelo caminho da saia em Nova York: **saia de chiffon lilás clarinho com blazer cropped e mule de cetim,** registrou a Marie Claire. E quem tem coragem pode ir de cor inteira...",
+     "photo": "jlaw_www_alt5.jpg",
+     "focus": 0.5,
+     "focus_y": 0.62
+    },
+    {
+     "text": "**...no look monocromático, da cabeça aos pés.** A FFW explica: lilás passa leveza e romantismo, bom pra eventos de dia e trabalho. Roxo, em terno ou vestido longo, transmite poder.\n\nPra não ficar monótono, **misture texturas, como tricô com couro ou seda fluida.** Se monocromático assusta, existe o meio-termo...",
+     "photo": "zoe_mc_alt7.jpg",
+     "focus": 0.5,
+     "focus_y": 0.3
+    },
+    {
+     "text": "**...o tom sobre tom.** Calça roxa intensa com blusa ou camisa lilás suave, sugere a FFW. O contraste entre escuro e claro valoriza a silhueta.\n\nÉ a mesma cor em **duas intensidades,** então a combinação já vem pronta. Agora, pra quem gosta de ousar...",
+     "photo": "zoe_www2_alt9.jpg",
+     "focus": 0.5,
+     "focus_y": 0.3
+    },
+    {
+     "text": "**...o color blocking.** Lilás com verde-menta ou amarelo-manteiga dá um visual fresco e contemporâneo, segundo a FFW.\n\nJá **roxo vibrante com laranja ou vermelho** é pra quem quer impacto. Do mais discreto ao mais ousado, tem um jeito de usar pra cada estilo...",
+     "photo": "zoe_mc_alt8.jpg",
+     "focus": 0.5,
+     "focus_y": 0.3
+    },
+    {
+     "text": "**Acessório, blazer, monocromático, tom sobre tom ou color blocking: o roxo cabe em qualquer estilo.** A Zoë provou que basta um lenço pra mudar um look todo preto.\n\nSalva pra montar o seu e **comenta ROXO** se você vai testar.",
+     "photo": "zoe_www_alt3.jpg",
+     "focus": 0.5,
+     "focus_y": 0.3
+    }
+   ]
+  }
+ ]
+}

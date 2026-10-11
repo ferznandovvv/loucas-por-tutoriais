@@ -1,0 +1,15 @@
+{
+ "reels": [
+  {"post_id": 1, "scenes": [
+   {"text": "Giulia Be casou de **ondas e semipreso**", "dur": 2.8, "photo": {"src": "giulia_alo1_alt3.jpg", "mode": "card", "focus": 0.38, "focusY": 0.2, "zoom": 1.2}},
+   {"text": "Dá pra fazer o penteado **em casa**", "dur": 2.2, "style": "dark"},
+   {"text": "Ondas com o cabelo **bem seco**", "dur": 2.4, "photo": {"src": "semi_tudo_alt11.jpg", "focus": 0.2, "focusY": 0.3}},
+   {"text": "Solte os cachos **com os dedos**", "dur": 2.4, "photo": {"src": "semi_tudo_alt8.jpg", "focus": 0.5, "focusY": 0.35}},
+   {"text": "Topo desfiado e **shampoo a seco**", "dur": 2.6, "photo": {"src": "giulia_poder_alt2.jpg", "mode": "card", "focus": 0.2, "focusY": 0.45, "zoom": 1.6}},
+   {"text": "Prenda com **elástico de silicone**", "dur": 2.4, "photo": {"src": "semi_tudo_alt2.jpg", "focus": 0.4, "focusY": 0.4}},
+   {"text": "Esconda o elástico com **uma mecha**", "dur": 2.4},
+   {"cta": true, "text": "Salva pro **próximo casamento**", "sub": "Comenta NOIVA se você vai testar", "dur": 2.6}
+  ]}
+ ],
+ "stories": []
+}

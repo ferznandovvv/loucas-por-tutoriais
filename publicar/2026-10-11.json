@@ -2,12 +2,115 @@
  "date": "2026-10-11",
  "posts": [
   {
+   "id": "manu",
+   "tipo": "carrossel",
+   "horario": "2026-10-11T10:00",
+   "aprovado": false,
+   "legenda": "A Manu Gavassi abriu o dúplex em São Paulo e tem um detalhe que é puro Japão: um recorte redondo no painel de jacarandá que lembra a janela dos templos zen 🌕 Até o nome da filha, Nara, vem da cidade japonesa onde o casal ficou noivo.\n\nDá pra trazer esse clima pra sua casa sem quebrar parede 🏡 Menos objetos, cores cruas, madeira, fibra natural, planta e luz suave. Tudo com função.\n\nArrasta pro passo a passo e salva pra arrumar a casa 🌿\n\nPor qual cômodo você começaria? 👇\n\n#decoracaojapandi #manugavassi #decoracaominimalista #casacomestilo #dicasdedecoracao",
+   "midia": [
+    "2026-10-11/manu/01.jpg",
+    "2026-10-11/manu/02.jpg",
+    "2026-10-11/manu/03.jpg",
+    "2026-10-11/manu/04.jpg",
+    "2026-10-11/manu/05.jpg",
+    "2026-10-11/manu/06.jpg",
+    "2026-10-11/manu/07.jpg",
+    "2026-10-11/manu/08.jpg",
+    "2026-10-11/manu/09.jpg",
+    "2026-10-11/manu/10.jpg"
+   ]
+  },
+  {
    "id": "juliana",
    "tipo": "carrossel",
    "horario": "2026-10-11T12:00",
    "aprovado": true,
    "legenda": "O cabelo novo da Juliana Paes tem duas coisas que muita gente pede no salão e nem sempre sabe explicar: camadas com movimento e um loiro bem cuidado ✨\n\nCamada é o que tira o peso sem tirar o comprimento. Pode ser longa, no contorno do rosto ou escondida por baixo, as tais ghost layers. O tipo certo depende da textura do seu fio, então leve uma foto de referência 📸\n\nNo loiro, o segredo está no cuidado: nutrição antes de clarear, retoque alternando as áreas, protetor térmico sempre e matizador só quando precisa, porque ele não clareia 💛\n\nArrasta pra ver o passo a passo e salva pra mostrar no salão 💇‍♀️\n\nVocê é time camadas ou time cabelo reto? 👇\n\n#julianapaes #cabelocomcamadas #mechasloiras #cortedecabelo #dicasdecabelo",
-   "midia": ["2026-10-10/juliana/01.jpg", "2026-10-10/juliana/02.jpg", "2026-10-10/juliana/03.jpg", "2026-10-10/juliana/04.jpg", "2026-10-10/juliana/05.jpg", "2026-10-10/juliana/06.jpg", "2026-10-10/juliana/07.jpg", "2026-10-10/juliana/08.jpg", "2026-10-10/juliana/09.jpg", "2026-10-10/juliana/10.jpg"]
+   "midia": [
+    "2026-10-10/juliana/01.jpg",
+    "2026-10-10/juliana/02.jpg",
+    "2026-10-10/juliana/03.jpg",
+    "2026-10-10/juliana/04.jpg",
+    "2026-10-10/juliana/05.jpg",
+    "2026-10-10/juliana/06.jpg",
+    "2026-10-10/juliana/07.jpg",
+    "2026-10-10/juliana/08.jpg",
+    "2026-10-10/juliana/09.jpg",
+    "2026-10-10/juliana/10.jpg"
+   ]
+  },
+  {
+   "id": "bambi",
+   "tipo": "carrossel",
+   "horario": "2026-10-11T13:30",
+   "aprovado": false,
+   "legenda": "A Khloé Kardashian apareceu com unha de Bambi 🦌 Base nude rosada, francesinha bege, caramelo alternado e pintinhas brancas, como pelo de filhote de cervo. Quem fez foi a manicure Zola Ganzorigt.\n\nE sabe o melhor? As pintinhas saem com um palito de dente 🤍 Gotinha de esmalte num pratinho, pontinhos irregulares, top coat por cima e pronto.\n\nArrasta pra ver o passo a passo e salva pro fim de semana 💅\n\nVocê teria coragem de usar? 👇\n\n#unhadecorada #nailart #khloekardashian #unhasdafamosa #unhadebolinha",
+   "midia": [
+    "2026-10-11/bambi/01.jpg",
+    "2026-10-11/bambi/02.jpg",
+    "2026-10-11/bambi/03.jpg",
+    "2026-10-11/bambi/04.jpg",
+    "2026-10-11/bambi/05.jpg",
+    "2026-10-11/bambi/06.jpg",
+    "2026-10-11/bambi/07.jpg",
+    "2026-10-11/bambi/08.jpg"
+   ]
+  },
+  {
+   "id": "glitter",
+   "tipo": "carrossel",
+   "horario": "2026-10-11T16:00",
+   "aprovado": false,
+   "legenda": "Parece tatuagem, mas sai com demaquilante ✨ A tatuagem de glitter voltou com tudo no TikTok, e a Zara Larsson ajudou: na turnê, ela usou borboletas de glitter descendo pela coluna 🦋\n\nO passo a passo é simples: molde vazado, adesivo próprio pra pele e glitter cosmético. Glitter de artesanato e cola escolar NÃO vão na pele, e nada de glitter perto dos olhos 👀\n\nPro Halloween, vale teia, lua, morcego e estrela 🦇🌙\n\nArrasta, salva pro dia 31 e me conta: que desenho você faria? 👇\n\n#tatuagemdeglitter #zaralarsson #maquiagemhalloween #halloween2026 #trendtiktok",
+   "midia": [
+    "2026-10-11/glitter/01.jpg",
+    "2026-10-11/glitter/02.jpg",
+    "2026-10-11/glitter/03.jpg",
+    "2026-10-11/glitter/04.jpg",
+    "2026-10-11/glitter/05.jpg",
+    "2026-10-11/glitter/06.jpg",
+    "2026-10-11/glitter/07.jpg",
+    "2026-10-11/glitter/08.jpg",
+    "2026-10-11/glitter/09.jpg",
+    "2026-10-11/glitter/10.jpg"
+   ]
+  },
+  {
+   "id": "roxo",
+   "tipo": "carrossel",
+   "horario": "2026-10-11T18:30",
+   "aprovado": false,
+   "legenda": "Toda de preto e um lenço roxo: foi assim que a Zoë Kravitz virou a prova da trend do momento 💜 A Marie Claire decretou que roxo é o novo neutro, depois de ver a cor nas passarelas e nas ruas de Nova York, Londres e Paris.\n\nPra começar, vai de acessório: bolsa, sapato ou lenço roxo com jeans e camiseta branca. Quer ousar? Tom sobre tom, monocromático ou roxo com laranja 🧡\n\nArrasta pros 5 jeitos de usar e salva pra montar o seu.\n\nRoxo ou lilás? 👇\n\n#lookroxo #zoekravitz #tendenciademoda #comousar #modafeminina",
+   "midia": [
+    "2026-10-11/roxo/01.jpg",
+    "2026-10-11/roxo/02.jpg",
+    "2026-10-11/roxo/03.jpg",
+    "2026-10-11/roxo/04.jpg",
+    "2026-10-11/roxo/05.jpg",
+    "2026-10-11/roxo/06.jpg",
+    "2026-10-11/roxo/07.jpg",
+    "2026-10-11/roxo/08.jpg",
+    "2026-10-11/roxo/09.jpg"
+   ]
+  },
+  {
+   "id": "giulia",
+   "tipo": "carrossel",
+   "horario": "2026-10-11T20:30",
+   "aprovado": false,
+   "legenda": "Giulia Be disse sim ontem, no Rio, e o cabelo foi daqueles que todo mundo quer copiar: ondas suaves num semipreso, com a frente puxada pra trás pra segurar o véu 👰‍♀️\n\nA boa notícia? Dá pra fazer em casa. Ondas com o cabelo bem seco, cachos soltos com os dedos, topo desfiado com shampoo a seco e um elástico de silicone escondido com uma mecha ✨\n\nServe pra noiva, madrinha, convidada e até pra segunda-feira 💕\n\nArrasta pra ver o passo a passo e salva pro próximo casamento.\n\nVocê é time cabelo preso ou solto em festa? 👇\n\n#giuliabe #penteadosemipreso #penteadodenoiva #cabelocomondas #penteadofacil",
+   "midia": [
+    "2026-10-11/giulia/01.jpg",
+    "2026-10-11/giulia/02.jpg",
+    "2026-10-11/giulia/03.jpg",
+    "2026-10-11/giulia/04.jpg",
+    "2026-10-11/giulia/05.jpg",
+    "2026-10-11/giulia/06.jpg",
+    "2026-10-11/giulia/07.jpg",
+    "2026-10-11/giulia/08.jpg",
+    "2026-10-11/giulia/09.jpg",
+    "2026-10-11/giulia/10.jpg"
+   ]
   }
  ]
 }
