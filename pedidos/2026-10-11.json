@@ -1,0 +1,46 @@
+{
+  "date": "2026-10-11",
+  "items": [
+    {"file": "giulia_pure.jpg", "type": "article", "max": 14, "url": "https://www.purepeople.com.br/noticia/vestido-de-noiva-elegante-de-giulia-be-com-renda-gola-alta-e-veu-no-rosto-com-conor-kennedy-em-igreja-do-rio-de-janeiro_a425152/1"},
+    {"file": "giulia_caras.jpg", "type": "article", "max": 10, "url": "https://caras.com.br/noivas/com-veu-tradicional-e-vestido-de-renda-giulia-be-se-casa-com-conor-kennedy-no-rio.phtml"},
+    {"file": "giulia_alo1.jpg", "type": "article", "max": 10, "url": "https://aloalobahia.com/noticias/2026/10/10/giulia-be-e-conor-kennedy-se-casam-no-rio-veja-detalhes-dos-vestidos-da-cantora/"},
+    {"file": "giulia_alo2.jpg", "type": "article", "max": 10, "url": "https://aloalobahia.com/noticias/2026/10/10/giulia-be-se-casa-com-conor-kennedy-em-igreja-historica-no-rio-de-janeiro/"},
+    {"file": "giulia_poder.jpg", "type": "article", "url": "https://poder360.com.br/poder-gente/cantora-giulia-be-casa-e-leva-familia-kennedy-ao-rio"},
+    {"file": "giulia_uai.jpg", "type": "article", "url": "https://www.uai.com.br/app/entretenimento/famosos/2026/10/08/not-famosos,392327/giulia-be-e-conor-kennedy-terao-casamento-de-3-dias-e-4-vestidos-saiba.shtml"},
+    {"file": "semi_ath.jpg", "type": "article", "max": 12, "url": "https://www.allthingshair.com/br/penteados-cortes/tutoriais-para-penteados/penteado-meio-preso-simples.html"},
+    {"file": "semi_caseme.jpg", "type": "article", "max": 12, "url": "https://caseme.com.br/10-tutoriais-de-penteado-semi-preso/"},
+    {"file": "semi_constance.jpg", "type": "article", "max": 10, "url": "https://15anos.constancezahn.com/tutorial-de-penteado-meio-preso-facil-e-lindo/"},
+    {"file": "semi_tudo.jpg", "type": "article", "max": 12, "url": "https://tudocommoda.com/penteados/penteado-semi-preso/"},
+
+    {"file": "zara_mc.jpg", "type": "article", "max": 12, "url": "https://www.marieclaire.com/beauty/makeup/zara-larsson-body-makeup/"},
+    {"file": "zara_aol1.jpg", "type": "article", "max": 10, "url": "https://www.aol.com/articles/zara-larsson-crystal-butterfly-spine-024309216.html"},
+    {"file": "zara_aol2.jpg", "type": "article", "max": 10, "url": "https://www.aol.com/articles/swedish-singer-zara-larsson-shines-083057011.html"},
+    {"file": "zara_vogue.jpg", "type": "article", "max": 12, "url": "https://www.voguescandinavia.com/articles/zara-larsson-midnight-sun-tour-wardrobe"},
+    {"file": "glitter_fv.jpg", "type": "article", "max": 10, "url": "https://www.folhavitoria.com.br/beleza/parece-tatuagem-mas-sai-no-banho-tatuagem-de-glitter-vira-tendencia-no-tiktok/"},
+    {"file": "glitter_mgt.jpg", "type": "article", "max": 10, "url": "https://www.ma-grande-taille.com/en/beaute/maquillage/sparkling-tattoos-seen-at-zara-larsson-could-become-a-summer-2026-beauty-trend-441620"},
+    {"file": "glitter_mgt2.jpg", "type": "article", "max": 10, "url": "https://www.ma-grande-taille.com/en/beaute/conseils-astuces/glitter-tattoos-trendy-and-surprising-beauty-captivates-social-media-446680"},
+
+    {"file": "khloe_zoe.jpg", "type": "article", "max": 10, "url": "https://www.thezoereport.com/culture/khloe-kardashian-bambi-manicure"},
+    {"file": "khloe_mcweek.jpg", "type": "article", "max": 14, "url": "https://www.marieclaire.com/beauty/nails/best-nail-looks-of-the-week-october-5-2026/"},
+    {"file": "khloe_mc2.jpg", "type": "article", "max": 8, "url": "https://www.marieclaire.com/beauty/nails/khloe-kardashian-chocolate-brown-manicure/"},
+    {"file": "khloe_mc3.jpg", "type": "article", "max": 8, "url": "https://www.marieclaire.com/beauty/nails/khloe-kardashian-pink-glitter-nails/"},
+    {"file": "bolinha_bnw.jpg", "type": "article", "max": 12, "url": "https://www.belezanaweb.com.br/loucas-por-beleza/unhas-decoradas-com-bolinhas/"},
+    {"file": "bolinha_confete.jpg", "type": "article", "max": 10, "url": "https://www.belezanaweb.com.br/loucas-por-beleza/passo-a-passo-unhas-confete-para-festejar/"},
+
+    {"file": "manu_pure.jpg", "type": "article", "max": 14, "url": "https://www.purepeople.com.br/noticia/nem-sitio-nem-mansao-manu-gavassi-e-jullio-reis-abrem-apartamento-em-sao-paulo-com-decoracao-japonesa-onde-vivem-com-a-filha-nara-em-refugio_a425138/1"},
+    {"file": "manu_tudo.jpg", "type": "article", "max": 10, "url": "https://www.tudogostoso.com.br/noticias/o-apartamento-de-manu-gavassi-e-jullio-reis-tem-uma-historia-incomum-o-duplex-no-topo-de-um-predio-em-sao-paulo-ficou-40-anos-fechado-a31740.htm"},
+    {"file": "manu_caras.jpg", "type": "article", "max": 12, "url": "https://caras.com.br/casa-dos-famosos/aos-33-anos-manu-gavassi-vive-em-duplex-com-3-suites-e-atmosfera-dos-anos-70-usado-como-refugio-em-sp.phtml"},
+    {"file": "manu_correio.jpg", "type": "article", "max": 10, "url": "https://www.correio24horas.com.br/em-alta/como-e-o-apartamento-de-manu-gavassi-e-jullio-reis-duplex-tem-terraco-revestimentos-raros-e-cozinha-de-aco-inox-1026"},
+    {"file": "manu_band.jpg", "type": "article", "url": "https://www.band.com.br/entretenimento/raro-manu-gavassi-aparece-com-noivo-e-pai-da-sua-filha-em-evento-de-moda-202511260911"},
+    {"file": "jap_elle.jpg", "type": "article", "max": 12, "url": "https://elle.com.br/lifestyle/conheca-o-estilo-japandi-de-decorar"},
+    {"file": "jap_nsc.jpg", "type": "article", "max": 10, "url": "https://www.nsctotal.com.br/?p=6885839"},
+
+    {"file": "zoe_mc.jpg", "type": "article", "max": 12, "url": "https://www.marieclaire.com/fashion/celebrity-style/purple-trend-zoe-kravitz-scarf/"},
+    {"file": "zoe_www.jpg", "type": "article", "max": 12, "url": "https://www.whowhatwear.com/fashion/celebrity-style/zoe-kravitz-purple-color-trend-2026"},
+    {"file": "zoe_www2.jpg", "type": "article", "max": 10, "url": "https://www.whowhatwear.com/fashion/celebrity-style/purple-scarf-trend-jennifer-lawrence-zoe-kravitz"},
+    {"file": "zoe_week.jpg", "type": "article", "max": 14, "url": "https://www.marieclaire.com/fashion/celebrity-style/best-celebrity-outfits-week-of-october-4-2026/"},
+    {"file": "jlaw_www.jpg", "type": "article", "max": 10, "url": "https://www.whowhatwear.com/fashion/celebrity-style/blazer-lavender-skirt-satin-mules-outfit-jennifer-lawrence"},
+    {"file": "roxo_ffw.jpg", "type": "article", "max": 10, "url": "https://ffw.com.br/noticias/moda/o-roxo-e-o-lilas-sao-as-cores-do-momento-como-combinar-as-cores-mais-tendencias-da-moda/"},
+    {"file": "roxo_dam.jpg", "type": "article", "max": 12, "url": "https://blog.damyller.com.br/moda-feminina/look-roxo/"}
+  ]
+}
