@@ -1,0 +1,193 @@
+{
+  "date": "2026-10-11-extra",
+  "finished_at": "2026-10-11T09:14:13Z",
+  "items": [
+    {
+      "file": "glitter_tikkido.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [
+        {
+          "file": "glitter_tikkido_alt1.jpg",
+          "source": "https://tikkido.com/sites/default/files/glitter3-XL.jpg",
+          "size": [
+            1024,
+            681
+          ]
+        },
+        {
+          "file": "glitter_tikkido_alt2.jpg",
+          "source": "https://tikkido.com/sites/default/files/glitter4-XL.jpg",
+          "size": [
+            1024,
+            681
+          ]
+        },
+        {
+          "file": "glitter_tikkido_alt3.jpg",
+          "source": "https://tikkido.com/sites/default/files/glitter5-XL.jpg",
+          "size": [
+            1024,
+            681
+          ]
+        },
+        {
+          "file": "glitter_tikkido_alt4.jpg",
+          "source": "https://tikkido.com/sites/default/files/glitter1-XL.jpg",
+          "size": [
+            511,
+            768
+          ]
+        }
+      ],
+      "source": "https://tikkido.com/sites/default/files/glitter7-XL_0.jpg",
+      "size": [
+        1024,
+        681
+      ]
+    },
+    {
+      "file": "glitter_beautylish.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [],
+      "source": "https://dy6g3i6a1660s.cloudfront.net/TYrvyy6eL8ez4HhmXIeLVgUABAA/lb-13/diy-glitter-tattoos.jpg",
+      "size": [
+        600,
+        480
+      ]
+    },
+    {
+      "file": "glitter_glimmer.jpg",
+      "type": "article",
+      "ok": false,
+      "alts": [],
+      "error": "nenhuma imagem utilizavel (11 candidatas)"
+    },
+    {
+      "file": "zara_tfs.jpg",
+      "type": "article",
+      "ok": false,
+      "alts": [],
+      "error": "403 Client Error: Forbidden for url: https://www.thefashionspot.com/?p=925318"
+    },
+    {
+      "file": "zara_aol3.jpg",
+      "type": "article",
+      "ok": false,
+      "alts": [],
+      "error": "404 Client Error: Not Found for url: https://www.aol.com/articles/zara-larsson-crystal-butterfly-spine-024309216.html"
+    },
+    {
+      "file": "bolinha_bnw2.jpg",
+      "type": "article",
+      "ok": false,
+      "alts": [],
+      "error": "403 Client Error: Forbidden for url: https://www.belezanaweb.com.br/loucas-por-beleza/unhas-decoradas-com-bolinhas/"
+    },
+    {
+      "file": "bolinha_hallo.jpg",
+      "type": "article",
+      "ok": false,
+      "alts": [],
+      "error": "403 Client Error: Forbidden for url: https://www.belezanaweb.com.br/loucas-por-beleza/unhas-decoradas-para-halloween/"
+    },
+    {
+      "file": "bolinha_dn.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [
+        {
+          "file": "bolinha_dn_alt1.jpg",
+          "source": "https://diariodonordeste.verdesmares.com.br/image/contentid/policy:7.4896560:1698255594/unha%20fantasma.webp?q=0.8&$p$q=5f39434",
+          "size": [
+            960,
+            1280
+          ]
+        },
+        {
+          "file": "bolinha_dn_alt2.jpg",
+          "source": "https://diariodonordeste.verdesmares.com.br/image/contentid/policy:1.3434984:1698255228/unha%20sangue%20fake.webp?q=0.8&$p$q=ef1e38e",
+          "size": [
+            960,
+            1280
+          ]
+        },
+        {
+          "file": "bolinha_dn_alt3.jpg",
+          "source": "https://diariodonordeste.verdesmares.com.br/image/contentid/policy:7.4896558:1698255376/unha%20digital.webp?q=0.8&$p$q=e2a72ed",
+          "size": [
+            1280,
+            1280
+          ]
+        },
+        {
+          "file": "bolinha_dn_alt4.jpg",
+          "source": "https://diariodonordeste.verdesmares.com.br/image/contentid/policy:7.4896646:1698260216/unha%20esqueleto.webp?q=0.8&$p$q=9b0d725",
+          "size": [
+            1000,
+            1200
+          ]
+        },
+        {
+          "file": "bolinha_dn_alt5.jpg",
+          "source": "https://diariodonordeste.verdesmares.com.br/image/contentid/policy:7.4896657:1698260942/unhas%20teia.webp?q=0.8&$p$q=aa7848e",
+          "size": [
+            730,
+            730
+          ]
+        }
+      ],
+      "source": "https://diariodonordeste.verdesmares.com.br/image/contentid/policy:1.3435068:1698259217/unhas.webp?f=16x9&h=720&w=1280&$p$f$h$w=316ca9d",
+      "size": [
+        1280,
+        720
+      ]
+    },
+    {
+      "file": "bolinha_opovo.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [
+        {
+          "file": "bolinha_opovo_alt1.jpg",
+          "source": "https://portaledicase.com/wp-content/uploads/2023/05/preto-fosco-portal-2048x1253.jpg",
+          "size": [
+            2048,
+            1253
+          ]
+        }
+      ],
+      "source": "https://portaledicase.com/wp-content/uploads/2023/05/nude-com-ondas-portal-2048x1253.jpg",
+      "size": [
+        2048,
+        1253
+      ]
+    },
+    {
+      "file": "bolinha_cb.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [],
+      "source": "https://portaledicase.com/wp-content/uploads/2022/12/shutterstock_717911425.jpg",
+      "size": [
+        1200,
+        800
+      ]
+    },
+    {
+      "file": "roxo_ffw2.jpg",
+      "type": "article",
+      "ok": false,
+      "alts": [],
+      "error": "403 Client Error: Forbidden for url: https://ffw.com.br/noticias/moda/o-roxo-e-o-lilas-sao-as-cores-do-momento-como-combinar-as-cores-mais-tendencias-da-moda/"
+    },
+    {
+      "file": "semi_ath2.jpg",
+      "type": "article",
+      "ok": false,
+      "alts": [],
+      "error": "403 Client Error: Forbidden for url: https://www.allthingshair.com/br/penteados-cortes/tutoriais-para-penteados/penteado-meio-preso-simples.html"
+    }
+  ]
+}
