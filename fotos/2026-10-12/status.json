@@ -1,0 +1,1548 @@
+{
+  "date": "2026-10-12",
+  "finished_at": "2026-10-12T09:15:27Z",
+  "items": [
+    {
+      "file": "pugh_tzr.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [
+        {
+          "file": "pugh_tzr_alt1.jpg",
+          "source": "https://imgix.bustle.com/uploads/getty/2026/10/7/5ee81a8d/new-york-new-york.jpg?w=400&h=500&fit=crop&crop=faces&dpr=2",
+          "size": [
+            800,
+            1000
+          ]
+        },
+        {
+          "file": "pugh_tzr_alt2.jpg",
+          "source": "https://imgix.bustle.com/uploads/getty/2026/10/7/5fd5c726/new-york-new-york.jpg?w=400&h=500&fit=crop&crop=faces&dpr=2",
+          "size": [
+            800,
+            1000
+          ]
+        }
+      ],
+      "source": "https://imgix.bustle.com/uploads/getty/2026/10/7/c8f26911/new-york-new-york.jpg?w=1200&h=630&fit=crop&crop=focalpoint&fm=jpg&fp-x=0.4899&fp-y=0.2576",
+      "size": [
+        1200,
+        630
+      ]
+    },
+    {
+      "file": "pugh_w.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [
+        {
+          "file": "pugh_w_alt1.jpg",
+          "source": "https://imgix.bustle.com/uploads/getty/2026/10/7/702fd5bf/florence-pugh-at-the.jpg?w=414&h=621&fit=crop&crop=focalpoint&dpr=2&fp-x=0.517&fp-y=0.1826",
+          "size": [
+            828,
+            1242
+          ]
+        },
+        {
+          "file": "pugh_w_alt2.jpg",
+          "source": "https://imgix.bustle.com/uploads/getty/2026/10/7/a47fcd5e/florence-pugh-at-the.jpg?w=390&h=585&fit=crop&crop=focalpoint&dpr=2&fp-x=0.5062&fp-y=0.3015",
+          "size": [
+            780,
+            1170
+          ]
+        },
+        {
+          "file": "pugh_w_alt3.jpg",
+          "source": "https://imgix.bustle.com/uploads/getty/2026/10/7/846507f5/new-york-new-york.jpg?w=375&h=500&fit=crop&crop=focalpoint&dpr=2&fp-x=0.4848&fp-y=0.4992",
+          "size": [
+            750,
+            1000
+          ]
+        },
+        {
+          "file": "pugh_w_alt4.jpg",
+          "source": "https://imgix.bustle.com/uploads/getty/2026/10/7/dc95f6b1/london-england-september-25.jpg?w=375&h=500&fit=crop&crop=focalpoint&dpr=2&fp-x=0.4673&fp-y=0.4866",
+          "size": [
+            750,
+            1000
+          ]
+        }
+      ],
+      "source": "https://imgix.bustle.com/uploads/image/2026/10/8/48b1a54c/florence-pugh-at-the.jpeg?w=1200&h=630&fit=crop&crop=focalpoint&fm=jpg&fp-x=0.5159&fp-y=0.2391",
+      "size": [
+        1200,
+        630
+      ]
+    },
+    {
+      "file": "pugh_arch.jpg",
+      "type": "article",
+      "ok": false,
+      "alts": [],
+      "error": "403 Client Error: Forbidden for url: https://www.archyde.com/florence-pugh-and-stars-attend-jaguar-type-01-premiere-in-nyc/"
+    },
+    {
+      "file": "pugh_maxim.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [
+        {
+          "file": "pugh_maxim_alt1.jpg",
+          "source": "https://www.maxim.com/cdn-cgi/image/width=1536%2Cheight=1024%2Cfit=crop%2Cquality=65%2Cgravity=auto%2Cmetadata=none%2Cformat=auto%2Conerror=redirect/wp-content/uploads/2026/10/2298995085.jpg",
+          "size": [
+            1536,
+            1024
+          ]
+        },
+        {
+          "file": "pugh_maxim_alt2.jpg",
+          "source": "https://www.maxim.com/cdn-cgi/image/width=1536%2Cheight=1086%2Cfit=crop%2Cquality=65%2Cgravity=auto%2Cmetadata=none%2Cformat=auto%2Conerror=redirect/wp-content/uploads/2026/10/Ext_Rsd_Front_Profile_Silver.jpg",
+          "size": [
+            1536,
+            1086
+          ]
+        },
+        {
+          "file": "pugh_maxim_alt3.jpg",
+          "source": "https://www.maxim.com/cdn-cgi/image/width=1536%2Cheight=1024%2Cfit=crop%2Cquality=65%2Cgravity=auto%2Cmetadata=none%2Cformat=auto%2Conerror=redirect/wp-content/uploads/2026/10/Spiro.jpg",
+          "size": [
+            1536,
+            1024
+          ]
+        },
+        {
+          "file": "pugh_maxim_alt4.jpg",
+          "source": "https://www.maxim.com/cdn-cgi/image/width=1536%2Cheight=1024%2Cfit=crop%2Cquality=65%2Cgravity=auto%2Cmetadata=none%2Cformat=auto%2Conerror=redirect/wp-content/uploads/2026/10/Chef.jpg",
+          "size": [
+            1536,
+            1024
+          ]
+        },
+        {
+          "file": "pugh_maxim_alt5.jpg",
+          "source": "https://www.maxim.com/cdn-cgi/image/width=1536%2Cheight=1232%2Cfit=crop%2Cquality=65%2Cgravity=auto%2Cmetadata=none%2Cformat=auto%2Conerror=redirect/wp-content/uploads/2026/10/Rawdon-Glover-1.jpg",
+          "size": [
+            1536,
+            1232
+          ]
+        },
+        {
+          "file": "pugh_maxim_alt6.jpg",
+          "source": "https://www.maxim.com/cdn-cgi/image/width=1536%2Cheight=997%2Cfit=crop%2Cquality=65%2Cgravity=auto%2Cmetadata=none%2Cformat=auto%2Conerror=redirect/wp-content/uploads/2026/10/Ext_Side_Profile_7_8_Silver.jpg",
+          "size": [
+            1536,
+            997
+          ]
+        },
+        {
+          "file": "pugh_maxim_alt7.jpg",
+          "source": "https://www.maxim.com/cdn-cgi/image/width=1536%2Cheight=983%2Cfit=crop%2Cquality=65%2Cgravity=auto%2Cmetadata=none%2Cformat=auto%2Conerror=redirect/wp-content/uploads/2026/10/Type-01-Exterior.jpg",
+          "size": [
+            1536,
+            983
+          ]
+        },
+        {
+          "file": "pugh_maxim_alt8.jpg",
+          "source": "https://www.maxim.com/cdn-cgi/image/width=1536%2Cheight=986%2Cfit=crop%2Cquality=65%2Cgravity=auto%2Cmetadata=none%2Cformat=auto%2Conerror=redirect/wp-content/uploads/2026/10/URBAN_WALL_OUTDOOR_TOP_3-4.jpg",
+          "size": [
+            1536,
+            986
+          ]
+        },
+        {
+          "file": "pugh_maxim_alt9.jpg",
+          "source": "https://www.maxim.com/cdn-cgi/image/width=1280%2Cheight=720%2Cfit=crop%2Cquality=65%2Cgravity=auto%2Cmetadata=none%2Cformat=auto%2Conerror=redirect/wp-content/uploads/2026/10/SILVER_RED_WALL_OUTDOOR_TOP_DOWN.jpg",
+          "size": [
+            1280,
+            720
+          ]
+        }
+      ],
+      "source": "https://www.maxim.com/wp-content/uploads/2026/10/florence-pugh-jaguar-promo.jpg",
+      "size": [
+        2400,
+        1350
+      ]
+    },
+    {
+      "file": "pugh_cb.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [
+        {
+          "file": "pugh_cb_alt1.jpg",
+          "source": "https://www.comicbasics.com/wp-content/uploads/2026/08/The-Ark-Season-3-Episode-2.webp",
+          "size": [
+            1200,
+            675
+          ]
+        },
+        {
+          "file": "pugh_cb_alt2.jpg",
+          "source": "https://www.comicbasics.com/wp-content/uploads/2026/06/Avengers-Doomsday-2.webp",
+          "size": [
+            1200,
+            675
+          ]
+        },
+        {
+          "file": "pugh_cb_alt3.jpg",
+          "source": "https://www.comicbasics.com/wp-content/uploads/2026/02/Margaret-Qualley-1.webp",
+          "size": [
+            1200,
+            675
+          ]
+        },
+        {
+          "file": "pugh_cb_alt4.jpg",
+          "source": "https://www.comicbasics.com/wp-content/uploads/2026/03/Emma-Stone.webp",
+          "size": [
+            1200,
+            675
+          ]
+        },
+        {
+          "file": "pugh_cb_alt5.jpg",
+          "source": "https://www.comicbasics.com/wp-content/uploads/2026/06/Erin-Moriarty.webp",
+          "size": [
+            1200,
+            675
+          ]
+        },
+        {
+          "file": "pugh_cb_alt6.jpg",
+          "source": "https://www.comicbasics.com/wp-content/uploads/2026/03/Milly-Alcock1.webp",
+          "size": [
+            1200,
+            675
+          ]
+        }
+      ],
+      "source": "https://www.comicbasics.com/wp-content/uploads/2026/05/Florence-Pugh.webp",
+      "size": [
+        1200,
+        675
+      ]
+    },
+    {
+      "file": "strass_sv.jpg",
+      "type": "article",
+      "ok": false,
+      "alts": [],
+      "error": "403 Client Error: Forbidden for url: https://salaovirtual.org/unhas-decoradas-com-strass-como-aplicar-e-ideias-de-designs/"
+    },
+    {
+      "file": "strass_ug.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [
+        {
+          "file": "strass_ug_alt1.jpg",
+          "source": "https://img.unhadegeldecorada.com.br/2026/unha-com-strass-1.jpg",
+          "size": [
+            984,
+            984
+          ]
+        },
+        {
+          "file": "strass_ug_alt2.jpg",
+          "source": "https://img.unhadegeldecorada.com.br/2026/unha-com-strass-2.jpg",
+          "size": [
+            500,
+            500
+          ]
+        },
+        {
+          "file": "strass_ug_alt3.jpg",
+          "source": "https://img.unhadegeldecorada.com.br/2026/unha-com-strass-3.jpg",
+          "size": [
+            1024,
+            1024
+          ]
+        },
+        {
+          "file": "strass_ug_alt4.jpg",
+          "source": "https://img.unhadegeldecorada.com.br/2026/unha-com-strass-5.jpg",
+          "size": [
+            1180,
+            570
+          ]
+        },
+        {
+          "file": "strass_ug_alt5.jpg",
+          "source": "https://img.unhadegeldecorada.com.br/2026/unha-com-strass-6.jpg",
+          "size": [
+            600,
+            600
+          ]
+        },
+        {
+          "file": "strass_ug_alt6.jpg",
+          "source": "https://img.unhadegeldecorada.com.br/2026/unha-com-strass-7.jpg",
+          "size": [
+            1212,
+            909
+          ]
+        },
+        {
+          "file": "strass_ug_alt7.jpg",
+          "source": "https://img.unhadegeldecorada.com.br/2026/unha-com-strass-8.jpg",
+          "size": [
+            564,
+            846
+          ]
+        },
+        {
+          "file": "strass_ug_alt8.jpg",
+          "source": "https://img.unhadegeldecorada.com.br/2026/unha-com-strass-9.jpg",
+          "size": [
+            811,
+            526
+          ]
+        },
+        {
+          "file": "strass_ug_alt9.jpg",
+          "source": "https://img.unhadegeldecorada.com.br/2026/unha-com-strass-10.jpg",
+          "size": [
+            800,
+            800
+          ]
+        },
+        {
+          "file": "strass_ug_alt10.jpg",
+          "source": "https://img.unhadegeldecorada.com.br/2026/unha-com-strass-11.jpg",
+          "size": [
+            720,
+            900
+          ]
+        },
+        {
+          "file": "strass_ug_alt11.jpg",
+          "source": "https://img.unhadegeldecorada.com.br/2026/unha-com-strass-12.jpg",
+          "size": [
+            750,
+            900
+          ]
+        },
+        {
+          "file": "strass_ug_alt12.jpg",
+          "source": "https://img.unhadegeldecorada.com.br/2026/unha-com-strass-14.jpg",
+          "size": [
+            850,
+            850
+          ]
+        },
+        {
+          "file": "strass_ug_alt13.jpg",
+          "source": "https://img.unhadegeldecorada.com.br/2026/unha-com-strass-17.jpg",
+          "size": [
+            1200,
+            1200
+          ]
+        }
+      ],
+      "source": "https://unhadegeldecorada.com.br/wp-content/uploads/2026/03/unha-com-strass.webp",
+      "size": [
+        1216,
+        640
+      ]
+    },
+    {
+      "file": "strass_like.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [
+        {
+          "file": "strass_like_alt1.jpg",
+          "source": "https://likemagazine.com.br/midias/2024/10/Unha-com-strass-grande-Like-Magazine.jpg",
+          "size": [
+            736,
+            1308
+          ]
+        },
+        {
+          "file": "strass_like_alt2.jpg",
+          "source": "https://likemagazine.com.br/midias/2024/10/Unha-com-strass-tipo-cereja-Like-Magazne.jpg",
+          "size": [
+            736,
+            981
+          ]
+        },
+        {
+          "file": "strass_like_alt3.jpg",
+          "source": "https://likemagazine.com.br/midias/2024/09/Unha-curta-com-francesinha-de-strass-Like-Magazine.jpg",
+          "size": [
+            563,
+            678
+          ]
+        },
+        {
+          "file": "strass_like_alt4.jpg",
+          "source": "https://likemagazine.com.br/midias/2024/08/Unha-do-pe-branca-com-francesinha-de-strass-Like-Magazine.jpg",
+          "size": [
+            564,
+            1002
+          ]
+        },
+        {
+          "file": "strass_like_alt5.jpg",
+          "source": "https://likemagazine.com.br/midias/2024/05/Unha-curta-quadrada-neutra-com-coracao-de-strass-Like-Magazine.jpg",
+          "size": [
+            1080,
+            1349
+          ]
+        },
+        {
+          "file": "strass_like_alt6.jpg",
+          "source": "https://likemagazine.com.br/midias/2026/10/Cabelo-maluco-para-menino-@linive.marinelli-like-magazine.jpg",
+          "size": [
+            1440,
+            1920
+          ]
+        },
+        {
+          "file": "strass_like_alt7.jpg",
+          "source": "https://likemagazine.com.br/midias/2026/10/00017475.jpg",
+          "size": [
+            1200,
+            800
+          ]
+        },
+        {
+          "file": "strass_like_alt8.jpg",
+          "source": "https://likemagazine.com.br/midias/2026/09/Cabelo-maluco-co-m-lapis-@mp.trancasepenteados-like-magazine.jpg",
+          "size": [
+            1440,
+            1913
+          ]
+        }
+      ],
+      "source": "https://likemagazine.com.br/midias/2024/10/Unha-com-strass-de-borboleta-Like-Magazine.jpg",
+      "size": [
+        564,
+        693
+      ]
+    },
+    {
+      "file": "ombre_selena.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [
+        {
+          "file": "ombre_selena_alt1.jpg",
+          "source": "https://images.hellomagazine.com/horizon/landscape/c3d45fde3f35-gettyimages-2185057499-1.jpg",
+          "size": [
+            1920,
+            1080
+          ]
+        },
+        {
+          "file": "ombre_selena_alt2.jpg",
+          "source": "https://images.hellomagazine.com/horizon/43/c3d45fde3f35-gettyimages-2185057499-1.jpg",
+          "size": [
+            1920,
+            1440
+          ]
+        },
+        {
+          "file": "ombre_selena_alt3.jpg",
+          "source": "https://images.hellomagazine.com/horizon/square/c3d45fde3f35-gettyimages-2185057499-1.jpg",
+          "size": [
+            1080,
+            1080
+          ]
+        }
+      ],
+      "source": "https://images.hellomagazine.com/horizon/landscape/1200/c3d45fde3f35-gettyimages-2185057499-1.jpg",
+      "size": [
+        1200,
+        675
+      ]
+    },
+    {
+      "file": "ombre_selena2.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [
+        {
+          "file": "ombre_selena2_alt1.jpg",
+          "source": "https://imgix.bustle.com/uploads/image/2024/12/6/8f7b23ee/469576317_18468625258047783_2428759801059942740_n.jpg?w=1100&h=1514&fit=crop&crop=focalpoint&fp-x=0.4823&fp-y=0.4046&dpr=2",
+          "size": [
+            1744,
+            2400
+          ]
+        },
+        {
+          "file": "ombre_selena2_alt2.jpg",
+          "source": "https://imgix.bustle.com/uploads/image/2024/12/6/23a0047f/469270724_18476888005011441_7227859223115744377_n.jpg?w=1100&h=1569&fit=crop&crop=focalpoint&fp-x=0.5038&fp-y=0.3904&dpr=2",
+          "size": [
+            1683,
+            2400
+          ]
+        }
+      ],
+      "source": "https://imgix.bustle.com/uploads/getty/2024/12/6/64538e69/los-angeles-california-november.jpg?w=1200&h=630&fit=crop&crop=focalpoint&fm=jpg&fp-x=0.49&fp-y=0.3986",
+      "size": [
+        1200,
+        630
+      ]
+    },
+    {
+      "file": "ombre_bustle.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [
+        {
+          "file": "ombre_bustle_alt1.jpg",
+          "source": "https://imgix.bustle.com/uploads/image/2026/10/5/7ee44170/snapinstato_831340196_18629402815008398_4147777350918389930_n.jpg?w=1100&h=1467&fit=crop&crop=faces&dpr=2",
+          "size": [
+            1800,
+            2400
+          ]
+        },
+        {
+          "file": "ombre_bustle_alt2.jpg",
+          "source": "https://imgix.bustle.com/uploads/image/2026/10/6/29192391/snapinstato_829320272_18637562086039483_4670157189091523832_n.jpg?w=450&h=600&fit=crop&crop=faces&dpr=2",
+          "size": [
+            900,
+            1200
+          ]
+        },
+        {
+          "file": "ombre_bustle_alt3.jpg",
+          "source": "https://imgix.bustle.com/uploads/image/2026/10/6/55e4d782/gettyimages-2298441173.jpg?w=450&h=600&fit=crop&crop=faces&dpr=2",
+          "size": [
+            900,
+            1200
+          ]
+        },
+        {
+          "file": "ombre_bustle_alt4.jpg",
+          "source": "https://imgix.bustle.com/uploads/image/2026/10/5/a925103e/gettyimages-2297559602.jpg?w=1100&h=1650&fit=crop&crop=faces&dpr=2",
+          "size": [
+            1600,
+            2400
+          ]
+        },
+        {
+          "file": "ombre_bustle_alt5.jpg",
+          "source": "https://imgix.bustle.com/uploads/image/2026/10/6/efe12a8e/snapinstato_833375444_18635499967004264_3557645358090073689_n.jpg?w=450&h=600&fit=crop&crop=faces&dpr=2",
+          "size": [
+            900,
+            1200
+          ]
+        },
+        {
+          "file": "ombre_bustle_alt6.jpg",
+          "source": "https://imgix.bustle.com/uploads/image/2026/10/6/632f825b/snapinstato_830996421_18628745851015848_8217681125535187007_n.jpg?w=450&h=600&fit=crop&crop=faces&dpr=2",
+          "size": [
+            900,
+            1200
+          ]
+        },
+        {
+          "file": "ombre_bustle_alt7.jpg",
+          "source": "https://imgix.bustle.com/uploads/image/2026/10/6/995f5502/gettyimages-2297955208.jpg?w=450&h=600&fit=crop&crop=faces&dpr=2",
+          "size": [
+            900,
+            1200
+          ]
+        },
+        {
+          "file": "ombre_bustle_alt8.jpg",
+          "source": "https://imgix.bustle.com/uploads/image/2026/10/6/c6059e05/gettyimages-2297965523.jpg?w=450&h=600&fit=crop&crop=faces&dpr=2",
+          "size": [
+            900,
+            1200
+          ]
+        },
+        {
+          "file": "ombre_bustle_alt9.jpg",
+          "source": "https://imgix.bustle.com/uploads/image/2026/10/6/2bcf2883/260929_marcolombardi_dior-show_hd_4861_03_press.jpg?w=1100&h=1648&fit=crop&crop=faces&dpr=2",
+          "size": [
+            1602,
+            2400
+          ]
+        },
+        {
+          "file": "ombre_bustle_alt10.jpg",
+          "source": "https://imgix.bustle.com/uploads/image/2026/10/6/45dc32ff/gettyimages-2298134529.jpg?w=450&h=600&fit=crop&crop=faces&dpr=2",
+          "size": [
+            900,
+            1200
+          ]
+        },
+        {
+          "file": "ombre_bustle_alt11.jpg",
+          "source": "https://imgix.bustle.com/uploads/image/2026/10/6/f7443e16/gettyimages-2297955250.jpg?w=450&h=600&fit=crop&crop=faces&dpr=2",
+          "size": [
+            900,
+            1200
+          ]
+        },
+        {
+          "file": "ombre_bustle_alt12.jpg",
+          "source": "https://imgix.bustle.com/uploads/image/2026/10/6/8d077b70/snapinstato_829016655_18636023164019730_3342146767357296548_n.jpg?w=450&h=600&fit=crop&crop=faces&dpr=2",
+          "size": [
+            900,
+            1200
+          ]
+        },
+        {
+          "file": "ombre_bustle_alt13.jpg",
+          "source": "https://imgix.bustle.com/uploads/image/2026/10/6/767daf1b/image-46.jpeg?w=450&h=600&fit=crop&crop=faces&dpr=2",
+          "size": [
+            900,
+            1200
+          ]
+        }
+      ],
+      "source": "https://imgix.bustle.com/uploads/image/2026/10/7/68305a7c/pfw001.jpeg?w=1200&h=630&fit=crop&crop=focalpoint&fm=jpg&fp-x=0.4999&fp-y=0.4867",
+      "size": [
+        1200,
+        630
+      ]
+    },
+    {
+      "file": "ombre_bnw.jpg",
+      "type": "article",
+      "ok": false,
+      "alts": [],
+      "error": "403 Client Error: Forbidden for url: https://www.belezanaweb.com.br/loucas-por-beleza/efeito-labios-manchados-como-fazer/"
+    },
+    {
+      "file": "ombre_fm.jpg",
+      "type": "article",
+      "ok": false,
+      "alts": [],
+      "error": "403 Client Error: Forbidden for url: https://fashionmagazine.com/beauty-grooming/ombre-beauty-panel/"
+    },
+    {
+      "file": "hailey_si.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [
+        {
+          "file": "hailey_si_alt1.jpg",
+          "source": "https://images2.minutemediacdn.com/image/upload/c_fill,w_1200,ar_1:1,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/si_lifestyle/01m3yyxe8304grx32c1t.jpg",
+          "size": [
+            1200,
+            1200
+          ]
+        },
+        {
+          "file": "hailey_si_alt2.jpg",
+          "source": "https://images2.minutemediacdn.com/image/upload/c_fill,w_1200,ar_16:9,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/si_lifestyle/01m3yyxe8304grx32c1t.jpg",
+          "size": [
+            1200,
+            675
+          ]
+        },
+        {
+          "file": "hailey_si_alt3.jpg",
+          "source": "https://images2.minutemediacdn.com/image/upload/c_fill,w_1200,ar_4:3,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/si_lifestyle/01m3yyxe8304grx32c1t.jpg",
+          "size": [
+            1200,
+            900
+          ]
+        }
+      ],
+      "source": "https://images2.minutemediacdn.com/image/upload/c_crop,x_349,y_97,w_1742,h_979/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/si_lifestyle/01m3yyxe8304grx32c1t.jpg",
+      "size": [
+        1440,
+        810
+      ]
+    },
+    {
+      "file": "hailey_tfs.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [],
+      "source": "https://www.thefashionspot.com/wp-content/uploads/sites/11/2026/09/Hailey-Beiber.jpg?resize=1200,630",
+      "size": [
+        1200,
+        630
+      ]
+    },
+    {
+      "file": "hailey_rt.jpg",
+      "type": "article",
+      "ok": false,
+      "alts": [],
+      "error": "nenhuma imagem utilizavel (3 candidatas)"
+    },
+    {
+      "file": "hailey_aol.jpg",
+      "type": "article",
+      "ok": false,
+      "alts": [],
+      "error": "404 Client Error: Not Found for url: https://www.aol.com/hailey-bieber-goes-glam-paris-121607620.html"
+    },
+    {
+      "file": "under_bnw.jpg",
+      "type": "article",
+      "ok": false,
+      "alts": [],
+      "error": "403 Client Error: Forbidden for url: https://www.belezanaweb.com.br/loucas-por-beleza/underpainting-a-tecnica-de-contorno-de-kendall-jenner-e-hailey-bieber"
+    },
+    {
+      "file": "under_vogue.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [
+        {
+          "file": "under_vogue_alt1.jpg",
+          "source": "https://images.vs-static.com/T1UHrPaYNu5cAugVwMKC8mhxWs4=/1500x0/2_a2f3e26748/2_a2f3e26748.jpg",
+          "size": [
+            1500,
+            2122
+          ]
+        },
+        {
+          "file": "under_vogue_alt2.jpg",
+          "source": "https://images.vs-static.com/1OrJpFSUyKuE6qU6Lp7RU2t3KOU=/1500x0/3_452b98a3fc/3_452b98a3fc.jpg",
+          "size": [
+            1500,
+            2122
+          ]
+        },
+        {
+          "file": "under_vogue_alt3.jpg",
+          "source": "https://images.vs-static.com/nLKj8n7DpxbJ1IXxE6KwldhmYCw=/1500x0/4_a41e420bed/4_a41e420bed.jpg",
+          "size": [
+            1500,
+            2122
+          ]
+        },
+        {
+          "file": "under_vogue_alt4.jpg",
+          "source": "https://images.vs-static.com/2P8FTu-SA4kU496klvj8JIVgoQw=/1500x0/5_5c7454fc52/5_5c7454fc52.jpg",
+          "size": [
+            1500,
+            2122
+          ]
+        },
+        {
+          "file": "under_vogue_alt5.jpg",
+          "source": "https://images.vs-static.com/o0o8x9wVUs-jcYoxPG5x_cbis1w=/1500x0/6_6c6a308543/6_6c6a308543.jpg",
+          "size": [
+            1500,
+            2122
+          ]
+        },
+        {
+          "file": "under_vogue_alt6.jpg",
+          "source": "https://images.vs-static.com/nDgr-NRli-OPskEqGNzn9GAluE4=/1500x0/7_0bdeebb6f3/7_0bdeebb6f3.jpg",
+          "size": [
+            1500,
+            2122
+          ]
+        },
+        {
+          "file": "under_vogue_alt7.jpg",
+          "source": "https://images.vs-static.com/ms-58Q23tdeR-5H8vIXWtKyO4bU=/1500x0/8_08ef23f58c/8_08ef23f58c.jpg",
+          "size": [
+            1500,
+            2122
+          ]
+        }
+      ],
+      "source": "https://images.vs-static.com/ESWJww4rBkmhpmNdZqnYaCvNHV8=/1500x0/1_16b942c236/1_16b942c236.jpg",
+      "size": [
+        1500,
+        2122
+      ]
+    },
+    {
+      "file": "martha_hg.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [
+        {
+          "file": "martha_hg_alt1.jpg",
+          "source": "https://cdn.mos.cms.futurecdn.net/v2/t:0,l:525,cw:1350,ch:1350,q:80,w:1350/jjvzJxZSfBp7z7ptS6QuqT.jpg",
+          "size": [
+            1350,
+            1350
+          ]
+        },
+        {
+          "file": "martha_hg_alt2.jpg",
+          "source": "https://cdn.mos.cms.futurecdn.net/v2/t:0,l:300,cw:1800,ch:1350,q:80,w:1800/jjvzJxZSfBp7z7ptS6QuqT.jpg",
+          "size": [
+            1800,
+            1350
+          ]
+        },
+        {
+          "file": "martha_hg_alt3.jpg",
+          "source": "https://cdn.mos.cms.futurecdn.net/sd3v4eibJGbt5LFYVtdHAC.jpg",
+          "size": [
+            1600,
+            2400
+          ]
+        },
+        {
+          "file": "martha_hg_alt4.jpg",
+          "source": "https://cdn.mos.cms.futurecdn.net/2qcVtxrvyYhjSmEsDQswAV-1920-80.jpg",
+          "size": [
+            500,
+            500
+          ]
+        },
+        {
+          "file": "martha_hg_alt5.jpg",
+          "source": "https://cdn.mos.cms.futurecdn.net/ChKS4hJvmnftBTQP6s5pKM-1920-80.jpg",
+          "size": [
+            500,
+            500
+          ]
+        },
+        {
+          "file": "martha_hg_alt6.jpg",
+          "source": "https://cdn.mos.cms.futurecdn.net/Wi9DCHY64WnCcGL2N64UMK-1920-80.jpg",
+          "size": [
+            1450,
+            1450
+          ]
+        },
+        {
+          "file": "martha_hg_alt7.jpg",
+          "source": "https://cdn.mos.cms.futurecdn.net/b5oWpVow5n6mretmzd9xvQ-1920-80.jpg",
+          "size": [
+            500,
+            500
+          ]
+        },
+        {
+          "file": "martha_hg_alt8.jpg",
+          "source": "https://cdn.mos.cms.futurecdn.net/NkxqPS7QsKW3kzrsyAaUpg-1920-80.jpg",
+          "size": [
+            500,
+            500
+          ]
+        },
+        {
+          "file": "martha_hg_alt9.jpg",
+          "source": "https://cdn.mos.cms.futurecdn.net/rdXwUHUXoMQ8cpJj4rcwzn-1280-80.jpg",
+          "size": [
+            1280,
+            720
+          ]
+        },
+        {
+          "file": "martha_hg_alt10.jpg",
+          "source": "https://cdn.mos.cms.futurecdn.net/NhiGGN9rT8ZWynQbDi2Gcg-1280-80.jpg",
+          "size": [
+            1280,
+            720
+          ]
+        },
+        {
+          "file": "martha_hg_alt11.jpg",
+          "source": "https://cdn.mos.cms.futurecdn.net/aaGTxLhqeN7wy5ZtZK4jEj-1280-80.png",
+          "size": [
+            1280,
+            720
+          ]
+        }
+      ],
+      "source": "https://cdn.mos.cms.futurecdn.net/jjvzJxZSfBp7z7ptS6QuqT-2400-80.jpg",
+      "size": [
+        2400,
+        1350
+      ]
+    },
+    {
+      "file": "martha_hg2.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [
+        {
+          "file": "martha_hg2_alt1.jpg",
+          "source": "https://cdn.mos.cms.futurecdn.net/v2/t:0,l:350,cw:900,ch:900,q:80,w:900/mT9xjffRPXukX9GVUCmWg5.jpg",
+          "size": [
+            900,
+            900
+          ]
+        },
+        {
+          "file": "martha_hg2_alt2.jpg",
+          "source": "https://cdn.mos.cms.futurecdn.net/v2/t:0,l:200,cw:1200,ch:900,q:80,w:1200/mT9xjffRPXukX9GVUCmWg5.jpg",
+          "size": [
+            1200,
+            900
+          ]
+        },
+        {
+          "file": "martha_hg2_alt3.jpg",
+          "source": "https://cdn.mos.cms.futurecdn.net/Rbv3c9XjhS6sbzikoix2rX-1920-80.jpg",
+          "size": [
+            1200,
+            1200
+          ]
+        },
+        {
+          "file": "martha_hg2_alt4.jpg",
+          "source": "https://cdn.mos.cms.futurecdn.net/sPjNawgvhy24GEdWdAYtUZ-1920-80.jpg",
+          "size": [
+            1230,
+            1229
+          ]
+        },
+        {
+          "file": "martha_hg2_alt5.jpg",
+          "source": "https://cdn.mos.cms.futurecdn.net/yZFCQymiXTRyUnvPtUcYtV-1280-80.png",
+          "size": [
+            1280,
+            720
+          ]
+        },
+        {
+          "file": "martha_hg2_alt6.jpg",
+          "source": "https://cdn.mos.cms.futurecdn.net/vfUuJDbHiWpsgjKve3Tztj-1280-80.jpg",
+          "size": [
+            1280,
+            720
+          ]
+        },
+        {
+          "file": "martha_hg2_alt7.jpg",
+          "source": "https://cdn.mos.cms.futurecdn.net/PLMbg6YokBTu7FW6NCK9uE-1280-80.jpg",
+          "size": [
+            1280,
+            720
+          ]
+        },
+        {
+          "file": "martha_hg2_alt8.jpg",
+          "source": "https://cdn.mos.cms.futurecdn.net/d45hVMm4NMW6BLULYfDHUB-1280-80.jpg",
+          "size": [
+            1280,
+            720
+          ]
+        },
+        {
+          "file": "martha_hg2_alt9.jpg",
+          "source": "https://cdn.mos.cms.futurecdn.net/4c7BkBsQfLzZCVoswHTZ4B-1280-80.jpg",
+          "size": [
+            1280,
+            720
+          ]
+        }
+      ],
+      "source": "https://cdn.mos.cms.futurecdn.net/mT9xjffRPXukX9GVUCmWg5-1600-80.jpg",
+      "size": [
+        1600,
+        900
+      ]
+    },
+    {
+      "file": "abob_hg.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [
+        {
+          "file": "abob_hg_alt1.jpg",
+          "source": "https://cdn.mos.cms.futurecdn.net/v2/t:0,l:350,cw:900,ch:900,q:80,w:900/wgHTFrJs9RrKb7xKRcicoZ.jpg",
+          "size": [
+            900,
+            900
+          ]
+        },
+        {
+          "file": "abob_hg_alt2.jpg",
+          "source": "https://cdn.mos.cms.futurecdn.net/v2/t:0,l:200,cw:1200,ch:900,q:80,w:1200/wgHTFrJs9RrKb7xKRcicoZ.jpg",
+          "size": [
+            1200,
+            900
+          ]
+        },
+        {
+          "file": "abob_hg_alt3.jpg",
+          "source": "https://cdn.mos.cms.futurecdn.net/w8zVaJXab5Kggn8eAnosZ3.jpg",
+          "size": [
+            1350,
+            2400
+          ]
+        },
+        {
+          "file": "abob_hg_alt4.jpg",
+          "source": "https://cdn.mos.cms.futurecdn.net/khWWT7WR2zs4sSQnMAwJUC-1920-80.jpg",
+          "size": [
+            1920,
+            2304
+          ]
+        },
+        {
+          "file": "abob_hg_alt5.jpg",
+          "source": "https://cdn.mos.cms.futurecdn.net/E7isEVXpPnCe8KzdyMLK4Y-1920-80.jpg",
+          "size": [
+            1920,
+            1600
+          ]
+        },
+        {
+          "file": "abob_hg_alt6.jpg",
+          "source": "https://cdn.mos.cms.futurecdn.net/Ry623RYVj7GybHjzsSKtv7-1920-80.jpg",
+          "size": [
+            1920,
+            1600
+          ]
+        },
+        {
+          "file": "abob_hg_alt7.jpg",
+          "source": "https://cdn.mos.cms.futurecdn.net/XJuhy98aDxh5ysyi6qhSKC-1920-80.jpg",
+          "size": [
+            1920,
+            1600
+          ]
+        },
+        {
+          "file": "abob_hg_alt8.jpg",
+          "source": "https://cdn.mos.cms.futurecdn.net/oeACFPGXmeUDmNYh8hnywX-1920-80.jpg",
+          "size": [
+            1920,
+            1600
+          ]
+        },
+        {
+          "file": "abob_hg_alt9.jpg",
+          "source": "https://cdn.mos.cms.futurecdn.net/7NkoVn8jY72289n6L7Fzxd-1920-80.jpg",
+          "size": [
+            1920,
+            1280
+          ]
+        },
+        {
+          "file": "abob_hg_alt10.jpg",
+          "source": "https://cdn.mos.cms.futurecdn.net/bewAQszgk7jikwLEktjzE8-1280-80.jpg",
+          "size": [
+            1280,
+            720
+          ]
+        },
+        {
+          "file": "abob_hg_alt11.jpg",
+          "source": "https://cdn.mos.cms.futurecdn.net/a2FoSxRdXVg9c3FdZP7DVo-1280-80.jpg",
+          "size": [
+            1280,
+            720
+          ]
+        },
+        {
+          "file": "abob_hg_alt12.jpg",
+          "source": "https://cdn.mos.cms.futurecdn.net/fwCDQSbUWVGBwmoH8858E5-1280-80.jpg",
+          "size": [
+            1280,
+            720
+          ]
+        },
+        {
+          "file": "abob_hg_alt13.jpg",
+          "source": "https://cdn.mos.cms.futurecdn.net/rTGJXVyVGbmVVo9SeMp8pE-1280-80.jpg",
+          "size": [
+            1280,
+            720
+          ]
+        }
+      ],
+      "source": "https://cdn.mos.cms.futurecdn.net/wgHTFrJs9RrKb7xKRcicoZ-1600-80.jpg",
+      "size": [
+        1600,
+        900
+      ]
+    },
+    {
+      "file": "abob_hallmark.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [
+        {
+          "file": "abob_hallmark_alt1.jpg",
+          "source": "https://hmkcanadastorageacct.blob.core.windows.net/hmkcanada-static-assets/images/ideas/no-carve-pumpkin-painting/Hallmark_Step5_Showoff.jpg",
+          "size": [
+            800,
+            530
+          ]
+        },
+        {
+          "file": "abob_hallmark_alt2.jpg",
+          "source": "https://hmkcanadastorageacct.blob.core.windows.net/hmkcanada-static-assets/images/ideas/no-carve-pumpkin-painting/Hallmark_Step1_Paintingsupplies_2024-09-23-152718_lobx.jpg",
+          "size": [
+            800,
+            530
+          ]
+        },
+        {
+          "file": "abob_hallmark_alt3.jpg",
+          "source": "https://hmkcanadastorageacct.blob.core.windows.net/hmkcanada-static-assets/images/ideas/no-carve-pumpkin-painting/Hallmark_Step2_PreparePlan_2024-09-23-152733_akoj.jpg",
+          "size": [
+            800,
+            530
+          ]
+        },
+        {
+          "file": "abob_hallmark_alt4.jpg",
+          "source": "https://hmkcanadastorageacct.blob.core.windows.net/hmkcanada-static-assets/images/ideas/no-carve-pumpkin-painting/Hallmark_Step3_Sketch_2024-09-23-152749_igcj.jpg",
+          "size": [
+            800,
+            530
+          ]
+        },
+        {
+          "file": "abob_hallmark_alt5.jpg",
+          "source": "https://hmkcanadastorageacct.blob.core.windows.net/hmkcanada-static-assets/images/ideas/no-carve-pumpkin-painting/Hallmark_Step4_PaintFinally-1.jpg",
+          "size": [
+            800,
+            530
+          ]
+        },
+        {
+          "file": "abob_hallmark_alt6.jpg",
+          "source": "https://hmkcanadastorageacct.blob.core.windows.net/hmkcanada-static-assets/images/ideas/no-carve-pumpkin-painting/Hallmark_Step5_Showoff2.jpg",
+          "size": [
+            800,
+            530
+          ]
+        },
+        {
+          "file": "abob_hallmark_alt7.jpg",
+          "source": "https://hmkcanadastorageacct.blob.core.windows.net/hmkcanada-static-assets/images/ideas/no-carve-pumpkin-painting/Hallmark_Pumpkins_colorblocking.jpg",
+          "size": [
+            600,
+            600
+          ]
+        },
+        {
+          "file": "abob_hallmark_alt8.jpg",
+          "source": "https://hmkcanadastorageacct.blob.core.windows.net/hmkcanada-static-assets/images/ideas/no-carve-pumpkin-painting/Hallmark_Pumpkins_markerdoodles.jpg",
+          "size": [
+            600,
+            600
+          ]
+        },
+        {
+          "file": "abob_hallmark_alt9.jpg",
+          "source": "https://hmkcanadastorageacct.blob.core.windows.net/hmkcanada-static-assets/images/ideas/no-carve-pumpkin-painting/Hallmark_Pumpkins_graphic.jpg",
+          "size": [
+            600,
+            600
+          ]
+        },
+        {
+          "file": "abob_hallmark_alt10.jpg",
+          "source": "https://hmkcanadastorageacct.blob.core.windows.net/hmkcanada-static-assets/images/ideas/no-carve-pumpkin-painting/Hallmark_Pumpkins_lettering.jpg",
+          "size": [
+            600,
+            600
+          ]
+        },
+        {
+          "file": "abob_hallmark_alt11.jpg",
+          "source": "https://hmkcanadastorageacct.blob.core.windows.net/hmkcanada-static-assets/images/ideas/no-carve-pumpkin-painting/Hallmark_Pumpkins_brush.jpg",
+          "size": [
+            600,
+            600
+          ]
+        }
+      ],
+      "source": "https://hmkcanadastorageacct.blob.core.windows.net/hmkcanada-static-assets/images/ideas/no-carve-pumpkin-painting/Hallmark_Pumpkins_MainCard.jpg",
+      "size": [
+        600,
+        600
+      ]
+    },
+    {
+      "file": "abob_calloways.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [
+        {
+          "file": "abob_calloways_alt1.jpg",
+          "source": "https://www.calloways.com/wp-content/uploads/images-calloways-paintingpumpkins21-1.jpg",
+          "size": [
+            500,
+            500
+          ]
+        },
+        {
+          "file": "abob_calloways_alt2.jpg",
+          "source": "https://www.calloways.com/wp-content/uploads/images-calloways-paintingpumpkins21-2.jpg",
+          "size": [
+            500,
+            500
+          ]
+        },
+        {
+          "file": "abob_calloways_alt3.jpg",
+          "source": "https://www.calloways.com/wp-content/uploads/images-calloways-paintingpumpkins21-3.jpg",
+          "size": [
+            500,
+            500
+          ]
+        },
+        {
+          "file": "abob_calloways_alt4.jpg",
+          "source": "https://www.calloways.com/wp-content/uploads/images-calloways-paintingpumpkins21-4.jpg",
+          "size": [
+            500,
+            500
+          ]
+        },
+        {
+          "file": "abob_calloways_alt5.jpg",
+          "source": "https://www.calloways.com/wp-content/uploads/images-calloways-paintingpumpkins21-5.jpg",
+          "size": [
+            500,
+            500
+          ]
+        },
+        {
+          "file": "abob_calloways_alt6.jpg",
+          "source": "https://www.calloways.com/wp-content/uploads/images-calloways-paintingpumpkins21-6.jpg",
+          "size": [
+            500,
+            500
+          ]
+        },
+        {
+          "file": "abob_calloways_alt7.jpg",
+          "source": "https://www.calloways.com/wp-content/uploads/images-calloways-paintingpumpkins21-9.jpg",
+          "size": [
+            500,
+            500
+          ]
+        },
+        {
+          "file": "abob_calloways_alt8.jpg",
+          "source": "https://www.calloways.com/wp-content/uploads/images-calloways-paintingpumpkins21-10.jpg",
+          "size": [
+            500,
+            500
+          ]
+        },
+        {
+          "file": "abob_calloways_alt9.jpg",
+          "source": "https://www.calloways.com/wp-content/uploads/images-calloways-paintingpumpkins21-7.jpg",
+          "size": [
+            500,
+            500
+          ]
+        }
+      ],
+      "source": "https://www.calloways.com/wp-content/uploads/facebook-image-paintingpumpkins21.jpg",
+      "size": [
+        1200,
+        630
+      ]
+    },
+    {
+      "file": "abob_earth.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [
+        {
+          "file": "abob_earth_alt1.jpg",
+          "source": "https://cdn.shopify.com/s/files/1/0929/4092/7362/files/pumpkin-farm-768x576.jpg",
+          "size": [
+            768,
+            576
+          ]
+        },
+        {
+          "file": "abob_earth_alt2.jpg",
+          "source": "https://cdn.shopify.com/s/files/1/0929/4092/7362/files/Wall-Donkey-Ride-Pumpkin-Flutterby-and-HideyHole-768x1152.jpg",
+          "size": [
+            768,
+            1152
+          ]
+        },
+        {
+          "file": "abob_earth_alt3.jpg",
+          "source": "https://cdn.shopify.com/s/files/1/0929/4092/7362/files/Skeleton-Jax-Donkey-Ride-768x768.jpg",
+          "size": [
+            768,
+            768
+          ]
+        },
+        {
+          "file": "abob_earth_alt4.jpg",
+          "source": "https://cdn.shopify.com/s/files/1/0929/4092/7362/files/Bugle-and-Mittens-Pumpkin-x-768x768.jpg",
+          "size": [
+            768,
+            768
+          ]
+        },
+        {
+          "file": "abob_earth_alt5.jpg",
+          "source": "https://cdn.shopify.com/s/files/1/0929/4092/7362/files/Peach-Baby-Wall-Fiddlesticks-and-Hooby-Wood-Large-Pumpkin-and-Flower-Pot-and-Straw-Smaller-Pumpkin-LR-768x768.jpg",
+          "size": [
+            768,
+            768
+          ]
+        },
+        {
+          "file": "abob_earth_alt6.jpg",
+          "source": "https://earthbornpaints.co.uk/cdn/shop/articles/Hallway_Oliver_Twig_Three_Bears_Landscape_4bfd244a-0bfd-49b5-a07b-1aa322fe3349.jpg?v=1787750922&width=874",
+          "size": [
+            874,
+            618
+          ]
+        },
+        {
+          "file": "abob_earth_alt7.jpg",
+          "source": "https://earthbornpaints.co.uk/cdn/shop/articles/Bathroom-ft.-Trumpet_16ba0644-d7af-4206-8728-942ba211b533.webp?v=1787043304&width=874",
+          "size": [
+            874,
+            670
+          ]
+        },
+        {
+          "file": "abob_earth_alt8.jpg",
+          "source": "https://earthbornpaints.co.uk/cdn/shop/articles/Dorothy_LR_roller_tray_949e6530-a8ff-48c7-8289-c073bd06badd.jpg?v=1786463647&width=874",
+          "size": [
+            829,
+            1475
+          ]
+        },
+        {
+          "file": "abob_earth_alt9.jpg",
+          "source": "https://earthbornpaints.co.uk/cdn/shop/articles/Crocky_Road_Milk_Jug_5108_RT_HR_LR_77b46ff9-a3f2-4413-bc89-9e263db6bf8b.jpg?v=1786546892&width=874",
+          "size": [
+            874,
+            618
+          ]
+        }
+      ],
+      "source": "http://earthbornpaints.co.uk/cdn/shop/articles/Peach-Baby-Wall-Fiddlesticks-and-Hooby-Wood-Large-Pumpkin-and-Flower-Pot-and-Straw-Smaller-Pumpkin-hobby-wood-tin-LR_36e751fc-684f-4b4b-b395-304c6b018aac.jpg?v=1771408221",
+      "size": [
+        2400,
+        2400
+      ]
+    },
+    {
+      "file": "alice_pure.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [
+        {
+          "file": "alice_pure_alt1.jpg",
+          "source": "https://static1.purepeople.com.br/uploads/1c/63/ee/9e/3a269f2639a261a0-1200x0-1.jpg",
+          "size": [
+            1200,
+            676
+          ]
+        }
+      ],
+      "source": "https://static1.purepeople.com.br/uploads/1c/63/ee/9e/3a269f2639a261a0-1200x630-1.jpg",
+      "size": [
+        1200,
+        630
+      ]
+    },
+    {
+      "file": "alice_terra.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [
+        {
+          "file": "alice_terra_alt1.jpg",
+          "source": "https://p2.trrsf.com/image/fget/cf/1200/900/middle/images.terra.com/2026/10/11/419778521-3a269f2639a261a0-1400x823-1.jpg",
+          "size": [
+            1200,
+            900
+          ]
+        },
+        {
+          "file": "alice_terra_alt2.jpg",
+          "source": "https://p2.trrsf.com/image/fget/cf/1200/1200/middle/images.terra.com/2026/10/11/419778521-3a269f2639a261a0-1400x823-1.jpg",
+          "size": [
+            1200,
+            1200
+          ]
+        },
+        {
+          "file": "alice_terra_alt3.jpg",
+          "source": "https://p2.trrsf.com/image/fget/cf/1200/1600/middle/images.terra.com/2026/10/11/419778521-3a269f2639a261a0-1400x823-1.jpg",
+          "size": [
+            1200,
+            1600
+          ]
+        },
+        {
+          "file": "alice_terra_alt4.jpg",
+          "source": "https://p2.trrsf.com/image/fget/cf/1548/0/images.terra.com/2026/10/11/419778521-3a269f2639a261a0-1400x823-1.jpg",
+          "size": [
+            1548,
+            910
+          ]
+        }
+      ],
+      "source": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/10/11/419778521-3a269f2639a261a0-1400x823-1.jpg",
+      "size": [
+        1200,
+        630
+      ]
+    },
+    {
+      "file": "alice_jp.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [
+        {
+          "file": "alice_jp_alt1.jpg",
+          "source": "https://jovempan.com.br/wp-content/uploads/sites/2/2026/08/Sem-titulo-5.jpg",
+          "size": [
+            1200,
+            641
+          ]
+        },
+        {
+          "file": "alice_jp_alt2.jpg",
+          "source": "https://jovempan.com.br/wp-content/uploads/sites/2/2025/07/sem-titulo-57.png",
+          "size": [
+            1000,
+            600
+          ]
+        },
+        {
+          "file": "alice_jp_alt3.jpg",
+          "source": "https://jovempan.com.br/wp-content/uploads/sites/2/2025/03/saveclip.app_480754216_18498547915039433_1588789710055865858_n.jpg",
+          "size": [
+            1000,
+            757
+          ]
+        }
+      ],
+      "source": "https://jovempan.com.br/wp-content/uploads/sites/2/2025/08/1756495484572793.jpg?w=1022&h=592&crop=1",
+      "size": [
+        1022,
+        592
+      ]
+    },
+    {
+      "file": "cetim_elle.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [
+        {
+          "file": "cetim_elle_alt1.jpg",
+          "source": "https://images.elle.com.br/2025/08/GettyImages-2199415231.jpg",
+          "size": [
+            1600,
+            2400
+          ]
+        },
+        {
+          "file": "cetim_elle_alt2.jpg",
+          "source": "https://images.elle.com.br/2025/08/GettyImages-2199415231-1240x1680.jpg",
+          "size": [
+            1240,
+            1680
+          ]
+        },
+        {
+          "file": "cetim_elle_alt3.jpg",
+          "source": "https://images.elle.com.br/2025/08/GettyImages-2213932153-560x840.jpg",
+          "size": [
+            560,
+            840
+          ]
+        },
+        {
+          "file": "cetim_elle_alt4.jpg",
+          "source": "https://images.elle.com.br/2025/08/SaveClip.App_530494362_18519684235010569_1296533296346233165_n-620x827.jpg",
+          "size": [
+            620,
+            827
+          ]
+        },
+        {
+          "file": "cetim_elle_alt5.jpg",
+          "source": "https://images.elle.com.br/2025/08/tdH6rdWP2cFTQnQYSnaX6L-1280-80.jpg-620x764.webp",
+          "size": [
+            620,
+            764
+          ]
+        },
+        {
+          "file": "cetim_elle_alt6.jpg",
+          "source": "https://images.elle.com.br/2025/08/SaveClip.App_433902718_18429455101062310_8500985875109464840_n-620x775.jpg",
+          "size": [
+            620,
+            775
+          ]
+        },
+        {
+          "file": "cetim_elle_alt7.jpg",
+          "source": "https://images.elle.com.br/2025/08/GettyImages-2202499267-560x840.jpg",
+          "size": [
+            560,
+            840
+          ]
+        },
+        {
+          "file": "cetim_elle_alt8.jpg",
+          "source": "https://elle.com.br/wp-content/themes/theme-elle-brasil/library/images/capa-impressa-menu.png",
+          "size": [
+            597,
+            792
+          ]
+        },
+        {
+          "file": "cetim_elle_alt9.jpg",
+          "source": "https://elle.com.br/wp-content/themes/theme-elle-brasil/library/images/mockup-decor-3.png",
+          "size": [
+            597,
+            792
+          ]
+        },
+        {
+          "file": "cetim_elle_alt10.jpg",
+          "source": "https://elle.com.br/wp-content/themes/theme-elle-brasil/library/images/capa-menu-elle-men.png",
+          "size": [
+            597,
+            792
+          ]
+        },
+        {
+          "file": "cetim_elle_alt11.jpg",
+          "source": "https://elle.com.br/wp-content/themes/theme-elle-brasil/library/images/capa-menu-elle-a-table.png",
+          "size": [
+            597,
+            792
+          ]
+        }
+      ],
+      "source": "https://images.elle.com.br/2025/08/GettyImages-2199415231-560x840.jpg",
+      "size": [
+        560,
+        840
+      ]
+    },
+    {
+      "file": "cetim_elle2.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [],
+      "source": "https://images.elle.com.br/2024/10/cropped-looks-com-conjuntos-francescaperks-620x775-1.jpg",
+      "size": [
+        640,
+        853
+      ]
+    },
+    {
+      "file": "cetim_ek.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [],
+      "source": "https://cdn.e-konomista.pt/uploads/2019/07/128091-business-lady_1561548453.jpg",
+      "size": [
+        2120,
+        996
+      ]
+    }
+  ]
+}
