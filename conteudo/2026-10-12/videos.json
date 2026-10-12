@@ -1,0 +1,15 @@
+{
+ "reels": [
+  {"post_id": 1, "scenes": [
+   {"text": "Florence Pugh foi de **unha preta com diamante**", "dur": 2.8, "photo": {"src": "pugh_tzr_alt2.jpg", "mode": "card", "focus": 0.5, "focusY": 0.15, "zoom": 1.1}},
+   {"text": "Dá pra fazer igual **com strass**", "dur": 2.2, "photo": {"src": "pugh_tzr_alt1.jpg", "mode": "card", "focus": 0.55, "focusY": 0.75, "zoom": 1.3}},
+   {"text": "Esmalte preto **bem seco** primeiro", "dur": 2.4, "style": "dark"},
+   {"text": "Gotinha de **cola no palito**", "dur": 2.4, "photo": {"src": "strass_ug_alt13.jpg", "focus": 0.5, "focusY": 0.5}},
+   {"text": "Strass na pinça e **pressão leve**", "dur": 2.6, "photo": {"src": "strass_like_alt3.jpg", "focus": 0.5, "focusY": 0.5}},
+   {"text": "Top coat por cima **das pedrinhas**", "dur": 2.4, "photo": {"src": "strass_ug_alt10.jpg", "focus": 0.5, "focusY": 0.5}},
+   {"text": "Dura de **5 a 7 dias**", "dur": 2.2},
+   {"cta": true, "text": "Salva pro **fim de semana**", "sub": "Comenta DIAMANTE se você vai testar", "dur": 2.6}
+  ]}
+ ],
+ "stories": []
+}
