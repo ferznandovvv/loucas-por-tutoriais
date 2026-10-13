@@ -1,0 +1,149 @@
+{
+  "date": "2026-10-13-extra",
+  "finished_at": "2026-10-13T09:14:25Z",
+  "items": [
+    {
+      "file": "pin_abm.jpg",
+      "type": "article",
+      "ok": false,
+      "alts": [],
+      "error": "403 Client Error: Forbidden for url: https://abeautifulmess.com/how-to-clean-makeup-brushes/"
+    },
+    {
+      "file": "pin_lf.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [],
+      "source": "https://www.lookfantastic.com/images?url=https://blogscdn.thehut.net/wp-content/uploads/sites/2/2018/07/04102525/makeup-brushes_1200x672_acf_cropped.jpg&auto=avif&width=1200&fit=crop",
+      "size": [
+        1200,
+        672
+      ]
+    },
+    {
+      "file": "pin_aad.jpg",
+      "type": "article",
+      "ok": false,
+      "alts": [],
+      "error": "nenhuma imagem utilizavel (12 candidatas)"
+    },
+    {
+      "file": "pin_webmd.jpg",
+      "type": "article",
+      "ok": false,
+      "alts": [],
+      "error": "nenhuma imagem utilizavel (8 candidatas)"
+    },
+    {
+      "file": "pin_cc.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [
+        {
+          "file": "pin_cc_alt1.jpg",
+          "source": "https://assets.clevelandclinic.org/transform/5d3952e1-5e4c-4ac0-9887-379a267fd410/clean-makeup-brush-1411288814",
+          "size": [
+            2000,
+            1238
+          ]
+        }
+      ],
+      "source": "https://assets.clevelandclinic.org/transform/LargeFeatureImage/5d3952e1-5e4c-4ac0-9887-379a267fd410/clean-makeup-brush-1411288814",
+      "size": [
+        1099,
+        618
+      ]
+    },
+    {
+      "file": "na_empire.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [
+        {
+          "file": "na_empire_alt1.jpg",
+          "source": "https://images.bauerhosting.com/empire/2026/05/EMP_SUMMER26_FOCUS_COVER_NaomiAckie-1-scaled.jpg?auto=format&w=2560&q=80",
+          "size": [
+            1920,
+            2400
+          ]
+        },
+        {
+          "file": "na_empire_alt2.jpg",
+          "source": "https://images.bauerhosting.com/empire/2026/05/EMP_SUMMER26_FOCUS_COVER_NaomiAckie-2-scaled.jpg?auto=format&w=2560&q=80",
+          "size": [
+            1920,
+            2400
+          ]
+        },
+        {
+          "file": "na_empire_alt3.jpg",
+          "source": "https://images.bauerhosting.com/empire/2026/05/EMP_SUMMER26_FOCUS_COVER_NaomiAckie-3-scaled.jpg?auto=format&w=2560&q=80",
+          "size": [
+            1920,
+            2400
+          ]
+        },
+        {
+          "file": "na_empire_alt4.jpg",
+          "source": "https://images.bauerhosting.com/empire/2026/01/I-Love-Boosters.jpg?auto=format&w=2560&q=80",
+          "size": [
+            2400,
+            1350
+          ]
+        },
+        {
+          "file": "na_empire_alt5.jpg",
+          "source": "https://images.bauerhosting.com/empire/2026/05/EMP_SUMMER26_FOCUS_COVER_NaomiAckie-8-scaled.jpg?auto=format&w=2560&q=80",
+          "size": [
+            1920,
+            2400
+          ]
+        },
+        {
+          "file": "na_empire_alt6.jpg",
+          "source": "https://images.bauerhosting.com/empire/2026/05/Jannah.jpeg?auto=format&w=2560&q=80",
+          "size": [
+            2400,
+            1350
+          ]
+        },
+        {
+          "file": "na_empire_alt7.jpg",
+          "source": "https://images.bauerhosting.com/empire/2026/05/EMP_SUMMER26_FOCUS_COVER_NaomiAckie-4-scaled.jpg?auto=format&w=2560&q=80",
+          "size": [
+            1920,
+            2400
+          ]
+        },
+        {
+          "file": "na_empire_alt8.jpg",
+          "source": "https://images.bauerhosting.com/empire/2026/05/EMP_SUMMER26_FOCUS_COVER_NaomiAckie-6-scaled.jpg?auto=format&w=2560&q=80",
+          "size": [
+            1920,
+            2400
+          ]
+        },
+        {
+          "file": "na_empire_alt9.jpg",
+          "source": "https://images.bauerhosting.com/empire/2026/05/EMP_SUMMER26_FOCUS_COVER_NaomiAckie-11-scaled.jpg?auto=format&w=2560&q=80",
+          "size": [
+            1920,
+            2400
+          ]
+        }
+      ],
+      "source": "https://images.bauerhosting.com/empire/2026/05/Empire-Focus-Naomi-Ackie.jpg?ar=16%3A9&fit=crop&crop=top&auto=format&w=undefined&q=80",
+      "size": [
+        1440,
+        810
+      ]
+    },
+    {
+      "file": "na_bfi.jpg",
+      "type": "article",
+      "ok": false,
+      "alts": [],
+      "error": "403 Client Error: Forbidden for url: https://whatson.bfi.org.uk/lff/Online/article/i-love-boosters-lff26"
+    }
+  ]
+}
