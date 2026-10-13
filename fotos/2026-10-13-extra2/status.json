@@ -1,0 +1,211 @@
+{
+  "date": "2026-10-13-extra2",
+  "finished_at": "2026-10-13T09:16:10Z",
+  "items": [
+    {
+      "file": "pin_fik.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [
+        {
+          "file": "pin_fik_alt1.jpg",
+          "source": "https://blog.fikbella.com.br/wp-content/uploads/2022/07/FK-Higienizar-pinceis-de-maquiagem.jpg",
+          "size": [
+            1024,
+            682
+          ]
+        },
+        {
+          "file": "pin_fik_alt2.jpg",
+          "source": "https://blog.fikbella.com.br/wp-content/uploads/2022/07/FK-Higienizar-pinceis-de-maquiagem..jpg",
+          "size": [
+            1024,
+            682
+          ]
+        },
+        {
+          "file": "pin_fik_alt3.jpg",
+          "source": "https://blog.fikbella.com.br/wp-content/uploads/2022/06/Modelo-Capa-Artigos-2.png",
+          "size": [
+            800,
+            560
+          ]
+        },
+        {
+          "file": "pin_fik_alt4.jpg",
+          "source": "https://blog.fikbella.com.br/wp-content/uploads/2022/07/Modelo-Capa-Artigos-8.jpg",
+          "size": [
+            800,
+            560
+          ]
+        },
+        {
+          "file": "pin_fik_alt5.jpg",
+          "source": "https://blog.fikbella.com.br/wp-content/uploads/2022/07/Modelo-Capa-Artigos-12.jpg",
+          "size": [
+            800,
+            560
+          ]
+        }
+      ],
+      "source": "https://blog.fikbella.com.br/wp-content/uploads/2022/07/FK-Higienizar-pinceis-de-maquiagem.png",
+      "size": [
+        800,
+        560
+      ]
+    },
+    {
+      "file": "pin_alm.jpg",
+      "type": "article",
+      "ok": false,
+      "alts": [],
+      "error": "403 Client Error: Forbidden for url: https://www.almanaquedamulher.com/cat-maquiagem/como-limpar-pincel-de-maquiagem/"
+    },
+    {
+      "file": "pin_mayb.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [],
+      "source": "https://www.maybelline.pt/-/media/project/loreal/brand-sites/mny/emea/iberic/dicas-de-maquilhagem/maquilhagem-para-principiantes/08-maybelline-maquillaje-dia-piel-perfecta-borrador-corrector/imagenwe/pincel-(1)/top-view-group-make-up-brushes-(1).jpg",
+      "size": [
+        600,
+        501
+      ]
+    },
+    {
+      "file": "pin_pdl.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [
+        {
+          "file": "pin_pdl_alt1.jpg",
+          "source": "https://presencadeluxo.pt/img/cms/gift-cards/Cartao-oferta-celebracao-presenca-de-luxo.jpg",
+          "size": [
+            800,
+            533
+          ]
+        },
+        {
+          "file": "pin_pdl_alt2.jpg",
+          "source": "https://presencadeluxo.pt/img/cms/gift-cards/Cartao-Aniversario-Presenca-de-Luxo-v2.jpg",
+          "size": [
+            1000,
+            667
+          ]
+        },
+        {
+          "file": "pin_pdl_alt3.jpg",
+          "source": "https://presencadeluxo.pt/img/cms/gift-cards/cartao-oferta-dia-da-mae.jpg",
+          "size": [
+            800,
+            533
+          ]
+        }
+      ],
+      "source": "https://presencadeluxo.pt/img/cms/blog/Maquilhagem/como lavar pinceis de maquilhagem.jpg",
+      "size": [
+        980,
+        653
+      ]
+    },
+    {
+      "file": "pin_skin.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [
+        {
+          "file": "pin_skin_alt1.jpg",
+          "source": "https://blog.skin.pt/wp-content/uploads/2025/07/manchas-vermelhas.webp",
+          "size": [
+            800,
+            600
+          ]
+        },
+        {
+          "file": "pin_skin_alt2.jpg",
+          "source": "https://blog.skin.pt/wp-content/uploads/2025/08/pinceis-maquilhagem.webp",
+          "size": [
+            800,
+            600
+          ]
+        },
+        {
+          "file": "pin_skin_alt3.jpg",
+          "source": "https://blog.skin.pt/wp-content/uploads/2025/08/limpar-pinceil-toalhita.webp",
+          "size": [
+            800,
+            600
+          ]
+        },
+        {
+          "file": "pin_skin_alt4.jpg",
+          "source": "https://blog.skin.pt/wp-content/uploads/2025/08/pinceis-secar.webp",
+          "size": [
+            800,
+            600
+          ]
+        },
+        {
+          "file": "pin_skin_alt5.jpg",
+          "source": "https://blog.skin.pt/wp-content/uploads/2025/08/o-que-evitar.webp",
+          "size": [
+            800,
+            600
+          ]
+        },
+        {
+          "file": "pin_skin_alt6.jpg",
+          "source": "https://skin.pt/media/catalog/product/cache/df33bbed0fdbb23b874e9e756f5094b1/6/6/6633370-caudalie_vinoperfect_serum_30ml_1.jpg",
+          "size": [
+            620,
+            620
+          ]
+        },
+        {
+          "file": "pin_skin_alt7.jpg",
+          "source": "https://skin.pt/media/catalog/product/cache/df33bbed0fdbb23b874e9e756f5094b1/l/a/la_roche-posay_anthelios_uvmune_400_spf50_creme_hidratante_com_cor_50ml.jpg",
+          "size": [
+            620,
+            620
+          ]
+        },
+        {
+          "file": "pin_skin_alt8.jpg",
+          "source": "https://skin.pt/media/catalog/product/cache/df33bbed0fdbb23b874e9e756f5094b1/e/s/est_e_lauder_advanced_night_repair_synchronized_multi-recovery_complex_30ml_1_1.jpg",
+          "size": [
+            620,
+            620
+          ]
+        },
+        {
+          "file": "pin_skin_alt9.jpg",
+          "source": "https://skin.pt/media/catalog/product/cache/df33bbed0fdbb23b874e9e756f5094b1/s/k/skinceuticalsceferulicserum30ml.jpg",
+          "size": [
+            620,
+            620
+          ]
+        },
+        {
+          "file": "pin_skin_alt10.jpg",
+          "source": "https://skin.pt/media/catalog/product/cache/df33bbed0fdbb23b874e9e756f5094b1/7/4/7493114-lierac_lift_integral_coffret.jpg",
+          "size": [
+            620,
+            620
+          ]
+        }
+      ],
+      "source": "https://blog.skin.pt/wp-content/uploads/2025/08/lavar-pinceis.webp",
+      "size": [
+        800,
+        600
+      ]
+    },
+    {
+      "file": "pin_guide.jpg",
+      "type": "article",
+      "ok": false,
+      "alts": [],
+      "error": "nenhuma imagem utilizavel (0 candidatas)"
+    }
+  ]
+}
