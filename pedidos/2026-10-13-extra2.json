@@ -1,0 +1,11 @@
+{
+  "date": "2026-10-13-extra2",
+  "items": [
+    {"file": "pin_fik.jpg", "type": "article", "max": 14, "url": "https://blog.fikbella.com.br/como-higienizar-pinceis-de-maquiagem/"},
+    {"file": "pin_alm.jpg", "type": "article", "max": 14, "url": "https://www.almanaquedamulher.com/cat-maquiagem/como-limpar-pincel-de-maquiagem/"},
+    {"file": "pin_mayb.jpg", "type": "article", "max": 14, "url": "https://www.maybelline.pt/dicas-de-maquilhagem/limpar-pinceis-maquilhagem"},
+    {"file": "pin_pdl.jpg", "type": "article", "max": 14, "url": "https://presencadeluxo.pt/blog/maquilhagem/como-lavar-pinceis-de-maquilhagem"},
+    {"file": "pin_skin.jpg", "type": "article", "max": 14, "url": "https://blog.skin.pt/limpeza-pinceis-maquilhagem/"},
+    {"file": "pin_guide.jpg", "type": "article", "max": 14, "url": "https://cloud.motorsport.unibo.it/article/the-definitive-guide-to-how-to-clean-and-disinfect-makeup-brushes"}
+  ]
+}
