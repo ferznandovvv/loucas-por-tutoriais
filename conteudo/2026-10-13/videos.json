@@ -1,0 +1,15 @@
+{
+ "reels": [
+  {"post_id": 4, "scenes": [
+   {"text": "Naomi Ackie usou um vestido de **850 pincéis**", "dur": 2.8, "photo": {"src": "na_rcfa.jpg", "focus": 0.45, "focusY": 0.25}},
+   {"text": "E os seus, quando foram **lavados?**", "dur": 2.2, "style": "dark"},
+   {"text": "Molhe só as pontas, **cerdas pra baixo**", "dur": 2.6, "photo": {"src": "pin_fik.jpg", "mode": "card", "focus": 0.5, "focusY": 0.5, "zoom": 1.1}},
+   {"text": "Água morna com **shampoo suave**", "dur": 2.4, "photo": {"src": "pin_skin.jpg", "mode": "card", "focus": 0.5, "focusY": 0.5, "zoom": 1.1}},
+   {"text": "Gire na palma, **sem esfregar**", "dur": 2.8, "photo": {"src": "pin_fik_alt2.jpg", "mode": "card", "focus": 0.5, "focusY": 0.5, "zoom": 1.1}},
+   {"text": "Seque deitado, **nunca em pé**", "dur": 2.4, "photo": {"src": "pin_skin_alt4.jpg", "mode": "card", "focus": 0.5, "focusY": 0.5, "zoom": 1.1}},
+   {"text": "Repita a cada **7 a 10 dias**", "dur": 2.2},
+   {"cta": true, "text": "Salva pro **domingo**", "sub": "Comenta PINCEL se os seus precisam de banho", "dur": 2.6}
+  ]}
+ ],
+ "stories": []
+}

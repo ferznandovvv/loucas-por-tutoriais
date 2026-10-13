@@ -1,0 +1,381 @@
+{
+ "posts": [
+  {
+   "id": 1,
+   "cover": {
+    "photo": "sc_rcfa_alt1.jpg",
+    "focus": 0.5,
+    "focus_y": 0.25,
+    "zoom": 1.0,
+    "headline": "Scarlett Johansson usou **dois vestidos vermelhos** no mesmo dia em Londres. Veja como montar o seu **look monocromático**",
+    "sub": "Uma cor, várias texturas e **sapato no mesmo tom.**",
+    "circles": [
+     {
+      "photo": "sc_jj_alt2.jpg",
+      "x": 870,
+      "y": 250,
+      "r": 165,
+      "fx": 0.28,
+      "fy": 0.2,
+      "zoom": 2.4
+     }
+    ]
+   },
+   "slides": [
+    {
+     "text": "**Scarlett Johansson usou dois vestidos vermelhos no mesmo dia.** Foi no sábado (10), no Festival de Cinema de Londres: de manhã na estreia da animação Ray Gunn, e à noite na de Paper Tiger, ao lado de Adam Driver.\n\nOs dois looks ensinam o mesmo truque de styling. Começando pelo da manhã...",
+     "photo": "sc_jj_alt12.jpg",
+     "focus": 0.5,
+     "focus_y": 0.25
+    },
+    {
+     "text": "...um tomara que caia **Hermès de tecido brilhante,** com um nó no meio do decote, cintura marcada e saia midi mais cheia, com bolsos.\n\nA sandália? **Vermelha também,** com tiras amarradas no tornozelo. As joias ficaram num dourado bem delicado. E é aí que mora o primeiro segredo...",
+     "photo": "sc_jj_alt5.jpg",
+     "focus": 0.5,
+     "focus_y": 0.3
+    },
+    {
+     "text": "...**sapato no mesmo vermelho do vestido** deixa o look monocromático, segundo a InStyle. Não precisa ser idêntico, só do mesmo tom.\n\nE quando a cor já é forte, **as joias podem ser discretas:** dourado fino, sem competir com o vestido. À noite, ela trocou de vestido e de clima...",
+     "photo": "sc_rcfa.jpg",
+     "focus": 0.5,
+     "focus_y": 1.0
+    },
+    {
+     "text": "...um Prada sob medida de **seda georgette cortada no viés,** com franzidos e drapeado no busto. O colar era da Barron London e o cabelo, um **bob loiro com cachos suaves jogado de lado.**\n\nQuem assina o styling é a Kate Young. Agora vem a parte que dá pra copiar sem tapete vermelho...",
+     "photo": "sc_prada_alt2.jpg",
+     "focus": 0.5,
+     "focus_y": 0.35
+    },
+    {
+     "text": "**Passo 1: escolha uma peça protagonista.** Vestido, conjunto ou terninho vermelho. Para o Steal the Look, terninho é aposta certeira em look de uma cor só.\n\nSe ainda bate insegurança, a Who What Wear sugere começar por **um acessório vermelho,** como um sapato ou uma bolsa. Depois vem a regra que muda tudo...",
+     "photo": "sc_prada.jpg",
+     "focus": 0.5,
+     "focus_y": 0.3
+    },
+    {
+     "text": "...**misture texturas do mesmo vermelho.** Tricô com couro, cetim com malha. O ton sur ton, com variações da mesma cor, dá profundidade ao look, segundo o Steal the Look.\n\nFoi o que a Scarlett fez: **cetim brilhante de manhã, seda fluida à noite.** E nos pés...",
+     "photo": "sc_jj_alt9.jpg",
+     "focus": 0.5,
+     "focus_y": 0.55
+    },
+    {
+     "text": "...**passo 3: sapato vermelho fecha o monocromático.** O Steal the Look sugere scarpin ou mule vermelho com vestido esvoaçante e blazer.\n\nQuer quebrar? A InStyle lembra que **preto e branco funcionam como neutros** com vermelho, e tênis deixa até vestido de festa mais leve. Tem mais um truque...",
+     "photo": "sc_jj_alt7.jpg",
+     "focus": 0.5,
+     "focus_y": 0.9
+    },
+    {
+     "text": "**Passo 4: marque a cintura.** Com um vestido de tricô vermelho mais soltinho, a Who What Wear indica um cinto para desenhar a silhueta.\n\nE se tudo vermelho parecer demais, **um toque de outra cor** transforma a produção. Verde funciona bem: é a cor oposta ao vermelho no círculo cromático, segundo a InStyle.",
+     "photo": "sc_jj_alt3.jpg",
+     "focus": 0.5,
+     "focus_y": 0.3
+    },
+    {
+     "text": "**Resumindo: uma cor, várias texturas, sapato no tom e joia discreta.** A Scarlett mostrou que dá pra repetir a mesma ideia duas vezes no mesmo dia e ainda parecer outro look.\n\nSalva pra montar o seu e **comenta VERMELHO** se você teria coragem de usar da cabeça aos pés.",
+     "photo": "sc_prada_alt3.jpg",
+     "focus": 0.5,
+     "focus_y": 0.3
+    }
+   ]
+  },
+  {
+   "id": 2,
+   "cover": {
+    "photo": "am_rcfa_alt2.jpg",
+    "focus": 0.5,
+    "focus_y": 0.1,
+    "zoom": 1.0,
+    "headline": "Amal Clooney brilhou no Albie Awards com o **cabelo de ondas volumosas.** Veja como fazer a **escova bolha** em casa",
+    "sub": "Só precisa de secador, escova redonda e **grampos.**",
+    "circles": [
+     {
+      "photo": "am_rt.jpg",
+      "x": 870,
+      "y": 250,
+      "r": 165,
+      "fx": 0.52,
+      "fy": 0.12,
+      "zoom": 2.4
+     }
+    ]
+   },
+   "slides": [
+    {
+     "text": "**Amal e George Clooney receberam convidados no Albie Awards 2026,** em Londres, no Museu de História Natural. O prêmio é da Clooney Foundation for Justice.\n\nAmal foi de Gucci dourado com franjas. Mas o que chamou atenção mesmo foi o cabelo: castanho, **em ondas soltas e brilhantes, com repartido de lado...**",
+     "photo": "am_rcfa_alt1.jpg",
+     "focus": 0.35,
+     "focus_y": 0.3
+    },
+    {
+     "text": "...e esse volume virou marca registrada dela. O cabeleireiro **Dimitris Giannetos,** que cuida do cabelo da Amal, batizou a técnica de **bubble blowout,** a escova bolha.\n\nSegundo ele, à Who What Wear, é uma escova com clima dos anos 90, mas com mais volume e movimento, e as pontas dão a **ilusão de uma bolha...**",
+     "photo": "am_rcfa.jpg",
+     "focus": 0.5,
+     "focus_y": 0.25
+    },
+    {
+     "text": "...o comprimento ideal fica uns **15 a 20 cm abaixo do ombro,** mas Giannetos diz que não precisa cortar pra testar.\n\nEle garante que é um penteado fácil de fazer. E tudo começa antes do secador, com o cabelo **lavado e protegido...**",
+     "photo": "am_www_alt4.jpg",
+     "focus": 0.62,
+     "focus_y": 0.35
+    },
+    {
+     "text": "**Passo 1: prepare.** Lave o cabelo, aplique um sérum leave-in de brilho e desembarace. Depois, **protetor térmico no comprimento todo.**\n\nCabelo cacheado ou crespo? Giannetos sugere alisar antes, sempre com protetor térmico. Agora divida em mechas de uns três dedos de largura, como ensina a L'Oréal Paris...",
+     "photo": "esc_loreal.jpg",
+     "focus": 0.62,
+     "focus_y": 0.4
+    },
+    {
+     "text": "...**passo 2: seque com escova redonda.** Comece com o cabelo quase seco, bico do secador apontado para baixo, e **enrole cada mecha para cima, em direção ao rosto.**\n\nA escova acompanha o comprimento: quanto mais longo o cabelo, mais larga ela deve ser, segundo a L'Oréal Paris. Só que o segredo vem depois do secador...",
+     "photo": "am_www_alt9.jpg",
+     "focus": 0.5,
+     "focus_y": 0.45
+    },
+    {
+     "text": "...**passo 3: prenda e deixe esfriar.** Assim que cada mecha secar, dê um jato de ar frio, enrole de novo e **prenda com grampo.**\n\n\"É importante fixar o formato e deixar o cabelo esfriar\", diz Giannetos. Quando soltar tudo, **escove as pontas para dentro** e o efeito bolha aparece...",
+     "photo": "am_rcfa_alt3.jpg",
+     "focus": 0.32,
+     "focus_y": 0.25,
+     "zoom": 1.3
+    },
+    {
+     "text": "**Passo 4: retoque e fixe.** Se alguma ponta não ficou boa, use um babyliss de cano longo, **virando as pontas para o rosto.** Feche com spray de fixação forte.\n\nE escolha um secador potente: Giannetos diz que ele faz toda a diferença pra chegar no volume perfeito.",
+     "photo": "am_www_alt11.jpg",
+     "focus": 0.5,
+     "focus_y": 0.3,
+     "zoom": 1.15
+    },
+    {
+     "text": "**Resumindo: proteção, escova redonda, grampo e paciência pra esfriar.** É o mesmo volume de tapete vermelho, feito com o que você já tem em casa.\n\nSalva pra próxima festa e **comenta BOLHA** se você vai testar a escova da Amal.",
+     "photo": "am_rcfa_alt4.jpg",
+     "focus": 0.33,
+     "focus_y": 0.33,
+     "zoom": 2.6
+    }
+   ]
+  },
+  {
+   "id": 3,
+   "cover": {
+    "photo": "zd_hola_alt2.jpg",
+    "focus": 0.5,
+    "focus_y": 0.3,
+    "zoom": 1.0,
+    "headline": "Zendaya e Marina Ruy Barbosa trouxeram de volta o **cantinho do olho iluminado.** Veja como fazer o seu **sem exagero**",
+    "sub": "Só precisa de sombra clara e **um pincel pequeno.**",
+    "circles": [
+     {
+      "photo": "zd_hola_alt1.jpg",
+      "x": 870,
+      "y": 250,
+      "r": 165,
+      "fx": 0.5,
+      "fy": 0.32,
+      "zoom": 2.2
+     }
+    ]
+   },
+   "slides": [
+    {
+     "text": "**O truque de maquiagem dos anos 2000 voltou.** Segundo o boletim Spark Trends do dia 9, o cantinho interno do olho iluminado apareceu em Rihanna, Zendaya e Marina Ruy Barbosa.\n\nA versão 2026 usa pigmentos claros, iluminadores intensos e acabamento metálico, em make básica ou elaborada. Mas tem um jeito mais discreto...",
+     "photo": "ci_marina.jpg",
+     "focus": 0.5,
+     "focus_y": 0.2
+    },
+    {
+     "text": "...o da **Zendaya na estreia de A Odisseia,** em Londres. O maquiador Ernesto Casillas usou um **iluminado claro e matte,** que sai do canto interno em direção ao meio da pálpebra.\n\nSegundo o FFW, o acabamento matte disfarça a parte escura do canto do olho sem glitter, e deixa o olhar mais aberto e descansado...",
+     "photo": "zd_hola.jpg",
+     "focus": 0.5,
+     "focus_y": 0.35
+    },
+    {
+     "text": "**Passo 1: corretivo antes.** Se você tem olheira mais marcada, passe um corretivo claro embaixo dos olhos.\n\nDepois escolha a sombra: **baunilha, marfim ou um branco suave,** sempre de acordo com o seu tom de pele. Para a versão da Zendaya, ela precisa ser **matte.** E o pincel faz diferença...",
+     "photo": "ci_ddb_alt6.jpg",
+     "focus": 0.5,
+     "focus_y": 0.4
+    },
+    {
+     "text": "...**passo 2: aplique em V.** Com um pincel pequeno de detalhe, coloque a sombra bem no cantinho interno, **no V do olho.**\n\nO Dia de Beauté ensina que, se quiser mais cor, dá pra **pressionar com o dedo mindinho,** com cuidado. Só que a versão discreta pede mais um passo...",
+     "photo": "ci_ddb_alt3.jpg",
+     "focus": 0.5,
+     "focus_y": 0.42
+    },
+    {
+     "text": "...**passo 3: esfume as bordas.** Com um pincel limpo e fofinho, espalhe as pontas para a cor sumir aos poucos pela pálpebra, como ensina o FFW.\n\nPara fechar a make da Zendaya: **pele com viço e gloss na boca.** Agora, se você quer o brilho dos anos 2000...",
+     "photo": "ci_ddb_alt7.jpg",
+     "focus": 0.5,
+     "focus_y": 0.35
+    },
+    {
+     "text": "...**troque a sombra matte por uma clara cintilante.** É a escolha mais comum, segundo o Dia de Beauté. Para um look mais divertido, vale glitter, metálico ou até cor.\n\nNessa versão, a dica é **não esfumar,** para o brilho ficar bem marcado no cantinho. E tem um jeito ainda mais rápido...",
+     "photo": "ci_ddb_alt12.jpg",
+     "focus": 0.5,
+     "focus_y": 0.4
+    },
+    {
+     "text": "...**a make clean de 2 minutos.** Pule as outras sombras: só o cantinho iluminado e **bastante máscara de cílios,** como sugere o Dia de Beauté.\n\nNa pele, o portal indica um acabamento acetinado, nem matte nem brilhante demais, e **pouco contorno.** Funciona pro trabalho, pro almoço e pro dia de cansaço.",
+     "photo": "ci_ddb_alt13.jpg",
+     "focus": 0.5,
+     "focus_y": 0.35
+    },
+    {
+     "text": "**Resumindo: matte e esfumado para olhar descansado, brilho sem esfumar para festa.** É o truque mais barato da make, e muda o rosto inteiro.\n\nSalva pra testar amanhã e **comenta OLHAR** se você vai de matte ou de brilho.",
+     "photo": "ci_ddb_alt4.jpg",
+     "focus": 0.5,
+     "focus_y": 0.35
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "cover": {
+    "photo": "na_rcfa.jpg",
+    "focus": 0.45,
+    "focus_y": 0.25,
+    "zoom": 1.0,
+    "headline": "Naomi Ackie usou um **vestido de 850 pincéis** em Londres. Aprenda a **lavar os seus** do jeito certo",
+    "sub": "Só precisa de água morna, shampoo e **papel toalha.**",
+    "circles": [
+     {
+      "photo": "na_yahoo.jpg",
+      "x": 870,
+      "y": 250,
+      "r": 165,
+      "fx": 0.55,
+      "fy": 0.75,
+      "zoom": 2.4
+     }
+    ]
+   },
+   "slides": [
+    {
+     "text": "**Naomi Ackie usou um vestido feito de 850 pincéis de maquiagem.** Foi na estreia de I Love Boosters, no Festival de Cinema de Londres, na sexta (9).\n\nO longo é da Marine Serre, com os aros prateados dos pincéis brilhando na luz. Lindo no tapete vermelho. Mas e os pincéis da sua penteadeira...",
+     "photo": "na_empire_alt5.jpg",
+     "focus": 0.5,
+     "focus_y": 0.3
+    },
+    {
+     "text": "...**quando foi a última vez que você lavou?** A Academia Americana de Dermatologia recomenda lavar a cada **7 a 10 dias.**\n\nA dermatologista Patrícia Nakahodo, ouvida pela Beleza na Web, detalha: pincel de base, corretivo líquido e batom **a cada duas semanas;** de pó e sombra, no mínimo uma vez por mês. Vamos ao passo a passo...",
+     "photo": "pin_fik_alt1.jpg",
+     "focus": 0.5,
+     "focus_y": 0.5
+    },
+    {
+     "text": "**Passo 1: molhe só as pontas.** Use água morna corrente, com as **cerdas viradas para baixo.**\n\nSegundo a Academia Americana de Dermatologia, não dá pra mergulhar a cabeça do pincel inteira, porque a água dissolve a cola que prende as cerdas no cabo. Agora, o que usar pra limpar...",
+     "photo": "pin_fik.jpg",
+     "focus": 0.5,
+     "focus_y": 0.5
+    },
+    {
+     "text": "...**passo 2: shampoo suave.** Numa tigela com água morna, misture uma colher de sopa de shampoo suave. Shampoo infantil ou detergente neutro também servem, segundo a Beleza na Web.\n\nOs dermatologistas da AAD explicam que **sabão comum pode ressecar as cerdas.** Agora é a hora de tirar a sujeira de verdade...",
+     "photo": "pin_skin.jpg",
+     "focus": 0.5,
+     "focus_y": 0.5
+    },
+    {
+     "text": "...**passo 3: movimentos circulares na palma da mão,** sem esfregar com força. Enxágue as pontas e repita até a água sair **limpinha.**\n\nPincel de base e corretivo costuma pedir mais de uma rodada, segundo a Natura. E nada de puxar as cerdas molhadas, porque elas se soltam. Depois de limpo...",
+     "photo": "pin_fik_alt2.jpg",
+     "focus": 0.5,
+     "focus_y": 0.5
+    },
+    {
+     "text": "...**passo 4: tire o excesso de água.** Aperte as cerdas com cuidado num papel toalha limpo e seco.\n\nDá pra conferir no próprio papel se ainda tem sujeira saindo, como sugere a Beleza na Web. Se o papel ficar colorido, **volta pro shampoo.** E agora vem o erro que mais estraga pincel...",
+     "photo": "pin_skin_alt3.jpg",
+     "focus": 0.5,
+     "focus_y": 0.5
+    },
+    {
+     "text": "...**secar o pincel em pé no copinho.** A água escorre para a base e solta a cola, alertam os dermatologistas da AAD.\n\n**Passo 5: seque deitado,** numa toalha, com as cerdas para fora da bancada ou mais baixas que o cabo. Pressa? Secador no ar frio, no sentido dos pelos, segundo a Beleza na Web.",
+     "photo": "pin_skin_alt4.jpg",
+     "focus": 0.5,
+     "focus_y": 0.5
+    },
+    {
+     "text": "**O que evitar:** deixar de molho, usar álcool puro e guardar o pincel ainda úmido. A Natura lembra que **só esponja pode ficar de molho,** por até 15 minutos.\n\nE uma regra de ouro da AAD: **não empreste seus pincéis.** Se a make anda causando espinha ou irritação, procure um dermatologista.",
+     "photo": "pin_mayb.jpg",
+     "focus": 0.5,
+     "focus_y": 0.5
+    },
+    {
+     "text": "**Resumindo: pontas na água morna, shampoo suave, palma da mão e secagem deitada.** Seus pincéis duram mais e sua pele agradece.\n\nSalva pra lavar no domingo e **comenta PINCEL** se os seus estão precisando de um banho.",
+     "photo": "pin_pdl.jpg",
+     "focus": 0.5,
+     "focus_y": 0.5
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "cover": {
+    "photo": "mb_rcfa_alt1.jpg",
+    "focus": 0.5,
+    "focus_y": 0.2,
+    "zoom": 1.0,
+    "headline": "Monica Barbaro foi de **paetê azul-gelo** ao Festival de Londres. Veja como usar paetê **de dia**",
+    "sub": "O segredo é misturar com **peça básica.**",
+    "circles": [
+     {
+      "photo": "mb_wwd.jpg",
+      "x": 870,
+      "y": 250,
+      "r": 165,
+      "fx": 0.45,
+      "fy": 0.4,
+      "zoom": 1.2
+     }
+    ]
+   },
+   "slides": [
+    {
+     "text": "**Monica Barbaro e Andrew Garfield foram juntos à sessão de Artificial,** no Festival de Cinema de Londres, no domingo (11).\n\nEla usou um Dior sob medida, midi, todo de **paetê azul-gelo,** com alcinhas finas, decote reto e barra de babado prateado. A The Zoe Report chamou de versão moderna do vestido metalizado. E o resto do look...",
+     "photo": "mb_tzr_alt2.jpg",
+     "focus": 0.5,
+     "focus_y": 0.3
+    },
+    {
+     "text": "...foi **bem básico de propósito:** mule prateada, brincos delicados, ondas soltas na altura do ombro e maquiagem leve, com boca natural.\n\nQuando a roupa já brilha, **o resto acalma.** E essa é exatamente a regra pra levar o paetê pro dia a dia, segundo o Steal the Look...",
+     "photo": "mb_mfh_alt3.jpg",
+     "focus": 0.5,
+     "focus_y": 0.3
+    },
+    {
+     "text": "**Jeito 1: top ou cropped de paetê com jeans ou pantalona.** Por cima, um blazer oversized, e nos pés tamanco ou bota de cano curto.\n\nO brilho fica só em cima e **o jeans tira o clima de festa.** Agora, se o paetê está na calça, a lógica se inverte...",
+     "photo": "pae_stl_alt5.jpg",
+     "focus": 0.5,
+     "focus_y": 0.35
+    },
+    {
+     "text": "...**jeito 2: calça de paetê com camisa relaxada.** Nada de blusa chamativa: o Steal the Look sugere uma camisa leve, até colorida, e rasteira ou tênis.\n\nA camisa aberta e solta deixa o look **com cara de dia,** não de réveillon. E a saia de paetê também entra...",
+     "photo": "pae_stl_alt3.jpg",
+     "focus": 0.5,
+     "focus_y": 0.7
+    },
+    {
+     "text": "...**jeito 3: saia midi de paetê com tricô.** Um cardigã confortável por cima deixa o look casual, com um toque fashion.\n\nNo calor, troque o tricô por **regata e tamanco,** outra combinação do Steal the Look. Para o trabalho ou o happy hour, camiseta branca e scarpin. E tem a peça curinga...",
+     "photo": "pae_stl_alt4.jpg",
+     "focus": 0.5,
+     "focus_y": 0.35
+    },
+    {
+     "text": "...**a camisa branca.** Com saia midi de paetê, camisa branca bem passada e sandália de salto, vira look de **almoço de família.**\n\nCom vestido de paetê, o truque é usar **camisa branca oversized** por cima, aberta, como uma terceira peça. E nos pés...",
+     "photo": "pae_stl_alt7.jpg",
+     "focus": 0.5,
+     "focus_y": 0.35,
+     "zoom": 1.0
+    },
+    {
+     "text": "...**bota ou tênis de cano alto.** O Steal the Look sugere até bota colorida com vestido de paetê e camisa por cima.\n\nResumindo a regra: **uma peça brilha, o resto é básico.** Jeans, camisa, tricô ou camiseta. Foi o que a Monica fez no tapete vermelho, só que em versão de gala.",
+     "photo": "pae_stl_alt2.jpg",
+     "focus": 0.5,
+     "focus_y": 0.75,
+     "zoom": 1.0
+    },
+    {
+     "text": "**Paetê não precisa esperar o réveillon.** Com jeans, camisa branca ou tricô, ele vai pro almoço, pro trabalho e pro passeio de domingo.\n\nSalva pra montar o seu e **comenta BRILHO** se você usaria paetê de dia.",
+     "photo": "mb_mfh.jpg",
+     "focus": 0.5,
+     "focus_y": 0.3
+    }
+   ]
+  }
+ ]
+}
