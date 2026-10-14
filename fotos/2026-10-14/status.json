@@ -1,0 +1,1148 @@
+{
+  "date": "2026-10-14",
+  "finished_at": "2026-10-14T09:11:19Z",
+  "items": [
+    {
+      "file": "pc_rcfa.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [
+        {
+          "file": "pc_rcfa_alt1.jpg",
+          "source": "https://www.redcarpet-fashionawards.com/wp-content/uploads/2026/10/penelope-cruz-chanel-ruban-earrings-bunker-premiere-2026.jpg",
+          "size": [
+            1200,
+            1625
+          ]
+        },
+        {
+          "file": "pc_rcfa_alt2.jpg",
+          "source": "https://www.redcarpet-fashionawards.com/wp-content/uploads/2026/10/cynthia-erivo-prada-prima-facie-bfi-london-film-festival-2026.jpg",
+          "size": [
+            1200,
+            1684
+          ]
+        },
+        {
+          "file": "pc_rcfa_alt3.jpg",
+          "source": "https://www.redcarpet-fashionawards.com/wp-content/uploads/2026/10/daisy-edgar-jones-vintage-chloe-hummingbird-chartreuse-versace-trousers-new-york.jpg",
+          "size": [
+            1200,
+            1800
+          ]
+        },
+        {
+          "file": "pc_rcfa_alt4.jpg",
+          "source": "https://www.redcarpet-fashionawards.com/wp-content/uploads/2026/10/rosalind-eleazar-mcqueen-misty-green-london-film-festival.jpg",
+          "size": [
+            1200,
+            1800
+          ]
+        },
+        {
+          "file": "pc_rcfa_alt5.jpg",
+          "source": "https://www.redcarpet-fashionawards.com/wp-content/uploads/2026/10/anya-taylor-joy-lanvin-apple-original-films-london.jpg",
+          "size": [
+            1200,
+            1890
+          ]
+        },
+        {
+          "file": "pc_rcfa_alt6.jpg",
+          "source": "https://www.redcarpet-fashionawards.com/wp-content/uploads/2026/10/scarlett-johansson-hermes-ray-gunn-bfi-london-film-festival-2026-692x1024.jpg",
+          "size": [
+            692,
+            1024
+          ]
+        },
+        {
+          "file": "pc_rcfa_alt7.jpg",
+          "source": "https://www.redcarpet-fashionawards.com/wp-content/uploads/2026/10/lily-james-prada-the-liberation-bfi-london-film-festival-2026-683x1024.jpg",
+          "size": [
+            683,
+            1024
+          ]
+        }
+      ],
+      "source": "https://www.redcarpet-fashionawards.com/wp-content/uploads/2026/10/penelope-cruz-chanel-bunker-premiere-bfi-london-film-festival-2026.jpg",
+      "size": [
+        1200,
+        1799
+      ]
+    },
+    {
+      "file": "pc_cm.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [
+        {
+          "file": "pc_cm_alt1.jpg",
+          "source": "https://celebmafia.com/wp-content/plugins/celebmafia-guest-style-review/assets/images/outfit-example.webp",
+          "size": [
+            1122,
+            1402
+          ]
+        },
+        {
+          "file": "pc_cm_alt2.jpg",
+          "source": "https://celebmafia.com/wp-content/uploads/2026/10/penelope-cruz-in-custom-floral-chanel-at-bunker-london-premiere-1.webp",
+          "size": [
+            1280,
+            1917
+          ]
+        },
+        {
+          "file": "pc_cm_alt3.jpg",
+          "source": "https://celebmafia.com/wp-content/uploads/2026/09/penelope-cruz-wears-black-feather-shoulder-dress-at-bunker-photocall-2026-14.webp",
+          "size": [
+            1280,
+            1920
+          ]
+        }
+      ],
+      "source": "https://celebmafia.com/wp-content/uploads/2026/10/penelope-cruz-in-custom-chanel-floral-gown-at-bunker-premiere-more-photos-9.webp",
+      "size": [
+        1280,
+        1280
+      ]
+    },
+    {
+      "file": "pc_cm2.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [
+        {
+          "file": "pc_cm2_alt1.jpg",
+          "source": "https://celebmafia.com/wp-content/uploads/2026/10/penelope-cruz-in-ralph-lauren-at-la-bola-negra-london-premiere-5.webp",
+          "size": [
+            1280,
+            1535
+          ]
+        },
+        {
+          "file": "pc_cm2_alt2.jpg",
+          "source": "https://celebmafia.com/wp-content/uploads/2026/10/penelope-cruz-in-ralph-lauren-at-la-bola-negra-london-premiere-0.webp",
+          "size": [
+            1280,
+            1743
+          ]
+        },
+        {
+          "file": "pc_cm2_alt3.jpg",
+          "source": "https://celebmafia.com/wp-content/uploads/2026/10/penelope-cruz-in-custom-floral-chanel-at-bunker-london-premiere-0.webp",
+          "size": [
+            1280,
+            2051
+          ]
+        }
+      ],
+      "source": "https://celebmafia.com/wp-content/uploads/2026/10/cmfp-0472a2e1-91ab-402d-b6ac-26bb7b02fadb.jpg",
+      "size": [
+        1800,
+        1200
+      ]
+    },
+    {
+      "file": "pc_hola.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [
+        {
+          "file": "pc_hola_alt1.jpg",
+          "source": "https://www.hola.com/horizon/square/c698c3dc0363-gettyimages-2299580722.jpg",
+          "size": [
+            1080,
+            1080
+          ]
+        },
+        {
+          "file": "pc_hola_alt2.jpg",
+          "source": "https://www.hola.com/horizon/43/c698c3dc0363-gettyimages-2299580722.jpg",
+          "size": [
+            1920,
+            1440
+          ]
+        }
+      ],
+      "source": "https://www.hola.com/horizon/landscape/1200/c698c3dc0363-gettyimages-2299580722.jpg",
+      "size": [
+        1200,
+        675
+      ]
+    },
+    {
+      "file": "pc_rt.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [],
+      "source": "https://www.realitytea.com/wp-content/uploads/sites/6/2026/10/penelope-cruz_4e739f.jpg?resize=1200,630",
+      "size": [
+        1200,
+        630
+      ]
+    },
+    {
+      "file": "pc_ss.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [
+        {
+          "file": "pc_ss_alt1.jpg",
+          "source": "https://www.hola.com/us/horizon/square/d18eb311c114-gettyimages-2296304772.jpg",
+          "size": [
+            1080,
+            1080
+          ]
+        },
+        {
+          "file": "pc_ss_alt2.jpg",
+          "source": "https://www.hola.com/us/horizon/43/d18eb311c114-gettyimages-2296304772.jpg",
+          "size": [
+            1920,
+            1440
+          ]
+        }
+      ],
+      "source": "https://www.hola.com/us/horizon/landscape/1200/d18eb311c114-gettyimages-2296304772.jpg",
+      "size": [
+        1200,
+        675
+      ]
+    },
+    {
+      "file": "cast_bnw.jpg",
+      "type": "article",
+      "ok": false,
+      "alts": [],
+      "error": "403 Client Error: Forbidden for url: https://www.belezanaweb.com.br/loucas-por-beleza/como-sair-do-loiro-para-o-morena-iluminada/"
+    },
+    {
+      "file": "cast_loreal.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [
+        {
+          "file": "cast_loreal_alt1.jpg",
+          "source": "https://loreal-paris.com.br/-/media/project/loreal/brand-sites/oap/americas/br/artigos/cabelo/artigos-planilha-nova-1_1/pasta-lari-de-184-a-201---subir/187/modelo-com-longos-cabelos.jpg?cx=0.44&cy=0.11&cw=2000&ch=815&hash=8640892A90C1CD2278B3E0A785116E23",
+          "size": [
+            2000,
+            815
+          ]
+        }
+      ],
+      "source": "https://www.loreal-paris.com.br/-/media/project/loreal/brand-sites/oap/americas/br/artigos/cabelo/artigos-planilha-nova-1_1/pasta-lari-de-184-a-201---subir/187/modelo-com-longos-cabelos.jpg",
+      "size": [
+        1920,
+        1000
+      ]
+    },
+    {
+      "file": "cast_pp.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [
+        {
+          "file": "cast_pp_alt1.jpg",
+          "source": "https://static1.purepeople.com.br/articles/0/33/74/70/@/3833553-cabelo-platinado-para-castanho-hair-sty-1200x0-4.jpg",
+          "size": [
+            1200,
+            708
+          ]
+        },
+        {
+          "file": "cast_pp_alt2.jpg",
+          "source": "https://static1.purepeople.com.br/articles/0/33/74/70/@/3833694-adeus-platinado-como-fazer-transformac-580x0-1.jpg",
+          "size": [
+            580,
+            490
+          ]
+        }
+      ],
+      "source": "https://static1.purepeople.com.br/articles/0/33/74/70/@/3833553-cabelo-platinado-para-castanho-hair-sty-1200x630-4.jpg",
+      "size": [
+        1200,
+        630
+      ]
+    },
+    {
+      "file": "hb_www.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [
+        {
+          "file": "hb_www_alt1.jpg",
+          "source": "https://cdn.mos.cms.futurecdn.net/C59Kc3mD9Eh4mtP6FojyDS-1920-80.jpg",
+          "size": [
+            1920,
+            1080
+          ]
+        },
+        {
+          "file": "hb_www_alt2.jpg",
+          "source": "https://cdn.mos.cms.futurecdn.net/v2/t:0,l:420,cw:1080,ch:1080,q:80,w:1080/C59Kc3mD9Eh4mtP6FojyDS.jpg",
+          "size": [
+            1080,
+            1080
+          ]
+        },
+        {
+          "file": "hb_www_alt3.jpg",
+          "source": "https://cdn.mos.cms.futurecdn.net/v2/t:0,l:240,cw:1440,ch:1080,q:80,w:1440/C59Kc3mD9Eh4mtP6FojyDS.jpg",
+          "size": [
+            1440,
+            1080
+          ]
+        },
+        {
+          "file": "hb_www_alt4.jpg",
+          "source": "https://cdn.mos.cms.futurecdn.net/mpKK57mDqkbZyyDadeyt5n.jpg",
+          "size": [
+            1200,
+            1200
+          ]
+        },
+        {
+          "file": "hb_www_alt5.jpg",
+          "source": "https://cdn.mos.cms.futurecdn.net/R7jbm4tSTxCehpN7zNveC7-700-80.jpg",
+          "size": [
+            700,
+            933
+          ]
+        },
+        {
+          "file": "hb_www_alt6.jpg",
+          "source": "https://cdn.mos.cms.futurecdn.net/VDh782feNaA9siJmtaPiKC-700-80.jpg",
+          "size": [
+            700,
+            933
+          ]
+        },
+        {
+          "file": "hb_www_alt7.jpg",
+          "source": "https://cdn.mos.cms.futurecdn.net/siqmTCbEyXAumCFvyTG3wJ-1440-80.jpg",
+          "size": [
+            1440,
+            1650
+          ]
+        },
+        {
+          "file": "hb_www_alt8.jpg",
+          "source": "https://cdn.mos.cms.futurecdn.net/5KHAACEJSCJN45Pno48LmZ-1920-80.jpg",
+          "size": [
+            1800,
+            1800
+          ]
+        },
+        {
+          "file": "hb_www_alt9.jpg",
+          "source": "https://cdn.mos.cms.futurecdn.net/uJVWpdpqbxqPB6jPFowtV3-1920-80.jpg",
+          "size": [
+            1000,
+            1000
+          ]
+        },
+        {
+          "file": "hb_www_alt10.jpg",
+          "source": "https://cdn.mos.cms.futurecdn.net/ZVg2poTiAa3KZG6q4PXQmP-1920-80.jpg",
+          "size": [
+            1000,
+            1000
+          ]
+        },
+        {
+          "file": "hb_www_alt11.jpg",
+          "source": "https://cdn.mos.cms.futurecdn.net/p5A2dASwaduavfH5ezCj4Z-1920-80.jpg",
+          "size": [
+            1500,
+            1500
+          ]
+        }
+      ],
+      "source": "https://cdn.mos.cms.futurecdn.net/bauSoJNqsibbbEiYYTqF8S-1200-80.jpg",
+      "size": [
+        1200,
+        627
+      ]
+    },
+    {
+      "file": "hb_jang.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [
+        {
+          "file": "hb_jang_alt1.jpg",
+          "source": "https://jang.com.pk/assets/uploads/updates/2026-10-01/74065_9986224_image-(32)_updates.jpg",
+          "size": [
+            552,
+            555
+          ]
+        }
+      ],
+      "source": "https://jang.com.pk/assets/uploads/updates/2026-10-01/74065_7785074_image-(31)_updates.jpg",
+      "size": [
+        1599,
+        2400
+      ]
+    },
+    {
+      "file": "hb_mm.jpg",
+      "type": "article",
+      "ok": false,
+      "alts": [],
+      "error": "403 Client Error: Forbidden for url: https://minutemirror.com.pk/hailey-biebers-chocolate-brown-fall-manicure-matches-her-new-hair-perfectly-638415/"
+    },
+    {
+      "file": "hb_forbes.jpg",
+      "type": "article",
+      "ok": false,
+      "alts": [],
+      "error": "403 Client Error: Forbidden for url: https://www.forbes.com/sites/katebdonnelly/2026/10/13/fall-beauty-trends-2026-warmer-hair-moody-makeup-and-subtle-polish/"
+    },
+    {
+      "file": "crom_tr.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [
+        {
+          "file": "crom_tr_alt1.jpg",
+          "source": "https://i.blogs.es/c00864/1366_2000/1366_521.jpeg",
+          "size": [
+            1366,
+            521
+          ]
+        },
+        {
+          "file": "crom_tr_alt2.jpg",
+          "source": "https://i.blogs.es/c00864/1366_2000/1200_630.jpeg",
+          "size": [
+            1200,
+            630
+          ]
+        },
+        {
+          "file": "crom_tr_alt3.jpg",
+          "source": "https://i.blogs.es/97169c/1366_2000-1-/1366_2000.jpeg",
+          "size": [
+            1366,
+            1048
+          ]
+        },
+        {
+          "file": "crom_tr_alt4.jpg",
+          "source": "https://m.media-amazon.com/images/I/41nz6gjTNnL._SL500_.jpg",
+          "size": [
+            500,
+            500
+          ]
+        },
+        {
+          "file": "crom_tr_alt5.jpg",
+          "source": "https://i.blogs.es/de0a57/1366_2000-2-/1366_2000.jpeg",
+          "size": [
+            1366,
+            909
+          ]
+        },
+        {
+          "file": "crom_tr_alt6.jpg",
+          "source": "https://i.blogs.es/2e420e/unas-glitter-de-jennifer-lopez/original.jpeg",
+          "size": [
+            967,
+            1200
+          ]
+        },
+        {
+          "file": "crom_tr_alt7.jpg",
+          "source": "https://i.blogs.es/32b8d9/1366_2000-5-/1366_2000.jpeg",
+          "size": [
+            1366,
+            1708
+          ]
+        },
+        {
+          "file": "crom_tr_alt8.jpg",
+          "source": "https://m.media-amazon.com/images/I/41bZIDl1TtS._SL500_.jpg",
+          "size": [
+            500,
+            500
+          ]
+        },
+        {
+          "file": "crom_tr_alt9.jpg",
+          "source": "https://i.blogs.es/8597e3/1366_2000-3-/1366_2000.jpeg",
+          "size": [
+            1366,
+            1366
+          ]
+        },
+        {
+          "file": "crom_tr_alt10.jpg",
+          "source": "https://i.blogs.es/e5e732/wedsa/original.jpeg",
+          "size": [
+            642,
+            632
+          ]
+        }
+      ],
+      "source": "https://i.blogs.es/c00864/1366_2000/840_560.jpeg",
+      "size": [
+        840,
+        560
+      ]
+    },
+    {
+      "file": "crom_uai.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [
+        {
+          "file": "crom_uai_alt1.jpg",
+          "source": "https://www.uai.com.br/wp-content/uploads/2025/03/448605041_18050515201710061_2182489090318962142_n-1-1140x570.jpg",
+          "size": [
+            1140,
+            570
+          ]
+        }
+      ],
+      "source": "https://www.uai.com.br/wp-content/uploads/2025/03/448605041_18050515201710061_2182489090318962142_n-1.jpg",
+      "size": [
+        1280,
+        720
+      ]
+    },
+    {
+      "file": "gs_nb.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [
+        {
+          "file": "gs_nb_alt1.jpg",
+          "source": "https://cdn.sanity.io/images/0vv8moc6/newbeauty/4418106de90bcd51e4b46906d09344d3f2f2ced8-2000x1400.png?w=750&auto=format&q=70",
+          "size": [
+            750,
+            525
+          ]
+        },
+        {
+          "file": "gs_nb_alt2.jpg",
+          "source": "https://cdn.sanity.io/images/0vv8moc6/newbeauty/10aaed64552f49fd460aa11e92c63132489912b3-881x700.jpg?w=750&auto=format&q=70",
+          "size": [
+            750,
+            596
+          ]
+        },
+        {
+          "file": "gs_nb_alt3.jpg",
+          "source": "https://cdn.sanity.io/images/0vv8moc6/newbeauty/d30c8583557c35a090b38e8f791b1b613dbe4a5b-1000x700.jpg?w=750&auto=format&q=70",
+          "size": [
+            750,
+            525
+          ]
+        }
+      ],
+      "source": "https://cdn.sanity.io/images/0vv8moc6/newbeauty/ac2944149b088bd2d78091f980885f13c0aefe9f-2000x1400.png",
+      "size": [
+        2000,
+        1400
+      ]
+    },
+    {
+      "file": "gs_byrdie.jpg",
+      "type": "article",
+      "ok": false,
+      "alts": [],
+      "error": "404 Client Error: Not Found for url: https://www.aol.com/articles/dermatologists-taught-us-ultimate-glass-111500927.html"
+    },
+    {
+      "file": "gs_bnw.jpg",
+      "type": "article",
+      "ok": false,
+      "alts": [],
+      "error": "403 Client Error: Forbidden for url: https://www.belezanaweb.com.br/loucas-por-beleza/glass-skin-e-cream-skin-o-que-significa/"
+    },
+    {
+      "file": "gs_tt.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [],
+      "source": "https://d.techtimes.co.uk/en/full/1819722/tiktok-glass-skin-skincare-warning.jpg",
+      "size": [
+        2400,
+        1600
+      ]
+    },
+    {
+      "file": "ky_rt.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [],
+      "source": "https://www.realitytea.com/wp-content/uploads/sites/6/2026/10/Kylie-Jenner-kids.jpg?resize=1200,630",
+      "size": [
+        1200,
+        630
+      ]
+    },
+    {
+      "file": "ky_jj.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [
+        {
+          "file": "ky_jj_alt1.jpg",
+          "source": "https://www.justjared.com/wp-content/uploads/2026/10/kylie-jenner-at-sushi-park.jpg",
+          "size": [
+            1280,
+            720
+          ]
+        },
+        {
+          "file": "ky_jj_alt2.jpg",
+          "source": "https://www.justjared.com/wp-content/uploads/2026/10/kylie-jenner-at-sushi-park-34-1536x1024.jpg",
+          "size": [
+            1536,
+            1024
+          ]
+        },
+        {
+          "file": "ky_jj_alt3.jpg",
+          "source": "https://www.justjared.com/wp-content/uploads/2026/10/kylie-jenner-at-sushi-park-02-1229x1536.jpg",
+          "size": [
+            1229,
+            1536
+          ]
+        },
+        {
+          "file": "ky_jj_alt4.jpg",
+          "source": "https://www.justjared.com/wp-content/uploads/2026/10/kylie-jenner-at-sushi-park-04-1229x1536.jpg",
+          "size": [
+            1229,
+            1536
+          ]
+        },
+        {
+          "file": "ky_jj_alt5.jpg",
+          "source": "https://www.justjared.com/wp-content/uploads/2026/10/kylie-jenner-at-sushi-park-01.jpg",
+          "size": [
+            1333,
+            2000
+          ]
+        },
+        {
+          "file": "ky_jj_alt6.jpg",
+          "source": "https://www.justjared.com/wp-content/uploads/2026/10/kylie-jenner-at-sushi-park-03-1536x1024.jpg",
+          "size": [
+            1536,
+            1024
+          ]
+        },
+        {
+          "file": "ky_jj_alt7.jpg",
+          "source": "https://www.justjared.com/wp-content/uploads/2026/10/kylie-jenner-at-sushi-park-05-1187x1536.jpg",
+          "size": [
+            1187,
+            1536
+          ]
+        },
+        {
+          "file": "ky_jj_alt8.jpg",
+          "source": "https://www.justjared.com/wp-content/uploads/2026/10/kylie-jenner-at-sushi-park-06-1229x1536.jpg",
+          "size": [
+            1229,
+            1536
+          ]
+        },
+        {
+          "file": "ky_jj_alt9.jpg",
+          "source": "https://www.justjared.com/wp-content/uploads/2026/10/kylie-jenner-at-sushi-park-07.jpg",
+          "size": [
+            1428,
+            2000
+          ]
+        },
+        {
+          "file": "ky_jj_alt10.jpg",
+          "source": "https://www.justjared.com/wp-content/uploads/2026/10/kylie-jenner-at-sushi-park-08-1229x1536.jpg",
+          "size": [
+            1229,
+            1536
+          ]
+        },
+        {
+          "file": "ky_jj_alt11.jpg",
+          "source": "https://www.justjared.com/wp-content/uploads/2026/10/kylie-jenner-at-sushi-park-09-788x985.jpg",
+          "size": [
+            788,
+            985
+          ]
+        },
+        {
+          "file": "ky_jj_alt12.jpg",
+          "source": "https://www.justjared.com/wp-content/uploads/2026/10/kylie-jenner-at-sushi-park-10-1228x1536.jpg",
+          "size": [
+            1228,
+            1536
+          ]
+        },
+        {
+          "file": "ky_jj_alt13.jpg",
+          "source": "https://www.justjared.com/wp-content/uploads/2026/10/kylie-jenner-at-sushi-park-11-1229x1536.jpg",
+          "size": [
+            1229,
+            1536
+          ]
+        }
+      ],
+      "source": "https://www.justjared.com/wp-content/uploads/2026/10/kylie-jenner-stassie-dinner.jpg",
+      "size": [
+        1280,
+        720
+      ]
+    },
+    {
+      "file": "ky_jj2.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [
+        {
+          "file": "ky_jj2_alt1.jpg",
+          "source": "https://www.justjared.com/wp-content/uploads/2026/10/kylie-jenner-hulu-series2.jpg",
+          "size": [
+            1333,
+            2000
+          ]
+        },
+        {
+          "file": "ky_jj2_alt2.jpg",
+          "source": "https://www.justjared.com/wp-content/uploads/2026/10/kylie-jenner-hulu-series3.jpg",
+          "size": [
+            1334,
+            2000
+          ]
+        },
+        {
+          "file": "ky_jj2_alt3.jpg",
+          "source": "https://www.justjared.com/wp-content/uploads/2026/10/kelly-clarkson-calls-out-store.jpg",
+          "size": [
+            1200,
+            675
+          ]
+        }
+      ],
+      "source": "https://www.justjared.com/wp-content/uploads/2026/10/kylie-jenner-hulu-series.jpg",
+      "size": [
+        1200,
+        675
+      ]
+    },
+    {
+      "file": "ck_ss.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [
+        {
+          "file": "ck_ss_alt1.jpg",
+          "source": "https://assets-eu-01.kc-usercontent.com:443/21d2ecef-fb9b-01b1-9022-cf60b52c2c77/1d45a717-bf86-424c-9646-ca7d3b34e614/Chocolate%20Pinata%20Cake_Landscape-13.jpg?w=3840&q=85&auto=format&lossless=1",
+          "size": [
+            2400,
+            1200
+          ]
+        },
+        {
+          "file": "ck_ss_alt2.jpg",
+          "source": "https://assets-eu-01.kc-usercontent.com:443/21d2ecef-fb9b-01b1-9022-cf60b52c2c77/2bd4018d-9a97-46eb-bdd3-581e97bd45dd/Basic%20Biscuit%20Dough%20-%204.3%20landscape-7037.jpg?w=3840&q=85&auto=format&lossless=1",
+          "size": [
+            2400,
+            1800
+          ]
+        },
+        {
+          "file": "ck_ss_alt3.jpg",
+          "source": "https://assets-eu-01.kc-usercontent.com:443/21d2ecef-fb9b-01b1-9022-cf60b52c2c77/d79e9c4f-6fbe-4c62-8ca7-fe295e3169b3/Biscoff-Cookies-WEB-RES-1.jpg?w=3840&q=85&auto=format&lossless=1",
+          "size": [
+            1367,
+            2048
+          ]
+        },
+        {
+          "file": "ck_ss_alt4.jpg",
+          "source": "https://assets-eu-01.kc-usercontent.com:443/21d2ecef-fb9b-01b1-9022-cf60b52c2c77/00487e32-faae-48da-9aad-56be130c4ace/4x3_Biscoff%20Cupcakes-3.jpg?w=3840&q=85&auto=format&lossless=1",
+          "size": [
+            2400,
+            1800
+          ]
+        }
+      ],
+      "source": "https://assets-eu-01.kc-usercontent.com:443/21d2ecef-fb9b-01b1-9022-cf60b52c2c77/358d1015-70a0-4c33-adc2-a63266008d66/Cover%20Image_Halloween%20Ghost%20Biscuits.jpg",
+      "size": [
+        2400,
+        1347
+      ]
+    },
+    {
+      "file": "ck_tg.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [
+        {
+          "file": "ck_tg_alt1.jpg",
+          "source": "https://static.itdg.com.br/images/1200-675/cc364fcc6c9c88ee2ba99d91aa30a52a/364935-original.jpg",
+          "size": [
+            1200,
+            675
+          ]
+        }
+      ],
+      "source": "https://static.itdg.com.br/images/1200-630/cc364fcc6c9c88ee2ba99d91aa30a52a/364935-original.jpg",
+      "size": [
+        1200,
+        630
+      ]
+    },
+    {
+      "file": "ah_tfs.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [],
+      "source": "https://www.thefashionspot.com/wp-content/uploads/sites/11/2026/10/Anne-Hathaway-teal-dress.jpg?resize=1200,630",
+      "size": [
+        1200,
+        630
+      ]
+    },
+    {
+      "file": "ah_rt.jpg",
+      "type": "article",
+      "ok": false,
+      "alts": [],
+      "error": "nenhuma imagem utilizavel (2 candidatas)"
+    },
+    {
+      "file": "ah_w.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [
+        {
+          "file": "ah_w_alt1.jpg",
+          "source": "https://imgix.bustle.com/uploads/image/2026/9/16/a7bbedd1/new-york-new-york.jpeg?w=414&h=247&fit=crop&crop=focalpoint&dpr=2&fp-x=0.5234&fp-y=0.3656",
+          "size": [
+            828,
+            494
+          ]
+        },
+        {
+          "file": "ah_w_alt2.jpg",
+          "source": "https://imgix.bustle.com/uploads/image/2026/9/16/d2db367f/bgus_3686161_005.jpg?w=390&h=585&fit=crop&crop=faces&dpr=2",
+          "size": [
+            780,
+            1170
+          ]
+        },
+        {
+          "file": "ah_w_alt3.jpg",
+          "source": "https://imgix.bustle.com/uploads/getty/2026/9/16/37f7bba2/new-york-new-york.jpg?w=390&h=520&fit=crop&crop=focalpoint&dpr=2&fp-x=0.4973&fp-y=0.1384",
+          "size": [
+            780,
+            1040
+          ]
+        }
+      ],
+      "source": "https://imgix.bustle.com/uploads/image/2026/9/16/2e4470a4/bgus_3686161_005.jpg?w=1200&h=630&fit=crop&crop=focalpoint&fm=jpg&fp-x=0.5227&fp-y=0.2152",
+      "size": [
+        1200,
+        630
+      ]
+    },
+    {
+      "file": "ah_hb.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [
+        {
+          "file": "ah_hb_alt1.jpg",
+          "source": "https://hermes.media.static.aol.com/media/2026/09/16/44492698-5e84-3ae4-a6ec-ce1cc5f80fb9/76778124-d1d3-4e70-88fa-725a137ec1cc.jpg",
+          "size": [
+            1600,
+            2400
+          ]
+        }
+      ],
+      "source": "https://hermes.media.static.aol.com/media/2026/09/16/44492698-5e84-3ae4-a6ec-ce1cc5f80fb9/eb2e4c52-0b4b-48f1-953b-7cf1ac3e7788.jpg",
+      "size": [
+        2376,
+        1187
+      ]
+    },
+    {
+      "file": "ah_mc.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [
+        {
+          "file": "ah_mc_alt1.jpg",
+          "source": "https://cdn.mos.cms.futurecdn.net/v2/t:0,l:420,cw:1080,ch:1080,q:80,w:1080/b4Tq9UHYXCjiD6MD6nZmwB.png",
+          "size": [
+            1080,
+            1080
+          ]
+        },
+        {
+          "file": "ah_mc_alt2.jpg",
+          "source": "https://cdn.mos.cms.futurecdn.net/v2/t:0,l:240,cw:1440,ch:1080,q:80,w:1440/b4Tq9UHYXCjiD6MD6nZmwB.png",
+          "size": [
+            1440,
+            1080
+          ]
+        },
+        {
+          "file": "ah_mc_alt3.jpg",
+          "source": "https://cdn.mos.cms.futurecdn.net/zYdZpo5KuhNXBbP3rX4fJ9.jpg",
+          "size": [
+            1080,
+            1080
+          ]
+        },
+        {
+          "file": "ah_mc_alt4.jpg",
+          "source": "https://cdn.mos.cms.futurecdn.net/TDzvrhNSfUqmAZRekj4sHg-1707-80.jpg",
+          "size": [
+            1600,
+            2400
+          ]
+        },
+        {
+          "file": "ah_mc_alt5.jpg",
+          "source": "https://cdn.mos.cms.futurecdn.net/DJ8WM3qhNJmDh4JJzhN8kN-1707-80.jpg",
+          "size": [
+            1600,
+            2400
+          ]
+        },
+        {
+          "file": "ah_mc_alt6.jpg",
+          "source": "https://cdn.mos.cms.futurecdn.net/cPbfhNQFttzFpAWeGCRghW-1920-80.jpg",
+          "size": [
+            1920,
+            2184
+          ]
+        },
+        {
+          "file": "ah_mc_alt7.jpg",
+          "source": "https://cdn.mos.cms.futurecdn.net/TYcwhtimhEEex7CcqeBdDX-1320-80.jpg",
+          "size": [
+            1320,
+            1980
+          ]
+        },
+        {
+          "file": "ah_mc_alt8.jpg",
+          "source": "https://cdn.mos.cms.futurecdn.net/opd345DEEFawDYncfGAXnZ-1320-80.jpg",
+          "size": [
+            1320,
+            1980
+          ]
+        }
+      ],
+      "source": "https://cdn.mos.cms.futurecdn.net/b4Tq9UHYXCjiD6MD6nZmwB-1920-80.png",
+      "size": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "file": "vel_st.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [
+        {
+          "file": "vel_st_alt1.jpg",
+          "source": "https://www.stylist.co.uk/_next/image?url=https%3A%2F%2Fmedia.stylist.co.uk%2Fapp%2Fuploads%2F2026%2F10%2F261014_traitors-747x1120.jpg&w=3840&q=85",
+          "size": [
+            747,
+            1120
+          ]
+        }
+      ],
+      "source": "https://media.stylist.co.uk/app/uploads/2019/12/18215800/gettyimages-1038230552.jpg",
+      "size": [
+        1462,
+        2048
+      ]
+    },
+    {
+      "file": "vel_pa.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [
+        {
+          "file": "vel_pa_alt1.jpg",
+          "source": "https://media.zenfs.com/en/aol_parade_744/eadb72b730336776a019e8af96e548e4",
+          "size": [
+            1280,
+            720
+          ]
+        },
+        {
+          "file": "vel_pa_alt2.jpg",
+          "source": "https://media.zenfs.com/en/aol_parade_744/3c5d497f2fef852ea0d96cdbd8109afb",
+          "size": [
+            1280,
+            720
+          ]
+        },
+        {
+          "file": "vel_pa_alt3.jpg",
+          "source": "https://media.zenfs.com/en/aol_parade_744/91d6887048322c40dae0e30ca64801fd",
+          "size": [
+            1280,
+            720
+          ]
+        },
+        {
+          "file": "vel_pa_alt4.jpg",
+          "source": "https://media.zenfs.com/en/aol_parade_744/556d5d5a8aaecb1b51a5eea19ec1f27c",
+          "size": [
+            1280,
+            720
+          ]
+        },
+        {
+          "file": "vel_pa_alt5.jpg",
+          "source": "https://media.zenfs.com/en/aol_parade_744/78efe5efad9c2ee538a0198ceccd8802",
+          "size": [
+            1280,
+            720
+          ]
+        },
+        {
+          "file": "vel_pa_alt6.jpg",
+          "source": "https://media.zenfs.com/en/aol_parade_744/bf54c7f2e3237df732bed464f67bec99",
+          "size": [
+            1280,
+            720
+          ]
+        },
+        {
+          "file": "vel_pa_alt7.jpg",
+          "source": "https://media.zenfs.com/en/aol_parade_744/05948941192ee6f9f00bbb27dff15438",
+          "size": [
+            1280,
+            720
+          ]
+        },
+        {
+          "file": "vel_pa_alt8.jpg",
+          "source": "https://media.zenfs.com/en/aol_parade_744/8e3c21a57f585caffeb07619de5d6435",
+          "size": [
+            1280,
+            720
+          ]
+        },
+        {
+          "file": "vel_pa_alt9.jpg",
+          "source": "https://media.zenfs.com/en/aol_parade_744/fe1b655936de8199a313b5037fc06673",
+          "size": [
+            1280,
+            720
+          ]
+        },
+        {
+          "file": "vel_pa_alt10.jpg",
+          "source": "https://media.zenfs.com/en/aol_parade_744/8976f426c1ffb0e69cb046a4099a2dc0",
+          "size": [
+            1280,
+            720
+          ]
+        },
+        {
+          "file": "vel_pa_alt11.jpg",
+          "source": "https://media.zenfs.com/en/aol_parade_744/bdce3c20482a5a94a7175d380379af0e",
+          "size": [
+            1280,
+            720
+          ]
+        }
+      ],
+      "source": "https://hermes.media.transform.aol.com/ddc8be30ee86673235802b35b61635e0a7f0507e/w_1200,c_scale,f_auto,q_auto/https://media.zenfs.com/en/aol_parade_744/7463506206d44baba7ac3b15dafc0ab1",
+      "size": [
+        1200,
+        675
+      ]
+    },
+    {
+      "file": "vel_www.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [
+        {
+          "file": "vel_www_alt1.jpg",
+          "source": "https://cdn.mos.cms.futurecdn.net/ApkqEdW28p9oRGEbKsiEpc-2560-80.jpg",
+          "size": [
+            2400,
+            1350
+          ]
+        },
+        {
+          "file": "vel_www_alt2.jpg",
+          "source": "https://cdn.mos.cms.futurecdn.net/v2/t:0,l:875,cw:2250,ch:2250,q:80,w:2250/ApkqEdW28p9oRGEbKsiEpc.jpg",
+          "size": [
+            2250,
+            2250
+          ]
+        },
+        {
+          "file": "vel_www_alt3.jpg",
+          "source": "https://cdn.mos.cms.futurecdn.net/v2/t:0,l:500,cw:3000,ch:2250,q:80,w:2560/ApkqEdW28p9oRGEbKsiEpc.jpg",
+          "size": [
+            2400,
+            1800
+          ]
+        },
+        {
+          "file": "vel_www_alt4.jpg",
+          "source": "https://cdn.mos.cms.futurecdn.net/v2/t:0,l:0,cw:4000,ch:2250,q:80,w:2560/ApkqEdW28p9oRGEbKsiEpc.jpg",
+          "size": [
+            2400,
+            1350
+          ]
+        },
+        {
+          "file": "vel_www_alt5.jpg",
+          "source": "https://cdn.mos.cms.futurecdn.net/NynpHsjtzUKhTQqVuDM7v6.jpg",
+          "size": [
+            1800,
+            2400
+          ]
+        },
+        {
+          "file": "vel_www_alt6.jpg",
+          "source": "https://cdn.mos.cms.futurecdn.net/tcYiguWmYxjxTFGbpo5qBD-840-80.jpg",
+          "size": [
+            840,
+            1240
+          ]
+        },
+        {
+          "file": "vel_www_alt7.jpg",
+          "source": "https://cdn.mos.cms.futurecdn.net/3S3YM6L8o3LSdwVfPuXvwk-1920-80.jpg",
+          "size": [
+            1200,
+            1800
+          ]
+        },
+        {
+          "file": "vel_www_alt8.jpg",
+          "source": "https://cdn.mos.cms.futurecdn.net/RyDR9ram5vBmSqUhtWPsBD-840-80.jpg",
+          "size": [
+            840,
+            1240
+          ]
+        }
+      ],
+      "source": "https://cdn.mos.cms.futurecdn.net/vywdmVcp2VEMQMLfWoAWTc-1200-80.jpg",
+      "size": [
+        1200,
+        627
+      ]
+    }
+  ]
+}
