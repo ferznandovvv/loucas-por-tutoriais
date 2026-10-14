@@ -1,0 +1,15 @@
+{
+ "reels": [
+  {"post_id": 3, "scenes": [
+   {"text": "95% dos vídeos de glass skin têm **promessa enganosa**", "dur": 3.0, "photo": {"src": "gs_em.jpg", "focus": 0.45, "focusY": 0.35}},
+   {"text": "Nenhum foi feito por **dermatologista**", "dur": 2.4, "style": "dark"},
+   {"text": "Passo 1: limpeza **suave**", "dur": 2.2, "photo": {"src": "gs_em_alt1.jpg", "mode": "card", "focus": 0.6, "focusY": 0.4, "zoom": 1.1}},
+   {"text": "Passo 2: hidratação em **camadas finas**", "dur": 2.6, "photo": {"src": "gs_goop.jpg", "focus": 0.55, "focusY": 0.4}},
+   {"text": "Pele oleosa pede **menos camadas**", "dur": 2.4, "photo": {"src": "gs_bustle.jpg", "mode": "card", "focus": 0.5, "focusY": 0.4, "zoom": 1.1}},
+   {"text": "Passo 3: **protetor solar** todo dia", "dur": 2.4, "photo": {"src": "gs_xo.jpg", "mode": "card", "focus": 0.45, "focusY": 0.4, "zoom": 1.1}},
+   {"text": "Ardeu ou ficou vermelha? **Pare e procure dermato**", "dur": 2.6},
+   {"cta": true, "text": "Salva pra rever sua **rotina**", "sub": "Comenta VIDRO se você já testou", "dur": 2.6}
+  ]}
+ ],
+ "stories": []
+}
