@@ -1,0 +1,259 @@
+{
+  "date": "2026-10-14-extra2",
+  "finished_at": "2026-10-14T09:15:52Z",
+  "items": [
+    {
+      "file": "gs_em.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [
+        {
+          "file": "gs_em_alt1.jpg",
+          "source": "https://midias.em.com.br/_midias/jpg/2026/07/27/1200x720/1_skincare-coreano-estetica-67266984.jpg",
+          "size": [
+            1200,
+            720
+          ]
+        },
+        {
+          "file": "gs_em_alt2.jpg",
+          "source": "https://midias.em.com.br/_midias/jpg/2024/11/21/nara_ferreira-41986992.jpg",
+          "size": [
+            1024,
+            1024
+          ]
+        }
+      ],
+      "source": "https://midias.em.com.br/_midias/jpg/2026/07/27/1000x1000/1_skincare-coreano-estetica-67266984.jpg",
+      "size": [
+        1000,
+        1000
+      ]
+    },
+    {
+      "file": "gs_bustle.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [
+        {
+          "file": "gs_bustle_alt1.jpg",
+          "source": "https://imgix.bustle.com/uploads/image/2026/8/26/e8da0342/1if_gt-cc_packshot_2024_1080x1080_01_1_1.webp?w=400&h=400&fit=crop&crop=faces&dpr=2",
+          "size": [
+            800,
+            800
+          ]
+        },
+        {
+          "file": "gs_bustle_alt2.jpg",
+          "source": "https://imgix.bustle.com/uploads/image/2026/8/26/fbbfa863/sbss-packshot.webp?w=400&h=400&fit=crop&crop=faces&dpr=2",
+          "size": [
+            800,
+            800
+          ]
+        },
+        {
+          "file": "gs_bustle_alt3.jpg",
+          "source": "https://imgix.bustle.com/uploads/image/2026/8/26/61b557dd/s2831691-main-zoom.webp?w=400&h=400&fit=crop&crop=faces&dpr=2",
+          "size": [
+            800,
+            800
+          ]
+        },
+        {
+          "file": "gs_bustle_alt4.jpg",
+          "source": "https://imgix.bustle.com/uploads/image/2026/8/26/550556b1/moisturizer.webp?w=400&h=267&fit=crop&crop=faces&dpr=2",
+          "size": [
+            800,
+            534
+          ]
+        },
+        {
+          "file": "gs_bustle_alt5.jpg",
+          "source": "https://imgix.bustle.com/uploads/image/2026/8/26/371aa5eb/download.webp?w=400&h=400&fit=crop&crop=faces&dpr=2",
+          "size": [
+            800,
+            800
+          ]
+        },
+        {
+          "file": "gs_bustle_alt6.jpg",
+          "source": "https://imgix.bustle.com/uploads/image/2026/8/26/edab75ce/360600043744.jpg?w=400&h=400&fit=crop&crop=faces&dpr=2",
+          "size": [
+            800,
+            800
+          ]
+        },
+        {
+          "file": "gs_bustle_alt7.jpg",
+          "source": "https://imgix.bustle.com/uploads/image/2026/8/26/99c8fbd2/666c7960-2136-4c49-aa6b.webp?w=400&h=600&fit=crop&crop=faces&dpr=2",
+          "size": [
+            800,
+            1200
+          ]
+        }
+      ],
+      "source": "https://imgix.bustle.com/uploads/image/2026/8/26/356c7688/you-have-our-attention.jpg?w=1200&h=630&fit=crop&crop=focalpoint&fm=jpg&fp-x=0.2095&fp-y=0.4896",
+      "size": [
+        1200,
+        630
+      ]
+    },
+    {
+      "file": "gs_eg.jpg",
+      "type": "article",
+      "ok": false,
+      "alts": [],
+      "error": "403 Client Error: Forbidden for url: https://theeverygirl.com/how-to-repair-skin-barrier/"
+    },
+    {
+      "file": "gs_vsg.jpg",
+      "type": "article",
+      "ok": false,
+      "alts": [],
+      "error": "403 Client Error: Forbidden for url: https://vogue.sg/skin-barrier-repair-tips/"
+    },
+    {
+      "file": "gs_goop.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [
+        {
+          "file": "gs_goop_alt1.jpg",
+          "source": "https://cdn.shopify.com/s/files/1/0890/8305/2400/files/34895_20230830_214217_148.jpg?v=1755711812&width=3000&crop=center",
+          "size": [
+            1800,
+            2400
+          ]
+        },
+        {
+          "file": "gs_goop_alt2.jpg",
+          "source": "https://cdn.shopify.com/s/files/1/0890/8305/2400/files/goopbeauty_GGE28_1-1-21.jpg?v=1755976888&width=3000&crop=center",
+          "size": [
+            1800,
+            2400
+          ]
+        },
+        {
+          "file": "gs_goop_alt3.jpg",
+          "source": "https://cdn.shopify.com/s/files/1/0890/8305/2400/files/Media_Components_40d50538-ad75-4052-af49-45ce23774e4e.jpg?v=1756855035&width=3000&crop=center",
+          "size": [
+            680,
+            900
+          ]
+        },
+        {
+          "file": "gs_goop_alt4.jpg",
+          "source": "https://cdn.shopify.com/s/files/1/0890/8305/2400/files/goopbeauty_GGE23-30ml_1-21.jpg?v=1755976889&width=3000&crop=center",
+          "size": [
+            1800,
+            2400
+          ]
+        },
+        {
+          "file": "gs_goop_alt5.jpg",
+          "source": "https://cdn.shopify.com/s/files/1/0890/8305/2400/files/49526_20250219_184304_0.jpg?v=1755711625&width=3000&crop=center",
+          "size": [
+            1800,
+            2400
+          ]
+        },
+        {
+          "file": "gs_goop_alt6.jpg",
+          "source": "https://cdn.shopify.com/s/files/1/0890/8305/2400/files/34904_20230830_231436_129.jpg?v=1755710604&width=3000&crop=center",
+          "size": [
+            1800,
+            2400
+          ]
+        },
+        {
+          "file": "gs_goop_alt7.jpg",
+          "source": "https://cdn.shopify.com/s/files/1/0890/8305/2400/files/27031_20220426_171235_61041.jpg?v=1755711448&width=3000&crop=center",
+          "size": [
+            1800,
+            2400
+          ]
+        },
+        {
+          "file": "gs_goop_alt8.jpg",
+          "source": "https://cdn.shopify.com/s/files/1/0890/8305/2400/files/49167_20250204_224231_0.jpg?v=1755709808&width=3000&crop=center",
+          "size": [
+            1800,
+            2400
+          ]
+        }
+      ],
+      "source": "https://goop-img.com/wp-content/uploads/2025/09/skinbarrier-1.jpg",
+      "size": [
+        1640,
+        1250
+      ]
+    },
+    {
+      "file": "gs_cb.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [
+        {
+          "file": "gs_cb_alt1.jpg",
+          "source": "https://midias.correiobraziliense.com.br/_midias/jpg/2024/04/09/download__15_-36071525.jpg",
+          "size": [
+            1200,
+            2133
+          ]
+        },
+        {
+          "file": "gs_cb_alt2.jpg",
+          "source": "https://midias.correiobraziliense.com.br/_midias/jpg/2024/04/09/skincare-36071430.jpg",
+          "size": [
+            1200,
+            1598
+          ]
+        },
+        {
+          "file": "gs_cb_alt3.jpg",
+          "source": "https://midias.correiobraziliense.com.br/_midias/jpg/2024/04/09/elo-36072601.jpg",
+          "size": [
+            1200,
+            1600
+          ]
+        },
+        {
+          "file": "gs_cb_alt4.jpg",
+          "source": "https://midias.correiobraziliense.com.br/_midias/jpg/2024/04/10/rev_1404_cronica-36133930.jpg",
+          "size": [
+            1200,
+            901
+          ]
+        },
+        {
+          "file": "gs_cb_alt5.jpg",
+          "source": "https://midias.correiobraziliense.com.br/_midias/jpg/2024/04/10/whatsapp_image_2024_04_10_at_15_26_18-36118180.jpeg",
+          "size": [
+            1200,
+            799
+          ]
+        },
+        {
+          "file": "gs_cb_alt6.jpg",
+          "source": "https://midias.correiobraziliense.com.br/_midias/jpg/2024/02/19/whatsapp_image_2024_02_16_at_14_57_43-35097756.jpeg",
+          "size": [
+            1200,
+            1200
+          ]
+        }
+      ],
+      "source": "https://midias.correiobraziliense.com.br/_midias/jpg/2024/04/09/10_holy_grail_korean_skincare_products_to_enhance_your_routine-36071418.jpg",
+      "size": [
+        1200,
+        1434
+      ]
+    },
+    {
+      "file": "ck_gds.jpg",
+      "type": "article",
+      "ok": false,
+      "alts": [],
+      "error": "403 Client Error: Forbidden for url: https://www.guiadasemana.com.br/receitas/noticia/7-receitas-de-sobremesas-para-festa-de-halloween"
+    }
+  ]
+}
