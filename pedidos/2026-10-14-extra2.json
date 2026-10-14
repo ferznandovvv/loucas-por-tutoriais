@@ -1,0 +1,12 @@
+{
+  "date": "2026-10-14-extra2",
+  "items": [
+    {"file": "gs_em.jpg", "type": "article", "max": 10, "url": "https://www.em.com.br/bem-viver/2026/07/7468856-segredo-coreano-de-pele-bonita-conquista-brasileiros-mas-traz-um-risco.html"},
+    {"file": "gs_bustle.jpg", "type": "article", "max": 10, "url": "https://www.bustle.com/beauty/how-to-repair-a-damaged-skin-barrier"},
+    {"file": "gs_eg.jpg", "type": "article", "max": 10, "url": "https://theeverygirl.com/how-to-repair-skin-barrier/"},
+    {"file": "gs_vsg.jpg", "type": "article", "max": 10, "url": "https://vogue.sg/skin-barrier-repair-tips/"},
+    {"file": "gs_goop.jpg", "type": "article", "url": "https://goop.com/beauty/skin/how-to-repair-skin-barrier"},
+    {"file": "gs_cb.jpg", "type": "article", "url": "https://www.correiobraziliense.com.br/revista-do-correio/2024/04/6834269-skincare-coreano-rotina-de-dez-etapas-e-referencia-mundial.html"},
+    {"file": "ck_gds.jpg", "type": "article", "max": 12, "url": "https://www.guiadasemana.com.br/receitas/noticia/7-receitas-de-sobremesas-para-festa-de-halloween"}
+  ]
+}
