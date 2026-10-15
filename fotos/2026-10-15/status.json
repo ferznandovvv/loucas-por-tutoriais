@@ -1,0 +1,1489 @@
+{
+  "date": "2026-10-15",
+  "finished_at": "2026-10-15T09:23:22Z",
+  "items": [
+    {
+      "file": "jo_hola.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [
+        {
+          "file": "jo_hola_alt1.jpg",
+          "source": "https://www.hola.com/us/horizon/square/8194d10f432d-london-england-jenna-ortega-attends-the-photocall-for-klara-and-the-sun-at-the.jpg",
+          "size": [
+            1080,
+            1080
+          ]
+        },
+        {
+          "file": "jo_hola_alt2.jpg",
+          "source": "https://www.hola.com/us/horizon/43/8194d10f432d-london-england-jenna-ortega-attends-the-photocall-for-klara-and-the-sun-at-the.jpg",
+          "size": [
+            1920,
+            1440
+          ]
+        }
+      ],
+      "source": "https://www.hola.com/us/horizon/landscape/1200/8194d10f432d-london-england-jenna-ortega-attends-the-photocall-for-klara-and-the-sun-at-the.jpg",
+      "size": [
+        1200,
+        675
+      ]
+    },
+    {
+      "file": "jo_rcfa.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [
+        {
+          "file": "jo_rcfa_alt1.jpg",
+          "source": "https://www.redcarpet-fashionawards.com/wp-content/uploads/2026/10/jenna-ortega-calvin-klein-klara-and-the-sun-london-photocall-side-view-2026.jpg",
+          "size": [
+            1200,
+            1661
+          ]
+        },
+        {
+          "file": "jo_rcfa_alt2.jpg",
+          "source": "https://www.redcarpet-fashionawards.com/wp-content/uploads/2026/10/calvin-klein-spring-2027-colour-block-runway-look.jpg",
+          "size": [
+            1200,
+            1800
+          ]
+        },
+        {
+          "file": "jo_rcfa_alt3.jpg",
+          "source": "https://www.redcarpet-fashionawards.com/wp-content/uploads/2026/10/caitriona-balfe-issey-miyake-a-long-winter-bfi-london-film-festival-2026.jpg",
+          "size": [
+            1200,
+            1799
+          ]
+        },
+        {
+          "file": "jo_rcfa_alt4.jpg",
+          "source": "https://www.redcarpet-fashionawards.com/wp-content/uploads/2026/10/aimee-lou-wood-de-la-vali-the-idiots-bfi-london-film-festival-2026.jpg",
+          "size": [
+            1200,
+            1665
+          ]
+        },
+        {
+          "file": "jo_rcfa_alt5.jpg",
+          "source": "https://www.redcarpet-fashionawards.com/wp-content/uploads/2026/10/sandra-huller-cong-tri-red-velvet-fatherland-bfi-london-film-festival-2026.jpg",
+          "size": [
+            1200,
+            1893
+          ]
+        },
+        {
+          "file": "jo_rcfa_alt6.jpg",
+          "source": "https://www.redcarpet-fashionawards.com/wp-content/uploads/2026/10/andrew-garfield-brioni-artificial-bfi-london-film-festival-2026.jpg",
+          "size": [
+            1200,
+            1858
+          ]
+        },
+        {
+          "file": "jo_rcfa_alt7.jpg",
+          "source": "https://www.redcarpet-fashionawards.com/wp-content/uploads/2026/10/cynthia-erivo-prada-prima-facie-bfi-london-film-festival-2026-730x1024.jpg",
+          "size": [
+            730,
+            1024
+          ]
+        },
+        {
+          "file": "jo_rcfa_alt8.jpg",
+          "source": "https://www.redcarpet-fashionawards.com/wp-content/uploads/2026/10/sandra-huller-matieres-fecales-rose-bfi-london-film-festival-2026-683x1024.jpg",
+          "size": [
+            683,
+            1024
+          ]
+        }
+      ],
+      "source": "https://www.redcarpet-fashionawards.com/wp-content/uploads/2026/10/jenna-ortega-calvin-klein-klara-and-the-sun-london-photocall-2026.jpg",
+      "size": [
+        1200,
+        1700
+      ]
+    },
+    {
+      "file": "jo_cb.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [
+        {
+          "file": "jo_cb_alt1.jpg",
+          "source": "https://www.comicbasics.com/wp-content/uploads/2025/05/The-Diplomat-1.jpg",
+          "size": [
+            1920,
+            1080
+          ]
+        },
+        {
+          "file": "jo_cb_alt2.jpg",
+          "source": "https://www.comicbasics.com/wp-content/uploads/2026/10/EDITH-AI-Visionquest.webp",
+          "size": [
+            1200,
+            675
+          ]
+        },
+        {
+          "file": "jo_cb_alt3.jpg",
+          "source": "https://www.comicbasics.com/wp-content/uploads/2026/08/The-Batman-part-ii.webp",
+          "size": [
+            1200,
+            675
+          ]
+        },
+        {
+          "file": "jo_cb_alt4.jpg",
+          "source": "https://www.comicbasics.com/wp-content/uploads/2025/12/Full-House1.webp",
+          "size": [
+            1200,
+            675
+          ]
+        },
+        {
+          "file": "jo_cb_alt5.jpg",
+          "source": "https://www.comicbasics.com/wp-content/uploads/2026/03/Anya-Taylor-Joy.webp",
+          "size": [
+            1200,
+            675
+          ]
+        },
+        {
+          "file": "jo_cb_alt6.jpg",
+          "source": "https://www.comicbasics.com/wp-content/uploads/2026/06/daredevil-born-again.webp",
+          "size": [
+            1200,
+            675
+          ]
+        }
+      ],
+      "source": "https://www.comicbasics.com/wp-content/uploads/2025/09/Jenna-Ortega.webp",
+      "size": [
+        1200,
+        675
+      ]
+    },
+    {
+      "file": "jo_lg.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [
+        {
+          "file": "jo_lg_alt1.jpg",
+          "source": "https://storage.ghost.io/c/7e/6e/7e6e3b5c-d911-4df2-9db3-413ceb2beb4c/content/images/2026/10/twigs-embeds-14oct26-0001.jpg",
+          "size": [
+            1333,
+            2000
+          ]
+        },
+        {
+          "file": "jo_lg_alt2.jpg",
+          "source": "https://storage.ghost.io/c/7e/6e/7e6e3b5c-d911-4df2-9db3-413ceb2beb4c/content/images/2026/10/twigs-embeds-14oct26-0003.jpg",
+          "size": [
+            1333,
+            2000
+          ]
+        },
+        {
+          "file": "jo_lg_alt3.jpg",
+          "source": "https://storage.ghost.io/c/7e/6e/7e6e3b5c-d911-4df2-9db3-413ceb2beb4c/content/images/2026/10/twigs-embeds-14oct26-0002.jpg",
+          "size": [
+            1916,
+            2000
+          ]
+        },
+        {
+          "file": "jo_lg_alt4.jpg",
+          "source": "https://storage.ghost.io/c/7e/6e/7e6e3b5c-d911-4df2-9db3-413ceb2beb4c/content/images/2026/10/twigs-what-else-14oct26-0002-1.jpg",
+          "size": [
+            1502,
+            2000
+          ]
+        },
+        {
+          "file": "jo_lg_alt5.jpg",
+          "source": "https://storage.ghost.io/c/7e/6e/7e6e3b5c-d911-4df2-9db3-413ceb2beb4c/content/images/2026/10/twigs-what-else-14oct26-0003-1.jpg",
+          "size": [
+            1333,
+            2000
+          ]
+        },
+        {
+          "file": "jo_lg_alt6.jpg",
+          "source": "https://storage.ghost.io/c/7e/6e/7e6e3b5c-d911-4df2-9db3-413ceb2beb4c/content/images/2026/10/twigs-what-else-14oct26-0005-1.jpg",
+          "size": [
+            2000,
+            1639
+          ]
+        },
+        {
+          "file": "jo_lg_alt7.jpg",
+          "source": "https://storage.ghost.io/c/7e/6e/7e6e3b5c-d911-4df2-9db3-413ceb2beb4c/content/images/2026/10/twigs-what-else-14oct26-0006-1.jpg",
+          "size": [
+            2000,
+            1332
+          ]
+        },
+        {
+          "file": "jo_lg_alt8.jpg",
+          "source": "https://storage.ghost.io/c/7e/6e/7e6e3b5c-d911-4df2-9db3-413ceb2beb4c/content/images/2026/10/twigs-what-else-14oct26-0009-1.jpg",
+          "size": [
+            1332,
+            2000
+          ]
+        }
+      ],
+      "source": "https://storage.ghost.io/c/7e/6e/7e6e3b5c-d911-4df2-9db3-413ceb2beb4c/content/images/size/w1200/2026/10/twigs-what-else-14oct26-0001.jpg",
+      "size": [
+        1200,
+        767
+      ]
+    },
+    {
+      "file": "jo_fs.jpg",
+      "type": "article",
+      "ok": false,
+      "alts": [],
+      "error": "429 Client Error: Too Many Requests for url: http://www.google.com/sorry/index?continue=http://www.thefashionistastories.com/2026/10/amy-adams-jenna-ortega-at-klara-and-sun.html&q=EgSCg-4SGP-1wtYGIi09YNc_SC7u4B9raalsGV0733Pd9RZaUz2YY5lyG6CpD4-h7lVBUZhbBjfYN60yAnJSWgFD"
+    },
+    {
+      "file": "del_bnw.jpg",
+      "type": "article",
+      "ok": false,
+      "alts": [],
+      "error": "403 Client Error: Forbidden for url: https://www.belezanaweb.com.br/loucas-por-beleza/passo-a-passo-de-como-fazer-delineado/"
+    },
+    {
+      "file": "rabo_bnw.jpg",
+      "type": "article",
+      "ok": false,
+      "alts": [],
+      "error": "403 Client Error: Forbidden for url: https://www.belezanaweb.com.br/loucas-por-beleza/4-opcoes-de-rabo-de-cavalo-diferentes/"
+    },
+    {
+      "file": "rabo_cl.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [
+        {
+          "file": "rabo_cl_alt1.jpg",
+          "source": "https://catracalivre.com.br/i/GS7gtfW7DxZntntQFMgJ--siDb7ZnfSx36JBlgOqeXo/rs:fit:1080:0:1/g:sm/q:80/bG9jYWw6Ly8vMjAyNi8wOS9jaGF0Z3B0LWltYWdlLTExLWRlLXNldC1kZS0yMDI2LTE2LTE2LTQxLWUxNzg5MTU0MjQ3NjI0LnBuZw",
+          "size": [
+            1080,
+            608
+          ]
+        },
+        {
+          "file": "rabo_cl_alt2.jpg",
+          "source": "https://catracalivre.com.br/i/UN-BLvvo61G5eTgkodNgrR8nDcxNzOVZ-ZvD6phE3Xg/rs:fit:1080:0:1/g:sm/q:80/bG9jYWw6Ly8vMjAyNi8wOS9jaGF0Z3B0LWltYWdlLTExLWRlLXNldC1kZS0yMDI2LTE2LTE1LTI2LTItZTE3ODkxNTQxODA5NTEucG5n",
+          "size": [
+            1080,
+            608
+          ]
+        }
+      ],
+      "source": "https://catracalivre.com.br/i/OU62Ta-N-HbtM-YVMoNoUyt8J7tNaWkeX6fb7KksynA/rs:fill:1200:630:1/g:sm/q:80/bG9jYWw6Ly8vMjAyNi8wOS9jaGF0Z3B0LWltYWdlLTExLWRlLXNldC1kZS0yMDI2LTE2LTE2LTQxLWUxNzg5MTU0MjQ3NjI0LnBuZw",
+      "size": [
+        1200,
+        630
+      ]
+    },
+    {
+      "file": "be_pink.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [
+        {
+          "file": "be_pink_alt1.jpg",
+          "source": "https://www.thepinknews.com/wp-content/uploads/2025/12/Billie-Eilish.jpg",
+          "size": [
+            1900,
+            1200
+          ]
+        }
+      ],
+      "source": "https://www.thepinknews.com/wp-content/uploads/2026/10/billie-eilish-strawberry-blonde-bob_43bf52.jpg",
+      "size": [
+        1996,
+        1000
+      ]
+    },
+    {
+      "file": "be_hola.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [
+        {
+          "file": "be_hola_alt1.jpg",
+          "source": "https://www.hola.com/us/horizon/square/6f69ead02c57-gettyimages-2274898403.jpg",
+          "size": [
+            1080,
+            1080
+          ]
+        },
+        {
+          "file": "be_hola_alt2.jpg",
+          "source": "https://www.hola.com/us/horizon/43/6f69ead02c57-gettyimages-2274898403.jpg",
+          "size": [
+            1920,
+            1440
+          ]
+        }
+      ],
+      "source": "https://www.hola.com/us/horizon/landscape/1200/6f69ead02c57-gettyimages-2274898403.jpg",
+      "size": [
+        1200,
+        675
+      ]
+    },
+    {
+      "file": "be_ary.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [
+        {
+          "file": "be_ary_alt1.jpg",
+          "source": "https://arynews-1313565080.cos.ap-singapore.myqcloud.com/zip-archives/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-16-at-10.00.51-AM.jpeg",
+          "size": [
+            1052,
+            780
+          ]
+        },
+        {
+          "file": "be_ary_alt2.jpg",
+          "source": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/10/kim-4.jpg",
+          "size": [
+            1200,
+            675
+          ]
+        },
+        {
+          "file": "be_ary_alt3.jpg",
+          "source": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/10/Imran-Khan.jpg",
+          "size": [
+            1200,
+            650
+          ]
+        },
+        {
+          "file": "be_ary_alt4.jpg",
+          "source": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/10/Abhishek-Pathak.jpg",
+          "size": [
+            1200,
+            650
+          ]
+        },
+        {
+          "file": "be_ary_alt5.jpg",
+          "source": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/10/asim.jpg",
+          "size": [
+            1200,
+            675
+          ]
+        },
+        {
+          "file": "be_ary_alt6.jpg",
+          "source": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/10/KKK.jpg",
+          "size": [
+            1200,
+            650
+          ]
+        },
+        {
+          "file": "be_ary_alt7.jpg",
+          "source": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/10/matthew.jpg",
+          "size": [
+            1200,
+            675
+          ]
+        },
+        {
+          "file": "be_ary_alt8.jpg",
+          "source": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/10/kai.jpg",
+          "size": [
+            1200,
+            675
+          ]
+        }
+      ],
+      "source": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/10/Billie-Eilish.jpg",
+      "size": [
+        1200,
+        650
+      ]
+    },
+    {
+      "file": "be_en.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [],
+      "source": "https://entertainmentnow.com/wp-content/uploads/2026/10/EntNow-TEMPLATES_-Featured-Images-3-1.png",
+      "size": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "file": "be_jang.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [],
+      "source": "https://jang.com.pk/assets/uploads/updates/2026-10-07/74272_1860863_WhatsApp-Image-2026-10-07-at-09_41_14_updates.jpeg",
+      "size": [
+        640,
+        1113
+      ]
+    },
+    {
+      "file": "be_mm.jpg",
+      "type": "article",
+      "ok": false,
+      "alts": [],
+      "error": "403 Client Error: Forbidden for url: https://minutemirror.com.pk/billie-eilish-debuts-pumpkin-spice-hair-transformation-for-fall-640741/"
+    },
+    {
+      "file": "cob_bnw.jpg",
+      "type": "article",
+      "ok": false,
+      "alts": [],
+      "error": "403 Client Error: Forbidden for url: https://www.belezanaweb.com.br/loucas-por-beleza/cabelo-loiro-acobreado-e-tendencia-para-o-inverno/"
+    },
+    {
+      "file": "cob_elle.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [
+        {
+          "file": "cob_elle_alt1.jpg",
+          "source": "https://images.elle.com.br/2024/02/Cabelo-Ruivo_Dua-1240x1680.jpg",
+          "size": [
+            1240,
+            1680
+          ]
+        },
+        {
+          "file": "cob_elle_alt2.jpg",
+          "source": "https://images.elle.com.br/2024/02/Cabelo-ruivo_Sasha.jpeg",
+          "size": [
+            1440,
+            1800
+          ]
+        },
+        {
+          "file": "cob_elle_alt3.jpg",
+          "source": "https://images.elle.com.br/2024/02/Cabelo-ruivo_Kendall-Jenner.jpeg",
+          "size": [
+            1440,
+            1800
+          ]
+        },
+        {
+          "file": "cob_elle_alt4.jpg",
+          "source": "https://elle.com.br/wp-content/themes/theme-elle-brasil/library/images/capa-impressa-menu.png",
+          "size": [
+            597,
+            792
+          ]
+        },
+        {
+          "file": "cob_elle_alt5.jpg",
+          "source": "https://elle.com.br/wp-content/themes/theme-elle-brasil/library/images/mockup-decor-3.png",
+          "size": [
+            597,
+            792
+          ]
+        },
+        {
+          "file": "cob_elle_alt6.jpg",
+          "source": "https://elle.com.br/wp-content/themes/theme-elle-brasil/library/images/capa-menu-elle-men.png",
+          "size": [
+            597,
+            792
+          ]
+        },
+        {
+          "file": "cob_elle_alt7.jpg",
+          "source": "https://elle.com.br/wp-content/themes/theme-elle-brasil/library/images/capa-menu-elle-a-table.png",
+          "size": [
+            597,
+            792
+          ]
+        }
+      ],
+      "source": "https://images.elle.com.br/2024/02/Cabelo-Ruivo_Dua-560x840.jpg",
+      "size": [
+        560,
+        840
+      ]
+    },
+    {
+      "file": "cob_gz.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [],
+      "source": "https://netdeal.com.br/api/images/proxy?quality=100&width=1200&src=https://www.netdeal.com.br/api/images/producao.spayce.com.br/1772763324039_2025_07_02_edicasecabelos_coloridos_exigem_atencao_para_manter_a_cor_vibrante_imagem_pixel_shot_shutterstock_70fvlsi6_sys.jpg",
+      "size": [
+        1200,
+        800
+      ]
+    },
+    {
+      "file": "cob_bnw2.jpg",
+      "type": "article",
+      "ok": false,
+      "alts": [],
+      "error": "403 Client Error: Forbidden for url: https://www.belezanaweb.com.br/loucas-por-beleza/3-motivos-para-apostar-nas-mechas-acobreadas-em-castanhos/"
+    },
+    {
+      "file": "an_caras.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [
+        {
+          "file": "an_caras_alt1.jpg",
+          "source": "https://caras.com.br/wp-content/uploads/2026/10/netinho.jpg",
+          "size": [
+            1920,
+            1080
+          ]
+        },
+        {
+          "file": "an_caras_alt2.jpg",
+          "source": "https://caras.com.br/wp-content/uploads/2025/05/papa-leao-xiv-gettyimages-2215690978_to142123626.jpg",
+          "size": [
+            2400,
+            1350
+          ]
+        },
+        {
+          "file": "an_caras_alt3.jpg",
+          "source": "https://caras.com.br/wp-content/uploads/2026/10/leonardo.jpg",
+          "size": [
+            1920,
+            1080
+          ]
+        },
+        {
+          "file": "an_caras_alt4.jpg",
+          "source": "https://caras.com.br/wp-content/uploads/2026/10/Susana-Vieira.jpg",
+          "size": [
+            1920,
+            1080
+          ]
+        }
+      ],
+      "source": "https://caras.com.br/wp-content/uploads/2026/10/angelica-2.jpg",
+      "size": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "file": "an_caras2.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [
+        {
+          "file": "an_caras2_alt1.jpg",
+          "source": "https://s2-marieclaire.glbimg.com/cWZ4tZrRxE0yE4ehBGcvMJhfWCU=/0x0:1170x1560/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_51f0194726ca4cae994c33379977582d/internal_photos/bs/2026/m/p/lNVBosTnakL6qwCi1KGQ/812029578-18641951980016904-7420703213497330881-n.jpg",
+          "size": [
+            984,
+            1312
+          ]
+        },
+        {
+          "file": "an_caras2_alt2.jpg",
+          "source": "https://s2-marieclaire.glbimg.com/BytJYf3fUwXy_IcoR5SS_SSjF6Q=/0x0:1170x1560/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_51f0194726ca4cae994c33379977582d/internal_photos/bs/2026/p/V/9Svpu1QrSPk5rHHwXNQQ/812697064-18641951971016904-6687975475609326195-n.jpg",
+          "size": [
+            984,
+            1312
+          ]
+        },
+        {
+          "file": "an_caras2_alt3.jpg",
+          "source": "https://s2-marieclaire.glbimg.com/Oodw_WUTugmcCARU-4d6FprnMNo=/0x0:1170x1560/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_51f0194726ca4cae994c33379977582d/internal_photos/bs/2026/L/s/YIlvJYRYq3qPPmLvBVvw/812102293-18641951995016904-7407053232760688513-n.jpg",
+          "size": [
+            984,
+            1312
+          ]
+        },
+        {
+          "file": "an_caras2_alt4.jpg",
+          "source": "https://s2-marieclaire.glbimg.com/606EFSggb1Wakvh_ww0rQnpbUbw=/0x0:1170x1560/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_51f0194726ca4cae994c33379977582d/internal_photos/bs/2026/F/g/ApMGLDRQ6DGLZDtMRGtA/811303687-18641952010016904-1588644344155014017-n.jpg",
+          "size": [
+            984,
+            1312
+          ]
+        },
+        {
+          "file": "an_caras2_alt5.jpg",
+          "source": "https://s2-marieclaire.glbimg.com/nf1Uk2SUxgDPzmsE7euKWTe_0RY=/0x0:1170x1560/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_51f0194726ca4cae994c33379977582d/internal_photos/bs/2026/Q/B/RKEWoxSpicRy5QTStDpg/811533928-18641952025016904-177745291428215241-n.jpg",
+          "size": [
+            984,
+            1312
+          ]
+        },
+        {
+          "file": "an_caras2_alt6.jpg",
+          "source": "https://s2-marieclaire.glbimg.com/1zjpdKf9HJ-CgAQpNTD4Qd67tpM=/0x0:1170x1560/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_51f0194726ca4cae994c33379977582d/internal_photos/bs/2026/1/n/qCpNklQ5it8NruZexk1g/811533928-18641952028016904-7444037093774341587-n.jpg",
+          "size": [
+            984,
+            1312
+          ]
+        },
+        {
+          "file": "an_caras2_alt7.jpg",
+          "source": "https://caras.com.br/wp-content/uploads/2026/10/james-mcavoy-GettyImages-2294942853-1.jpg",
+          "size": [
+            1920,
+            1080
+          ]
+        },
+        {
+          "file": "an_caras2_alt8.jpg",
+          "source": "https://caras.com.br/wp-content/uploads/2026/10/Design-sem-nome-2026-10-14T181024.438.jpg",
+          "size": [
+            1920,
+            1080
+          ]
+        },
+        {
+          "file": "an_caras2_alt9.jpg",
+          "source": "https://caras.com.br/wp-content/uploads/2026/10/Design-sem-nome-2026-10-14T180314.831.jpg",
+          "size": [
+            1920,
+            1080
+          ]
+        },
+        {
+          "file": "an_caras2_alt10.jpg",
+          "source": "https://caras.com.br/wp-content/uploads/2026/05/paula-aires-e-matheus.jpg",
+          "size": [
+            1920,
+            1080
+          ]
+        }
+      ],
+      "source": "https://caras.com.br/wp-content/uploads/2026/09/1920x1080-3-2.jpg",
+      "size": [
+        883,
+        603
+      ]
+    },
+    {
+      "file": "an_pp.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [
+        {
+          "file": "an_pp_alt1.jpg",
+          "source": "https://static1.purepeople.com.br/uploads/24/17/ed/ee/4961475ff043bcf0-580x0-1.png",
+          "size": [
+            580,
+            969
+          ]
+        }
+      ],
+      "source": "https://static1.purepeople.com.br/uploads/1a/c0/71/df/2f2115246f9b5994-1200x630-1.jpg",
+      "size": [
+        1200,
+        630
+      ]
+    },
+    {
+      "file": "an_dci.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [
+        {
+          "file": "an_dci_alt1.jpg",
+          "source": "https://www.dci.com.br/wp-content/uploads/2026/09/angelica-cabelo-1130x580.jpg",
+          "size": [
+            1130,
+            580
+          ]
+        }
+      ],
+      "source": "https://www.dci.com.br/wp-content/uploads/2026/09/angelica-cabelo.jpg",
+      "size": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "file": "an_nc.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [
+        {
+          "file": "an_nc_alt1.jpg",
+          "source": "https://ncnews.com.br/app/uploads/2026/09/17896053766aab3600d104c_1789605376_3x2_md-960x540.webp",
+          "size": [
+            960,
+            540
+          ]
+        }
+      ],
+      "source": "https://ncnews.com.br/app/uploads/2026/09/17896053766aab3600d104c_1789605376_3x2_md.webp",
+      "size": [
+        768,
+        512
+      ]
+    },
+    {
+      "file": "bob_elle.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [
+        {
+          "file": "bob_elle_alt1.jpg",
+          "source": "https://ellebrasil-wp-images.s3.amazonaws.com/2022/08/0YDrEDdQ-image-776-scaled.jpg",
+          "size": [
+            1646,
+            2400
+          ]
+        }
+      ],
+      "source": "https://images.elle.com.br/2022/08/origin-558.jpg",
+      "size": [
+        828,
+        951
+      ]
+    },
+    {
+      "file": "bob_elle2.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [
+        {
+          "file": "bob_elle2_alt1.jpg",
+          "source": "https://images.elle.com.br/2026/03/long-bob-1-768x960.png",
+          "size": [
+            768,
+            960
+          ]
+        },
+        {
+          "file": "bob_elle2_alt2.jpg",
+          "source": "https://images.elle.com.br/2026/03/long-bob-2-768x960.png",
+          "size": [
+            768,
+            960
+          ]
+        },
+        {
+          "file": "bob_elle2_alt3.jpg",
+          "source": "https://images.elle.com.br/2026/03/long-bob-3-768x960.png",
+          "size": [
+            768,
+            960
+          ]
+        },
+        {
+          "file": "bob_elle2_alt4.jpg",
+          "source": "https://images.elle.com.br/2026/03/Long-bob-768x1012.jpg",
+          "size": [
+            768,
+            1012
+          ]
+        },
+        {
+          "file": "bob_elle2_alt5.jpg",
+          "source": "https://images.elle.com.br/2026/03/long-bob-4-768x960.png",
+          "size": [
+            768,
+            960
+          ]
+        }
+      ],
+      "source": "https://images.elle.com.br/2026/03/long-bob.png",
+      "size": [
+        1080,
+        1350
+      ]
+    },
+    {
+      "file": "bob_cl.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [
+        {
+          "file": "bob_cl_alt1.jpg",
+          "source": "https://catracalivre.com.br/i/fdwxydInXbtmoEI2NkDBUzsX5Uxa5H-b3BJUXsNrPTc/rs:fit:1080:0:1/g:sm/q:80/bG9jYWw6Ly8vMjAyNi8wNC9pbWFnZW0tMi0xNC5qcGVn",
+          "size": [
+            1080,
+            602
+          ]
+        },
+        {
+          "file": "bob_cl_alt2.jpg",
+          "source": "https://catracalivre.com.br/i/FoadeaGxBFzaKZBiorel2E_dp19i9VttAcnCNNQX4qg/rs:fit:1080:0:1/g:sm/q:80/bG9jYWw6Ly8vMjAyNi8wNC9pbWFnZW0tMS0xMi5qcGVn",
+          "size": [
+            1080,
+            602
+          ]
+        }
+      ],
+      "source": "https://catracalivre.com.br/i/JZhtZ8ViGaIgwno3qtVXaHVfDGb75ydwBSdmgXbzVpU/rs:fill:1200:630:1/g:sm/q:80/bG9jYWw6Ly8vMjAyNi8wNC9mcmVlcGlrLWNvcnRlLWRlLWNhYmVsby1sb25nLWJvYi1yZWFsaXN0YS1lbS1tdWxoZXItY29tLWZpb3MtZmlub3MtdmlzaXZlbG1lbnRlLW1haXMtdm9sdW1vc29zLXBvbnRhLmpwZw",
+      "size": [
+        1200,
+        630
+      ]
+    },
+    {
+      "file": "mr_pmt.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [
+        {
+          "file": "mr_pmt_alt1.jpg",
+          "source": "https://portalmatogrosso.com.br/wp-content/uploads/2026/10/4f4a2aa925db3534a71bf4e0c137d85f.jpeg",
+          "size": [
+            1024,
+            576
+          ]
+        },
+        {
+          "file": "mr_pmt_alt2.jpg",
+          "source": "https://portalmatogrosso.com.br/wp-content/uploads/2026/10/8e092cd5bee814809a1e2fadebb73f85-1000x600.jpeg",
+          "size": [
+            1000,
+            600
+          ]
+        },
+        {
+          "file": "mr_pmt_alt3.jpg",
+          "source": "https://portalmatogrosso.com.br/wp-content/uploads/2026/10/Titulo-Governador--1000x600.jpg",
+          "size": [
+            1000,
+            600
+          ]
+        },
+        {
+          "file": "mr_pmt_alt4.jpg",
+          "source": "https://portalmatogrosso.com.br/wp-content/uploads/2026/10/016a162248dbac5aab391344707143c1-1000x600.jpeg",
+          "size": [
+            1000,
+            600
+          ]
+        },
+        {
+          "file": "mr_pmt_alt5.jpg",
+          "source": "https://portalmatogrosso.com.br/wp-content/uploads/2026/10/1d444c11630ee6353cc2c288e18da94b-1000x600.jpeg",
+          "size": [
+            1000,
+            600
+          ]
+        },
+        {
+          "file": "mr_pmt_alt6.jpg",
+          "source": "https://portalmatogrosso.com.br/wp-content/uploads/2026/10/dbfe93e1dea9a4341ded076843707abc-1000x600.jpeg",
+          "size": [
+            1000,
+            600
+          ]
+        },
+        {
+          "file": "mr_pmt_alt7.jpg",
+          "source": "https://portalmatogrosso.com.br/wp-content/uploads/2026/10/75ba56eb23fa1f69fbe5b25ba7f3b4fe-1000x600.jpeg",
+          "size": [
+            1000,
+            600
+          ]
+        },
+        {
+          "file": "mr_pmt_alt8.jpg",
+          "source": "https://portalmatogrosso.com.br/wp-content/uploads/2024/10/4a78c9add2f24516c632037b594993b1-1000x600.jpeg",
+          "size": [
+            1000,
+            600
+          ]
+        }
+      ],
+      "source": "https://s2-quem.glbimg.com/1LWk0IlpQHUQ_evawXcX_0fxE_M=/0x0:1206x2081/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_b0f0e84207c948ab8b8777be5a6a4395/internal_photos/bs/2026/n/7/5CzyArRYSxNWXz5VBCug/img-7578.jpg",
+      "size": [
+        984,
+        1698
+      ]
+    },
+    {
+      "file": "mr_dol.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [],
+      "source": "https://dol.com.br/themes/DOL/img/share.png",
+      "size": [
+        1200,
+        630
+      ]
+    },
+    {
+      "file": "mr_bp.jpg",
+      "type": "article",
+      "ok": false,
+      "alts": [],
+      "error": "nenhuma imagem utilizavel (0 candidatas)"
+    },
+    {
+      "file": "mr_pp.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [
+        {
+          "file": "mr_pp_alt1.jpg",
+          "source": "https://static1.purepeople.com.br/uploads/50/74/22/60/eae11a8befc15174-1200x0-2.jpg",
+          "size": [
+            1200,
+            675
+          ]
+        }
+      ],
+      "source": "https://static1.purepeople.com.br/uploads/50/74/22/60/eae11a8befc15174-1200x630-2.jpg",
+      "size": [
+        1200,
+        630
+      ]
+    },
+    {
+      "file": "tr_cnn.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [],
+      "source": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2024/05/exercicios.jpg?w=1200&h=630&crop=1",
+      "size": [
+        1200,
+        630
+      ]
+    },
+    {
+      "file": "tr_vitat.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [
+        {
+          "file": "tr_vitat_alt1.jpg",
+          "source": "https://vitat.com.br/wp-content/uploads/2025/12/m10-o-descanso-tambem-tambem-faz-2048x1373.jpg",
+          "size": [
+            2048,
+            1373
+          ]
+        },
+        {
+          "file": "tr_vitat_alt2.jpg",
+          "source": "https://vitat.com.br/wp-content/uploads/2026/01/m8-mudando-a-rotina-de-treinos-d-2048x1373.jpg",
+          "size": [
+            2048,
+            1373
+          ]
+        },
+        {
+          "file": "tr_vitat_alt3.jpg",
+          "source": "https://vitat.com.br/wp-content/uploads/2025/11/m1-como-a-atividade-fisica-melho-2048x1373.jpg",
+          "size": [
+            2048,
+            1373
+          ]
+        }
+      ],
+      "source": "https://vitat.com.br/wp-content/uploads/2024/04/shutterstock_2240460395-e1714403647645.jpg",
+      "size": [
+        1000,
+        503
+      ]
+    },
+    {
+      "file": "tr_cb.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [
+        {
+          "file": "tr_cb_alt1.jpg",
+          "source": "https://www.correiobraziliense.com.br/cbradar/wp-content/uploads/2026/06/Gemini_Generated_Image_s7vdfes7vdfes7vd-1-1-1200x900.png",
+          "size": [
+            1200,
+            900
+          ]
+        },
+        {
+          "file": "tr_cb_alt2.jpg",
+          "source": "https://www.correiobraziliense.com.br/cbradar/wp-content/uploads/2026/06/Gemini_Generated_Image_s7vdfes7vdfes7vd-1-1-1200x675.png",
+          "size": [
+            1200,
+            675
+          ]
+        },
+        {
+          "file": "tr_cb_alt3.jpg",
+          "source": "https://www.correiobraziliense.com.br/cbradar/wp-content/uploads/2026/06/Gemini_Generated_Image_s7vdfes7vdfes7vd-1-1-720x720.png",
+          "size": [
+            720,
+            720
+          ]
+        },
+        {
+          "file": "tr_cb_alt4.jpg",
+          "source": "https://www.correiobraziliense.com.br/cbradar/wp-content/uploads/2026/06/Gemini_Generated_Image_kzgih4kzgih4kzgi-1-1.png",
+          "size": [
+            1280,
+            720
+          ]
+        },
+        {
+          "file": "tr_cb_alt5.jpg",
+          "source": "https://www.correiobraziliense.com.br/cbradar/wp-content/uploads/2026/06/Gemini_Generated_Image_ebry7bebry7bebry-1-1.png",
+          "size": [
+            1280,
+            720
+          ]
+        },
+        {
+          "file": "tr_cb_alt6.jpg",
+          "source": "https://www.correiobraziliense.com.br/cbradar/wp-content/uploads/2026/10/Gemini_Generated_Image_20u63v20u63v20u6-1-750x536.jpg",
+          "size": [
+            750,
+            536
+          ]
+        },
+        {
+          "file": "tr_cb_alt7.jpg",
+          "source": "https://www.correiobraziliense.com.br/cbradar/wp-content/uploads/2026/10/Person_climbing_mountain_trail_20260929082435-1-750x536.jpg",
+          "size": [
+            750,
+            536
+          ]
+        },
+        {
+          "file": "tr_cb_alt8.jpg",
+          "source": "https://www.correiobraziliense.com.br/cbradar/wp-content/uploads/2026/09/Gemini_Generated_Image_qddpzhqddpzhqddp-1-1-750x536.jpeg",
+          "size": [
+            750,
+            536
+          ]
+        }
+      ],
+      "source": "https://www.correiobraziliense.com.br/cbradar/wp-content/uploads/2026/06/Gemini_Generated_Image_s7vdfes7vdfes7vd-1-1.png",
+      "size": [
+        1280,
+        720
+      ]
+    },
+    {
+      "file": "tr_ct.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [
+        {
+          "file": "tr_ct_alt1.jpg",
+          "source": "https://t.ctcdn.com.br/_Z7q4xh3aWGetNFzDM8pwDFlsHY=/600x600/smart/i887243.jpeg",
+          "size": [
+            600,
+            600
+          ]
+        },
+        {
+          "file": "tr_ct_alt2.jpg",
+          "source": "https://t.ctcdn.com.br/oyTCStWdx2vt2ZN5QjpL_mIPaYw=/900x675/smart/i887243.jpeg",
+          "size": [
+            900,
+            675
+          ]
+        }
+      ],
+      "source": "https://t.ctcdn.com.br/q5oGeLhruTrYyYUOQIp9LhzAhsc=/1200x675/smart/i887243.jpeg",
+      "size": [
+        1200,
+        675
+      ]
+    },
+    {
+      "file": "cd_hola.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [
+        {
+          "file": "cd_hola_alt1.jpg",
+          "source": "https://www.hola.com/us/horizon/square/77659a688620-paris-france-cc3a9line-dion-is-seen-outside-her-hotel-on-october-14-2026-in-par.jpg",
+          "size": [
+            1080,
+            1080
+          ]
+        },
+        {
+          "file": "cd_hola_alt2.jpg",
+          "source": "https://www.hola.com/us/horizon/43/77659a688620-paris-france-cc3a9line-dion-is-seen-outside-her-hotel-on-october-14-2026-in-par.jpg",
+          "size": [
+            1920,
+            1440
+          ]
+        }
+      ],
+      "source": "https://www.hola.com/us/horizon/landscape/1200/77659a688620-paris-france-cc3a9line-dion-is-seen-outside-her-hotel-on-october-14-2026-in-par.jpg",
+      "size": [
+        1200,
+        675
+      ]
+    },
+    {
+      "file": "cd_psb.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [
+        {
+          "file": "cd_psb_alt1.jpg",
+          "source": "https://www.parisselectbook.com/wp-content/uploads/2026/10/La-pire-couleur-de-rouge-a-levres-apres-50-ans-fait-ressortir-les-rides-et-vieillit-de-dix-ans.jpg",
+          "size": [
+            1200,
+            675
+          ]
+        },
+        {
+          "file": "cd_psb_alt2.jpg",
+          "source": "https://www.parisselectbook.com/wp-content/uploads/2026/10/Un-dermatologue-revele-les-5-criteres-sur-letiquette-pour-savoir-si-votre-soin-a-la-vitamine-C-agit-vraiment.jpg",
+          "size": [
+            1200,
+            675
+          ]
+        },
+        {
+          "file": "cd_psb_alt3.jpg",
+          "source": "https://www.parisselectbook.com/wp-content/uploads/2026/10/Le-conseil-du-maquilleur-Patrick-Lorentz-pour-poser-son-blush-creme-sans-marquer-les-rides-apres-50-ans.jpg",
+          "size": [
+            1200,
+            675
+          ]
+        },
+        {
+          "file": "cd_psb_alt4.jpg",
+          "source": "https://www.parisselectbook.com/wp-content/uploads/2026/10/Le-soin-Nivea-Q10-SPF-30-valide-par-Yuka-lifter-les-rides-mieux-que-la-creme-bleue-sous-les-10-euros.jpg",
+          "size": [
+            1200,
+            675
+          ]
+        },
+        {
+          "file": "cd_psb_alt5.jpg",
+          "source": "https://www.parisselectbook.com/wp-content/uploads/2024/09/Capture-decran-2024-09-11-a-11.31.45.png",
+          "size": [
+            608,
+            606
+          ]
+        },
+        {
+          "file": "cd_psb_alt6.jpg",
+          "source": "https://www.parisselectbook.com/wp-content/uploads/2024/09/Capture-decran-2024-09-11-a-11.31.51.png",
+          "size": [
+            610,
+            612
+          ]
+        },
+        {
+          "file": "cd_psb_alt7.jpg",
+          "source": "https://www.parisselectbook.com/wp-content/uploads/2024/09/Capture-decran-2024-09-11-a-11.32.05.png",
+          "size": [
+            606,
+            608
+          ]
+        },
+        {
+          "file": "cd_psb_alt8.jpg",
+          "source": "https://www.parisselectbook.com/wp-content/uploads/2024/09/Capture-decran-2024-09-11-a-11.32.13.png",
+          "size": [
+            608,
+            604
+          ]
+        },
+        {
+          "file": "cd_psb_alt9.jpg",
+          "source": "https://www.parisselectbook.com/wp-content/uploads/2024/09/Capture-decran-2024-09-11-a-11.32.19.png",
+          "size": [
+            608,
+            610
+          ]
+        }
+      ],
+      "source": "https://www.parisselectbook.com/wp-content/uploads/2026/09/245453-celine-dion-enchaine-alaia-et-tom-ford-a-paris-ava.jpg",
+      "size": [
+        1200,
+        675
+      ]
+    },
+    {
+      "file": "cd_noovo.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [],
+      "source": "https://www.noovomoi.ca/resizer/v2/PZPX67XWDNE2FLUZUCX3U5TYPY.jpg?smart=true&auth=a3428cd23dbb9b270e5be2f56c4dad9e94cb17f6fbf78411507b8c6bba86e98e&width=1200&height=630",
+      "size": [
+        1200,
+        630
+      ]
+    },
+    {
+      "file": "cd_grazia.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [
+        {
+          "file": "cd_grazia_alt1.jpg",
+          "source": "https://graziamagazine.com/us/wp-content/uploads/sites/15/2026/09/celine-dion-loewe-leather-gown-paris-2.jpg",
+          "size": [
+            1738,
+            2400
+          ]
+        },
+        {
+          "file": "cd_grazia_alt2.jpg",
+          "source": "https://graziamagazine.com/us/wp-content/uploads/sites/15/2026/09/celine-dion-loewe-leather-gown-paris-3.jpg",
+          "size": [
+            1599,
+            2400
+          ]
+        },
+        {
+          "file": "cd_grazia_alt3.jpg",
+          "source": "https://graziamagazine.com/us/wp-content/themes/grazia/assets/images/grazia-text.png",
+          "size": [
+            929,
+            1830
+          ]
+        },
+        {
+          "file": "cd_grazia_alt4.jpg",
+          "source": "https://graziamagazine.com/us/wp-content/themes/grazia/assets/images/grazia-text-right.png",
+          "size": [
+            1086,
+            1830
+          ]
+        }
+      ],
+      "source": "https://graziamagazine.com/us/wp-content/uploads/sites/15/2026/09/celine-dion-loewe-leather-gown-paris-1.jpg",
+      "size": [
+        1280,
+        720
+      ]
+    },
+    {
+      "file": "cd_w.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [
+        {
+          "file": "cd_w_alt1.jpg",
+          "source": "https://imgix.bustle.com/uploads/getty/2026/9/1/d1bdca5a/paris-france-september-01.jpg?w=414&h=621&fit=crop&crop=focalpoint&dpr=2&fp-x=0.4153&fp-y=0.266",
+          "size": [
+            828,
+            1242
+          ]
+        },
+        {
+          "file": "cd_w_alt2.jpg",
+          "source": "https://imgix.bustle.com/uploads/image/2026/9/1/27f4db43/paris-france-september-01.jpeg?w=390&h=585&fit=crop&crop=faces&dpr=2",
+          "size": [
+            780,
+            1170
+          ]
+        }
+      ],
+      "source": "https://imgix.bustle.com/uploads/image/2026/9/1/d78db79e/paris-france-september-01.jpeg?w=1200&h=630&fit=crop&crop=focalpoint&fm=jpg&fp-x=0.4046&fp-y=0.2945",
+      "size": [
+        1200,
+        630
+      ]
+    },
+    {
+      "file": "cou_elle1.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [
+        {
+          "file": "cou_elle1_alt1.jpg",
+          "source": "https://images.elle.com.br/2026/07/p9D5zKWK-saia-de-couro-04-1240x1680.jpg",
+          "size": [
+            1240,
+            1680
+          ]
+        },
+        {
+          "file": "cou_elle1_alt2.jpg",
+          "source": "https://images.elle.com.br/2026/07/saia-de-couro-01.jpg",
+          "size": [
+            1440,
+            1799
+          ]
+        },
+        {
+          "file": "cou_elle1_alt3.jpg",
+          "source": "https://images.elle.com.br/2026/07/LtwpfGaM-saia-de-couro-02.jpg",
+          "size": [
+            1569,
+            2400
+          ]
+        },
+        {
+          "file": "cou_elle1_alt4.jpg",
+          "source": "https://images.elle.com.br/2026/07/saia-de-couro-03-1.jpg",
+          "size": [
+            1601,
+            2400
+          ]
+        },
+        {
+          "file": "cou_elle1_alt5.jpg",
+          "source": "https://images.elle.com.br/2026/07/hXi9E62a-saia-de-couro-05.jpg",
+          "size": [
+            1600,
+            2400
+          ]
+        }
+      ],
+      "source": "https://images.elle.com.br/2026/07/p9D5zKWK-saia-de-couro-04-560x840.jpg",
+      "size": [
+        560,
+        840
+      ]
+    },
+    {
+      "file": "cou_elle2.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [
+        {
+          "file": "cou_elle2_alt1.jpg",
+          "source": "https://images.elle.com.br/2026/04/saia-de-couro-03.jpg",
+          "size": [
+            1080,
+            1350
+          ]
+        },
+        {
+          "file": "cou_elle2_alt2.jpg",
+          "source": "https://images.elle.com.br/2026/04/saia-de-couro-05-e1776285004819.jpg",
+          "size": [
+            943,
+            1250
+          ]
+        },
+        {
+          "file": "cou_elle2_alt3.jpg",
+          "source": "https://images.elle.com.br/2026/04/saia-de-couro-04.jpg",
+          "size": [
+            1080,
+            1438
+          ]
+        },
+        {
+          "file": "cou_elle2_alt4.jpg",
+          "source": "https://images.elle.com.br/2026/04/saia-de-couro-02.jpg",
+          "size": [
+            1080,
+            1350
+          ]
+        }
+      ],
+      "source": "https://images.elle.com.br/2026/04/saia-de-couro-01.jpg",
+      "size": [
+        1080,
+        1350
+      ]
+    },
+    {
+      "file": "cou_elle3.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [
+        {
+          "file": "cou_elle3_alt1.jpg",
+          "source": "https://images.elle.com.br/2026/03/saia-lapis-preta-04.jpg",
+          "size": [
+            1080,
+            1350
+          ]
+        },
+        {
+          "file": "cou_elle3_alt2.jpg",
+          "source": "https://images.elle.com.br/2026/03/saia-lapis-preta-02.jpg",
+          "size": [
+            1080,
+            1350
+          ]
+        },
+        {
+          "file": "cou_elle3_alt3.jpg",
+          "source": "https://images.elle.com.br/2026/03/saia-lapis-preta.jpg",
+          "size": [
+            1080,
+            1350
+          ]
+        },
+        {
+          "file": "cou_elle3_alt4.jpg",
+          "source": "https://images.elle.com.br/2026/03/saia-lapis-preta-03.jpg",
+          "size": [
+            1080,
+            1440
+          ]
+        }
+      ],
+      "source": "https://images.elle.com.br/2026/03/saia-lapis-preta-01.jpg",
+      "size": [
+        1080,
+        1440
+      ]
+    },
+    {
+      "file": "cou_elle4.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [
+        {
+          "file": "cou_elle4_alt1.jpg",
+          "source": "https://images.elle.com.br/2025/07/elegante-com-jaqueta-de-couro-01-768x959.jpg",
+          "size": [
+            768,
+            959
+          ]
+        },
+        {
+          "file": "cou_elle4_alt2.jpg",
+          "source": "https://images.elle.com.br/2025/07/elegante-com-jaqueta-de-couro-02-768x960.jpg",
+          "size": [
+            768,
+            960
+          ]
+        },
+        {
+          "file": "cou_elle4_alt3.jpg",
+          "source": "https://images.elle.com.br/2025/07/elegante-com-jaqueta-de-couro-03-768x960.jpg",
+          "size": [
+            768,
+            960
+          ]
+        },
+        {
+          "file": "cou_elle4_alt4.jpg",
+          "source": "https://images.elle.com.br/2025/07/elegante-com-jaqueta-de-couro-04-768x960.jpg",
+          "size": [
+            768,
+            960
+          ]
+        },
+        {
+          "file": "cou_elle4_alt5.jpg",
+          "source": "https://images.elle.com.br/2025/07/elegante-com-jaqueta-de-couro-05-768x960.jpg",
+          "size": [
+            768,
+            960
+          ]
+        }
+      ],
+      "source": "https://images.elle.com.br/2025/07/elegante-com-jaqueta-de-couro-00.jpg",
+      "size": [
+        1080,
+        1349
+      ]
+    }
+  ]
+}
