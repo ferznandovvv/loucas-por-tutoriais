@@ -1,0 +1,143 @@
+{
+ "reels": [
+  {
+   "post_id": 1,
+   "scenes": [
+    {
+     "text": "Jenna Ortega em Londres de **rabo com fios soltos**",
+     "dur": 2.8,
+     "photo": {
+      "src": "jo_hola_alt2.jpg",
+      "focus": 0.5,
+      "focusY": 0.35
+     }
+    },
+    {
+     "text": "E dá pra copiar **em casa**",
+     "dur": 2.0,
+     "style": "dark"
+    },
+    {
+     "text": "Reserve duas **mechas na frente**",
+     "dur": 2.4,
+     "photo": {
+      "src": "rabo_cl2_alt1.jpg",
+      "mode": "card",
+      "focus": 0.5,
+      "focusY": 0.4,
+      "zoom": 1.1
+     }
+    },
+    {
+     "text": "Prenda o resto num **rabo baixo**",
+     "dur": 2.4,
+     "photo": {
+      "src": "jo_rcfa_alt1.jpg",
+      "focus": 0.55,
+      "focusY": 0.2
+     }
+    },
+    {
+     "text": "No olho, **cinco pontinhos** antes do traço",
+     "dur": 2.6,
+     "photo": {
+      "src": "del_cb.jpg",
+      "mode": "card",
+      "focus": 0.5,
+      "focusY": 0.45,
+      "zoom": 1.1
+     }
+    },
+    {
+     "text": "Ligue do meio pro fim, **fino pro grosso**",
+     "dur": 2.6,
+     "photo": {
+      "src": "del_cl1_alt1.jpg",
+      "mode": "card",
+      "focus": 0.5,
+      "focusY": 0.45,
+      "zoom": 1.1
+     }
+    },
+    {
+     "text": "Passo a passo completo no **carrossel**",
+     "dur": 2.0
+    },
+    {
+     "cta": true,
+     "text": "Salva pro **próximo rolê**",
+     "sub": "Comenta GATINHO se você vai testar",
+     "dur": 2.6
+    }
+   ]
+  },
+  {
+   "post_id": 3,
+   "scenes": [
+    {
+     "text": "Angélica cortou e ganhou um **long bob**",
+     "dur": 2.6,
+     "photo": {
+      "src": "an_caras2_alt1.jpg",
+      "focus": 0.5,
+      "focusY": 0.3
+     }
+    },
+    {
+     "text": "O cabelo parece **mais cheio**",
+     "dur": 2.2,
+     "style": "dark"
+    },
+    {
+     "text": "Leve foto de quem tem **o seu fio**",
+     "dur": 2.4,
+     "photo": {
+      "src": "bob_cl_alt2.jpg",
+      "mode": "card",
+      "focus": 0.5,
+      "focusY": 0.5,
+      "zoom": 1.1
+     }
+    },
+    {
+     "text": "Base reta e **pontas cheias**",
+     "dur": 2.2,
+     "photo": {
+      "src": "an_caras2_alt4.jpg",
+      "focus": 0.5,
+      "focusY": 0.35
+     }
+    },
+    {
+     "text": "Seque com **babyliss grosso**",
+     "dur": 2.2,
+     "photo": {
+      "src": "an_caras2_alt3.jpg",
+      "focus": 0.5,
+      "focusY": 0.3
+     }
+    },
+    {
+     "text": "Pontas levemente **para dentro**",
+     "dur": 2.2,
+     "photo": {
+      "src": "an_caras2_alt5.jpg",
+      "focus": 0.5,
+      "focusY": 0.3
+     }
+    },
+    {
+     "text": "Manutenção a cada **dois meses**",
+     "dur": 2.2
+    },
+    {
+     "cta": true,
+     "text": "Salva pra mostrar **no salão**",
+     "sub": "Comenta BOB se você cortaria",
+     "dur": 2.6
+    }
+   ]
+  }
+ ],
+ "stories": []
+}
