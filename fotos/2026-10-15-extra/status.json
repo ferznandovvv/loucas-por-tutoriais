@@ -1,0 +1,742 @@
+{
+  "date": "2026-10-15-extra",
+  "finished_at": "2026-10-15T09:27:41Z",
+  "items": [
+    {
+      "file": "del_cl1.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [
+        {
+          "file": "del_cl1_alt1.jpg",
+          "source": "https://catracalivre.com.br/i/PvDMuxbq4bIcfGJB0DhYnenB-Kbg-8qUgz_HML9DkoI/rs:fit:1080:0:1/g:sm/q:80/bG9jYWw6Ly8vMjAyNi8wMS9mcmVlcGlrLWNsb3NlLW5vLW9saG8tZmVtaW5pbm8tY29tLWRlbGluZWFkby1nYXRpbmhvLWJlbS1kLTIzNTMuanBlZw",
+          "size": [
+            1080,
+            617
+          ]
+        },
+        {
+          "file": "del_cl1_alt2.jpg",
+          "source": "https://catracalivre.com.br/i/nvUYeOSL-gbPVs5kzt2C8XqRyfEySZunoRnE6fCwzUY/rs:fit:1080:0:1/g:sm/q:80/bG9jYWw6Ly8vMjAyNi8wMS9mcmVlcGlrLW1vLXNlZ3VyYW5kby11bS1ncmFtcG8tZGUtY2FiZWxvLWFiZXJ0by1lbS1mb3JtYXRvLTIzNTUuanBlZw",
+          "size": [
+            1080,
+            617
+          ]
+        }
+      ],
+      "source": "https://catracalivre.com.br/i/czodNWUHokzIP2PTSYELtyWUe8AAICUL_R4NESyzW7U/rs:fill:1200:630:1/g:sm/q:80/bG9jYWw6Ly8vMjAyNi8wMS9mcmVlcGlrLWNsb3NlLW5vLW9saG8tZmVtaW5pbm8tY29tLWRlbGluZWFkby1nYXRpbmhvLWJlbS1kLTIzNTQuanBlZw",
+      "size": [
+        1200,
+        630
+      ]
+    },
+    {
+      "file": "del_cl2.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [
+        {
+          "file": "del_cl2_alt1.jpg",
+          "source": "https://catracalivre.com.br/i/lLmWUT-uf9NetySMs9rne8nCHbFf7D1CpYW7DGOOEnQ/rs:fit:1080:0:1/g:sm/q:80/bG9jYWw6Ly8vMjAyNi8wNS9idXNpbmVzcy1jYXJkLWd1aWRpbmctZXllbGluZXItMjAyNjA1MzAxMTMxLmpwZWc",
+          "size": [
+            1080,
+            602
+          ]
+        },
+        {
+          "file": "del_cl2_alt2.jpg",
+          "source": "https://catracalivre.com.br/i/DeXQPA7JuIlY59IAjCSJp3yxpHrhFbI4g_kWm1FLrk4/rs:fit:1080:0:1/g:sm/q:80/bG9jYWw6Ly8vMjAyNi8wNS9vbGhvLWNvbS1kZWxpbmVhZG8tZ2F0aW5oby0yMDI2MDUzMDExMzEuanBlZw",
+          "size": [
+            1080,
+            602
+          ]
+        }
+      ],
+      "source": "https://catracalivre.com.br/i/22xMtCIh_KI-auSu83xHlCzdd7d6fG9BmPiUkTNY5Ck/rs:fill:1200:630:1/g:sm/q:80/bG9jYWw6Ly8vMjAyNi8wNS9idXNpbmVzcy1jYXJkLWd1aWRpbmctZXllbGluZXItMjAyNjA1MzAxMTMxLTIuanBlZw",
+      "size": [
+        1200,
+        630
+      ]
+    },
+    {
+      "file": "del_cb.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [
+        {
+          "file": "del_cb_alt1.jpg",
+          "source": "https://www.correiobraziliense.com.br/cbradar/wp-content/uploads/2026/07/delineado-1200x900.jpg",
+          "size": [
+            1200,
+            900
+          ]
+        },
+        {
+          "file": "del_cb_alt2.jpg",
+          "source": "https://www.correiobraziliense.com.br/cbradar/wp-content/uploads/2026/07/delineado-720x720.jpg",
+          "size": [
+            720,
+            720
+          ]
+        },
+        {
+          "file": "del_cb_alt3.jpg",
+          "source": "https://www.correiobraziliense.com.br/cbradar/wp-content/uploads/2026/07/delineado-1.jpg",
+          "size": [
+            1280,
+            720
+          ]
+        },
+        {
+          "file": "del_cb_alt4.jpg",
+          "source": "https://www.correiobraziliense.com.br/cbradar/wp-content/uploads/2026/07/delineado-1140x570.jpg",
+          "size": [
+            1140,
+            570
+          ]
+        }
+      ],
+      "source": "https://www.correiobraziliense.com.br/cbradar/wp-content/uploads/2026/07/delineado.jpg",
+      "size": [
+        1280,
+        720
+      ]
+    },
+    {
+      "file": "del_gz.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [
+        {
+          "file": "del_gz_alt1.jpg",
+          "source": "https://cdn.gazetasp.com.br/uploads/2026/09/pexels-gautham-706188465-37707328-scaled-e1790691360219.jpg",
+          "size": [
+            2400,
+            1352
+          ]
+        },
+        {
+          "file": "del_gz_alt2.jpg",
+          "source": "https://cdn.gazetasp.com.br/uploads/2026/09/pexels-cottonbro-7585308-scaled-e1790691108120.jpg",
+          "size": [
+            2400,
+            1352
+          ]
+        },
+        {
+          "file": "del_gz_alt3.jpg",
+          "source": "https://cdn.gazetasp.com.br/uploads/2026/09/pexels-cileklipalet-36792027-scaled-e1790691141480.jpg",
+          "size": [
+            2400,
+            1352
+          ]
+        },
+        {
+          "file": "del_gz_alt4.jpg",
+          "source": "https://cdn.gazetasp.com.br/uploads/2026/09/pexels-sakshi-patwa-3335937-7295413-scaled-e1790691188381.jpg",
+          "size": [
+            2400,
+            1352
+          ]
+        },
+        {
+          "file": "del_gz_alt5.jpg",
+          "source": "https://cdn.gazetasp.com.br/uploads/2026/09/pexels-tanhatamannasyed-36772556-scaled.jpg",
+          "size": [
+            2400,
+            1348
+          ]
+        },
+        {
+          "file": "del_gz_alt6.jpg",
+          "source": "https://cdn.gazetasp.com.br/uploads/2026/09/pexels-moh-adbelghaffar-13651870-scaled-e1790691297172.jpg",
+          "size": [
+            2400,
+            1352
+          ]
+        }
+      ],
+      "source": "https://cdn.gazetasp.com.br/uploads/dn_arquivo/2024/12/mulher-passando-delineador.jpg",
+      "size": [
+        1200,
+        675
+      ]
+    },
+    {
+      "file": "rabo_cl2.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [
+        {
+          "file": "rabo_cl2_alt1.jpg",
+          "source": "https://catracalivre.com.br/i/BboCKIW0Gs0Z5-kHryW55bV0dGu6V90BPyT8Smhd7SQ/rs:fit:1080:0:1/g:sm/q:80/bG9jYWw6Ly8vMjAxOC8wOC9yYWJvLWRlLWNhdmFsby1tYWlvci1tYWlzLWNvbXByaWRvLXZvbHVtZS15b3V0dWJlLWVsbGEtZGluaXouanBn",
+          "size": [
+            1080,
+            607
+          ]
+        },
+        {
+          "file": "rabo_cl2_alt2.jpg",
+          "source": "https://catracalivre.com.br/i/iu9UxEyOV6yc4f63Xs69_Boc1nbdijabHfWjG9-RHJI/rs:fit:1080:0:1/g:sm/q:80/bG9jYWw6Ly8vMjAxOC8wOC9yYWJvLWRlLWNhdmFsby1tYWlvci1tYWlzLWNvbXByaWRvLXZvbHVtZS15b3V0dWJlLWVsbGEtZGluaXotMy5qcGc",
+          "size": [
+            1080,
+            607
+          ]
+        },
+        {
+          "file": "rabo_cl2_alt3.jpg",
+          "source": "https://catracalivre.com.br/i/2lgg4wKYy4P7IyNYpgUYGneqdpMi_EDA2rjWrTZEKWs/rs:fit:1080:0:1/g:sm/q:80/bG9jYWw6Ly8vMjAxOC8wOC9yYWJvLWRlLWNhdmFsby1tYWlvci1tYWlzLWNvbXByaWRvLXZvbHVtZS15b3V0dWJlLWVsbGEtZGluaXotMi5qcGc",
+          "size": [
+            1080,
+            607
+          ]
+        }
+      ],
+      "source": "https://catracalivre.com.br/i/GkFRiwYdbn0kz0ZWntuGPX4aGB0s_TuiQsBC2DleO-4/rs:fill:1200:630:1/g:sm/q:80/bG9jYWw6Ly8vMjAxOC8wOC9yYWJvLWRlLWNhdmFsby1tYWlvci1tYWlzLWNvbXByaWRvLXZvbHVtZS1pbnN0YWdyYW0tYXJpYW5hLWdyYW5kZS0xLmpwZw",
+      "size": [
+        1200,
+        630
+      ]
+    },
+    {
+      "file": "esf_tupi.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [
+        {
+          "file": "esf_tupi_alt1.jpg",
+          "source": "https://www.tupi.fm/wp-content/uploads/2025/05/maquiagem-esfumado_1746119151818-1000x600.jpg",
+          "size": [
+            1000,
+            600
+          ]
+        },
+        {
+          "file": "esf_tupi_alt2.jpg",
+          "source": "https://www.tupi.fm/wp-content/uploads/2026/10/familia-pendura-tv-pesada-na-parede-de-drywall-e-descob-1000x600.jpg",
+          "size": [
+            1000,
+            600
+          ]
+        },
+        {
+          "file": "esf_tupi_alt3.jpg",
+          "source": "https://www.tupi.fm/wp-content/uploads/2026/10/Bau-DIY-Colorido-no-Quarto-Infantil-1000x600.png",
+          "size": [
+            1000,
+            600
+          ]
+        },
+        {
+          "file": "esf_tupi_alt4.jpg",
+          "source": "https://www.tupi.fm/wp-content/uploads/2026/10/como-deixar-panela-de-aluminio-brilhando-de-novo-com-do-1000x600.jpg",
+          "size": [
+            1000,
+            600
+          ]
+        }
+      ],
+      "source": "https://www.tupi.fm/wp-content/uploads/2025/05/maquiagem-esfumado_1746119151818.jpg",
+      "size": [
+        1280,
+        720
+      ]
+    },
+    {
+      "file": "esf_gz.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [
+        {
+          "file": "esf_gz_alt1.jpg",
+          "source": "https://cdn.gazetasp.com.br/uploads/dn_arquivo/2024/12/mulher-batom-vermelho.jpg",
+          "size": [
+            1200,
+            675
+          ]
+        },
+        {
+          "file": "esf_gz_alt2.jpg",
+          "source": "https://cdn.gazetasp.com.br/uploads/dn_arquivo/2024/12/mulher-passando-corretivo.jpg",
+          "size": [
+            1200,
+            675
+          ]
+        },
+        {
+          "file": "esf_gz_alt3.jpg",
+          "source": "https://cdn.gazetasp.com.br/uploads/dn_arquivo/2024/12/mulher-passando-mascara-de-cilios.jpg",
+          "size": [
+            1200,
+            675
+          ]
+        },
+        {
+          "file": "esf_gz_alt4.jpg",
+          "source": "https://cdn.gazetasp.com.br/uploads/dn_arquivo/2024/12/mulher-passando-sombra.jpg",
+          "size": [
+            1200,
+            675
+          ]
+        },
+        {
+          "file": "esf_gz_alt5.jpg",
+          "source": "https://cdn.gazetasp.com.br/uploads/2026/09/pexels-cottonbro-4620838-scaled-e1788535881300-2048x1154.jpg",
+          "size": [
+            2048,
+            1154
+          ]
+        }
+      ],
+      "source": "https://cdn.gazetasp.com.br/uploads/2026/09/pexels-karola-g-7588617-scaled.jpg",
+      "size": [
+        2400,
+        1600
+      ]
+    },
+    {
+      "file": "esf_istoe.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [],
+      "source": "https://istoe.com.br/wp-content/uploads/2026/03/Chocolate-makeup_-o-marrom-se-firma-como-trend-e-domina-os-looks-de-Pascoa.-Reproducao_Instagram-1200x630.jpg",
+      "size": [
+        1200,
+        630
+      ]
+    },
+    {
+      "file": "esf_www.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [
+        {
+          "file": "esf_www_alt1.jpg",
+          "source": "https://cdn.mos.cms.futurecdn.net/tYYhb2fBVXNACCmVxpq4FA-2000-80.jpg",
+          "size": [
+            2000,
+            1125
+          ]
+        },
+        {
+          "file": "esf_www_alt2.jpg",
+          "source": "https://cdn.mos.cms.futurecdn.net/v2/t:0,l:437,cw:1125,ch:1125,q:80,w:1125/tYYhb2fBVXNACCmVxpq4FA.jpg",
+          "size": [
+            1125,
+            1125
+          ]
+        },
+        {
+          "file": "esf_www_alt3.jpg",
+          "source": "https://cdn.mos.cms.futurecdn.net/v2/t:0,l:250,cw:1500,ch:1125,q:80,w:1500/tYYhb2fBVXNACCmVxpq4FA.jpg",
+          "size": [
+            1500,
+            1125
+          ]
+        },
+        {
+          "file": "esf_www_alt4.jpg",
+          "source": "https://cdn.mos.cms.futurecdn.net/p4kQAZrJpwXojpJAp6UmVS.jpg",
+          "size": [
+            1440,
+            1440
+          ]
+        },
+        {
+          "file": "esf_www_alt5.jpg",
+          "source": "https://cdn.mos.cms.futurecdn.net/T3ty866UCAsZZQQ5guM5SR-1440-80.jpg",
+          "size": [
+            1440,
+            1920
+          ]
+        },
+        {
+          "file": "esf_www_alt6.jpg",
+          "source": "https://cdn.mos.cms.futurecdn.net/rKVitAxdBN9RCPcbJjTKem-1920-80.png",
+          "size": [
+            576,
+            576
+          ]
+        },
+        {
+          "file": "esf_www_alt7.jpg",
+          "source": "https://cdn.mos.cms.futurecdn.net/wnxqPLRU9NwVjLCRc9NQXX-1920-80.png",
+          "size": [
+            480,
+            480
+          ]
+        },
+        {
+          "file": "esf_www_alt8.jpg",
+          "source": "https://cdn.mos.cms.futurecdn.net/SWo7rCD94RPnsJ5v9uPqxM-1920-80.jpg",
+          "size": [
+            1920,
+            1920
+          ]
+        },
+        {
+          "file": "esf_www_alt9.jpg",
+          "source": "https://cdn.mos.cms.futurecdn.net/wmQmUCF25LDKLrPEyvAEXR-1920-80.jpg",
+          "size": [
+            1802,
+            2400
+          ]
+        },
+        {
+          "file": "esf_www_alt10.jpg",
+          "source": "https://cdn.mos.cms.futurecdn.net/WHVgwDfyPrTDU9RXQozcDQ-1920-80.jpg",
+          "size": [
+            1920,
+            1920
+          ]
+        },
+        {
+          "file": "esf_www_alt11.jpg",
+          "source": "https://cdn.mos.cms.futurecdn.net/wJoKyBLy2RUAgEomCJQ4HQ-1920-80.jpg",
+          "size": [
+            1920,
+            1920
+          ]
+        },
+        {
+          "file": "esf_www_alt12.jpg",
+          "source": "https://cdn.mos.cms.futurecdn.net/K3ysTrGf6exvpnnvVyXYHQ-1920-80.jpg",
+          "size": [
+            1920,
+            1920
+          ]
+        },
+        {
+          "file": "esf_www_alt13.jpg",
+          "source": "https://cdn.mos.cms.futurecdn.net/jHRZc7WQfwkVpDig6ZTeeR-1217-80.jpg",
+          "size": [
+            1217,
+            2160
+          ]
+        }
+      ],
+      "source": "https://cdn.mos.cms.futurecdn.net/Mz9AVy5LSes2rwwubkG4QA-1200-80.jpg",
+      "size": [
+        1200,
+        627
+      ]
+    },
+    {
+      "file": "esf_pw.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [
+        {
+          "file": "esf_pw_alt1.jpg",
+          "source": "https://assets.purewow.com/wp-content/uploads/2025/12/makeup-color-trend-2026-mineral-fusion-bronzer.jpg",
+          "size": [
+            800,
+            800
+          ]
+        },
+        {
+          "file": "esf_pw_alt2.jpg",
+          "source": "https://assets.purewow.com/wp-content/uploads/2025/12/makeup-color-trend-2026-anastasia-beverly-hills.jpg",
+          "size": [
+            800,
+            800
+          ]
+        },
+        {
+          "file": "esf_pw_alt3.jpg",
+          "source": "https://assets.purewow.com/wp-content/uploads/2025/12/makeup-color-trend-2026-morphe.jpg",
+          "size": [
+            800,
+            800
+          ]
+        },
+        {
+          "file": "esf_pw_alt4.jpg",
+          "source": "https://assets.purewow.com/wp-content/uploads/2025/12/makeup-color-trend-2026-make-up-for-ever.jpg",
+          "size": [
+            800,
+            800
+          ]
+        },
+        {
+          "file": "esf_pw_alt5.jpg",
+          "source": "https://assets.purewow.com/wp-content/uploads/2025/12/makeup-color-trend-2026-merit.jpg",
+          "size": [
+            800,
+            800
+          ]
+        },
+        {
+          "file": "esf_pw_alt6.jpg",
+          "source": "https://assets.purewow.com/wp-content/uploads/2025/12/makeup-color-trend-2026-thrive-causemetics-liner.jpg",
+          "size": [
+            800,
+            800
+          ]
+        },
+        {
+          "file": "esf_pw_alt7.jpg",
+          "source": "https://assets.purewow.com/wp-content/uploads/2025/12/makeup-color-trend-2026-too-faced.jpg",
+          "size": [
+            800,
+            800
+          ]
+        },
+        {
+          "file": "esf_pw_alt8.jpg",
+          "source": "https://assets.purewow.com/wp-content/uploads/2025/12/makeup-color-trend-2026-urban-decay.jpg",
+          "size": [
+            800,
+            800
+          ]
+        },
+        {
+          "file": "esf_pw_alt9.jpg",
+          "source": "https://assets.purewow.com/wp-content/uploads/2025/12/makeup-color-trend-2026-thrive-causemetics.jpg",
+          "size": [
+            800,
+            800
+          ]
+        },
+        {
+          "file": "esf_pw_alt10.jpg",
+          "source": "https://assets.purewow.com/wp-content/uploads/2025/12/makeup-color-trend-2026-makeup-by-mario.jpg",
+          "size": [
+            800,
+            800
+          ]
+        },
+        {
+          "file": "esf_pw_alt11.jpg",
+          "source": "https://assets.purewow.com/wp-content/uploads/2025/12/makeup-color-trend-2026-kevyn-aucoin.jpg",
+          "size": [
+            800,
+            800
+          ]
+        }
+      ],
+      "source": "https://assets.purewow.com/wp-content/uploads/2025/12/makeup-color-trend-2026-hero.jpg",
+      "size": [
+        2050,
+        1100
+      ]
+    },
+    {
+      "file": "esf_tfs.jpg",
+      "type": "article",
+      "ok": false,
+      "alts": [],
+      "error": "403 Client Error: Forbidden for url: https://www.thefashionspot.com/beauty/489123-get-perfect-fall-smokey-eyes/"
+    },
+    {
+      "file": "esf_forbes.jpg",
+      "type": "article",
+      "ok": false,
+      "alts": [],
+      "error": "403 Client Error: Forbidden for url: https://www.forbes.com/sites/katebdonnelly/2026/10/13/fall-beauty-trends-2026-warmer-hair-moody-makeup-and-subtle-polish/"
+    },
+    {
+      "file": "mr_pp2.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [
+        {
+          "file": "mr_pp2_alt1.jpg",
+          "source": "https://static1.purepeople.com.br/uploads/22/72/2d/a7/94510c5b509b8f90-580x0-1.jpg",
+          "size": [
+            580,
+            869
+          ]
+        },
+        {
+          "file": "mr_pp2_alt2.jpg",
+          "source": "https://static1.purepeople.com.br/uploads/05/55/df/14/fb7e1c5dc0ab089b-580x0-1.jpg",
+          "size": [
+            580,
+            869
+          ]
+        },
+        {
+          "file": "mr_pp2_alt3.jpg",
+          "source": "https://static1.purepeople.com.br/uploads/ef/f1/b6/ae/aa73d4c672727de6-580x0-1.jpg",
+          "size": [
+            580,
+            869
+          ]
+        },
+        {
+          "file": "mr_pp2_alt4.jpg",
+          "source": "https://static1.purepeople.com.br/uploads/fa/0f/77/8e/1ba6999f7adf25d7-580x0-1.jpg",
+          "size": [
+            580,
+            869
+          ]
+        },
+        {
+          "file": "mr_pp2_alt5.jpg",
+          "source": "https://static1.purepeople.com.br/uploads/e4/32/96/d0/c26c9b39bf0dc6fe-580x0-1.jpg",
+          "size": [
+            580,
+            869
+          ]
+        },
+        {
+          "file": "mr_pp2_alt6.jpg",
+          "source": "https://static1.purepeople.com.br/uploads/40/5d/fe/1f/fa14dbae2f427b82-580x0-1.jpg",
+          "size": [
+            580,
+            811
+          ]
+        },
+        {
+          "file": "mr_pp2_alt7.jpg",
+          "source": "https://static1.purepeople.com.br/uploads/1c/62/54/7b/8252eb9f80a1a6de-580x0-1.jpg",
+          "size": [
+            580,
+            811
+          ]
+        },
+        {
+          "file": "mr_pp2_alt8.jpg",
+          "source": "https://static1.purepeople.com.br/uploads/7e/7c/15/8d/fc9e08f6012825a8-580x0-1.jpg",
+          "size": [
+            580,
+            869
+          ]
+        },
+        {
+          "file": "mr_pp2_alt9.jpg",
+          "source": "https://static1.purepeople.com.br/uploads/91/43/23/48/47d3692915c235ea-580x0-1.jpg",
+          "size": [
+            580,
+            869
+          ]
+        },
+        {
+          "file": "mr_pp2_alt10.jpg",
+          "source": "https://static1.purepeople.com.br/uploads/3a/72/59/2a/bc1ee9da74d333df-580x0-1.jpg",
+          "size": [
+            580,
+            812
+          ]
+        },
+        {
+          "file": "mr_pp2_alt11.jpg",
+          "source": "https://static1.purepeople.com.br/uploads/5c/1a/75/17/ddcf0a73fc6b376f-580x0-1.jpg",
+          "size": [
+            580,
+            812
+          ]
+        },
+        {
+          "file": "mr_pp2_alt12.jpg",
+          "source": "https://static1.purepeople.com.br/uploads/5a/af/b1/d8/93187d475285a050-580x0-1.jpg",
+          "size": [
+            580,
+            811
+          ]
+        },
+        {
+          "file": "mr_pp2_alt13.jpg",
+          "source": "https://static1.purepeople.com.br/uploads/da/ad/2e/d7/89065cd8c04ee161-580x0-1.jpg",
+          "size": [
+            580,
+            811
+          ]
+        }
+      ],
+      "source": "https://static1.purepeople.com.br/uploads/35/61/d4/6f/89fb7fc408e970f0-1200x630-2.png",
+      "size": [
+        1200,
+        630
+      ]
+    },
+    {
+      "file": "mr_forbes.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [
+        {
+          "file": "mr_forbes_alt1.jpg",
+          "source": "https://forbes.com.br/wp-content/uploads/2026/01/alma-rio-2-1000x1000.jpg",
+          "size": [
+            1000,
+            1000
+          ]
+        },
+        {
+          "file": "mr_forbes_alt2.jpg",
+          "source": "https://forbes.com.br/wp-content/uploads/2026/01/alma-rio-1-900x600.jpg",
+          "size": [
+            900,
+            600
+          ]
+        },
+        {
+          "file": "mr_forbes_alt3.jpg",
+          "source": "https://forbes.com.br/wp-content/uploads/2026/01/alma-rio-4-900x600.jpg",
+          "size": [
+            900,
+            600
+          ]
+        },
+        {
+          "file": "mr_forbes_alt4.jpg",
+          "source": "https://forbes.com.br/wp-content/uploads/2026/01/alma-rio-3-900x600.jpg",
+          "size": [
+            900,
+            600
+          ]
+        },
+        {
+          "file": "mr_forbes_alt5.jpg",
+          "source": "https://forbes.com.br/wp-content/uploads/2026/01/Design-sem-nome-7-900x600.jpg",
+          "size": [
+            900,
+            600
+          ]
+        },
+        {
+          "file": "mr_forbes_alt6.jpg",
+          "source": "https://forbes.com.br/wp-content/uploads/2026/01/alma-rio-2-900x600.jpg",
+          "size": [
+            900,
+            600
+          ]
+        }
+      ],
+      "source": "https://forbes.com.br/wp-content/uploads/2026/01/alma-rio-2-1200x675.jpg",
+      "size": [
+        1200,
+        675
+      ]
+    },
+    {
+      "file": "mr_bb.jpg",
+      "type": "article",
+      "ok": false,
+      "alts": [],
+      "error": "403 Client Error: Forbidden for url: https://billboard.com.br/camarote-alma-rio-2026-marina-ruy-barbosa-embaixadora/"
+    },
+    {
+      "file": "mr_pp3.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [
+        {
+          "file": "mr_pp3_alt1.jpg",
+          "source": "https://static1.purepeople.com.br/articles/5/38/57/65/@/4430947-marina-ruy-barbosa-elege-look-vermelho-c-1200x0-2.jpg",
+          "size": [
+            1200,
+            675
+          ]
+        }
+      ],
+      "source": "https://static1.purepeople.com.br/articles/5/38/57/65/@/4430947-marina-ruy-barbosa-elege-look-vermelho-c-1200x630-2.jpg",
+      "size": [
+        1200,
+        630
+      ]
+    }
+  ]
+}
