@@ -1,0 +1,52 @@
+{
+  "date": "2026-10-15",
+  "items": [
+    {"file": "jo_hola.jpg", "type": "article", "max": 14, "url": "https://www.hola.com/us/celebrities/20261014929052/jenna-ortega-adorable-companion-london/"},
+    {"file": "jo_rcfa.jpg", "type": "article", "max": 12, "url": "https://www.redcarpet-fashionawards.com/2026/10/14/jenna-ortega-trades-gothic-style-for-colour-at-klara-and-the-sun-photocall/"},
+    {"file": "jo_cb.jpg", "type": "article", "max": 12, "url": "https://www.comicbasics.com/jenna-ortega-steps-out-for-the-klara-and-the-sun-photocall-as-taika-waititis-long-shelved-sci-fi-finally-arrives/"},
+    {"file": "jo_lg.jpg", "type": "article", "url": "https://www.laineygossip.com/jenna-ortegas-dog-twigs-has-hijacked-the-klara-and-the-sun-press-tour/"},
+    {"file": "jo_fs.jpg", "type": "article", "max": 12, "url": "http://www.thefashionistastories.com/2026/10/amy-adams-jenna-ortega-at-klara-and-sun.html"},
+    {"file": "del_bnw.jpg", "type": "article", "max": 12, "url": "https://www.belezanaweb.com.br/loucas-por-beleza/passo-a-passo-de-como-fazer-delineado/"},
+    {"file": "rabo_bnw.jpg", "type": "article", "max": 12, "url": "https://www.belezanaweb.com.br/loucas-por-beleza/4-opcoes-de-rabo-de-cavalo-diferentes/"},
+    {"file": "rabo_cl.jpg", "type": "article", "url": "https://catracalivre.com.br/saude-bem-estar/5-penteados-para-quem-quer-prender-o-cabelo-sem-adeixar-o-rosto-completamente-descoberto/"},
+
+    {"file": "be_pink.jpg", "type": "article", "max": 12, "url": "https://www.thepinknews.com/2026/10/06/billie-eilish-hair-strawberry-blonde-bob-style/"},
+    {"file": "be_hola.jpg", "type": "article", "max": 12, "url": "https://www.hola.com/us/celebrities/20261006927411/billie-eilish-debut-strawberry-blonde-hair/"},
+    {"file": "be_ary.jpg", "type": "article", "url": "https://arynews.tv/billie-eilish-goes-blonde-again-see-singers-new-strawberry-blonde-hair-look"},
+    {"file": "be_en.jpg", "type": "article", "url": "https://entertainmentnow.com/fashion-famous-celebrity-designers/2026/10/billie-eilish-returns-fresh-new-look/"},
+    {"file": "be_jang.jpg", "type": "article", "url": "https://jang.com.pk/en/74272-billie-eilishs-new-pumpkin-spice-hair-has-us-rethinking-our-fall-makeover-news"},
+    {"file": "be_mm.jpg", "type": "article", "url": "https://minutemirror.com.pk/billie-eilish-debuts-pumpkin-spice-hair-transformation-for-fall-640741/"},
+    {"file": "cob_bnw.jpg", "type": "article", "max": 12, "url": "https://www.belezanaweb.com.br/loucas-por-beleza/cabelo-loiro-acobreado-e-tendencia-para-o-inverno/"},
+    {"file": "cob_elle.jpg", "type": "article", "max": 12, "url": "https://elle.com.br/beleza/o-ruivo-e-o-momento"},
+    {"file": "cob_gz.jpg", "type": "article", "url": "https://www.agazeta.com.br/hz/moda-e-beleza/6-dicas-para-manter-a-cor-dos-cabelos-coloridos-0725"},
+    {"file": "cob_bnw2.jpg", "type": "article", "url": "https://www.belezanaweb.com.br/loucas-por-beleza/3-motivos-para-apostar-nas-mechas-acobreadas-em-castanhos/"},
+
+    {"file": "an_caras.jpg", "type": "article", "max": 12, "url": "https://caras.com.br/bem-estar/angelica-muda-o-cabelo-e-medica-revela-segredo-do-visual-pode-parecer.phtml"},
+    {"file": "an_caras2.jpg", "type": "article", "max": 12, "url": "https://caras.com.br/atualidades/angelica-faz-mudanca-radical-no-visual-e-ganha-elogio-de-xuxa-esta-lindo.phtml"},
+    {"file": "an_pp.jpg", "type": "article", "max": 14, "url": "https://www.purepeople.com.br/galeria/o-novo-corte-long-bob-de-angelica-e-ideal-para-mulheres-50-devolve-sustentacao-movimento-e-uma-aparencia-muito-mais-densa-opina-visagista_a424255/1"},
+    {"file": "an_dci.jpg", "type": "article", "url": "https://www.dci.com.br/dci-mais/noticias/novo-corte-de-cabelo-de-angelica-antecipa-tendencia-de-2027-veja-mudanca-por-celso-kamura/"},
+    {"file": "an_nc.jpg", "type": "article", "url": "https://ncnews.com.br/?p=48937"},
+    {"file": "bob_elle.jpg", "type": "article", "max": 12, "url": "https://elle.com.br/beleza/por-que-bob-tao-querido"},
+    {"file": "bob_elle2.jpg", "type": "article", "max": 12, "url": "https://elle.com.br/?p=188031"},
+    {"file": "bob_cl.jpg", "type": "article", "max": 12, "url": "https://catracalivre.com.br/saude-bem-estar/20-cortes-de-cabelo-long-bob-que-fazem-o-cabelo-fino-parecer-mais-volumoso/"},
+
+    {"file": "mr_pmt.jpg", "type": "article", "url": "https://portalmatogrosso.com.br/marina-ruy-barbosa-mostra-rotina-fitness-e-surpreende-ao-treinar-as-6h-da-manha/"},
+    {"file": "mr_dol.jpg", "type": "article", "max": 12, "url": "https://dol.com.br/noticias/elas/noticia-401522-conheca-3-modalidades-de-esporte-que-marina-ruy-barbosa-ama.html"},
+    {"file": "mr_bp.jpg", "type": "article", "max": 12, "url": "https://www.bemparana.com.br/cultura/marina-ruy-barbosa-abre-album-de-fotos-de-viagem-a-coreia-do-sul-com-noivo-e-pais/amp/"},
+    {"file": "mr_pp.jpg", "type": "article", "max": 12, "url": "https://www.purepeople.com.br/noticia/cabelo-loiro-de-marina-ruy-barbosa-ex-globo-participa-de-evento-ao-lado-do-ator-rodrigo-santoro-e-web-compara-atriz-a-outra-famosa-ariana-grande_a407836/1"},
+    {"file": "tr_cnn.jpg", "type": "article", "max": 12, "url": "https://www.cnnbrasil.com.br/saude/como-fazer-exercicios-pela-manha-aprenda-a-motivar-seu-corpo/"},
+    {"file": "tr_vitat.jpg", "type": "article", "max": 12, "url": "https://vitat.com.br/treinar-de-manha/"},
+    {"file": "tr_cb.jpg", "type": "article", "url": "https://www.correiobraziliense.com.br/cbradar/pessoas-que-se-exercitam-no-inicio-do-dia-tendem-a-sustentar-melhor-a-disciplina-e-a-abandonar-menos-a-rotina-fitness/"},
+    {"file": "tr_ct.jpg", "type": "article", "url": "https://canaltech.com.br/saude/como-passar-a-gostar-de-fazer-exercicios-pela-manha-287235/"},
+
+    {"file": "cd_hola.jpg", "type": "article", "max": 14, "url": "https://www.hola.com/us/celebrities/20261014929070/celine-dion-head-to-toe-leather-look-daring-detail/"},
+    {"file": "cd_psb.jpg", "type": "article", "max": 12, "url": "https://www.parisselectbook.com/?p=245453"},
+    {"file": "cd_noovo.jpg", "type": "article", "max": 12, "url": "https://www.noovomoi.ca/tendances/mode/article/celine-dion-nous-offre-une-lecon-de-style-avec-ce-look-dautomne-parfait/"},
+    {"file": "cd_grazia.jpg", "type": "article", "url": "https://graziamagazine.com/us/articles/celine-dion-loewe-leather-gown-paris/"},
+    {"file": "cd_w.jpg", "type": "article", "max": 12, "url": "https://www.wmagazine.com/fashion/celine-dion-loewe-paris-residency"},
+    {"file": "cou_elle1.jpg", "type": "article", "max": 12, "url": "https://elle.com.br/moda/como-usar-a-saia-de-couro-o-ano-inteiro"},
+    {"file": "cou_elle2.jpg", "type": "article", "max": 12, "url": "https://elle.com.br/moda/5-jeitos-de-usar-a-saia-de-couro"},
+    {"file": "cou_elle3.jpg", "type": "article", "max": 12, "url": "https://elle.com.br/moda/como-usar-a-saia-lapis-preta-alem-do-trabalho"},
+    {"file": "cou_elle4.jpg", "type": "article", "max": 12, "url": "https://elle.com.br/moda/elegante-com-jaqueta-de-couro"}
+  ]
+}
