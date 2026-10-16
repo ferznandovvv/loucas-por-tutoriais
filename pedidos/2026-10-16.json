@@ -1,0 +1,44 @@
+{
+  "date": "2026-10-16",
+  "items": [
+    {"file": "al_terra.jpg", "type": "article", "max": 12, "url": "https://www.terra.com.br/vida-e-estilo/autocuidado/moda/adriana-lima-retorna-ao-victorias-secret-fashion-show-em-2026,0feedb5260fda3752d62fa8a4d9df8671covhxjl.html"},
+    {"file": "al_estr.jpg", "type": "article", "max": 12, "url": "https://www.estrelando.com.br/nota/2026/09/28/vem-ai-adriana-lima-e-confirmada-no-victoria's-secret-fashion-show-2026-334675"},
+    {"file": "al_bahia.jpg", "type": "article", "max": 12, "url": "https://letsgobahia.com.br/noticia/moda/baiana-adriana-lima-volta-passarela-da-victorias-secret-em-2026"},
+    {"file": "al_spd.jpg", "type": "article", "max": 12, "url": "https://spdiario.com.br/noticias/mundo/adriana-lima-esta-de-volta-brasileira-retorna-a-passarela-da-victorias-secret-em-2026.html"},
+    {"file": "al_zoe.jpg", "type": "article", "max": 14, "url": "https://www.thezoereport.com/culture/2026-victorias-secret-fashion-show-cast"},
+    {"file": "al_hola.jpg", "type": "article", "max": 14, "url": "https://www.hola.com/us/fashion/20261014929104/latina-models-victorias-secret-fashion-show-2026/"},
+    {"file": "al_aol.jpg", "type": "article", "max": 12, "url": "https://www.aol.com/adriana-lima-made-legendary-comeback-232800131.html"},
+    {"file": "vs_bc.jpg", "type": "article", "max": 12, "url": "https://beautycrew.com.au/how-to-style-victoria-s-secret-angel-waves-at-home"},
+    {"file": "vs_hb.jpg", "type": "article", "max": 12, "url": "https://www.harpersbazaar.com.sg/beauty/how-to-beachy-waves-victorias-secret-angels"},
+    {"file": "vs_hw.jpg", "type": "article", "max": 12, "url": "https://www.herworld.com/style/beauty/beachy-waves-curls-hair-styles-victorias-secret-angels"},
+    {"file": "vs_r29.jpg", "type": "article", "max": 12, "url": "https://refinery29.com/en-us/2018/11/215925/victoria-secret-model-hair-stylist-waves"},
+
+    {"file": "bx_www.jpg", "type": "article", "max": 14, "url": "https://www.whowhatwear.com/beauty/hair/bixie-haircut-trend-2026"},
+    {"file": "bx_grazia.jpg", "type": "article", "max": 12, "url": "https://graziadaily.co.uk/beauty-hair/hair/gracie-abrams-bixie-cut/"},
+    {"file": "bx_grazia2.jpg", "type": "article", "max": 12, "url": "https://graziadaily.co.uk/beauty-hair/hair/gracie-abrams-flicked-out-bixie-oscars-2026"},
+    {"file": "bx_nssg.jpg", "type": "article", "max": 12, "url": "https://www.nssgclub.com/en/beauty/46100/bixie-cut-summer-2026-hair-trend"},
+    {"file": "bx_mc.jpg", "type": "article", "max": 12, "url": "https://www.marieclaire.com/beauty/hair/zendaya-bixie-haircut/"},
+    {"file": "bx_rl.jpg", "type": "article", "max": 12, "url": "https://www.runwaylive.com/bixie-haircut-2026-the-celebrity-approved-cut-to-know.html"},
+    {"file": "bx_vh.jpg", "type": "article", "max": 12, "url": "https://www.viralhairstyle.com/hairstyles/bixie-cut-ideas/"},
+    {"file": "bx_forbes.jpg", "type": "article", "max": 12, "url": "https://www.forbes.com/sites/katebdonnelly/2026/10/13/fall-beauty-trends-2026-warmer-hair-moody-makeup-and-subtle-polish/"},
+
+    {"file": "sb_loreal.jpg", "type": "article", "max": 12, "url": "https://www.lorealparisusa.com/beauty-magazine/hair-color/hair-color-tutorials/how-to-dye-your-hair-strawberry-blonde"},
+    {"file": "sb_loreal2.jpg", "type": "article", "max": 12, "url": "https://lorealparisusa.com/beauty-magazine/hair-color/hair-color-tutorials/how-to-get-strawberry-blonde-highlights"},
+    {"file": "sb_davines.jpg", "type": "article", "max": 12, "url": "https://us.davines.com/blogs/news/strawberry-blonde-hair"},
+    {"file": "sb_zotos.jpg", "type": "article", "max": 12, "url": "https://www.zotosprofessional.com/blogs/blog/strawberry-blonde-hair-color/"},
+
+    {"file": "hw_vogue.jpg", "type": "article", "max": 14, "url": "https://www.voguescandinavia.com/articles/easy-halloween-makeup-looks"},
+    {"file": "hw_www.jpg", "type": "article", "max": 14, "url": "https://www.whowhatwear.com/beauty/makeup/halloween-makeup-ideas"},
+    {"file": "hw_ipsy.jpg", "type": "article", "max": 14, "url": "https://www.ipsy.com/blog/easy-halloween-makeup"},
+    {"file": "hw_elle.jpg", "type": "article", "max": 12, "url": "https://elle.com.br/beleza/7-maquiagens-de-halloween-faceis"},
+    {"file": "hw_nsc.jpg", "type": "article", "max": 12, "url": "https://www.correiobraziliense.com.br/diversao-e-arte/2024/10/6977238-5-inspiracoes-de-maquiagem-de-halloween-para-fazer-em-casa.html"},
+
+    {"file": "mb_cm.jpg", "type": "article", "max": 14, "url": "https://celebmafia.com/millie-bobby-brown-and-jake-bongiovi-on-hamptons-coffee-run-4729993/"},
+    {"file": "mb_hc.jpg", "type": "article", "max": 14, "url": "https://www.hawtcelebs.com/millie-bobby-brown-and-jake-bongiovi-out-for-coffee-in-hamptons-10-11-2026/"},
+    {"file": "mb_cm2.jpg", "type": "article", "max": 12, "url": "https://celebmafia.com/millie-bobby-brown-boards-private-jet-in-the-hamptons-4729986/"},
+    {"file": "ap_elle.jpg", "type": "article", "max": 12, "url": "https://elle.com.br/?p=149293"},
+    {"file": "ap_gz.jpg", "type": "article", "max": 12, "url": "https://www.agazeta.com.br/hz/moda-e-beleza/do-escritorio-a-festa-como-usar-estampa-animal-print-1024"},
+    {"file": "ap_mc.jpg", "type": "article", "max": 12, "url": "https://www.marieclaire.com/fashion/millie-bobby-brown-leopard-print-trend/"},
+    {"file": "ap_fv.jpg", "type": "article", "max": 12, "url": "https://www.folhavitoria.com.br/moda/bambi-core-a-estampa-inspirada-na-pelagem-de-cervo-que-vai-dominar-os-looks-em-2026/"}
+  ]
+}
