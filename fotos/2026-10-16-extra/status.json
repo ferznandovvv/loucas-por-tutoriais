@@ -1,0 +1,521 @@
+{
+  "date": "2026-10-16-extra",
+  "finished_at": "2026-10-16T09:20:02Z",
+  "items": [
+    {
+      "file": "ja_hola.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [
+        {
+          "file": "ja_hola_alt1.jpg",
+          "source": "https://www.hola.com/us/horizon/square/96efaa34220f-paris-france-jessica-alba-attends-the-zimmermann-show-during-paris-fashion-week.jpg",
+          "size": [
+            1080,
+            1080
+          ]
+        },
+        {
+          "file": "ja_hola_alt2.jpg",
+          "source": "https://www.hola.com/us/horizon/43/96efaa34220f-paris-france-jessica-alba-attends-the-zimmermann-show-during-paris-fashion-week.jpg",
+          "size": [
+            1920,
+            1440
+          ]
+        }
+      ],
+      "source": "https://www.hola.com/us/horizon/landscape/1200/96efaa34220f-paris-france-jessica-alba-attends-the-zimmermann-show-during-paris-fashion-week.jpg",
+      "size": [
+        1200,
+        675
+      ]
+    },
+    {
+      "file": "ja_aol.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [
+        {
+          "file": "ja_aol_alt1.jpg",
+          "source": "https://media.zenfs.com/en/aol_instyle_articles_696/25815e0b72fb27039741ab85dd6b6b33",
+          "size": [
+            640,
+            960
+          ]
+        },
+        {
+          "file": "ja_aol_alt2.jpg",
+          "source": "https://media.zenfs.com/en/aol_instyle_articles_696/ff77d8f00c11b04aa64f152c8ea5b145",
+          "size": [
+            640,
+            960
+          ]
+        }
+      ],
+      "source": "https://hermes.media.transform.aol.com/7fed3251bb63995686c67f7bc7d6b0b9335a6b06/w_1200,c_scale,f_auto,q_auto/https://media.zenfs.com/en/aol_instyle_articles_696/28c66de8de3b8205087fa0d01b5e46bb",
+      "size": [
+        1200,
+        960
+      ]
+    },
+    {
+      "file": "ja_cm.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [
+        {
+          "file": "ja_cm_alt1.jpg",
+          "source": "https://celebmafia.com/wp-content/uploads/2026/10/jessica-alba-carries-a-chanel-backpack-in-beverly-hills-on-october-13-2026-0.webp",
+          "size": [
+            1280,
+            1921
+          ]
+        },
+        {
+          "file": "ja_cm_alt2.jpg",
+          "source": "https://celebmafia.com/wp-content/uploads/2026/10/jessica-alba-carries-a-chanel-backpack-in-beverly-hills-on-october-13-2026-1.webp",
+          "size": [
+            1280,
+            1920
+          ]
+        },
+        {
+          "file": "ja_cm_alt3.jpg",
+          "source": "https://celebmafia.com/wp-content/uploads/2026/10/jessica-alba-carries-a-chanel-backpack-in-beverly-hills-on-october-13-2026-2.webp",
+          "size": [
+            1280,
+            1920
+          ]
+        },
+        {
+          "file": "ja_cm_alt4.jpg",
+          "source": "https://celebmafia.com/wp-content/uploads/2026/10/jessica-alba-carries-a-chanel-backpack-in-beverly-hills-on-october-13-2026-3.webp",
+          "size": [
+            1280,
+            1920
+          ]
+        },
+        {
+          "file": "ja_cm_alt5.jpg",
+          "source": "https://celebmafia.com/wp-content/uploads/2026/10/jessica-alba-carries-a-chanel-backpack-in-beverly-hills-on-october-13-2026-4.webp",
+          "size": [
+            800,
+            1200
+          ]
+        },
+        {
+          "file": "ja_cm_alt6.jpg",
+          "source": "https://celebmafia.com/wp-content/uploads/2026/10/jessica-alba-carries-a-chanel-backpack-in-beverly-hills-on-october-13-2026-5.webp",
+          "size": [
+            1024,
+            1537
+          ]
+        },
+        {
+          "file": "ja_cm_alt7.jpg",
+          "source": "https://celebmafia.com/wp-content/plugins/celebmafia-guest-style-review/assets/images/outfit-example.webp",
+          "size": [
+            1122,
+            1402
+          ]
+        },
+        {
+          "file": "ja_cm_alt8.jpg",
+          "source": "https://celebmafia.com/wp-content/uploads/2026/10/jessica-alba-in-lace-camisole-and-flared-jeans-at-tennis-match-october-9-2026-7.webp",
+          "size": [
+            1280,
+            1913
+          ]
+        },
+        {
+          "file": "ja_cm_alt9.jpg",
+          "source": "https://celebmafia.com/wp-content/uploads/2026/10/jessica-alba-in-black-leather-jacket-and-grey-sweats-at-la-airport-3.webp",
+          "size": [
+            1280,
+            1920
+          ]
+        },
+        {
+          "file": "ja_cm_alt10.jpg",
+          "source": "https://celebmafia.com/wp-content/uploads/2026/10/side-tie-white-tank-leads-jessica-alba-hot-yoga-look-in-west-hollywood-5.webp",
+          "size": [
+            1280,
+            1920
+          ]
+        },
+        {
+          "file": "ja_cm_alt11.jpg",
+          "source": "https://celebmafia.com/wp-content/uploads/2026/10/jessica-alba-in-zimmermann-cream-tailoring-at-paris-fashion-week-12.webp",
+          "size": [
+            1280,
+            1919
+          ]
+        }
+      ],
+      "source": "https://celebmafia.com/wp-content/uploads/2026/10/jessica-alba-carries-a-chanel-backpack-in-beverly-hills-on-october-13-2026-6.webp",
+      "size": [
+        1024,
+        1536
+      ]
+    },
+    {
+      "file": "ja_hello.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [
+        {
+          "file": "ja_hello_alt1.jpg",
+          "source": "https://images.hellomagazine.com/horizon/43/658c78007102-gettyimages-2266869136.jpg",
+          "size": [
+            1920,
+            1440
+          ]
+        },
+        {
+          "file": "ja_hello_alt2.jpg",
+          "source": "https://images.hellomagazine.com/horizon/square/658c78007102-gettyimages-2266869136.jpg",
+          "size": [
+            1080,
+            1080
+          ]
+        }
+      ],
+      "source": "https://images.hellomagazine.com/horizon/landscape/1200/658c78007102-gettyimages-2266869136.jpg",
+      "size": [
+        1200,
+        675
+      ]
+    },
+    {
+      "file": "sk_vitat.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [
+        {
+          "file": "sk_vitat_alt1.jpg",
+          "source": "https://vitat.com.br/wp-content/uploads/2025/10/adobestock_465779988-1-2048x1365.jpeg",
+          "size": [
+            2048,
+            1365
+          ]
+        },
+        {
+          "file": "sk_vitat_alt2.jpg",
+          "source": "https://vitat.com.br/wp-content/uploads/2025/10/adobestock_669210363-1-1536x1024.jpeg",
+          "size": [
+            1536,
+            1024
+          ]
+        },
+        {
+          "file": "sk_vitat_alt3.jpg",
+          "source": "https://vitat.com.br/wp-content/uploads/2020/01/suar-emagrece.jpg",
+          "size": [
+            1280,
+            496
+          ]
+        }
+      ],
+      "source": "https://vitat.com.br/wp-content/uploads/2022/03/shutterstock_1227291568-min-scaled-e1647891304585.jpg",
+      "size": [
+        2400,
+        1450
+      ]
+    },
+    {
+      "file": "sk_vitat2.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [
+        {
+          "file": "sk_vitat2_alt1.jpg",
+          "source": "https://vitat.com.br/wp-content/uploads/2025/12/m10-o-descanso-tambem-tambem-faz-2048x1373.jpg",
+          "size": [
+            2048,
+            1373
+          ]
+        },
+        {
+          "file": "sk_vitat2_alt2.jpg",
+          "source": "https://vitat.com.br/wp-content/uploads/2026/01/m8-mudando-a-rotina-de-treinos-d-2048x1373.jpg",
+          "size": [
+            2048,
+            1373
+          ]
+        },
+        {
+          "file": "sk_vitat2_alt3.jpg",
+          "source": "https://vitat.com.br/wp-content/uploads/2025/11/m1-como-a-atividade-fisica-melho-2048x1373.jpg",
+          "size": [
+            2048,
+            1373
+          ]
+        }
+      ],
+      "source": "https://vitat.com.br/wp-content/uploads/2019/11/fit-girl-drinking-water-during-w.jpg",
+      "size": [
+        1280,
+        774
+      ]
+    },
+    {
+      "file": "sk_cl.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [
+        {
+          "file": "sk_cl_alt1.jpg",
+          "source": "https://catracalivre.com.br/i/-0WJ8k70Cp83QSW-tl6hkawzaQ9zzGn4TXZ18LZA2EQ/rs:fit:1080:0:1/g:sm/q:80/bG9jYWw6Ly8vMjAyNC8xMC9hY2FkZW1pYS5qcGc",
+          "size": [
+            1080,
+            720
+          ]
+        }
+      ],
+      "source": "https://catracalivre.com.br/i/JZHPhlTCbBGRshZrNM9UwhSSUghbyR4iwqtKBMhg8Ug/rs:fill:1200:630:1/g:sm/q:80/bG9jYWw6Ly8vMjAyNC8xMC9hY2FkZW1pYS5qcGc",
+      "size": [
+        1200,
+        630
+      ]
+    },
+    {
+      "file": "sk_dro.jpg",
+      "type": "article",
+      "ok": false,
+      "alts": [],
+      "error": "403 Client Error: Forbidden for url: https://www.drogasil.com.br/blog/beleza/skincare/skincare-para-treinar"
+    },
+    {
+      "file": "sk_nsc.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [
+        {
+          "file": "sk_nsc_alt1.jpg",
+          "source": "https://img.nsctotal.com.br/wp-content/uploads/2022/12/cuidados-com-a-pele.jpg",
+          "size": [
+            800,
+            600
+          ]
+        }
+      ],
+      "source": "https://img.nsctotal.com.br/wp-content/uploads/2022/12/pele-4.jpg",
+      "size": [
+        800,
+        600
+      ]
+    },
+    {
+      "file": "sk_ita.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [
+        {
+          "file": "sk_ita_alt1.jpg",
+          "source": "https://admin.itatiaia.com.br/wp-content/uploads/sites/27/2026/03/whatsapp-image-2025-10-01-at-13-05-54.jpeg?w=0",
+          "size": [
+            959,
+            1127
+          ]
+        }
+      ],
+      "source": "https://admin.itatiaia.com.br/wp-content/uploads/sites/27/2026/02/whatsapp-image-2025-06-08-at-10-38-10.jpeg?resize=1280%2C720&w=1280&h=720&quality=75&crop=1",
+      "size": [
+        1280,
+        720
+      ]
+    },
+    {
+      "file": "sk_cb.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [
+        {
+          "file": "sk_cb_alt1.jpg",
+          "source": "https://www.correiobraziliense.com.br/cbradar/wp-content/uploads/2025/03/treino_1742986804451-1200x900.jpg",
+          "size": [
+            1200,
+            900
+          ]
+        },
+        {
+          "file": "sk_cb_alt2.jpg",
+          "source": "https://www.correiobraziliense.com.br/cbradar/wp-content/uploads/2025/03/treino_1742986804451-720x720.jpg",
+          "size": [
+            720,
+            720
+          ]
+        },
+        {
+          "file": "sk_cb_alt3.jpg",
+          "source": "https://www.correiobraziliense.com.br/cbradar/wp-content/uploads/2025/03/pele_1742218029547-1024x576.jpg",
+          "size": [
+            1024,
+            576
+          ]
+        },
+        {
+          "file": "sk_cb_alt4.jpg",
+          "source": "https://www.correiobraziliense.com.br/cbradar/wp-content/uploads/2026/10/psicologia-explica-por-que-pessoas-que-falam-sozinhas-e-750x536.jpg",
+          "size": [
+            750,
+            536
+          ]
+        },
+        {
+          "file": "sk_cb_alt5.jpg",
+          "source": "https://www.correiobraziliense.com.br/cbradar/wp-content/uploads/2026/10/Pet_owner_checking_cat_gums_20261014143118_1280x720-750x536.jpg",
+          "size": [
+            750,
+            536
+          ]
+        },
+        {
+          "file": "sk_cb_alt6.jpg",
+          "source": "https://www.correiobraziliense.com.br/cbradar/wp-content/uploads/2026/10/Moisturizer_bottle_and_towel_20261013132528_1280x720-750x536.jpg",
+          "size": [
+            750,
+            536
+          ]
+        },
+        {
+          "file": "sk_cb_alt7.jpg",
+          "source": "https://www.correiobraziliense.com.br/cbradar/wp-content/uploads/2026/10/Five_body_splash_bottles_arranged_20261013130112_1280x720-750x536.jpg",
+          "size": [
+            750,
+            536
+          ]
+        },
+        {
+          "file": "sk_cb_alt8.jpg",
+          "source": "https://www.correiobraziliense.com.br/cbradar/wp-content/uploads/2025/03/treino_1742986804451-1140x570.jpg",
+          "size": [
+            1140,
+            570
+          ]
+        }
+      ],
+      "source": "https://www.correiobraziliense.com.br/cbradar/wp-content/uploads/2025/03/treino_1742986804451.jpg",
+      "size": [
+        1280,
+        720
+      ]
+    },
+    {
+      "file": "vs_gr.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [
+        {
+          "file": "vs_gr_alt1.jpg",
+          "source": "https://images.bauerhosting.com/celebrity/sites/3/2025/10/GettyImages-2241227983-scaled.jpeg?auto=format&w=2560&q=80",
+          "size": [
+            2400,
+            1599
+          ]
+        },
+        {
+          "file": "vs_gr_alt2.jpg",
+          "source": "https://images.bauerhosting.com/celebrity/sites/3/2025/10/237425_media_swatch_07-08-25-15-59-13.jpeg?auto=format&w=2560&q=80",
+          "size": [
+            2400,
+            2400
+          ]
+        }
+      ],
+      "source": "https://images.bauerhosting.com/celebrity/sites/3/2025/10/GettyImages-2241228686-Large.jpeg?ar=16%3A9&fit=crop&crop=top&auto=format&w=undefined&q=80",
+      "size": [
+        1280,
+        720
+      ]
+    },
+    {
+      "file": "vs_bustle.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [
+        {
+          "file": "vs_bustle_alt1.jpg",
+          "source": "https://imgix.bustle.com/lovelace/uploads/2195/74472e80-9d37-0134-1934-060e3e89e053.jpg?w=1100&h=1100&fit=crop&crop=faces&dpr=2",
+          "size": [
+            2200,
+            2200
+          ]
+        },
+        {
+          "file": "vs_bustle_alt2.jpg",
+          "source": "https://imgix.bustle.com/lovelace/uploads/2195/bd788e90-9d36-0134-193a-060e3e89e053.jpg?w=760&h=760&fit=crop&crop=faces&dpr=2",
+          "size": [
+            1520,
+            1520
+          ]
+        },
+        {
+          "file": "vs_bustle_alt3.jpg",
+          "source": "https://imgix.bustle.com/lovelace/uploads/2195/b9c18bf0-9d34-0134-1935-060e3e89e053.jpg?w=760&h=760&fit=crop&crop=faces&dpr=2",
+          "size": [
+            1520,
+            1520
+          ]
+        },
+        {
+          "file": "vs_bustle_alt4.jpg",
+          "source": "https://imgix.bustle.com/lovelace/uploads/2195/0ba34280-9d3a-0134-193b-060e3e89e053.jpg?w=760&h=760&fit=crop&crop=faces&dpr=2",
+          "size": [
+            1520,
+            1520
+          ]
+        },
+        {
+          "file": "vs_bustle_alt5.jpg",
+          "source": "https://imgix.bustle.com/lovelace/uploads/2195/cd343ed0-9d39-0134-1933-060e3e89e053.jpg?w=1100&h=1100&fit=crop&crop=faces&dpr=2",
+          "size": [
+            2200,
+            2200
+          ]
+        },
+        {
+          "file": "vs_bustle_alt6.jpg",
+          "source": "https://imgix.bustle.com/lovelace/uploads/2195/5f9d64c0-9d38-0134-193a-060e3e89e053.jpg?w=1100&h=1100&fit=crop&crop=faces&dpr=2",
+          "size": [
+            2200,
+            2200
+          ]
+        },
+        {
+          "file": "vs_bustle_alt7.jpg",
+          "source": "https://imgix.bustle.com/lovelace/uploads/2195/d80fc480-9d38-0134-ce7a-0aec1efe63a9.jpg?w=1100&h=1100&fit=crop&crop=faces&dpr=2",
+          "size": [
+            2200,
+            2200
+          ]
+        }
+      ],
+      "source": "https://imgix.bustle.com/rehost/2016/12/5/c18f24af-da37-42ca-98a5-f4d6287f13f8.jpg?w=1200&h=630&fit=crop&crop=faces&fm=jpg",
+      "size": [
+        1200,
+        630
+      ]
+    },
+    {
+      "file": "vs_birch.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [
+        {
+          "file": "vs_birch_alt1.jpg",
+          "source": "https://www.birchbox.com/_next/image?url=https%3A%2F%2Fimages.prismic.io%2Fbirchbox%2FMTczNTg1ZjctYmU1NS00YTQxLTkzMmYtMGU4ZTViMTkzNDg3_victorias-secret-waves-700x400.jpg%3Fauto%3Dcompress%2Cformat%26rect%3D0%2C0%2C4643%2C2653%26w%3D1680%26h%3D960&w=3840&q=75",
+          "size": [
+            1680,
+            960
+          ]
+        }
+      ],
+      "source": "https://cdn.raster.app/birchbox/51LU9DtGI8?ixlib=js-3.6.0&height=630&width=1200&compress=false&fm=jpg&q=100&s=9fac8b8273f553de8d76fe6a4413da4f",
+      "size": [
+        1200,
+        630
+      ]
+    }
+  ]
+}
