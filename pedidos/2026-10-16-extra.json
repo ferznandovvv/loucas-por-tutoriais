@@ -1,0 +1,19 @@
+{
+  "date": "2026-10-16-extra",
+  "items": [
+    {"file": "ja_hola.jpg", "type": "article", "max": 14, "url": "https://www.hola.com/us/celebrities/20261008927915/jessica-alba-makeup-free-hot-yoga/"},
+    {"file": "ja_aol.jpg", "type": "article", "max": 12, "url": "https://www.aol.com/articles/jessica-alba-goes-makeup-free-205906870.html"},
+    {"file": "ja_cm.jpg", "type": "article", "max": 12, "url": "https://celebmafia.com/jessica-alba-carries-a-chanel-backpack-in-beverly-hills-on-october-13-2026-4730268/"},
+    {"file": "ja_hello.jpg", "type": "article", "max": 12, "url": "https://www.hellomagazine.com/us/919861/jessica-alba-shows-off-sculpted-abs-in-tiny-sports-bra/"},
+    {"file": "sk_vitat.jpg", "type": "article", "max": 12, "url": "https://vitat.com.br/skincare-para-treinar/"},
+    {"file": "sk_vitat2.jpg", "type": "article", "max": 12, "url": "https://vitat.com.br/exercicios-fisicos-cuidados-com-a-pele/"},
+    {"file": "sk_cl.jpg", "type": "article", "max": 12, "url": "https://catracalivre.com.br/saude-bem-estar/proteja-sua-pele-cuidados-para-antes-e-depois-da-academia/"},
+    {"file": "sk_dro.jpg", "type": "article", "max": 12, "url": "https://www.drogasil.com.br/blog/beleza/skincare/skincare-para-treinar"},
+    {"file": "sk_nsc.jpg", "type": "article", "max": 12, "url": "https://www.nsctotal.com.br/cotidiano/6-cuidados-com-a-pele-antes-e-depois-da-atividade-fisica"},
+    {"file": "sk_ita.jpg", "type": "article", "max": 12, "url": "https://www.itatiaia.com.br/saude/rotina-de-cuidados-com-a-pele-para-quem-mantem-treinos-diarios/"},
+    {"file": "sk_cb.jpg", "type": "article", "max": 12, "url": "https://www.correiobraziliense.com.br/cbradar/quem-pratica-treinos-constantemente-esta-agradecendo-essa-rotina-da-saude-da-pele/"},
+    {"file": "vs_gr.jpg", "type": "article", "max": 12, "url": "https://graziadaily.co.uk/beauty-hair/makeup/victorias-secret-show-make-up/"},
+    {"file": "vs_bustle.jpg", "type": "article", "max": 12, "url": "https://www.bustle.com/articles/198350-how-to-get-victorias-secret-models-hair"},
+    {"file": "vs_birch.jpg", "type": "article", "max": 12, "url": "https://www.birchbox.com/magazine/article/how-to-victorias-secret-waves"}
+  ]
+}
