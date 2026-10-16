@@ -1,0 +1,396 @@
+{
+ "posts": [
+  {
+   "id": 1,
+   "cover": {
+    "photo": "al_terra_alt5.jpg",
+    "focus": 0.5,
+    "focus_y": 0.22,
+    "zoom": 1.55,
+    "headline": "Adriana Lima volta à passarela da Victoria's Secret **neste domingo.** Veja como fazer as **ondas de Angel** em casa",
+    "sub": "Babyliss, spray e **sempre longe do rosto.**",
+    "circles": [
+     {
+      "photo": "al_terra_alt4.jpg",
+      "x": 850,
+      "y": 270,
+      "r": 175,
+      "fx": 0.5,
+      "fy": 0.35,
+      "zoom": 1.6
+     }
+    ]
+   },
+   "slides": [
+    {
+     "text": "**Adriana Lima está de volta à Victoria's Secret.** A baiana foi confirmada no desfile deste domingo (18), em Los Angeles, com transmissão ao vivo pelos canais da marca.\n\nVai ser a **21ª vez** dela na passarela, aos 45 anos, segundo o Terra. E se tem uma marca registrada das Angels, é aquele cabelo de ondas soltas. Antes do passo a passo, um pouco de história...",
+     "photo": "al_hola_alt1_crop.jpg",
+     "focus": 0.5,
+     "focus_y": 0.2,
+     "zoom": 1.0
+    },
+    {
+     "text": "...**ela estreou no desfile em 1999** e fez 19 participações seguidas até sair, em 2018. Voltou em 2024 e também esteve entre as veteranas em 2025.\n\nEste ano, o elenco divulgado pela The Zoe Report tem **Gigi Hadid,** Candice Swanepoel e Anok Yai, e a brasileira Gabi Moura desfila pelo segundo ano. Mas repare numa mudança no cabelo...",
+     "photo": "al_zoe_alt1.jpg",
+     "focus": 0.5,
+     "focus_y": 0.2
+    },
+    {
+     "text": "...**a onda de hoje é mais bagunçada.** Danielle Priano, cabeleireira das Angels ouvida pelo Refinery29, descreve um visual com cara de quem acordou assim, menos polido que as ondas hollywoodianas de antes.\n\nNa foto, a **Candice Swanepoel,** também confirmada este ano, com o cabelo nesse clima. Pra chegar lá, tudo começa no preparo...",
+     "photo": "vs_r29_alt1.jpg",
+     "focus": 0.55,
+     "focus_y": 0.2
+    },
+    {
+     "text": "...**com o cabelo lavado e tratado.** A cabeleireira Sarah Potempa, criadora do Beachwaver, ensinou o método das Angels ao BeautyCrew: comece com o fio limpo e um tratamento reparador.\n\nAntes do calor, aplique um **produto de volume na raiz** e um protetor térmico em todo o comprimento. Nos bastidores do desfile, os bobes também entram em cena. Agora, a divisão...",
+     "photo": "vs_gr_alt1.jpg",
+     "focus": 0.5,
+     "focus_y": 0.3
+    },
+    {
+     "text": "...**separe o cabelo em mechas.** Potempa enrola de baixo pra cima, uma camada de cada vez. Dá pra usar o Beachwaver, um babyliss comum ou um modelador cônico, segundo a Harper's Bazaar.\n\nAs mechas não precisam ser iguais: o charme está no **movimento natural.** Só que tem uma regra que muda o resultado inteiro, e quase todo mundo esquece...",
+     "photo": "vs_hb_alt5.jpg",
+     "focus": 0.45,
+     "focus_y": 0.35
+    },
+    {
+     "text": "...**enrole sempre para longe do rosto.** \"O segredo das ondas glamourosas é que elas sempre se afastam do rosto\", disse Potempa.\n\nA Harper's Bazaar explica o porquê: cachos virados para dentro, nas laterais, podem deixar o rosto **mais curto e mais largo.** No resto da cabeça, use a direção que for mais natural pra você. Terminou de enrolar? Não mexa ainda...",
+     "photo": "vs_birch_alt1.jpg",
+     "focus": 0.45,
+     "focus_y": 0.3
+    },
+    {
+     "text": "...**deixe os cachos esfriarem.** Esse é o tempo que fixa a forma. Depois, borrife um spray de fixação flexível por cima.\n\nAí vem o passo que transforma cacho em onda de Angel: **escove os cachos** e passe os dedos pelos fios pra soltar. A Harper's sugere ainda uma cera leve nas pontas pra dar textura. E se você não quer usar calor...",
+     "photo": "vs_bustle.jpg",
+     "focus": 0.5,
+     "focus_y": 0.25
+    },
+    {
+     "text": "...**faça tranças antes de dormir.** Com o cabelo úmido, mas com a raiz e o couro cabeludo já secos, passe um creme leve e trance. Mais tranças, ondas mais fechadas.\n\nDeixe por uma hora ou a noite toda. De manhã, solte, amasse **uma cera leve nas pontas** e finalize com spray contra o frizz, como ensina a Harper's Bazaar...",
+     "photo": "vs_hb_alt4.jpg",
+     "focus": 0.5,
+     "focus_y": 0.4
+    },
+    {
+     "text": "**Mecha por mecha, longe do rosto e escovada no fim: assim nasce a onda de Angel.** Domingo tem Adriana Lima na passarela pra você conferir o resultado ao vivo.\n\n**Salva esse post** pra testar antes do próximo rolê e comenta **ANGEL** se você vai fazer as suas ondas!",
+     "photo": "vs_hb.jpg",
+     "focus": 0.5,
+     "focus_y": 0.4
+    }
+   ]
+  },
+  {
+   "id": 2,
+   "cover": {
+    "photo": "hw_vogue_alt8.jpg",
+    "focus": 0.5,
+    "focus_y": 0.3,
+    "zoom": 1.0,
+    "headline": "A Vogue listou maquiagens fáceis de Halloween, **até a da Zara Larsson.** Veja 6 pra fazer **em casa**",
+    "sub": "Curvex, palito de dente e **batom vermelho.**",
+    "circles": [
+     {
+      "photo": "hw_vogue_alt10.jpg",
+      "x": 860,
+      "y": 270,
+      "r": 165,
+      "fx": 0.5,
+      "fy": 0.5,
+      "zoom": 1.2
+     }
+    ]
+   },
+   "slides": [
+    {
+     "text": "**O Halloween é dia 31 e a Vogue já deu a cola.** A Vogue Scandinavia publicou nesta quinta (15) uma lista de maquiagens fáceis pra este ano, do diabinho ao look de pop star da Zara Larsson.\n\nNo da cantora, a ideia é **sombra colorida e strass** espalhados sem medo, com uma flor no cabelo. Separamos as mais simples de copiar. A primeira usa um objeto inesperado...",
+     "photo": "hw_elle_alt3.jpg",
+     "focus": 0.5,
+     "focus_y": 0.35
+    },
+    {
+     "text": "...**o curvex vira carimbo.** No diabinho da maquiadora Danielle Marcan, você encosta o curvex na sobrancelha pra marcar dois chifrinhos e preenche com delineador preto.\n\nDepois, é só **acertar as linhas** com calma e finalizar com uma boca vermelha bem marcada. Pronto, fantasia resolvida em minutos. A segunda pede outro item da gaveta...",
+     "photo": "hw_vogue_alt2.jpg",
+     "focus": 0.5,
+     "focus_y": 0.2,
+     "zoom": 1.0
+    },
+    {
+     "text": "...**um palito de dente.** Pra caveira rápida, molhe a ponta do palito no delineador preto e marque traços espaçados ao longo do maxilar, como se fossem os dentes.\n\nPontinhos de **iluminador branco** fazem os dentes saltarem. Cabelo preso pra trás e o resto da make mínimo, segundo a Vogue. E pra quem prefere algo mais assustador...",
+     "photo": "hw_vogue_alt5.jpg",
+     "focus": 0.5,
+     "focus_y": 0.5
+    },
+    {
+     "text": "...**o beijo de sangue.** Também da Danielle Marcan: passe um batom vermelho mais claro com generosidade, borrando o contorno da boca de propósito.\n\nNo centro dos lábios, aplique um **vermelho mais escuro,** criando um degradê. Finalize com um óleo ou gloss vermelho bem brilhante pra parecer molhado. Agora, se a ideia é ficar chique...",
+     "photo": "hw_elle_alt2.jpg",
+     "focus": 0.5,
+     "focus_y": 0.4
+    },
+    {
+     "text": "...**vá de gótico glamour.** Puxe uma sombra esfumada em formato de asa, em ameixa, marrom, azul ou preto, sem se preocupar com perfeição.\n\nSobrancelha e pele ficam leves, ou você escurece a boca pra um ar de vampira. Complete com **roupa toda preta,** que você provavelmente já tem no armário. A próxima é a queridinha das festas...",
+     "photo": "hw_elle.jpg",
+     "focus": 0.5,
+     "focus_y": 0.3
+    },
+    {
+     "text": "...**a Bambi.** A Elle Brasil ensina: sombra ou lápis branco pras manchinhas no rosto e delineador preto na ponta do nariz e no lábio de cima.\n\nUm pouco de **contorno ou bronzer** define o rosto e deixa o look com cara de filhote. Quer um toque extra? Troque as bolinhas por pérolas, sugere a revista. Pra quem quer mais impacto...",
+     "photo": "hw_elle_alt6.jpg",
+     "focus": 0.5,
+     "focus_y": 0.35
+    },
+    {
+     "text": "...**o palhaço em pouco tempo.** Depois da base, use a máscara de cílios: pinceladas de cima da sobrancelha em direção à testa e da linha de baixo dos cílios em direção às bochechas.\n\nLigue as linhas de baixo aos cantos da boca com **lápis preto,** cole strass preto e finalize com gloss vermelho, como mostra a Vogue. E um truque vale pra todas...",
+     "photo": "hw_nsc.jpg",
+     "focus": 0.5,
+     "focus_y": 0.4
+    },
+    {
+     "text": "...**escolha um ponto de destaque e deixe o resto leve.** É o conselho que se repete em quase todos os looks da lista da Vogue: quando o olho ou a boca brilham, a pele fica simples.\n\nE se quiser seguir a Zara Larsson, abuse do **strass no rosto:** aplicado livremente, ele transforma qualquer make básica em fantasia...",
+     "photo": "hw_www_alt5.jpg",
+     "focus": 0.5,
+     "focus_y": 0.35
+    },
+    {
+     "text": "**Curvex, palito, batom e máscara de cílios: o Halloween cabe na sua necessaire.** Escolha a sua e treine antes da festa.\n\n**Salva esse post** pra não esquecer e comenta **BOO** com a maquiagem que você vai fazer!",
+     "photo": "hw_elle_alt5.jpg",
+     "focus": 0.5,
+     "focus_y": 0.3
+    }
+   ]
+  },
+  {
+   "id": 3,
+   "cover": {
+    "photo": "bx_grazia2_alt2.jpg",
+    "focus": 0.5,
+    "focus_y": 0.3,
+    "zoom": 1.0,
+    "headline": "O bixie da **Gracie Abrams** virou aposta do outono. Veja como **pedir no salão** e finalizar em casa",
+    "sub": "Spray de textura, dedos e **risca de lado.**",
+    "circles": [
+     {
+      "photo": "bx_grazia2.jpg",
+      "x": 860,
+      "y": 270,
+      "r": 165,
+      "fx": 0.45,
+      "fy": 0.35,
+      "zoom": 1.5
+     }
+    ]
+   },
+   "slides": [
+    {
+     "text": "**O corte da vez tem nome: bixie.** A Forbes publicou na terça (13) as tendências de beleza do outono e o cabeleireiro Jae-Manuel Cardenas citou a **Gracie Abrams** como referência do corte.\n\nO nome junta bob e pixie, e o resultado fica exatamente no meio dos dois. Antes de correr pro salão, vale entender o que pedir...",
+     "photo": "bx_grazia2_alt1.jpg",
+     "focus": 0.5,
+     "focus_y": 0.3
+    },
+    {
+     "text": "...**nem bob, nem pixie.** O cabeleireiro Jerome Lordet, ouvido pela Who What Wear, define o bixie como **mais leve e texturizado que um bob,** mas mais longo e suave que um pixie.\n\nNa prática, é um curto com movimento, que não exige escova perfeita. A Gracie mostrou como ele fica na vida real...",
+     "photo": "bx_nssg_alt1.jpg",
+     "focus": 0.5,
+     "focus_y": 0.3
+    },
+    {
+     "text": "...**ela estreou o corte no desfile de alta-costura da Chanel,** em Paris, segundo a Grazia. Saíram os fios na altura do queixo e entrou um curto com textura, risca lateral e pontas que dá pra prender atrás da orelha.\n\nO cabeleireiro Adam Reed chamou de **\"evolução natural, não um corte dramático\".** E existem jeitos diferentes de pedir...",
+     "photo": "bx_grazia_alt1.jpg",
+     "focus": 0.5,
+     "focus_y": 0.25
+    },
+    {
+     "text": "...**leve a referência certa.** Segundo Lordet, a versão da Gracie tem **camadas suaves ao redor do rosto** e textura natural, fácil de manter.\n\nJá a da atriz Jessie Buckley, na foto, tem camadas mais picotadas e é um pouco mais curta, com um ar mais ousado. Se você quer algo mais comportado, a terceira versão é a sua...",
+     "photo": "bx_www_alt6.jpg",
+     "focus": 0.5,
+     "focus_y": 0.25
+    },
+    {
+     "text": "...**a da Zendaya.** Ela tem camadas mais longas, linhas limpas e um formato liso que ainda balança, segundo Lordet.\n\nO cabeleireiro conta que adapta o bixie ao **formato do rosto, ao tipo de fio** e à rotina de cada cliente. Então leve fotos e converse antes da tesoura. Depois do corte, vem a parte boa...",
+     "photo": "bx_www_alt7.jpg",
+     "focus": 0.5,
+     "focus_y": 0.25
+    },
+    {
+     "text": "...**finalizar dá pouco trabalho.** A regra de Lordet é trabalhar a favor do movimento natural do seu cabelo, sem brigar com ele.\n\nAplique um **creme texturizador leve,** que define o formato sem pesar. Depois, deixe secar ao natural ou faça uma escova rápida, se quiser um acabamento mais polido. E pra ter aquele volume da Gracie...",
+     "photo": "bx_grazia.jpg",
+     "focus": 0.3,
+     "focus_y": 0.35
+    },
+    {
+     "text": "...**peça camadas picotadas no corte.** Segundo Adam Reed, são elas que dão levantamento ao bixie.\n\nNo dia a dia, borrife um **spray texturizador no cabelo seco** e modele os fios com as mãos, como ele ensinou à Grazia. Nada de pente: a graça está no ar desarrumado. Pra fechar, um detalhe muda tudo...",
+     "photo": "bx_www_alt5.jpg",
+     "focus": 0.5,
+     "focus_y": 0.3
+    },
+    {
+     "text": "...**a risca de lado e a orelha à mostra.** A risca lateral dá movimento à franja e as pontas maiores podem ir pra trás da orelha, como a Gracie usa.\n\nA Zendaya também já apareceu de bixie em Paris, prova de que o corte funciona do **liso ao ondulado.** Viu como ele é mais fácil do que parece?",
+     "photo": "bx_mc_alt1.jpg",
+     "focus": 0.5,
+     "focus_y": 0.3
+    },
+    {
+     "text": "**Camadas suaves, creme leve e as mãos no lugar do pente: esse é o bixie.** Um curto pra quem quer mudar sem radicalizar.\n\n**Salva esse post** pra mostrar pro seu cabeleireiro e comenta **BIXIE** se você teria coragem de cortar!",
+     "photo": "bx_mc_alt10.jpg",
+     "focus": 0.5,
+     "focus_y": 0.25
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "cover": {
+    "photo": "ja_hola_alt2.jpg",
+    "focus": 0.38,
+    "focus_y": 0.3,
+    "zoom": 1.0,
+    "headline": "Jessica Alba saiu da hot yoga **sem maquiagem.** Veja o skincare de **antes e depois do treino** que dermatologista recomenda",
+    "sub": "Protetor, toalha limpa e **zero base pesada.**",
+    "circles": [
+     {
+      "photo": "ja_hello_alt2.jpg",
+      "x": 860,
+      "y": 270,
+      "r": 165,
+      "fx": 0.55,
+      "fy": 0.3,
+      "zoom": 1.3
+     }
+    ]
+   },
+   "slides": [
+    {
+     "text": "**Jessica Alba foi fotografada saindo de uma aula de hot yoga** em West Hollywood de cara lavada, segundo a Hola. Ela já tinha postado selfies sem maquiagem na academia antes.\n\nE ela está certa: treinar de **base pesada** não é boa ideia. Fizemos o passo a passo de antes, durante e depois do treino. Primeiro, entenda o que o suor faz...",
+     "photo": "ja_cm_alt11.jpg",
+     "focus": 0.5,
+     "focus_y": 0.33
+    },
+    {
+     "text": "...**o suor mexe com a pele.** Segundo a dermatologista Daniela Balizardo, ouvida pela Vitat, ele pode alterar o pH, aumentar a oleosidade e a temperatura do corpo.\n\nPor isso, pode piorar quadros como **acne e rosácea.** A boa notícia é que uns cuidados simples ajudam. E eles começam antes mesmo de chegar na academia...",
+     "photo": "sk_cl.jpg",
+     "focus": 0.5,
+     "focus_y": 0.4
+    },
+    {
+     "text": "...**com a pele limpa e sem make pesada.** A especialista ouvida pelo Catraca Livre explica que a maquiagem misturada ao suor pode **entupir os poros** e aumentar o risco de acne.\n\nLimpe o rosto pra tirar resíduos de maquiagem e poluição, de preferência com água fria, que resseca menos que a quente. Depois, vem o item que ninguém pode pular...",
+     "photo": "sk_ita.jpg",
+     "focus": 0.6,
+     "focus_y": 0.35
+    },
+    {
+     "text": "...**o protetor solar.** A dermatologista recomenda um filtro **resistente ao suor e à água,** de alta proteção contra UVA e UVB, que espalhe fácil e não seja oleoso.\n\nE nada de passar uma vez só: reaplique conforme você transpira. Vale também pra treino perto da janela ou ao ar livre. Pra completar a preparação...",
+     "photo": "sk_nsc.jpg",
+     "focus": 0.5,
+     "focus_y": 0.3
+    },
+    {
+     "text": "...**hidratante leve.** Segundo a Vitat, o ideal é escolher fórmulas leves, que preservem a barreira da pele sem deixar o rosto pesado durante o exercício.\n\nO Catraca Livre sugere ainda um **sérum com vitaminas** antes do treino. Pele pronta, hora de suar. Mas durante a aula também tem cuidado...",
+     "photo": "sk_cb_alt3.jpg",
+     "focus": 0.5,
+     "focus_y": 0.4
+    },
+    {
+     "text": "...**seque o suor sem esfregar.** Use a toalha com leves batidinhas, nunca arrastando no rosto. Um spray de **água termal gelada** ajuda a refrescar, segundo a dermatologista.\n\nE beba bastante água ao longo do treino. Agora, um alerta importante pra quem curte aula em sala quente, como a da Jessica...",
+     "photo": "sk_vitat.jpg",
+     "focus": 0.5,
+     "focus_y": 0.35
+    },
+    {
+     "text": "...**pele sensível pede cuidado com o calor.** Quem tem a pele sensível, ou sensibilizada por ácidos e esfoliantes, deve evitar lugares quentes e mal ventilados, segundo a dermatologista ouvida pela Vitat.\n\nNo treino ao ar livre, a dica é **fugir do sol entre 10h e 16h.** E quando a aula acaba, não enrole...",
+     "photo": "sk_vitat_alt3.jpg",
+     "focus": 0.5,
+     "focus_y": 0.4
+    },
+    {
+     "text": "...**banho logo depois.** Ele tira o suor da pele e do cabelo. Seque o rosto com delicadeza e capriche nas **dobras do corpo,** como axilas, virilha e embaixo dos seios, até com secador no frio, pra reduzir o risco de fungos.\n\nPra fechar, um hidratante reparador indicado pro seu tipo de pele, segundo a Vitat...",
+     "photo": "sk_nsc_alt1.jpg",
+     "focus": 0.5,
+     "focus_y": 0.35
+    },
+    {
+     "text": "**Pele limpa, protetor que aguenta suor e banho logo depois: esse é o skincare do treino.** Em caso de acne, rosácea ou alergia, vale conversar com um dermatologista.\n\n**Salva esse post** pra ler antes da próxima aula e comenta **TREINO** se você vai de cara lavada pra academia!",
+     "photo": "ja_hello_alt1.jpg",
+     "focus": 0.55,
+     "focus_y": 0.3
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "cover": {
+    "photo": "mb_cm_alt1.jpg",
+    "focus": 0.35,
+    "focus_y": 0.3,
+    "zoom": 1.0,
+    "headline": "Millie Bobby Brown tomou café nos Hamptons de **calça de estampa animal.** Veja como usar a sua **sem exagero**",
+    "sub": "Uma peça estampada e **o resto neutro.**",
+    "circles": [
+     {
+      "photo": "ap_mc_alt2.jpg",
+      "x": 860,
+      "y": 270,
+      "r": 165,
+      "fx": 0.42,
+      "fy": 0.35,
+      "zoom": 1.4
+     }
+    ]
+   },
+   "slides": [
+    {
+     "text": "**Millie Bobby Brown mostrou como se usa estampa animal no dia a dia.** No domingo (11), ela saiu pra tomar café nos Hamptons com o marido, Jake Bongiovi, segundo o CelebMafia.\n\nNo look: **calça pantalona** estampada em caramelo e branco e um suéter marrom. Parece simples, e é exatamente aí que está o segredo...",
+     "photo": "mb_cm.jpg",
+     "focus": 0.35,
+     "focus_y": 0.3
+    },
+    {
+     "text": "...**o resto do look é todo neutro.** O suéter marrom de decote V, justinho e na altura da cintura, repete um dos tons da estampa.\n\nPra marcar a cintura, um **cinto preto de fivela dourada.** Nos acessórios, só um colar de pingente e brincos discretos. E a Millie já tinha testado a estampa antes...",
+     "photo": "mb_cm_alt2.jpg",
+     "focus": 0.35,
+     "focus_y": 0.3
+    },
+    {
+     "text": "...**em 2025, ela foi de onça da cabeça aos pés.** Em Londres, usou um trench coat de oncinha como vestido, segundo a Marie Claire, num look bem mais maximalista.\n\nOu seja: a estampa vai do básico ao exagero. Pra acertar no dia a dia, a consultora de imagem Maya Meneghelli, colunista de A Gazeta, tem **uma regra de ouro...**",
+     "photo": "ap_mc_alt6.jpg",
+     "focus": 0.5,
+     "focus_y": 0.25
+    },
+    {
+     "text": "...**escolha um único elemento pra ousar.** Se a calça é estampada, o resto acompanha com peças clássicas, como suéter, casaco ou blazer liso.\n\nA Elle Brasil mostra o caminho mais sóbrio: calça de onça com **suéter preto e casaco longo preto.** Dá certo no trabalho e no fim de semana. Depois, olhe o tamanho da estampa...",
+     "photo": "ap_elle_alt1.jpg",
+     "focus": 0.5,
+     "focus_y": 0.35
+    },
+    {
+     "text": "...**manchas grandes chamam mais atenção.** Segundo Maya Meneghelli, estampas maiores são mais impactantes e as menores, mais sutis. Fundo escuro também deixa a peça mais discreta.\n\nTons neutros passam um ar **mais sofisticado,** e os coloridos, mais divertido. E tem um detalhe sobre a sua cor que pouca gente considera...",
+     "photo": "ap_elle_alt3.jpg",
+     "focus": 0.5,
+     "focus_y": 0.35
+    },
+    {
+     "text": "...**a onça combina com tons terrosos.** Se eles não te favorecem, a consultora sugere apostar em azuis e cinzas por perto.\n\nNa linha dos terrosos, a Elle Brasil indica trocar a jaqueta preta por uma **jaqueta de couro marrom,** que conversa com a estampa. Quer um look mais despojado? Olha essa fórmula...",
+     "photo": "ap_elle_alt4.jpg",
+     "focus": 0.5,
+     "focus_y": 0.35
+    },
+    {
+     "text": "...**camiseta branca, blazer oversized e boné.** É a versão ousada da Elle Brasil, com tênis colorido pra completar.\n\nPra algo mais arrumado, a revista troca o tênis por **mocassim,** com tricô pesado e uma bolsa estruturada. A mesma calça vira look de trabalho ou de passeio. E no calor brasileiro...",
+     "photo": "ap_elle_alt2.jpg",
+     "focus": 0.5,
+     "focus_y": 0.35
+    },
+    {
+     "text": "...**vale blusa leve e colorida.** A Elle sugere uma camisa romântica, estilo camponesa, com a calça estampada pros dias quentes.\n\nRepare na foto: o rosa da blusa, do boné e da bolsa conversa com o caramelo da estampa e deixa tudo **mais alegre.** Ainda com medo de errar? Comece pequeno...",
+     "photo": "ap_elle_alt6.jpg",
+     "focus": 0.5,
+     "focus_y": 0.35
+    },
+    {
+     "text": "**Comece pelos acessórios: bolsa, cinto, lenço, tênis ou scarpin estampados,** como sugere a consultora. Uma peça, o resto neutro, igual a Millie.\n\n**Salva esse post** pra montar o seu look e comenta **ONÇA** se você usaria essa calça!",
+     "photo": "ap_mc_alt9.jpg",
+     "focus": 0.5,
+     "focus_y": 0.5
+    }
+   ]
+  }
+ ]
+}

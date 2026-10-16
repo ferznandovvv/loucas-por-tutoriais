@@ -1,0 +1,25 @@
+{
+  "reels": [
+    {"post_id": 1, "scenes": [
+      {"text": "Adriana Lima volta à **Victoria's Secret**", "dur": 2.6, "photo": {"src": "al_terra_alt5.jpg", "focus": 0.5, "focusY": 0.2, "zoom": 1.3}},
+      {"text": "Bora fazer as **ondas de Angel**", "dur": 2.0, "style": "dark"},
+      {"text": "Protetor térmico e **volume na raiz**", "dur": 2.4, "photo": {"src": "vs_gr_alt1.jpg", "mode": "card", "focus": 0.5, "focusY": 0.4, "zoom": 1.1}},
+      {"text": "Enrole de **baixo pra cima**", "dur": 2.2, "photo": {"src": "vs_hb_alt5.jpg", "mode": "card", "focus": 0.45, "focusY": 0.35, "zoom": 1.1}},
+      {"text": "Sempre **longe do rosto**", "dur": 2.2, "photo": {"src": "vs_birch_alt1.jpg", "focus": 0.45, "focusY": 0.3}},
+      {"text": "Esfriou? Spray e **escove os cachos**", "dur": 2.6, "photo": {"src": "vs_r29_alt1.jpg", "focus": 0.6, "focusY": 0.25}},
+      {"text": "Passo a passo completo no **carrossel**", "dur": 2.0},
+      {"cta": true, "text": "Salva pro **próximo rolê**", "sub": "Comenta ANGEL se você vai testar", "dur": 2.6}
+    ]},
+    {"post_id": 2, "scenes": [
+      {"text": "A Vogue listou makes de **Halloween fáceis**", "dur": 2.8, "photo": {"src": "hw_vogue_alt8.jpg", "focus": 0.5, "focusY": 0.3}},
+      {"text": "Tudo com o que você **já tem**", "dur": 2.0, "style": "dark"},
+      {"text": "Curvex vira **carimbo de chifre**", "dur": 2.4, "photo": {"src": "hw_vogue_alt2.jpg", "mode": "card", "focus": 0.5, "focusY": 0.3, "zoom": 1.0}},
+      {"text": "Palito e delineador fazem a **caveira**", "dur": 2.6, "photo": {"src": "hw_vogue_alt5.jpg", "mode": "card", "focus": 0.5, "focusY": 0.5, "zoom": 1.0}},
+      {"text": "Batom borrado vira **beijo de sangue**", "dur": 2.6, "photo": {"src": "hw_elle_alt2.jpg", "focus": 0.5, "focusY": 0.4}},
+      {"text": "Pintinhas brancas e **nariz de Bambi**", "dur": 2.6, "photo": {"src": "hw_elle_alt6.jpg", "focus": 0.5, "focusY": 0.35}},
+      {"text": "As 6 makes no **carrossel**", "dur": 2.0},
+      {"cta": true, "text": "Salva pro **dia 31**", "sub": "Comenta BOO com a sua escolhida", "dur": 2.6}
+    ]}
+  ],
+  "stories": []
+}
