@@ -1,0 +1,1491 @@
+{
+  "date": "2026-10-16",
+  "finished_at": "2026-10-16T09:16:39Z",
+  "items": [
+    {
+      "file": "al_terra.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [
+        {
+          "file": "al_terra_alt1.jpg",
+          "source": "https://p2.trrsf.com/image/fget/cf/1200/900/middle/images.terra.com/2026/09/28/1555514907-mceclip1-1790619531.jpg",
+          "size": [
+            1200,
+            900
+          ]
+        },
+        {
+          "file": "al_terra_alt2.jpg",
+          "source": "https://p2.trrsf.com/image/fget/cf/1200/1200/middle/images.terra.com/2026/09/28/1555514907-mceclip1-1790619531.jpg",
+          "size": [
+            1200,
+            1200
+          ]
+        },
+        {
+          "file": "al_terra_alt3.jpg",
+          "source": "https://p2.trrsf.com/image/fget/cf/1200/1600/middle/images.terra.com/2026/09/28/1555514907-mceclip1-1790619531.jpg",
+          "size": [
+            1200,
+            1600
+          ]
+        },
+        {
+          "file": "al_terra_alt4.jpg",
+          "source": "https://p2.trrsf.com/image/fget/cf/1548/0/images.terra.com/2026/09/28/1499783474-adriana.jpg",
+          "size": [
+            1548,
+            871
+          ]
+        },
+        {
+          "file": "al_terra_alt5.jpg",
+          "source": "https://p2.trrsf.com/image/fget/cf/1548/0/images.terra.com/2026/09/28/1555514907-mceclip1-1790619531.jpg",
+          "size": [
+            1548,
+            1935
+          ]
+        }
+      ],
+      "source": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/09/28/1555514907-mceclip1-1790619531.jpg",
+      "size": [
+        1200,
+        630
+      ]
+    },
+    {
+      "file": "al_estr.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [
+        {
+          "file": "al_estr_alt1.jpg",
+          "source": "https://www.estrelando.com.br/uploads/2026/08/05/capa-virginia-1785951121.jpg",
+          "size": [
+            675,
+            645
+          ]
+        },
+        {
+          "file": "al_estr_alt2.jpg",
+          "source": "https://www.estrelando.com.br/uploads/2026/10/09/fran-destaque-1789614786-1791565209.jpg",
+          "size": [
+            675,
+            645
+          ]
+        },
+        {
+          "file": "al_estr_alt3.jpg",
+          "source": "https://www.estrelando.com.br/uploads/2026/08/09/milena-destaque-1786294382.jpg",
+          "size": [
+            675,
+            645
+          ]
+        },
+        {
+          "file": "al_estr_alt4.jpg",
+          "source": "https://www.estrelando.com.br/uploads/2025/12/16/capa-atores-diretores-1765919561.jpg",
+          "size": [
+            675,
+            645
+          ]
+        },
+        {
+          "file": "al_estr_alt5.jpg",
+          "source": "https://www.estrelando.com.br/uploads/2026/10/10/arthur-destaque-1791643635.jpg",
+          "size": [
+            675,
+            645
+          ]
+        },
+        {
+          "file": "al_estr_alt6.jpg",
+          "source": "https://www.estrelando.com.br/uploads/2026/10/14/capa-novela-1--1792013145.jpg",
+          "size": [
+            675,
+            645
+          ]
+        },
+        {
+          "file": "al_estr_alt7.jpg",
+          "source": "https://www.estrelando.com.br/uploads/2026/10/14/capa-novela-por-voce-2--1792001530.jpg",
+          "size": [
+            675,
+            645
+          ]
+        },
+        {
+          "file": "al_estr_alt8.jpg",
+          "source": "https://www.estrelando.com.br/uploads/2026/10/16/spfw-1792114386.jpg",
+          "size": [
+            730,
+            800
+          ]
+        },
+        {
+          "file": "al_estr_alt9.jpg",
+          "source": "https://www.estrelando.com.br/uploads/2026/10/16/xama-1792114487.jpg",
+          "size": [
+            730,
+            800
+          ]
+        },
+        {
+          "file": "al_estr_alt10.jpg",
+          "source": "https://www.estrelando.com.br/uploads/2026/10/14/capa-por-voce-1791996763.jpg",
+          "size": [
+            675,
+            645
+          ]
+        },
+        {
+          "file": "al_estr_alt11.jpg",
+          "source": "https://www.estrelando.com.br/uploads/2025/10/15/capa-9--1760555064.jpg",
+          "size": [
+            675,
+            645
+          ]
+        }
+      ],
+      "source": "https://www.estrelando.com.br/uploads/2026/09/28/capa-adriana-1790628305.jpg",
+      "size": [
+        675,
+        645
+      ]
+    },
+    {
+      "file": "al_bahia.jpg",
+      "type": "article",
+      "ok": false,
+      "alts": [],
+      "error": "403 Client Error: Forbidden for url: https://letsgobahia.com.br/noticia/moda/baiana-adriana-lima-volta-passarela-da-victorias-secret-em-2026"
+    },
+    {
+      "file": "al_spd.jpg",
+      "type": "article",
+      "ok": false,
+      "alts": [],
+      "error": "403 Client Error: Forbidden for url: https://spdiario.com.br/noticias/mundo/adriana-lima-esta-de-volta-brasileira-retorna-a-passarela-da-victorias-secret-em-2026.html"
+    },
+    {
+      "file": "al_zoe.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [
+        {
+          "file": "al_zoe_alt1.jpg",
+          "source": "https://imgix.bustle.com/uploads/getty/2026/10/14/db801d31/gigi-hadid-at-the.jpg?w=414&h=592&fit=crop&crop=faces&dpr=2",
+          "size": [
+            828,
+            1184
+          ]
+        },
+        {
+          "file": "al_zoe_alt2.jpg",
+          "source": "https://imgix.bustle.com/uploads/getty/2026/10/14/9f97dc39/victorias-secret-fashion-show.jpg?w=414&h=622&fit=crop&crop=faces&dpr=2",
+          "size": [
+            828,
+            1244
+          ]
+        }
+      ],
+      "source": "https://imgix.bustle.com/uploads/getty/2026/10/14/2ac2e985/new-york-new-york.jpg?w=1200&h=630&fit=crop&crop=faces&fm=jpg",
+      "size": [
+        1200,
+        630
+      ]
+    },
+    {
+      "file": "al_hola.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [
+        {
+          "file": "al_hola_alt1.jpg",
+          "source": "https://www.hola.com/us/horizon/square/3597c035ee74-3.jpg",
+          "size": [
+            1080,
+            1080
+          ]
+        },
+        {
+          "file": "al_hola_alt2.jpg",
+          "source": "https://www.hola.com/us/horizon/43/3597c035ee74-3.jpg",
+          "size": [
+            1920,
+            1440
+          ]
+        }
+      ],
+      "source": "https://www.hola.com/us/horizon/landscape/1200/3597c035ee74-3.jpg",
+      "size": [
+        1200,
+        675
+      ]
+    },
+    {
+      "file": "al_aol.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [
+        {
+          "file": "al_aol_alt1.jpg",
+          "source": "https://media.zenfs.com/en/aol_cosmopolitan_670/276c1faa6426cb294264bd9ba85ff83c",
+          "size": [
+            960,
+            1440
+          ]
+        }
+      ],
+      "source": "https://hermes.media.transform.aol.com/e98ea8535f2ea716dac16daae4e33a3b6e7dfabb/w_1200,c_scale,f_auto,q_auto/https://media.zenfs.com/en/aol_cosmopolitan_670/12fe379dc576a746ca2a39102a7996f0",
+      "size": [
+        1200,
+        1800
+      ]
+    },
+    {
+      "file": "vs_bc.jpg",
+      "type": "article",
+      "ok": false,
+      "alts": [],
+      "error": "404 Client Error: Not Found for url: https://www.beautycrew.com.au/how-to-style-victoria-s-secret-angel-waves-at-home"
+    },
+    {
+      "file": "vs_hb.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [
+        {
+          "file": "vs_hb_alt1.jpg",
+          "source": "https://cassette.sphdigital.com.sg/image/harpersbazaar/cb4c309b3822569b0236f241d5cf31a29ba0cf22da12e1ca11a0fc805abb5200",
+          "size": [
+            1200,
+            600
+          ]
+        },
+        {
+          "file": "vs_hb_alt2.jpg",
+          "source": "https://cassette.sphdigital.com.sg/image/harpersbazaar/78273a3703c89a319702bb1befb3ac24a47ba4b6a6797833bda4a236bd07bd86",
+          "size": [
+            1200,
+            798
+          ]
+        },
+        {
+          "file": "vs_hb_alt3.jpg",
+          "source": "https://cassette.sphdigital.com.sg/image/harpersbazaar/43d3ec9993358739012ce562b197709509ec699e507456ce292e000f4d805687",
+          "size": [
+            1200,
+            800
+          ]
+        },
+        {
+          "file": "vs_hb_alt4.jpg",
+          "source": "https://cassette.sphdigital.com.sg/image/harpersbazaar/a10d0aa7e58f9df60afc77dbf4d221d310293899dcaad8360b7c2fcc93d2b138",
+          "size": [
+            1200,
+            800
+          ]
+        },
+        {
+          "file": "vs_hb_alt5.jpg",
+          "source": "https://cassette.sphdigital.com.sg/image/harpersbazaar/e2073a57c5466715c50a5c9eee029c41737c09c393118f1a5f6df077b642135f",
+          "size": [
+            1200,
+            793
+          ]
+        }
+      ],
+      "source": "https://cassette.sphdigital.com.sg/image/harpersbazaar/4cb90cd909d012f6314b07d3a2d9ae515aa1c1c970acc1a04eca3625788d7ad5",
+      "size": [
+        1140,
+        760
+      ]
+    },
+    {
+      "file": "vs_hw.jpg",
+      "type": "article",
+      "ok": false,
+      "alts": [],
+      "error": "nenhuma imagem utilizavel (6 candidatas)"
+    },
+    {
+      "file": "vs_r29.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [
+        {
+          "file": "vs_r29_alt1.jpg",
+          "source": "https://s3.r29static.com/bin/entry/2f7/x,80/2061064/image.jpg",
+          "size": [
+            2000,
+            2400
+          ]
+        },
+        {
+          "file": "vs_r29_alt2.jpg",
+          "source": "https://s2.r29static.com/bin/author/96e/72,0,2880,2880/x,80/2232086/image.jpg",
+          "size": [
+            2400,
+            2400
+          ]
+        },
+        {
+          "file": "vs_r29_alt3.jpg",
+          "source": "https://s2.r29static.com/bin/shop/8db/x,80/2061940/image.jpg",
+          "size": [
+            800,
+            800
+          ]
+        },
+        {
+          "file": "vs_r29_alt4.jpg",
+          "source": "https://s1.r29static.com/bin/entry/a52/x,80/1978231/image.jpg",
+          "size": [
+            1024,
+            1024
+          ]
+        }
+      ],
+      "source": "https://s1.r29static.com/bin/entry/4c8/0,0,2000,1050/x,80/2061065/image.jpg",
+      "size": [
+        2000,
+        1050
+      ]
+    },
+    {
+      "file": "bx_www.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [
+        {
+          "file": "bx_www_alt1.jpg",
+          "source": "https://cdn.mos.cms.futurecdn.net/dwH8gbvoAfvTjP49CmTkHE-1920-80.jpg",
+          "size": [
+            1920,
+            1080
+          ]
+        },
+        {
+          "file": "bx_www_alt2.jpg",
+          "source": "https://cdn.mos.cms.futurecdn.net/v2/t:0,l:420,cw:1080,ch:1080,q:80,w:1080/dwH8gbvoAfvTjP49CmTkHE.jpg",
+          "size": [
+            1080,
+            1080
+          ]
+        },
+        {
+          "file": "bx_www_alt3.jpg",
+          "source": "https://cdn.mos.cms.futurecdn.net/v2/t:0,l:240,cw:1440,ch:1080,q:80,w:1440/dwH8gbvoAfvTjP49CmTkHE.jpg",
+          "size": [
+            1440,
+            1080
+          ]
+        },
+        {
+          "file": "bx_www_alt4.jpg",
+          "source": "https://cdn.mos.cms.futurecdn.net/pW7dVwYVTXbhFna2FvH29R.jpg",
+          "size": [
+            700,
+            700
+          ]
+        },
+        {
+          "file": "bx_www_alt5.jpg",
+          "source": "https://cdn.mos.cms.futurecdn.net/KwmyQ8CpdAS2QNetAieRNH-1200-80.jpg",
+          "size": [
+            1200,
+            1500
+          ]
+        },
+        {
+          "file": "bx_www_alt6.jpg",
+          "source": "https://cdn.mos.cms.futurecdn.net/sEx8U6bbBeBWDYByT86V6M-1200-80.jpg",
+          "size": [
+            1200,
+            1500
+          ]
+        },
+        {
+          "file": "bx_www_alt7.jpg",
+          "source": "https://cdn.mos.cms.futurecdn.net/UUPfL4YJcgcHBqqBJYbdtP-1200-80.jpg",
+          "size": [
+            1200,
+            1500
+          ]
+        },
+        {
+          "file": "bx_www_alt8.jpg",
+          "source": "https://cdn.mos.cms.futurecdn.net/jVbeY5oDfQePjnACtCHjUM-1920-80.jpg",
+          "size": [
+            1920,
+            1920
+          ]
+        },
+        {
+          "file": "bx_www_alt9.jpg",
+          "source": "https://cdn.mos.cms.futurecdn.net/kmWtUPGZjGrgR3tykaMfUM-1920-80.jpg",
+          "size": [
+            1920,
+            1920
+          ]
+        },
+        {
+          "file": "bx_www_alt10.jpg",
+          "source": "https://cdn.mos.cms.futurecdn.net/p7jk7xG9M2c9WnwJeRGRYM-1920-80.jpg",
+          "size": [
+            1920,
+            1920
+          ]
+        },
+        {
+          "file": "bx_www_alt11.jpg",
+          "source": "https://cdn.mos.cms.futurecdn.net/4NFZMR865yTUJXBPA55t8W-1920-80.jpg",
+          "size": [
+            1920,
+            1920
+          ]
+        },
+        {
+          "file": "bx_www_alt12.jpg",
+          "source": "https://cdn.mos.cms.futurecdn.net/wmogGbE9rkv27u6w8wRmXY-1920-80.jpg",
+          "size": [
+            1920,
+            1920
+          ]
+        },
+        {
+          "file": "bx_www_alt13.jpg",
+          "source": "https://cdn.mos.cms.futurecdn.net/ipfxDumfmD8N2wVAWnRaMd-1200-80.jpg",
+          "size": [
+            1200,
+            1200
+          ]
+        }
+      ],
+      "source": "https://cdn.mos.cms.futurecdn.net/cpGArdzYnYkvJVMJicneXG-1200-80.jpg",
+      "size": [
+        1200,
+        627
+      ]
+    },
+    {
+      "file": "bx_grazia.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [
+        {
+          "file": "bx_grazia_alt1.jpg",
+          "source": "https://images.bauerhosting.com/celebrity/sites/3/2026/01/Screenshot-2026-01-28-at-11.11.43.png?auto=format&w=2560&q=80",
+          "size": [
+            1548,
+            2400
+          ]
+        },
+        {
+          "file": "bx_grazia_alt2.jpg",
+          "source": "https://images.bauerhosting.com/celebrity/sites/3/2026/01/Screenshot-2026-01-28-at-11.46.47.png?auto=format&w=2560&q=80",
+          "size": [
+            957,
+            2400
+          ]
+        }
+      ],
+      "source": "https://images.bauerhosting.com/celebrity/sites/3/2026/01/Untitled-design-2026-01-28T105214.612.png?ar=16%3A9&fit=crop&crop=top&auto=format&w=undefined&q=80",
+      "size": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "file": "bx_grazia2.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [
+        {
+          "file": "bx_grazia2_alt1.jpg",
+          "source": "https://images.bauerhosting.com/celebrity/sites/3/2026/03/Untitled-13-Article-Embed-Portrait-4-Large.jpeg?auto=format&w=2560&q=80",
+          "size": [
+            1800,
+            2400
+          ]
+        },
+        {
+          "file": "bx_grazia2_alt2.jpg",
+          "source": "https://images.bauerhosting.com/celebrity/sites/3/2026/03/Untitled-13-Article-Embed-Portrait-5.png?auto=format&w=2560&q=80",
+          "size": [
+            1800,
+            2400
+          ]
+        },
+        {
+          "file": "bx_grazia2_alt3.jpg",
+          "source": "https://images.bauerhosting.com/celebrity/sites/3/2024/02/Chronos24_StillRenderWhite_Side_HR_RGB_NoExpiry.png?auto=format&w=2560&q=80",
+          "size": [
+            2400,
+            1351
+          ]
+        }
+      ],
+      "source": "https://images.bauerhosting.com/celebrity/sites/3/2026/03/GettyImages-2266701061-Large.jpeg?ar=16%3A9&fit=crop&crop=top&auto=format&w=undefined&q=80",
+      "size": [
+        1280,
+        720
+      ]
+    },
+    {
+      "file": "bx_nssg.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [
+        {
+          "file": "bx_nssg_alt1.jpg",
+          "source": "https://data2.nssmag.com/images/galleries/48805/bixiecut_copertina.webp",
+          "size": [
+            1080,
+            1350
+          ]
+        }
+      ],
+      "source": "https://data2.nssmag.com/images/galleries/48805/bixiecut__orizz.webp",
+      "size": [
+        1600,
+        840
+      ]
+    },
+    {
+      "file": "bx_mc.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [
+        {
+          "file": "bx_mc_alt1.jpg",
+          "source": "https://cdn.mos.cms.futurecdn.net/v2/t:0,l:420,cw:1080,ch:1080,q:80,w:1080/bBkXaE7ZY76cUVS7c9Fkae.jpg",
+          "size": [
+            1080,
+            1080
+          ]
+        },
+        {
+          "file": "bx_mc_alt2.jpg",
+          "source": "https://cdn.mos.cms.futurecdn.net/v2/t:0,l:240,cw:1440,ch:1080,q:80,w:1440/bBkXaE7ZY76cUVS7c9Fkae.jpg",
+          "size": [
+            1440,
+            1080
+          ]
+        },
+        {
+          "file": "bx_mc_alt3.jpg",
+          "source": "https://cdn.mos.cms.futurecdn.net/Ueau6QHpHCb3uPKmDnxppS.jpg",
+          "size": [
+            2295,
+            2400
+          ]
+        },
+        {
+          "file": "bx_mc_alt4.jpg",
+          "source": "https://cdn.mos.cms.futurecdn.net/7vXLyQRAC3kg6aoR3Yomqa-1159-80.jpg",
+          "size": [
+            1159,
+            1874
+          ]
+        },
+        {
+          "file": "bx_mc_alt5.jpg",
+          "source": "https://cdn.mos.cms.futurecdn.net/v2QE4P7kWd3FHAzManj2HN-1920-80.png",
+          "size": [
+            500,
+            500
+          ]
+        },
+        {
+          "file": "bx_mc_alt6.jpg",
+          "source": "https://cdn.mos.cms.futurecdn.net/pavo3ZuVSTdXFALwrdaW5V-1920-80.png",
+          "size": [
+            500,
+            500
+          ]
+        },
+        {
+          "file": "bx_mc_alt7.jpg",
+          "source": "https://cdn.mos.cms.futurecdn.net/nSiT5xtkxfoZZveNuryYWg-1920-80.jpg",
+          "size": [
+            1000,
+            1000
+          ]
+        },
+        {
+          "file": "bx_mc_alt8.jpg",
+          "source": "https://cdn.mos.cms.futurecdn.net/qnVdciMuKwdfepsmeUKXLo-1920-80.jpg",
+          "size": [
+            1920,
+            1920
+          ]
+        },
+        {
+          "file": "bx_mc_alt9.jpg",
+          "source": "https://cdn.mos.cms.futurecdn.net/rqCsA7NvytSKFh3dQxow48-1920-80.png",
+          "size": [
+            500,
+            500
+          ]
+        },
+        {
+          "file": "bx_mc_alt10.jpg",
+          "source": "https://cdn.mos.cms.futurecdn.net/h73K22GoNnfsRC7k3orNjj-1200-80.png",
+          "size": [
+            1200,
+            1200
+          ]
+        },
+        {
+          "file": "bx_mc_alt11.jpg",
+          "source": "https://cdn.mos.cms.futurecdn.net/rd2o7YFWrVRqC5BgzrZKBG-1200-80.jpg",
+          "size": [
+            1200,
+            1200
+          ]
+        }
+      ],
+      "source": "https://cdn.mos.cms.futurecdn.net/bBkXaE7ZY76cUVS7c9Fkae-1920-80.jpg",
+      "size": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "file": "bx_rl.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [],
+      "source": "https://runwaylive.com/wp-content/uploads/runway-social/12322-7fcdb25c549e.jpg",
+      "size": [
+        768,
+        576
+      ]
+    },
+    {
+      "file": "bx_vh.jpg",
+      "type": "article",
+      "ok": false,
+      "alts": [],
+      "error": "403 Client Error: Forbidden for url: https://www.viralhairstyle.com/hairstyles/bixie-cut-ideas/"
+    },
+    {
+      "file": "bx_forbes.jpg",
+      "type": "article",
+      "ok": false,
+      "alts": [],
+      "error": "403 Client Error: Forbidden for url: https://www.forbes.com/sites/katebdonnelly/2026/10/13/fall-beauty-trends-2026-warmer-hair-moody-makeup-and-subtle-polish/"
+    },
+    {
+      "file": "sb_loreal.jpg",
+      "type": "article",
+      "ok": false,
+      "alts": [],
+      "error": "nenhuma imagem utilizavel (5 candidatas)"
+    },
+    {
+      "file": "sb_loreal2.jpg",
+      "type": "article",
+      "ok": false,
+      "alts": [],
+      "error": "nenhuma imagem utilizavel (6 candidatas)"
+    },
+    {
+      "file": "sb_davines.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [
+        {
+          "file": "sb_davines_alt1.jpg",
+          "source": "https://us.davines.com/cdn/shop/files/STATIC_1x1_19475cdb-1254-4d8a-b244-abe98df74f01_5000x.jpg?v=1790094538",
+          "size": [
+            2250,
+            2250
+          ]
+        },
+        {
+          "file": "sb_davines_alt2.jpg",
+          "source": "https://us.davines.com/cdn/shop/files/o29034u32_5000x.jpg?v=1749240193",
+          "size": [
+            1001,
+            1000
+          ]
+        },
+        {
+          "file": "sb_davines_alt3.jpg",
+          "source": "https://us.davines.com/cdn/shop/files/NAV_HIGHLIGHT_1-1_FOR_A_GOOD_LIFE_26_5000x.jpg?v=1771858487",
+          "size": [
+            1000,
+            1000
+          ]
+        },
+        {
+          "file": "sb_davines_alt4.jpg",
+          "source": "https://us.davines.com/cdn/shop/files/WeAreCircular-MOBILE_5000x.jpg?v=1662046066",
+          "size": [
+            681,
+            681
+          ]
+        },
+        {
+          "file": "sb_davines_alt5.jpg",
+          "source": "https://us.davines.com/cdn/shop/files/Collab_website_5000x.jpg?v=1712609816",
+          "size": [
+            1800,
+            1800
+          ]
+        },
+        {
+          "file": "sb_davines_alt6.jpg",
+          "source": "https://us.davines.com/cdn/shop/files/Once_Forever_Collection_5000x.jpg?v=1775223197",
+          "size": [
+            1000,
+            1000
+          ]
+        },
+        {
+          "file": "sb_davines_alt7.jpg",
+          "source": "https://us.davines.com/cdn/shop/files/HP_STATIC_SLIDER_1-1_TPT_LE_5000x.jpg?v=1775223197",
+          "size": [
+            1000,
+            1000
+          ]
+        },
+        {
+          "file": "sb_davines_alt8.jpg",
+          "source": "https://us.davines.com/cdn/shop/files/The_Energizing_Giveaway_mobile_nav_menu_1_5000x.jpg?v=1791206214",
+          "size": [
+            2083,
+            2083
+          ]
+        },
+        {
+          "file": "sb_davines_alt9.jpg",
+          "source": "https://us.davines.com/cdn/shop/files/L1130543_mobile_nav_menu_5000x.jpg?v=1790862137",
+          "size": [
+            2083,
+            2083
+          ]
+        },
+        {
+          "file": "sb_davines_alt10.jpg",
+          "source": "https://ucarecdn.com/2db996d1-1cc0-45a2-a204-f952358c900f/-/format/auto/-/preview/3000x3000/-/quality/lighter/A.jpg",
+          "size": [
+            2400,
+            686
+          ]
+        },
+        {
+          "file": "sb_davines_alt11.jpg",
+          "source": "https://ucarecdn.com/d72a9df8-a307-4924-afe9-b9269449897e/-/format/auto/-/preview/3000x3000/-/quality/lighter/A.jpg",
+          "size": [
+            2400,
+            2400
+          ]
+        }
+      ],
+      "source": "https://us.davines.com/cdn/shop/files/HP_STATIC_SLIDER_1-1_NT_ENERGIZING_PROGRESSIVE_26_2_5000x.jpg?v=1790862189",
+      "size": [
+        1000,
+        1000
+      ]
+    },
+    {
+      "file": "sb_zotos.jpg",
+      "type": "article",
+      "ok": false,
+      "alts": [],
+      "error": "404 Client Error: Not Found for url: https://www.zotosprofessional.com/blogs/blog/strawberry-blonde-hair-color/"
+    },
+    {
+      "file": "hw_vogue.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [
+        {
+          "file": "hw_vogue_alt1.jpg",
+          "source": "https://images.vs-static.com/6K7RYYacsV4FFhlbXQbHcfLWggk=/0x104:2580x3544/1900x0/4_af48823f66/4_af48823f66.jpg",
+          "size": [
+            1800,
+            2400
+          ]
+        },
+        {
+          "file": "hw_vogue_alt2.jpg",
+          "source": "https://images.vs-static.com/h8H4EiDnBoF4xpfIozAkexRtJKw=/0x104:2580x3544/1900x0/1_9cc56efe62/1_9cc56efe62.jpg",
+          "size": [
+            1800,
+            2400
+          ]
+        },
+        {
+          "file": "hw_vogue_alt3.jpg",
+          "source": "https://images.vs-static.com/-qcx1gvb2slvWlx3L92uDHRuUco=/0x0:900x1200/750x0/Red_devil_Halloween_makeup_look_4da3aab9b1/Red_devil_Halloween_makeup_look_4da3aab9b1.jpg",
+          "size": [
+            750,
+            1000
+          ]
+        },
+        {
+          "file": "hw_vogue_alt4.jpg",
+          "source": "https://images.vs-static.com/JrdPzGzEwx6RYVipZcmsVd7jWEM=/38x0:1163x1500/750x0/Untitled_design_20_ebbc4ca050/Untitled_design_20_ebbc4ca050.jpg",
+          "size": [
+            750,
+            1000
+          ]
+        },
+        {
+          "file": "hw_vogue_alt5.jpg",
+          "source": "https://images.vs-static.com/agd0Gu4Ws_hZXHj7rMgzf64cqgQ=/0x0:900x1200/750x0/Wooden_cocktail_sticks_159887cdff/Wooden_cocktail_sticks_159887cdff.jpg",
+          "size": [
+            750,
+            1000
+          ]
+        },
+        {
+          "file": "hw_vogue_alt6.jpg",
+          "source": "https://images.vs-static.com/_MJ4U_B6GzuK_NA9qzWaO2lcTBg=/38x0:1163x1500/750x0/Untitled_design_21_578e55bf4f/Untitled_design_21_578e55bf4f.jpg",
+          "size": [
+            750,
+            1000
+          ]
+        },
+        {
+          "file": "hw_vogue_alt7.jpg",
+          "source": "https://images.vs-static.com/CxtHqNjq8V7Cc4uSUefshFt69vw=/38x0:1163x1500/750x0/Untitled_design_19_6deffbcb3c/Untitled_design_19_6deffbcb3c.jpg",
+          "size": [
+            750,
+            1000
+          ]
+        },
+        {
+          "file": "hw_vogue_alt8.jpg",
+          "source": "https://images.vs-static.com/uInmgAysLdADTfai5WnVIy0XETk=/1900x0/zara_larsson_midnight_sun_tour_makeup_4c823479a3/zara_larsson_midnight_sun_tour_makeup_4c823479a3.jpg",
+          "size": [
+            1900,
+            2375
+          ]
+        },
+        {
+          "file": "hw_vogue_alt9.jpg",
+          "source": "https://images.vs-static.com/x-J1hhYZtswD3r0XcWFthPmnLwY=/750x0/Zara_Larsson_Halloween_makeup_look_5834cd4b44/Zara_Larsson_Halloween_makeup_look_5834cd4b44.jpg",
+          "size": [
+            750,
+            1000
+          ]
+        },
+        {
+          "file": "hw_vogue_alt10.jpg",
+          "source": "https://images.vs-static.com/fkxKUmHp0xsTv5MMOohvJuMo9ks=/750x0/Zara_Larsson_Halloween_makeup_look_bf215d345b/Zara_Larsson_Halloween_makeup_look_bf215d345b.jpg",
+          "size": [
+            750,
+            1000
+          ]
+        },
+        {
+          "file": "hw_vogue_alt11.jpg",
+          "source": "https://images.vs-static.com/J6HwZm97VSAD_5vexCiKm6YeZd0=/750x0/Poster_5_515db7f96c/Poster_5_515db7f96c.jpg",
+          "size": [
+            750,
+            1000
+          ]
+        },
+        {
+          "file": "hw_vogue_alt12.jpg",
+          "source": "https://images.vs-static.com/l1vUA1RW6F-MVvFkmTQb_IYpTDE=/750x0/Zara_Larsson_makeup_Halloween_478abe3977/Zara_Larsson_makeup_Halloween_478abe3977.jpg",
+          "size": [
+            750,
+            1000
+          ]
+        },
+        {
+          "file": "hw_vogue_alt13.jpg",
+          "source": "https://images.vs-static.com/nGZrIGGU8X6XE_5tuwqkFmC6LGc=/1200x0/Gothic_look_for_Halloween_705fb16062/Gothic_look_for_Halloween_705fb16062.jpg",
+          "size": [
+            1200,
+            1500
+          ]
+        }
+      ],
+      "source": "https://images.vs-static.com/_BEW7_FAncbXXNNKkULlB2sSvHY=/0x104:2580x3544/1900x0/2_9caa9d12b6/2_9caa9d12b6.jpg",
+      "size": [
+        1800,
+        2400
+      ]
+    },
+    {
+      "file": "hw_www.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [
+        {
+          "file": "hw_www_alt1.jpg",
+          "source": "https://cdn.mos.cms.futurecdn.net/rBsbgUi94Too5huJNbNAn9-2000-80.jpg",
+          "size": [
+            2000,
+            1125
+          ]
+        },
+        {
+          "file": "hw_www_alt2.jpg",
+          "source": "https://cdn.mos.cms.futurecdn.net/v2/t:0,l:437,cw:1125,ch:1125,q:80,w:1125/rBsbgUi94Too5huJNbNAn9.jpg",
+          "size": [
+            1125,
+            1125
+          ]
+        },
+        {
+          "file": "hw_www_alt3.jpg",
+          "source": "https://cdn.mos.cms.futurecdn.net/v2/t:0,l:250,cw:1500,ch:1125,q:80,w:1500/rBsbgUi94Too5huJNbNAn9.jpg",
+          "size": [
+            1500,
+            1125
+          ]
+        },
+        {
+          "file": "hw_www_alt4.jpg",
+          "source": "https://cdn.mos.cms.futurecdn.net/UZWi2NZwV3yiHvLid9aRh6.jpg",
+          "size": [
+            1639,
+            1862
+          ]
+        },
+        {
+          "file": "hw_www_alt5.jpg",
+          "source": "https://cdn.mos.cms.futurecdn.net/WqGiGBre5PTwUVm6CeAEJH-1440-80.jpg",
+          "size": [
+            1440,
+            1800
+          ]
+        },
+        {
+          "file": "hw_www_alt6.jpg",
+          "source": "https://cdn.mos.cms.futurecdn.net/vuvfPYE2vxVxmg4HMzxufN-1920-80.jpg",
+          "size": [
+            1920,
+            1920
+          ]
+        },
+        {
+          "file": "hw_www_alt7.jpg",
+          "source": "https://cdn.mos.cms.futurecdn.net/3fPynifnfuQsPEgrGMdzWM-1920-80.jpg",
+          "size": [
+            500,
+            500
+          ]
+        },
+        {
+          "file": "hw_www_alt8.jpg",
+          "source": "https://cdn.mos.cms.futurecdn.net/F8v5KAzmZo4x2xunD9NmnY-1814-80.jpg",
+          "size": [
+            1701,
+            2400
+          ]
+        },
+        {
+          "file": "hw_www_alt9.jpg",
+          "source": "https://cdn.mos.cms.futurecdn.net/A3fJQ6s6Vni8TGdzdR75ec-1920-80.jpg",
+          "size": [
+            1340,
+            1785
+          ]
+        },
+        {
+          "file": "hw_www_alt10.jpg",
+          "source": "https://cdn.mos.cms.futurecdn.net/T8fExA9Ac6kZnXHBGpi5Gc-1920-80.jpg",
+          "size": [
+            1920,
+            1920
+          ]
+        },
+        {
+          "file": "hw_www_alt11.jpg",
+          "source": "https://cdn.mos.cms.futurecdn.net/rDdEgXSJnxTpzQbZKnk9Gi-1920-80.jpg",
+          "size": [
+            1920,
+            1920
+          ]
+        },
+        {
+          "file": "hw_www_alt12.jpg",
+          "source": "https://cdn.mos.cms.futurecdn.net/MrbcJQme7z2XjHtguXbftm-1920-80.jpg",
+          "size": [
+            1920,
+            1920
+          ]
+        },
+        {
+          "file": "hw_www_alt13.jpg",
+          "source": "https://cdn.mos.cms.futurecdn.net/7TMHxPfvXVQtVMK5bbmum-1920-80.webp",
+          "size": [
+            1200,
+            1200
+          ]
+        }
+      ],
+      "source": "https://cdn.mos.cms.futurecdn.net/3D3jKrnGH4RPZJYvsYv5ER-1200-80.jpg",
+      "size": [
+        1200,
+        627
+      ]
+    },
+    {
+      "file": "hw_ipsy.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [
+        {
+          "file": "hw_ipsy_alt1.jpg",
+          "source": "https://images.ctfassets.net/daem4o9l2hfd/4zEnOHmuFAf0wNQpikKLKQ/5732a9af29e34eb0de42a7ab0113105e/easy-halloween-makeup_2026_desktop.jpg",
+          "size": [
+            690,
+            552
+          ]
+        },
+        {
+          "file": "hw_ipsy_alt2.jpg",
+          "source": "https://blog.ipsy.com/_next/image?url=https://images.ctfassets.net/daem4o9l2hfd/5vwxvRClmDE0ABibMW3P31/0eb2ff9ab4ce017b92bfcf3cebab1a2c/dahvi-shira-headshot_copy.jpg&w=3840&q=100",
+          "size": [
+            595,
+            596
+          ]
+        }
+      ],
+      "source": "https://images.ctfassets.net/daem4o9l2hfd/4Kc0Cildld1ztVdQCt2tAL/9278746423fe785d738a2b499e12f462/easy-halloween-makeup_2026_mobile.jpg",
+      "size": [
+        690,
+        690
+      ]
+    },
+    {
+      "file": "hw_elle.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [
+        {
+          "file": "hw_elle_alt1.jpg",
+          "source": "https://images.elle.com.br/2023/10/Maquiagens-de-halloween_Maxine.jpeg",
+          "size": [
+            1440,
+            1800
+          ]
+        },
+        {
+          "file": "hw_elle_alt2.jpg",
+          "source": "https://images.elle.com.br/2023/10/Maquiagens-de-halloween_vampira.jpeg",
+          "size": [
+            1440,
+            1796
+          ]
+        },
+        {
+          "file": "hw_elle_alt3.jpg",
+          "source": "https://images.elle.com.br/2023/10/Maquiagens-de-halloween_aranha.jpeg",
+          "size": [
+            1440,
+            1682
+          ]
+        },
+        {
+          "file": "hw_elle_alt4.jpg",
+          "source": "https://images.elle.com.br/2023/10/Maquiagens-de-Halloween_Lovers.jpeg",
+          "size": [
+            863,
+            1079
+          ]
+        },
+        {
+          "file": "hw_elle_alt5.jpg",
+          "source": "https://images.elle.com.br/2023/10/Maquiagens-de-halloween_Pop-art.jpeg",
+          "size": [
+            1440,
+            1626
+          ]
+        },
+        {
+          "file": "hw_elle_alt6.jpg",
+          "source": "https://images.elle.com.br/2023/10/Maquiagens-de-halloween_Bambi.jpeg",
+          "size": [
+            1440,
+            1440
+          ]
+        },
+        {
+          "file": "hw_elle_alt7.jpg",
+          "source": "https://images.elle.com.br/2023/10/Maquiagens-de-halloween_tim-burton.jpeg",
+          "size": [
+            1440,
+            1800
+          ]
+        },
+        {
+          "file": "hw_elle_alt8.jpg",
+          "source": "https://elle.com.br/wp-content/themes/theme-elle-brasil/library/images/capa-impressa-menu.png",
+          "size": [
+            597,
+            792
+          ]
+        },
+        {
+          "file": "hw_elle_alt9.jpg",
+          "source": "https://elle.com.br/wp-content/themes/theme-elle-brasil/library/images/mockup-decor-3.png",
+          "size": [
+            597,
+            792
+          ]
+        },
+        {
+          "file": "hw_elle_alt10.jpg",
+          "source": "https://elle.com.br/wp-content/themes/theme-elle-brasil/library/images/capa-menu-elle-men.png",
+          "size": [
+            597,
+            792
+          ]
+        },
+        {
+          "file": "hw_elle_alt11.jpg",
+          "source": "https://elle.com.br/wp-content/themes/theme-elle-brasil/library/images/capa-menu-elle-a-table.png",
+          "size": [
+            597,
+            792
+          ]
+        }
+      ],
+      "source": "https://images.elle.com.br/2023/10/Maquiagens-de-halloween_destaque.jpeg",
+      "size": [
+        1440,
+        1800
+      ]
+    },
+    {
+      "file": "hw_nsc.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [
+        {
+          "file": "hw_nsc_alt1.jpg",
+          "source": "https://portaledicase.com/wp-content/uploads/2024/10/estiloentidade.png",
+          "size": [
+            1200,
+            800
+          ]
+        },
+        {
+          "file": "hw_nsc_alt2.jpg",
+          "source": "https://portaledicase.com/wp-content/uploads/2024/10/simplescomsangue.png",
+          "size": [
+            1200,
+            800
+          ]
+        },
+        {
+          "file": "hw_nsc_alt3.jpg",
+          "source": "https://portaledicase.com/wp-content/uploads/2024/10/itacoisa.png",
+          "size": [
+            1200,
+            800
+          ]
+        }
+      ],
+      "source": "https://portaledicase.com/wp-content/uploads/2024/10/bobodacorte.png",
+      "size": [
+        1200,
+        800
+      ]
+    },
+    {
+      "file": "mb_cm.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [
+        {
+          "file": "mb_cm_alt1.jpg",
+          "source": "https://celebmafia.com/wp-content/uploads/2026/10/millie-bobby-brown-and-jake-bongiovi-on-hamptons-coffee-run-0.webp",
+          "size": [
+            1280,
+            1920
+          ]
+        },
+        {
+          "file": "mb_cm_alt2.jpg",
+          "source": "https://celebmafia.com/wp-content/uploads/2026/10/millie-bobby-brown-and-jake-bongiovi-on-hamptons-coffee-run-1.webp",
+          "size": [
+            1280,
+            1919
+          ]
+        },
+        {
+          "file": "mb_cm_alt3.jpg",
+          "source": "https://celebmafia.com/wp-content/plugins/celebmafia-guest-style-review/assets/images/outfit-example.webp",
+          "size": [
+            1122,
+            1402
+          ]
+        },
+        {
+          "file": "mb_cm_alt4.jpg",
+          "source": "https://celebmafia.com/wp-content/uploads/2026/09/millie-bobby-brown-wears-a-burgundy-princess-polly-gown-for-lake-como-dinner-8.webp",
+          "size": [
+            1280,
+            1920
+          ]
+        },
+        {
+          "file": "mb_cm_alt5.jpg",
+          "source": "https://celebmafia.com/wp-content/uploads/2026/08/millie-bobby-brown-wears-red-co-ord-on-lake-como-august-28-2026-4.webp",
+          "size": [
+            1280,
+            1920
+          ]
+        }
+      ],
+      "source": "https://celebmafia.com/wp-content/uploads/2026/10/millie-bobby-brown-and-jake-bongiovi-on-hamptons-coffee-run-6.webp",
+      "size": [
+        1280,
+        1921
+      ]
+    },
+    {
+      "file": "mb_hc.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [
+        {
+          "file": "mb_hc_alt1.jpg",
+          "source": "https://www.hawtcelebs.com/wp-content/uploads/2026/10/millie-bobby-brown-and-jake-bongiovi-boarding-a-private-jet-in-hamptons-10-11-2026-6_thumbnail.jpg",
+          "size": [
+            535,
+            800
+          ]
+        },
+        {
+          "file": "mb_hc_alt2.jpg",
+          "source": "https://www.hawtcelebs.com/wp-content/uploads/2026/10/lily-collins-filming-an-expedia-commercial-in-london-10-06-2026-2_thumbnail.jpg",
+          "size": [
+            535,
+            800
+          ]
+        }
+      ],
+      "source": "https://www.hawtcelebs.com/wp-content/uploads/2026/10/millie-bobby-brown-and-jake-bongiovi-out-for-coffee-in-hamptons-10-11-2026-6_thumbnail.jpg",
+      "size": [
+        535,
+        800
+      ]
+    },
+    {
+      "file": "mb_cm2.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [
+        {
+          "file": "mb_cm2_alt1.jpg",
+          "source": "https://celebmafia.com/wp-content/uploads/2026/10/millie-bobby-brown-boards-private-jet-in-the-hamptons-4.webp",
+          "size": [
+            800,
+            1200
+          ]
+        }
+      ],
+      "source": "https://celebmafia.com/wp-content/uploads/2026/10/millie-bobby-brown-boards-private-jet-in-the-hamptons-5.webp",
+      "size": [
+        1280,
+        853
+      ]
+    },
+    {
+      "file": "ap_elle.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [
+        {
+          "file": "ap_elle_alt1.jpg",
+          "source": "https://images.elle.com.br/2025/07/calca-de-onca-04-768x960.jpg",
+          "size": [
+            768,
+            960
+          ]
+        },
+        {
+          "file": "ap_elle_alt2.jpg",
+          "source": "https://images.elle.com.br/2025/07/calca-de-onca-05-768x960.jpg",
+          "size": [
+            768,
+            960
+          ]
+        },
+        {
+          "file": "ap_elle_alt3.jpg",
+          "source": "https://images.elle.com.br/2025/07/calca-de-onca-03-768x897.jpg",
+          "size": [
+            768,
+            897
+          ]
+        },
+        {
+          "file": "ap_elle_alt4.jpg",
+          "source": "https://images.elle.com.br/2025/07/calca-de-onca-01.jpeg",
+          "size": [
+            736,
+            899
+          ]
+        },
+        {
+          "file": "ap_elle_alt5.jpg",
+          "source": "https://images.elle.com.br/2025/07/calca-de-onca-03.jpeg",
+          "size": [
+            736,
+            975
+          ]
+        },
+        {
+          "file": "ap_elle_alt6.jpg",
+          "source": "https://images.elle.com.br/2025/07/calca-de-onca-06-768x960.jpg",
+          "size": [
+            768,
+            960
+          ]
+        }
+      ],
+      "source": "https://images.elle.com.br/2025/07/calca-de-onca-02.jpeg",
+      "size": [
+        661,
+        881
+      ]
+    },
+    {
+      "file": "ap_gz.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [],
+      "source": "https://netdeal.com.br/api/images/proxy?quality=100&width=1200&src=https://www.netdeal.com.br/api/images/producao.spayce.com.br/1772802236947_2024_10_08_816x461_animal_print_oncinha_2455467.jpg",
+      "size": [
+        1200,
+        678
+      ]
+    },
+    {
+      "file": "ap_mc.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [
+        {
+          "file": "ap_mc_alt1.jpg",
+          "source": "https://cdn.mos.cms.futurecdn.net/v2/t:0,l:346,cw:704,ch:704,q:80,w:704/ZXJsnbV4gaxp2RqHXsDzY3.png",
+          "size": [
+            704,
+            704
+          ]
+        },
+        {
+          "file": "ap_mc_alt2.jpg",
+          "source": "https://cdn.mos.cms.futurecdn.net/v2/t:0,l:229,cw:938,ch:704,q:80,w:938/ZXJsnbV4gaxp2RqHXsDzY3.png",
+          "size": [
+            938,
+            704
+          ]
+        },
+        {
+          "file": "ap_mc_alt3.jpg",
+          "source": "https://cdn.mos.cms.futurecdn.net/v2/t:0,l:72,cw:1251,ch:704,q:80,w:1251/ZXJsnbV4gaxp2RqHXsDzY3.png",
+          "size": [
+            1251,
+            704
+          ]
+        },
+        {
+          "file": "ap_mc_alt4.jpg",
+          "source": "https://cdn.mos.cms.futurecdn.net/ZqcDjBc2V86mSafdKaz2Ba.jpg",
+          "size": [
+            1080,
+            1350
+          ]
+        },
+        {
+          "file": "ap_mc_alt5.jpg",
+          "source": "https://cdn.mos.cms.futurecdn.net/QZt2D9XrKpfGHK7Kxydmga-1920-80.jpg",
+          "size": [
+            1601,
+            2400
+          ]
+        },
+        {
+          "file": "ap_mc_alt6.jpg",
+          "source": "https://cdn.mos.cms.futurecdn.net/3VcNCgQw5uCBj9viqyudY3-1920-80.jpg",
+          "size": [
+            1601,
+            2400
+          ]
+        },
+        {
+          "file": "ap_mc_alt7.jpg",
+          "source": "https://cdn.mos.cms.futurecdn.net/KfbrkHwkt6JnVsWfamk8Z6-1920-80.png",
+          "size": [
+            702,
+            886
+          ]
+        },
+        {
+          "file": "ap_mc_alt8.jpg",
+          "source": "https://cdn.mos.cms.futurecdn.net/RsXH9kj29cAsbzUtQaPDBn-1920-80.png",
+          "size": [
+            646,
+            902
+          ]
+        },
+        {
+          "file": "ap_mc_alt9.jpg",
+          "source": "https://cdn.mos.cms.futurecdn.net/8g8Q6cdKxJoi4tqYM7YyVB-1920-80.jpg",
+          "size": [
+            800,
+            800
+          ]
+        },
+        {
+          "file": "ap_mc_alt10.jpg",
+          "source": "https://cdn.mos.cms.futurecdn.net/cvbtAzohamNuZ4nYDssCqD-1920-80.jpg",
+          "size": [
+            1920,
+            2400
+          ]
+        },
+        {
+          "file": "ap_mc_alt11.jpg",
+          "source": "https://cdn.mos.cms.futurecdn.net/a9ZAEofMvUDiK8EDHLKvoR-1920-80.png",
+          "size": [
+            542,
+            840
+          ]
+        }
+      ],
+      "source": "https://cdn.mos.cms.futurecdn.net/ZXJsnbV4gaxp2RqHXsDzY3-1396-80.png",
+      "size": [
+        1396,
+        704
+      ]
+    },
+    {
+      "file": "ap_fv.jpg",
+      "type": "article",
+      "ok": true,
+      "alts": [
+        {
+          "file": "ap_fv_alt1.jpg",
+          "source": "https://www.folhavitoria.com.br/wp-content/uploads/2025/06/qFzTYUW2-Copia-de-CORTE-DE-FOTOS-4-1.png",
+          "size": [
+            1320,
+            768
+          ]
+        }
+      ],
+      "source": "https://uploads.folhavitoria.com.br/imagens/2026/07/Arte-FV-—-Corte-de-fotos-CMS-10-1000x582.png",
+      "size": [
+        1000,
+        582
+      ]
+    }
+  ]
+}
