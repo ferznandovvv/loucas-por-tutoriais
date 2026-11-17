@@ -1,0 +1,108 @@
+{
+ "cover": {
+  "tag": "Biquíni 101",
+  "size": 124,
+  "lines": [
+   [
+    [
+     "1 biquíni,",
+     ""
+    ]
+   ],
+   [
+    [
+     "2 looks",
+     "i"
+    ]
+   ]
+  ],
+  "sub": "É só virar do avesso",
+  "photos": [
+   {
+    "photo": "calc-lb-df-tiras-laterais-plus-size-samo_1.jpg",
+    "label": "Lado estampado"
+   },
+   {
+    "photo": "calc-lb-df-tiras-laterais-plus-size-samo_5.jpg",
+    "label": "Lado preto"
+   }
+  ]
+ },
+ "slides": [
+  {
+   "text": "**Dupla face é isso:** a peça tem dois lados prontos pra usar. Virou do avesso, mudou o biquíni.",
+   "photos": [
+    {
+     "photo": "calcinha-retro-df-tiras-laterais-marinho_5.jpg",
+     "label": "Os dois lados"
+    },
+    {
+     "photo": "calcinha-retro-df-tiras-laterais-marinho_1.jpg",
+     "label": "Vestida"
+    }
+   ]
+  },
+  {
+   "text": "**Lado preto ou lado marrom:** a retrô Naomi tem cintura alta e tiras pra regular na lateral.",
+   "photos": [
+    {
+     "photo": "calc-retro-df-tiras-laterais-plus-size-n_1.jpg",
+     "label": "Lado preto"
+    },
+    {
+     "photo": "calc-retro-df-tiras-laterais-plus-size-n_2.jpg",
+     "label": "Lado marrom"
+    }
+   ]
+  },
+  {
+   "text": "**Liso ou listrado:** a calcinha de tiras laterais amarra do lado e ajusta nas curvas.",
+   "photos": [
+    {
+     "photo": "calc-lb-df-tiras-laterais-plus-size-arei_2.jpg",
+     "label": "Lado liso"
+    },
+    {
+     "photo": "calc-lb-df-tiras-laterais-plus-size-arei_4.jpg",
+     "label": "Lado listrado"
+    }
+   ]
+  },
+  {
+   "text": "**Em cima também:** a cortininha dupla face desliza na alça e ajusta do seu jeito.",
+   "photos": [
+    {
+     "photo": "top-biquini-cortininha-dupla-face-tropic_2.jpg"
+    },
+    {
+     "photo": "top-biquini-cortininha-dupla-face-babado_3.jpg"
+    }
+   ]
+  },
+  {
+   "text": "**Na mala, faz diferença:** um top e uma calcinha dupla face já dão 4 combinações. Menos peça, mais look.",
+   "photos": [
+    {
+     "photo": "biquini-meia-taca-naomi-com-calcinha-ret_0.jpg"
+    },
+    {
+     "photo": "calcinha-retro-df-tiras-laterais-naomi-4_1.jpg"
+    }
+   ]
+  }
+ ],
+ "final": {
+  "text": "**Resumindo:** uma peça, dois biquínis. Tem dupla face em vários modelos, inclusive plus size.\nNa Via Sol. Usa o cupom:",
+  "code": "LOUCAS15",
+  "code_note": "15% off",
+  "cta": "Link na bio. Salva e manda pra amiga!",
+  "photos": [
+   {
+    "photo": "calc-lb-df-tiras-laterais-plus-size-samo_2.jpg"
+   },
+   {
+    "photo": "top-biquini-cortininha-dupla-face-tropic_2.jpg"
+   }
+  ]
+ }
+}

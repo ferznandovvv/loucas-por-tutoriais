@@ -1,0 +1,106 @@
+{
+ "cover": {
+  "tag": "Biquíni 101",
+  "size": 124,
+  "lines": [
+   [
+    [
+     "Biquíni de",
+     ""
+    ]
+   ],
+   [
+    [
+     "cintura alta",
+     "i"
+    ]
+   ]
+  ],
+  "sub": "Pra quem quer cobrir mais a barriga",
+  "photos": [
+   {
+    "photo": "calcinha-retro-x-pequeno-preto-4751-2_4.jpg"
+   },
+   {
+    "photo": "calc-short-fd-plus-size-mali-4760-262_1.jpg"
+   }
+  ]
+ },
+ "slides": [
+  {
+   "text": "**Quer firmeza na barriga?** A retrô X tem cintura alta e compressão no abdômen. As tiras em X abrem só na lateral.",
+   "photos": [
+    {
+     "photo": "calcinha-retro-x-pequeno-preto-4751-2_1.jpg",
+     "label": "Retrô X"
+    },
+    {
+     "photo": "calc-retro-x-peq-plus-size-preto-4755-2_1.jpg",
+     "label": "Retrô X plus size"
+    }
+   ]
+  },
+  {
+   "text": "**Quer escolher a altura?** A hot pant plus size tem cós regulável: usa lá em cima ou na altura normal.",
+   "photos": [
+    {
+     "photo": "calc-hotpant-fechada-plus-size-verde-mil_1.jpg",
+     "label": "Vestida"
+    },
+    {
+     "photo": "calc-hotpant-fechada-plus-size-verde-mil_0.jpg",
+     "label": "A peça"
+    }
+   ]
+  },
+  {
+   "text": "**Quer afinar a silhueta?** Cintura alta com a perna mais cavada. Cobre a barriga e não pesa no visual.",
+   "photos": [
+    {
+     "photo": "calc-retro-cavada-fio-duplo-verde-milita_3.jpg",
+     "label": "Retrô cavada"
+    },
+    {
+     "photo": "calc-short-fd-plus-size-mali-4760-262_1.jpg",
+     "label": "Short plus size"
+    }
+   ]
+  },
+  {
+   "text": "**Veste 50 ou mais?** Tem cintura alta no plus size também:",
+   "cols": 2,
+   "grid": [
+    {
+     "photo": "calc-retro-x-peq-plus-size-preto-4755-2_1.jpg",
+     "label": "Retrô X"
+    },
+    {
+     "photo": "calc-hotpant-fechada-plus-size-verde-mil_1.jpg",
+     "label": "Hot pant"
+    },
+    {
+     "photo": "calc-short-fd-plus-size-mali-4760-262_2.jpg",
+     "label": "Short fio duplo"
+    },
+    {
+     "photo": "calc-retro-df-tiras-laterais-plus-size-m_1.jpg",
+     "label": "Retrô tiras"
+    }
+   ]
+  }
+ ],
+ "final": {
+  "text": "**Resumindo:** firmeza, retrô X. Altura do seu jeito, hot pant. Silhueta mais fina, retrô cavada.\nNa Via Sol. Usa o cupom:",
+  "code": "LOUCAS15",
+  "code_note": "15% off",
+  "cta": "Link na bio. Comenta qual você usaria!",
+  "photos": [
+   {
+    "photo": "calcinha-retro-x-pequeno-preto-4751-2_3.jpg"
+   },
+   {
+    "photo": "calc-short-fd-plus-size-mali-4760-262_3.jpg"
+   }
+  ]
+ }
+}
