@@ -1,0 +1,116 @@
+{
+ "cover": {
+  "tag": "Plus size",
+  "size": 122,
+  "lines": [
+   [
+    [
+     "Biquíni ",
+     ""
+    ],
+    [
+     "plus size",
+     "i"
+    ]
+   ],
+   [
+    [
+     "que ",
+     ""
+    ],
+    [
+     "veste bem",
+     "i"
+    ]
+   ]
+  ],
+  "sub": "O que olhar antes de comprar",
+  "photos": [
+   {
+    "photo": "plus_coq_capa.jpg"
+   },
+   {
+    "photo": "plus_samoa_a.jpg"
+   }
+  ]
+ },
+ "slides": [
+  {
+   "text": "**Em cima, meia taça.** O aro sustenta e a regulagem nas costas deixa firme. Nada de passar o dia ajeitando.",
+   "photos": [
+    {
+     "photo": "plus_coq_capa.jpg"
+    },
+    {
+     "photo": "plus_marinho.jpg"
+    }
+   ]
+  },
+  {
+   "text": "**Gosta de cintura alta?** A hot pant tem cós regulável: usa lá em cima ou na altura normal.",
+   "photos": [
+    {
+     "photo": "pl_hotpant.jpg",
+     "label": "Hot pant"
+    },
+    {
+     "photo": "pl_retro_naomi.jpg",
+     "label": "Retrô"
+    }
+   ]
+  },
+  {
+   "text": "**Não quer marcar o quadril?** Lateral larga. Ela assenta lisinha e não aperta.",
+   "photos": [
+    {
+     "photo": "pl_transp_eclipse.jpg",
+     "label": "Transpassada"
+    },
+    {
+     "photo": "pl_tiras_malbec.jpg",
+     "label": "Tangão tiras"
+    }
+   ]
+  },
+  {
+   "text": "**Dois em um:** a dupla face vira do avesso e vira outro biquíni. Uma peça, dois looks na mala.",
+   "photos": [
+    {
+     "photo": "pl_retro_marinho.jpg",
+     "label": "Retrô dupla face"
+    },
+    {
+     "photo": "pl_tangao_samoa.jpg",
+     "label": "Tiras dupla face"
+    }
+   ]
+  },
+  {
+   "text": "**E compra separado:** top num tamanho, calcinha em outro. Mede busto e quadril e confere a tabela de cada peça.",
+   "photos": [
+    {
+     "photo": "plus_samoa_a.jpg",
+     "label": "Frente"
+    },
+    {
+     "photo": "plus_samoa_b.jpg",
+     "label": "Costas"
+    }
+   ]
+  }
+ ],
+ "final": {
+  "text": "**Resumindo:** meia taça pra sustentar, lateral larga pra não marcar e tamanho certo em cada peça.\nNa Via Sol tem plus size a partir do 50. Usa o cupom:",
+  "code": "LOUCAS15",
+  "code_note": "15% off",
+  "cta": "Link na bio. Salva e manda pra amiga!",
+  "photos": [
+   {
+    "photo": "plus_caju.jpg"
+   },
+   {
+    "photo": "plus_petroleo.jpg"
+   }
+  ]
+ }
+}

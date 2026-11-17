@@ -1,0 +1,117 @@
+{
+ "cover": {
+  "tag": "Biquíni 101",
+  "size": 128,
+  "lines": [
+   [
+    [
+     "Qual ",
+     ""
+    ],
+    [
+     "top",
+     "i"
+    ]
+   ],
+   [
+    [
+     "é o ",
+     ""
+    ],
+    [
+     "seu?",
+     "i"
+    ]
+   ]
+  ],
+  "sub": "Escolhe pelo que você quer, não pelo corpo",
+  "photos": [
+   {
+    "photo": "meia_a.jpg",
+    "label": "Meia taça"
+   },
+   {
+    "photo": "cort_a.jpg",
+    "label": "Cortininha"
+   }
+  ]
+ },
+ "slides": [
+  {
+   "text": "**Quer sustentação? Meia taça.** O aro segura e junta o busto, e a alça regula. Fica no lugar o dia todo.",
+   "photos": [
+    {
+     "photo": "meia_a.jpg"
+    },
+    {
+     "photo": "meia_d.jpg"
+    }
+   ]
+  },
+  {
+   "text": "**Quer escolher o decote? Cortininha.** O triângulo corre no cordão: mais fechado cobre mais, mais aberto marca menos.",
+   "photos": [
+    {
+     "photo": "cort_a.jpg"
+    },
+    {
+     "photo": "cort_c.jpg"
+    }
+   ]
+  },
+  {
+   "text": "**Quer ombro sem marca? Tomara que caia.** Sem alça, a marquinha fica reta. Vai com bojo removível.",
+   "photos": [
+    {
+     "photo": "tqc_b.jpg"
+    },
+    {
+     "photo": "tqc_c.jpg"
+    }
+   ]
+  },
+  {
+   "text": "**Veste 50 ou mais?** A meia taça plus size sustenta e regula nas costas.",
+   "cols": 2,
+   "grid": [
+    {
+     "photo": "plus_coq_capa.jpg"
+    },
+    {
+     "photo": "plus_marinho.jpg"
+    },
+    {
+     "photo": "plus_malbec.jpg"
+    },
+    {
+     "photo": "plus_petroleo.jpg"
+    }
+   ]
+  },
+  {
+   "text": "**E não precisa ser conjunto:** top num tamanho, calcinha em outro. Cada peça veste o seu número.",
+   "photos": [
+    {
+     "photo": "meia_c.jpg"
+    },
+    {
+     "photo": "cort_d.jpg"
+    }
+   ]
+  }
+ ],
+ "final": {
+  "text": "**Resumindo:** sustentação, meia taça. Decote do seu jeito, cortininha. Ombro sem marca, tomara que caia.\nNa Via Sol tem os três. Usa o cupom:",
+  "code": "LOUCAS15",
+  "code_note": "15% off",
+  "cta": "Link na bio. Comenta qual é o seu!",
+  "photos": [
+   {
+    "photo": "meia_b.jpg"
+   },
+   {
+    "photo": "tqc_a.jpg"
+   }
+  ]
+ }
+}

@@ -1,0 +1,115 @@
+{
+ "cover": {
+  "tag": "Verão",
+  "size": 128,
+  "lines": [
+   [
+    [
+     "Marquinha ",
+     ""
+    ]
+   ],
+   [
+    [
+     "de ",
+     ""
+    ],
+    [
+     "fita",
+     "i"
+    ]
+   ],
+   [
+    [
+     "sem ",
+     ""
+    ],
+    [
+     "erro",
+     "i"
+    ]
+   ]
+  ],
+  "sub": "O passo a passo pra ela sair fininha",
+  "photos": [
+   {
+    "photo": "fita_eclipse_a.jpg"
+   },
+   {
+    "photo": "fita_buzios_a.jpg"
+   }
+  ]
+ },
+ "slides": [
+  {
+   "text": "**Passo 1: a calcinha certa.** A calcinha de fita tem a lateral fininha. É ela que desenha a marquinha.",
+   "photos": [
+    {
+     "photo": "fita_buzios_b.jpg",
+     "label": "Frente"
+    },
+    {
+     "photo": "fita_buzios_a.jpg",
+     "label": "Costas"
+    }
+   ]
+  },
+  {
+   "text": "**Passo 2: em cima, alça fina.** Cortininha deixa marquinha fininha no ombro. Tomara que caia não deixa marca nenhuma.",
+   "photos": [
+    {
+     "photo": "cort_b.jpg",
+     "label": "Cortininha"
+    },
+    {
+     "photo": "tqc_c.jpg",
+     "label": "Tomara que caia"
+    }
+   ]
+  },
+  {
+   "text": "**Passo 3: não mexe a fita de lugar.** Se a tira muda de altura, a marca borra. Usa sempre na mesma posição.",
+   "photos": [
+    {
+     "photo": "fita_tqc_a.jpg"
+    },
+    {
+     "photo": "fita_tqc_b.jpg"
+    }
+   ]
+  },
+  {
+   "text": "**Passo 4: protetor sempre.** Foge do sol das 10h às 16h e reaplica a cada 2 horas e depois do mar. Marquinha bonita é a que não arde.",
+   "photos": [
+    {
+     "photo": "fita_eclipse_c.jpg"
+    }
+   ]
+  },
+  {
+   "text": "**Passo 5: hidrata depois.** Pele hidratada descasca menos, e a marquinha dura mais.",
+   "photos": [
+    {
+     "photo": "laco_c.jpg"
+    },
+    {
+     "photo": "fita_eclipse_b.jpg"
+    }
+   ]
+  }
+ ],
+ "final": {
+  "text": "**Resumindo:** calcinha de fita, alça fina, fita sempre no mesmo lugar e protetor.\nAs calcinhas de fita da Via Sol estão no link. Usa o cupom:",
+  "code": "LOUCAS15",
+  "code_note": "15% off",
+  "cta": "Link na bio. Salva pra levar pra praia!",
+  "photos": [
+   {
+    "photo": "fita_eclipse_a.jpg"
+   },
+   {
+    "photo": "fita_tqc_b.jpg"
+   }
+  ]
+ }
+}
