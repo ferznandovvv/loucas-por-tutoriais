@@ -1,0 +1,256 @@
+#!/usr/bin/env python3
+"""Carrossel de PRODUTO do @loucasportutoriais: foto em tela cheia em todos os slides, pouco texto.
+Uso: python3 produto.py post.json pasta_saida pasta_fotos [pasta_fotos2 ...]
+
+post.json:
+{
+ "cover": {"photos": [{"photo": "a.jpg", "fy": 0.3}, ...] (1 a 3 fotos lado a lado),
+           "headline": "QUAL **BIQUÍNI** ESCOLHER?", "sub": "linha curta"},
+ "slides": [
+   {"photo": "x.jpg", "fy": 0.25, "fx": 0.5, "kicker": "Quer sustentação?", "title": "Meia taça",
+    "text": "uma frase curta", "pos": "bottom" | "top"}
+ ],
+ "final": {"photo": "y.jpg", "fy": 0.3, "title": "...", "text": "...", "code": "LOUCAS10", "cta": "..."}
+}
+**palavra** na manchete da capa ganha a tarja rosa.
+"""
+import json, os, re, sys
+from PIL import Image, ImageDraw, ImageFont, ImageFilter
+
+W, H = 1080, 1350
+HERE = os.path.dirname(os.path.abspath(__file__))
+PINK = (226, 32, 98)
+HANDLE = "@loucasportutoriais"
+DIRS = []
+
+
+def F(kind, size):
+    if kind in ("cond", "condreg"):
+        f = ImageFont.truetype(os.path.join(HERE, "fonts", "Oswald[wght].ttf"), size)
+        f.set_variation_by_name("Bold" if kind == "cond" else "Regular")
+        return f
+    name = "LiberationSans-Bold.ttf" if kind == "bold" else "LiberationSans-Regular.ttf"
+    return ImageFont.truetype(os.path.join(HERE, "fonts", name), size)
+
+
+def load(name):
+    for d in DIRS:
+        p = os.path.join(d, name)
+        if os.path.exists(p):
+            return Image.open(p).convert("RGB")
+    raise FileNotFoundError(name)
+
+
+def fill(img, w, h, fx=0.5, fy=0.3, zoom=1.0):
+    r = max(w / img.width, h / img.height) * zoom
+    im = img.resize((int(img.width * r + 0.5), int(img.height * r + 0.5)), Image.LANCZOS)
+    x = int((im.width - w) * fx)
+    y = int((im.height - h) * fy)
+    im = im.crop((x, y, x + w, y + h))
+    if r > 1.05:  # foto ampliada: devolve um pouco de nitidez
+        im = im.filter(ImageFilter.UnsharpMask(radius=2, percent=70, threshold=2))
+    return im
+
+
+def shade(img, top_frac=0.0, bottom_frac=0.42, strength=235, top_strength=150):
+    w, h = img.size
+    m = Image.new("L", (1, h), 0)
+    for y in range(h):
+        v = 0
+        b0 = h * (1 - bottom_frac)
+        if y > b0:
+            v = max(v, int(strength * ((y - b0) / (h - b0)) ** 1.3))
+        t1 = h * top_frac
+        if top_frac and y < t1:
+            v = max(v, int(top_strength * (1 - y / t1) ** 1.5))
+        m.putpixel((0, y), v)
+    m = m.resize((w, h))
+    dark = Image.new("RGB", (w, h), (12, 8, 10))
+    return Image.composite(dark, img, m)
+
+
+def txt(d, xy, text, font, fill=(255, 255, 255)):
+    x, y = xy
+    for dx, dy in ((2, 2), (0, 2), (2, 0), (-1, 1)):
+        d.text((x + dx, y + dy), text, font=font, fill=(10, 6, 8))
+    d.text((x, y), text, font=font, fill=fill)
+
+
+def wrap(d, text, font, maxw):
+    words, lines, cur = text.split(), [], ""
+    for wd in words:
+        t = (cur + " " + wd).strip()
+        if d.textlength(t, font=font) <= maxw or not cur:
+            cur = t
+        else:
+            lines.append(cur)
+            cur = wd
+    if cur:
+        lines.append(cur)
+    return lines
+
+
+def tarja(d, x, y, text, font, pad=14, fill=PINK, color=(255, 255, 255)):
+    tw = d.textlength(text, font=font)
+    asc, desc = font.getmetrics()
+    d.rectangle([x, y, x + tw + 2 * pad, y + asc + desc + 6], fill=fill)
+    d.text((x + pad, y + 2), text, font=font, fill=color)
+    return y + asc + desc + 6
+
+
+def headline_rich(d, text, y_bottom, size=104, maxw=W - 120):
+    """Manchete centralizada em caixa alta; trechos **assim** ganham tarja rosa. Desenha de baixo pra cima."""
+    f = F("cond", size)
+    parts = re.split(r"(\*\*[^*]+\*\*)", text.upper())
+    toks = []
+    for p in parts:
+        if not p:
+            continue
+        hi = p.startswith("**")
+        for wd in p.strip("*").split():
+            toks.append((wd, hi))
+    lines, cur = [], []
+    for t in toks:
+        trial = " ".join(w for w, _ in cur + [t])
+        if cur and d.textlength(trial, font=f) > maxw:
+            lines.append(cur)
+            cur = [t]
+        else:
+            cur.append(t)
+    lines.append(cur)
+    lh = int(size * 1.08)
+    y = y_bottom - lh * len(lines)
+    top = y
+    sp = d.textlength(" ", font=f)
+    for ln in lines:
+        tw = d.textlength(" ".join(w for w, _ in ln), font=f)
+        x = (W - tw) / 2
+        for wd, hi in ln:
+            ww = d.textlength(wd, font=f)
+            if hi:
+                d.rectangle([x - 8, y + 6, x + ww + 8, y + lh - 2], fill=PINK)
+            d.text((x, y), wd, font=f, fill=(255, 255, 255))
+            x += ww + sp
+        y += lh
+    return top
+
+
+def handle(d, light=True, y=56):
+    d.text((60, y), HANDLE, font=F("bold", 30), fill=(255, 255, 255) if light else (30, 30, 30))
+
+
+def counter(d, n, total, y=56):
+    s = f"{n}/{total}"
+    f = F("bold", 30)
+    d.text((W - 60 - d.textlength(s, font=f), y), s, font=f, fill=(255, 255, 255))
+
+
+def render_cover(c, out):
+    ph = c["photos"]
+    n = len(ph)
+    gap = 8
+    sw = (W - gap * (n - 1)) // n
+    img = Image.new("RGB", (W, H), (255, 255, 255))
+    for i, p in enumerate(ph):
+        tile = fill(load(p["photo"]), sw if i < n - 1 else W - (sw + gap) * (n - 1), H, p.get("fx", 0.5), p.get("fy", 0.3), p.get("zoom", 1.0))
+        img.paste(tile, (i * (sw + gap), 0))
+    img = shade(img, top_frac=0.14, bottom_frac=0.45)
+    d = ImageDraw.Draw(img)
+    handle(d)
+    sub_y = H - 120
+    top = headline_rich(d, c["headline"], sub_y - 24, c.get("size", 112))
+    if c.get("sub"):
+        f = F("bold", 40)
+        tw = d.textlength(c["sub"], font=f)
+        d.text(((W - tw) / 2, sub_y), c["sub"], font=f, fill=(255, 255, 255))
+    f = F("condreg", 34)
+    d.text((W - 120, H - 40), "ARRASTA", font=f, fill=(255, 255, 255), anchor="rs")
+    ay = H - 54
+    d.line([W - 108, ay, W - 60, ay], fill=(255, 255, 255), width=3)
+    d.line([W - 74, ay - 12, W - 60, ay], fill=(255, 255, 255), width=3)
+    d.line([W - 74, ay + 12, W - 60, ay], fill=(255, 255, 255), width=3)
+    img.save(out, quality=94)
+
+
+def render_slide(s, n, total, out):
+    pos = s.get("pos", "bottom")
+    if s.get("contain"):
+        # foto inteira (produto) sobre fundo escuro, texto embaixo
+        img = Image.new("RGB", (W, H), (24, 18, 21))
+        ph = load(s["photo"])
+        box_h = H - 120 - 400
+        r = min((W - 80) / ph.width, box_h / ph.height)
+        ph = ph.resize((int(ph.width * r), int(ph.height * r)), Image.LANCZOS)
+        img.paste(ph, ((W - ph.width) // 2, 120))
+        pos = "bottom"
+    else:
+        img = fill(load(s["photo"]), W, H, s.get("fx", 0.5), s.get("fy", 0.3), s.get("zoom", 1.0))
+        img = shade(img, top_frac=0.16 if pos == "bottom" else 0.45, bottom_frac=0.40 if pos == "bottom" else 0.0,
+                    top_strength=150 if pos == "bottom" else 245)
+    d = ImageDraw.Draw(img)
+    handle(d)
+    counter(d, n, total)
+    fk, ft, fx = F("cond", 46), F("cond", 118), F("reg", 42)
+    lines = wrap(d, s.get("text", ""), fx, W - 120) if s.get("text") else []
+    asc, desc = ft.getmetrics()
+    title_h = asc + desc - 10
+    block = 70 + title_h + 10 + len(lines) * 54
+    y = (H - 70 - block) if pos == "bottom" else 140
+    if s.get("kicker"):
+        tarja(d, 60, y, s["kicker"].upper(), fk)
+    y += 70
+    txt(d, (56, y - 14), s["title"].upper(), ft)
+    y += title_h + 10
+    for ln in lines:
+        txt(d, (60, y), ln, fx, (245, 240, 242))
+        y += 54
+    img.save(out, quality=94)
+
+
+def render_final(fz, n, total, out):
+    img = fill(load(fz["photo"]), W, H, fz.get("fx", 0.5), fz.get("fy", 0.3), fz.get("zoom", 1.0))
+    img = shade(img, top_frac=0.16, bottom_frac=0.55, strength=245)
+    d = ImageDraw.Draw(img)
+    handle(d)
+    counter(d, n, total)
+    y = H - 540
+    ft = F("cond", 92)
+    asc, desc = ft.getmetrics()
+    for ln in wrap(d, fz["title"].upper(), ft, W - 120):
+        txt(d, (56, y - 12), ln, ft)
+        y += asc + desc - 4
+    y += 10
+    fx = F("reg", 40)
+    for ln in wrap(d, fz.get("text", ""), fx, W - 120):
+        txt(d, (60, y), ln, fx, (245, 240, 242))
+        y += 52
+    y += 22
+    if fz.get("code"):
+        fc = F("cond", 76)
+        tw = d.textlength(fz["code"], font=fc)
+        d.rounded_rectangle([60, y, 60 + tw + 60, y + 104], radius=16, outline=(255, 255, 255), width=4, fill=PINK)
+        d.text((90, y + 4), fz["code"], font=fc, fill=(255, 255, 255))
+        if fz.get("code_note"):
+            txt(d, (60 + tw + 90, y + 30), fz["code_note"], F("bold", 40))
+        y += 130
+    if fz.get("cta"):
+        txt(d, (60, y), fz["cta"], F("bold", 38))
+    img.save(out, quality=94)
+
+
+def main():
+    data = json.load(open(sys.argv[1], encoding="utf-8"))
+    outdir = sys.argv[2]
+    DIRS.extend(sys.argv[3:])
+    os.makedirs(outdir, exist_ok=True)
+    total = 1 + len(data["slides"]) + (1 if data.get("final") else 0)
+    render_cover(data["cover"], os.path.join(outdir, "slide_01.jpg"))
+    for i, s in enumerate(data["slides"]):
+        render_slide(s, i + 2, total, os.path.join(outdir, f"slide_{i + 2:02d}.jpg"))
+    if data.get("final"):
+        render_final(data["final"], total, total, os.path.join(outdir, f"slide_{total:02d}.jpg"))
+    print(total, "slides em", outdir)
+
+
+if __name__ == "__main__":
+    main()
