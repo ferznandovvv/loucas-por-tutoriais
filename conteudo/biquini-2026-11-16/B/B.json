@@ -1,0 +1,24 @@
+{
+ "cover": {"full": true, "size": 112, "head_bottom": 330,
+   "photos": [{"photo": "fita_eclipse_a.jpg", "label": "Fina"}, {"photo": "fech_b.jpg", "label": "Larga"}],
+   "headline": "Lateral **fina** ou **larga?**", "sub": "Qual calcinha combina com o que você quer"},
+ "slides": [
+  {"kind": "pair", "kicker": "No quadril", "title": "Onde aperta, marca",
+   "text": "A lateral fina pode afundar no quadril. A larga distribui e assenta lisinha.",
+   "photos": [{"photo": "fita_buzios_b.jpg", "label": "Fina"}, {"photo": "ll_transp_raizes.jpg", "label": "Larga"}]},
+  {"kind": "pair", "kicker": "No mar", "title": "Firmeza no mergulho",
+   "text": "Laço pode soltar na onda. A lateral larga fica no lugar.",
+   "photos": [{"photo": "laco_c.jpg", "label": "Fina"}, {"photo": "ll_tangao_savana.jpg", "label": "Larga"}]},
+  {"kind": "pair", "kicker": "Na marquinha", "title": "Aqui a fina ganha",
+   "text": "A fina deixa a marquinha fininha. A larga deixa uma faixa mais larga.",
+   "photos": [{"photo": "fita_tqc_b.jpg", "label": "Fina"}, {"photo": "ll_tangao_savana1.jpg", "label": "Larga"}]},
+  {"kind": "grid", "cols": 3, "kicker": "Escolheu a larga?", "title": "Tem pra todo gosto",
+   "photos": [{"photo": "ll_transp_oliva.jpg", "label": "Transpassada"}, {"photo": "ll_tangao_savana.jpg", "label": "Tangão"},
+              {"photo": "ll_tiras_malbec.jpg", "label": "Tangão tiras"}, {"photo": "ll_retro_naomi.jpg", "label": "Retrô"},
+              {"photo": "ll_retro_cavada.jpg", "label": "Retrô cavada"}, {"photo": "pl_hotpant.jpg", "label": "Hot pant"}]},
+  {"kind": "grid", "cols": 2, "kicker": "Veste 50 ou mais?", "title": "No plus size também",
+   "photos": [{"photo": "pl_transp_eclipse.jpg", "label": "Transpassada"}, {"photo": "pl_retro_marinho.jpg", "label": "Retrô"},
+              {"photo": "pl_tiras_malbec.jpg", "label": "Tangão tiras"}, {"photo": "pl_tangao_samoa.jpg", "label": "Tangão"}]}
+ ],
+ "final": {"photo": "meia_d.jpg", "fy": 0.12, "title": "Fina ou larga?", "text": "Fina pra marquinha e ajuste no laço. Larga pra firmeza e conforto. Na Via Sol tem as duas.", "code": "LOUCAS15", "code_note": "15% off", "cta": "Link na bio. Conta aqui qual é a sua!"}
+}

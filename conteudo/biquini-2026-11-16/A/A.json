@@ -1,0 +1,146 @@
+{
+ "cover": {
+  "full": true,
+  "size": 96,
+  "head_bottom": 400,
+  "photos": [
+   {
+    "photo": "fech_b.jpg"
+   },
+   {
+    "photo": "cort_c.jpg"
+   }
+  ],
+  "headline": "Seu biquíni **sobra em cima** e aperta embaixo?",
+  "sub": "O problema não é seu corpo. É o tamanho."
+ },
+ "slides": [
+  {
+   "kind": "pair",
+   "kicker": "Por que acontece",
+   "title": "Quase ninguém veste o mesmo número em cima e embaixo",
+   "title_size": 70,
+   "text": "Comprando o conjunto num tamanho só, uma das peças sempre erra.",
+   "photos": [
+    {
+     "photo": "meia_a.jpg"
+    },
+    {
+     "photo": "plus_coq_capa.jpg"
+    }
+   ]
+  },
+  {
+   "kind": "measure",
+   "kicker": "Passo 1",
+   "title": "Meça o busto",
+   "text": "Fita sem apertar, logo abaixo das axilas, no ponto mais saliente do busto.",
+   "photo": "plus_coq_capa.jpg",
+   "lines": [
+    {
+     "y": 0.37,
+     "label": "Busto"
+    }
+   ]
+  },
+  {
+   "kind": "measure",
+   "kicker": "Passo 2",
+   "title": "Meça o quadril",
+   "text": "Também sem apertar, na parte mais larga do quadril.",
+   "photo": "plus_samoa_a.jpg",
+   "lines": [
+    {
+     "y": 0.62,
+     "label": "Quadril"
+    }
+   ]
+  },
+  {
+   "kind": "table",
+   "kicker": "Passo 3: o que ninguém te conta",
+   "title": "O P não é igual em todo modelo",
+   "title_size": 84,
+   "text": "Cada peça tem a sua tabela. Olha o busto de cada tamanho:",
+   "table": {
+    "cols": [
+     "Tamanho",
+     "Meia taça",
+     "Cortininha"
+    ],
+    "rows": [
+     [
+      "P",
+      "72 a 82",
+      "78 a 86"
+     ],
+     [
+      "M",
+      "83 a 90",
+      "87 a 94"
+     ],
+     [
+      "G",
+      "91 a 98",
+      "95 a 102"
+     ],
+     [
+      "GG",
+      "99 a 105",
+      "103 a 110"
+     ]
+    ],
+    "highlight": [
+     [
+      1,
+      1
+     ],
+     [
+      0,
+      2
+     ]
+    ],
+    "note": "Busto 84? É M na meia taça e P na cortininha. Sempre confere a tabela da peça."
+   }
+  },
+  {
+   "kind": "pair",
+   "kicker": "Quadril maior que o busto?",
+   "title": "Separa os tamanhos",
+   "text": "Top num tamanho, calcinha em outro. E vai de lateral larga: assenta sem marcar.",
+   "photos": [
+    {
+     "photo": "ll_transp_savana.jpg",
+     "label": "Transpassada"
+    },
+    {
+     "photo": "ll_tangao_savana.jpg",
+     "label": "Tangão"
+    }
+   ]
+  },
+  {
+   "kind": "pair",
+   "kicker": "Veste 50 ou mais?",
+   "title": "Vale pro plus size",
+   "text": "Mede busto e quadril e confere a tabela de cada peça, a partir do 50.",
+   "photos": [
+    {
+     "photo": "plus_malbec.jpg"
+    },
+    {
+     "photo": "plus_marinho.jpg"
+    }
+   ]
+  }
+ ],
+ "final": {
+  "photo": "meia_d.jpg",
+  "fy": 0.12,
+  "title": "Agora é só escolher",
+  "text": "Na Via Sol top e calcinha são vendidos separados: um tamanho pra cada peça.",
+  "code": "LOUCAS15",
+  "code_note": "15% off",
+  "cta": "Link na bio. Salva pra quando for comprar!"
+ }
+}

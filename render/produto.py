@@ -163,21 +163,24 @@ def render_cover_full(c, out):
     bg = Image.blend(bg, Image.new("RGB", (W, H), (12, 8, 10)), 0.55)
     d = ImageDraw.Draw(bg)
     handle(d, y=40)
-    top = headline_rich(d, c["headline"], 330, c.get("size", 116))
-    y_sub = 346
+    hb = c.get("head_bottom", 330)
+    top = headline_rich(d, c["headline"], hb, c.get("size", 116))
+    y_sub = hb + 34
     if c.get("sub"):
         f = F("bold", 40)
         d.text(((W - d.textlength(c["sub"], font=f)) / 2, y_sub), c["sub"], font=f, fill=(255, 255, 255))
     gap, side = 26, 40
-    area_top, area_bot = 430, H - 90
+    area_top, area_bot = hb + 100, H - 90
     ratios = [im.width / im.height for im in srcs]
     h = min(area_bot - area_top, (W - 2 * side - gap * (len(srcs) - 1)) / sum(ratios))
     ws = [int(h * r) for r in ratios]
     x = (W - sum(ws) - gap * (len(srcs) - 1)) // 2
     y = area_top + int((area_bot - area_top - h) // 2)
-    for im, w in zip(srcs, ws):
+    for im, w, p in zip(srcs, ws, c["photos"]):
         ph = im.resize((w, int(h)), Image.LANCZOS)
         bg = rounded_paste(bg, ph, x, y)
+        if p.get("label"):
+            pill(ImageDraw.Draw(bg), x + 16, y + 16, p["label"].upper(), size=46)
         x += w + gap
     d = ImageDraw.Draw(bg)
     f = F("condreg", 34)
@@ -264,7 +267,179 @@ def render_slide_full(s, n, total, out):
     img.save(out, quality=94)
 
 
+# ---------------- tipos extras: faixa de texto + pares, grade, linhas de medida, tabela ----------------
+def band_metrics(s):
+    tmp = ImageDraw.Draw(Image.new("RGB", (W, H)))
+    fk, ft, fx = F("cond", 42), F("cond", s.get("title_size", 96)), F("reg", 36)
+    lines = wrap(tmp, s.get("text", ""), fx, W - 120) if s.get("text") else []
+    asc, desc = ft.getmetrics()
+    title_lines = wrap(tmp, s["title"].upper(), ft, W - 120)
+    title_h = (asc + desc - 12) * len(title_lines)
+    band = 110 + (62 if s.get("kicker") else 0) + title_h + len(lines) * 46 + 26
+    return band, (fk, ft, fx, lines, title_lines, asc + desc - 12)
+
+
+def draw_band(img, s, n, total):
+    band, (fk, ft, fx, lines, tlines, tlh) = band_metrics(s)
+    d = ImageDraw.Draw(img)
+    handle(d, y=40)
+    if n:
+        counter(d, n, total, y=40)
+    y = 110
+    if s.get("kicker"):
+        tarja(d, 60, y, s["kicker"].upper(), fk)
+        y += 62
+    for tl in tlines:
+        txt(d, (56, y - 12), tl, ft)
+        y += tlh
+    for ln in lines:
+        txt(d, (60, y), ln, fx, (245, 240, 242))
+        y += 46
+    return d
+
+
+def blur_bg(src):
+    bg = fill(src, W, H, 0.5, 0.5).filter(ImageFilter.GaussianBlur(40))
+    return Image.blend(bg, Image.new("RGB", (W, H), (12, 8, 10)), 0.55)
+
+
+def pill(d, x, y, text, size=34, fill=PINK, color=(255, 255, 255), anchor_right=False):
+    f = F("cond", size)
+    tw = d.textlength(text, font=f)
+    asc, desc = f.getmetrics()
+    if anchor_right:
+        x = x - tw - 28
+    d.rounded_rectangle([x, y, x + tw + 28, y + asc + desc - 2], radius=10, fill=fill)
+    d.text((x + 14, y - 3), text, font=f, fill=color)
+
+
+def render_pair(s, n, total, out):
+    srcs = [load(p["photo"]) for p in s["photos"]]
+    band, _ = band_metrics(s)
+    img = blur_bg(srcs[0])
+    gap, side = 22, 36
+    area_top, area_bot = band, H - 40
+    ratios = [im.width / im.height for im in srcs]
+    h = min(area_bot - area_top, (W - 2 * side - gap * (len(srcs) - 1)) / sum(ratios))
+    ws = [int(h * r) for r in ratios]
+    x = (W - sum(ws) - gap * (len(srcs) - 1)) // 2
+    y = area_top + int((area_bot - area_top - h) // 2)
+    for im, w, p in zip(srcs, ws, s["photos"]):
+        ph = im.resize((w, int(h)), Image.LANCZOS)
+        if im.width < w:
+            ph = ph.filter(ImageFilter.UnsharpMask(radius=2, percent=60, threshold=2))
+        img = rounded_paste(img, ph, x, y)
+        if p.get("label"):
+            pill(ImageDraw.Draw(img), x + 16, y + 16, p["label"].upper(), fill=p.get("color") and tuple(p["color"]) or PINK)
+        x += w + gap
+    draw_band(img, s, n, total)
+    img.save(out, quality=94)
+
+
+def render_grid(s, n, total, out):
+    ph = s["photos"]
+    band, _ = band_metrics(s)
+    img = blur_bg(load(ph[0]["photo"]))
+    cols = s.get("cols", 3 if len(ph) > 4 else 2)
+    rows = (len(ph) + cols - 1) // cols
+    gap, side = 18, 36
+    area_top, area_bot = band, H - 40
+    cw = (W - 2 * side - gap * (cols - 1)) // cols
+    ch = min(int(cw * 1.33), (area_bot - area_top - gap * (rows - 1)) // rows)
+    cw = min(cw, int(ch / 1.0))
+    total_w = cw * cols + gap * (cols - 1)
+    x0 = (W - total_w) // 2
+    y0 = area_top + (area_bot - area_top - (ch * rows + gap * (rows - 1))) // 2
+    for i, p in enumerate(ph):
+        r, c = divmod(i, cols)
+        tile = fill(load(p["photo"]), cw, ch, p.get("fx", 0.5), p.get("fy", 0.5), p.get("zoom", 1.0))
+        x, y = x0 + c * (cw + gap), y0 + r * (ch + gap)
+        img = rounded_paste(img, tile, x, y, radius=20)
+        if p.get("label"):
+            dd = ImageDraw.Draw(img)
+            f = F("cond", 32)
+            asc, desc = f.getmetrics()
+            dd.rounded_rectangle([x, y + ch - asc - desc - 14, x + cw, y + ch], radius=20, fill=(20, 14, 17))
+            dd.rectangle([x, y + ch - asc - desc - 14, x + cw, y + ch - 20], fill=(20, 14, 17))
+            tw = dd.textlength(p["label"].upper(), font=f)
+            dd.text((x + (cw - tw) / 2, y + ch - asc - desc - 12), p["label"].upper(), font=f, fill=(255, 255, 255))
+    draw_band(img, s, n, total)
+    img.save(out, quality=94)
+
+
+def render_measure(s, n, total, out):
+    """Foto inteira com linhas tracejadas de medida (busto, quadril)."""
+    band, _ = band_metrics(s)
+    src = load(s["photo"])
+    img = blur_bg(src)
+    side, bottom = 40, 40
+    box_w, box_h = W - 2 * side, H - band - bottom
+    r = min(box_w / src.width, box_h / src.height)
+    ph = src.resize((int(src.width * r), int(src.height * r)), Image.LANCZOS)
+    x, y = (W - ph.width) // 2, band + (box_h - ph.height) // 2
+    img = rounded_paste(img, ph, x, y)
+    d = ImageDraw.Draw(img)
+    for ln in s.get("lines", []):
+        ly = y + int(ph.height * ln["y"])
+        x1 = x + int(ph.width * ln.get("x0", 0.18))
+        x2 = x + int(ph.width * ln.get("x1", 0.82))
+        dash = 22
+        for xx in range(x1, x2, dash * 2):
+            d.line([xx, ly, min(xx + dash, x2), ly], fill=(255, 255, 255), width=10)
+            d.line([xx, ly, min(xx + dash, x2), ly], fill=PINK, width=6)
+        pill(d, x2 + 14 if x2 + 200 < W else x2 - 10, ly - 26, ln["label"].upper(), size=38, anchor_right=x2 + 200 >= W)
+    draw_band(img, s, n, total)
+    img.save(out, quality=94)
+
+
+def render_table(s, n, total, out):
+    """Tabela comparativa desenhada (ex.: busto do P na meia taca x cortininha)."""
+    img = Image.new("RGB", (W, H), (247, 240, 236))
+    band, _ = band_metrics(s)
+    dark = Image.new("RGB", (W, band), (24, 18, 21))
+    img.paste(dark, (0, 0))
+    t = s["table"]
+    cols = t["cols"]
+    rows = t["rows"]
+    hl = t.get("highlight", [])
+    x0, x1 = 60, W - 60
+    cw = (x1 - x0) / len(cols)
+    y = band + 50
+    d = ImageDraw.Draw(img)
+    fh = F("cond", 44)
+    for i, c in enumerate(cols):
+        tw = d.textlength(c.upper(), font=fh)
+        d.text((x0 + cw * i + (cw - tw) / 2, y), c.upper(), font=fh, fill=PINK if i else (90, 70, 78))
+    y += 80
+    fr = F("bold", 46)
+    rh = int(t.get("row_h", 104))
+    for ri, row in enumerate(rows):
+        if ri % 2 == 0:
+            d.rectangle([x0, y, x1, y + rh], fill=(255, 255, 255))
+        for ci, cell in enumerate(row):
+            on = [ri, ci] in hl
+            if on:
+                d.rounded_rectangle([x0 + cw * ci + 14, y + 10, x0 + cw * (ci + 1) - 14, y + rh - 10], radius=14, fill=PINK)
+            tw = d.textlength(cell, font=fr)
+            d.text((x0 + cw * ci + (cw - tw) / 2, y + (rh - 54) / 2), cell, font=fr,
+                   fill=(255, 255, 255) if on else (40, 30, 34))
+        y += rh
+    if t.get("note"):
+        y += 40
+        fn = F("bold", 42)
+        for ln in wrap(d, t["note"], fn, W - 140):
+            d.text((70, y), ln, font=fn, fill=(40, 30, 34))
+            y += 56
+    draw_band(img, s, n, total)
+    img.save(out, quality=94)
+
+
+KINDS = {"pair": render_pair, "grid": render_grid, "measure": render_measure, "table": render_table}
+
+
 def render_slide(s, n, total, out):
+    if s.get("kind") in KINDS:
+        return KINDS[s["kind"]](s, n, total, out)
     if s.get("full"):
         return render_slide_full(s, n, total, out)
     pos = s.get("pos", "bottom")
