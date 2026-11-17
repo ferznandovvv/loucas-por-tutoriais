@@ -1,17 +1,12 @@
 {
  "cover": {
+  "full": true,
   "photos": [
    {
-    "photo": "cort_c.jpg",
-    "fy": 0.25
+    "photo": "meia_a.jpg"
    },
    {
-    "photo": "meia_a.jpg",
-    "fy": 0.25
-   },
-   {
-    "photo": "tqc_a.jpg",
-    "fy": 0.25
+    "photo": "plus_coq_capa.jpg"
    }
   ],
   "headline": "Qual **biquíni** escolher?",
@@ -23,58 +18,56 @@
    "kicker": "Quer sustentação?",
    "title": "Meia taça",
    "text": "O aro segura e junta o busto, mesmo sem bojo.",
-   "fy": 0.05,
-   "zoom": 1.15
+   "full": true
   },
   {
    "photo": "cort_c.jpg",
    "kicker": "Quer volume?",
    "title": "Cortininha",
    "text": "O bojo dá forma e você regula a abertura.",
-   "fy": 0.05,
-   "zoom": 1.15
+   "full": true
   },
   {
    "photo": "tqc_a.jpg",
    "kicker": "Quer marquinha reta?",
    "title": "Tomara que caia",
    "text": "Sem alça no ombro. Escolha com bojo.",
-   "fy": 0.05,
-   "zoom": 1.15
+   "full": true
   },
   {
    "photo": "asa_a.jpg",
    "kicker": "Quer alongar a perna?",
    "title": "Asa delta",
    "text": "A lateral alta deixa a perna mais longa.",
-   "pos": "top",
-   "fy": 0.9,
-   "zoom": 1.1
+   "full": true
   },
   {
    "photo": "fech_b.jpg",
    "kicker": "Quer mais firmeza?",
    "title": "Lateral larga",
    "text": "Fica no lugar no mergulho e não marca o quadril.",
-   "pos": "top",
-   "fy": 0.85,
-   "zoom": 1.1
+   "full": true
   },
   {
    "photo": "laco_c.jpg",
    "kicker": "Está entre P e M?",
    "title": "De amarrar",
    "text": "Você ajusta no laço, do seu jeito.",
-   "pos": "top",
-   "fy": 0.85,
-   "zoom": 1.15
+   "full": true
   },
   {
-   "photo": "asa_b.jpg",
-   "kicker": "O erro mais comum",
-   "title": "Um tamanho só",
-   "text": "Top e calcinha podem ter tamanhos diferentes. Compre separado.",
-   "contain": true
+   "photo": "fita_eclipse_a.jpg",
+   "kicker": "Vai tomar sol?",
+   "title": "Biquíni fita",
+   "text": "Tira fininha na lateral: marquinha fina e desenhada.",
+   "full": true
+  },
+  {
+   "photo": "plus_coq_lado.jpg",
+   "kicker": "Veste 50 ou mais?",
+   "title": "Plus size",
+   "text": "Meia taça, cortininha e mais modelos a partir do 50.",
+   "full": true
   }
  ],
  "final": {
@@ -82,8 +75,8 @@
   "fy": 0.12,
   "title": "Escolheu o seu?",
   "text": "Na Via Sol você escolhe o tamanho do top e da calcinha separados.",
-  "code": "LOUCAS10",
-  "code_note": "10% off",
+  "code": "LOUCAS15",
+  "code_note": "15% off",
   "cta": "Link na bio. Salva pra Black Friday!"
  }
 }

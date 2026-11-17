@@ -128,7 +128,7 @@ def headline_rich(d, text, y_bottom, size=104, maxw=W - 120):
         for wd, hi in ln:
             ww = d.textlength(wd, font=f)
             if hi:
-                d.rectangle([x - 8, y + 6, x + ww + 8, y + lh - 2], fill=PINK)
+                d.rectangle([x - 10, y + int(size * 0.16), x + ww + 10, y + lh + int(size * 0.06)], fill=PINK)
             d.text((x, y), wd, font=f, fill=(255, 255, 255))
             x += ww + sp
         y += lh
@@ -145,7 +145,53 @@ def counter(d, n, total, y=56):
     d.text((W - 60 - d.textlength(s, font=f), y), s, font=f, fill=(255, 255, 255))
 
 
+def rounded_paste(bg, ph, x, y, radius=26):
+    sh = Image.new("L", bg.size, 0)
+    ImageDraw.Draw(sh).rounded_rectangle([x + 6, y + 10, x + ph.width + 6, y + ph.height + 10], radius=radius, fill=150)
+    sh = sh.filter(ImageFilter.GaussianBlur(14))
+    bg = Image.composite(Image.new("RGB", bg.size, (0, 0, 0)), bg, sh)
+    m = Image.new("L", ph.size, 0)
+    ImageDraw.Draw(m).rounded_rectangle([0, 0, ph.width, ph.height], radius=radius, fill=255)
+    bg.paste(ph, (x, y), m)
+    return bg
+
+
+def render_cover_full(c, out):
+    """Manchete no alto e as fotos INTEIRAS lado a lado embaixo."""
+    srcs = [load(p["photo"]) for p in c["photos"]]
+    bg = fill(srcs[0], W, H, 0.5, 0.5).filter(ImageFilter.GaussianBlur(40))
+    bg = Image.blend(bg, Image.new("RGB", (W, H), (12, 8, 10)), 0.55)
+    d = ImageDraw.Draw(bg)
+    handle(d, y=40)
+    top = headline_rich(d, c["headline"], 330, c.get("size", 116))
+    y_sub = 346
+    if c.get("sub"):
+        f = F("bold", 40)
+        d.text(((W - d.textlength(c["sub"], font=f)) / 2, y_sub), c["sub"], font=f, fill=(255, 255, 255))
+    gap, side = 26, 40
+    area_top, area_bot = 430, H - 90
+    ratios = [im.width / im.height for im in srcs]
+    h = min(area_bot - area_top, (W - 2 * side - gap * (len(srcs) - 1)) / sum(ratios))
+    ws = [int(h * r) for r in ratios]
+    x = (W - sum(ws) - gap * (len(srcs) - 1)) // 2
+    y = area_top + int((area_bot - area_top - h) // 2)
+    for im, w in zip(srcs, ws):
+        ph = im.resize((w, int(h)), Image.LANCZOS)
+        bg = rounded_paste(bg, ph, x, y)
+        x += w + gap
+    d = ImageDraw.Draw(bg)
+    f = F("condreg", 34)
+    d.text((W - 120, H - 34), "ARRASTA", font=f, fill=(255, 255, 255), anchor="rs")
+    ay = H - 48
+    d.line([W - 108, ay, W - 60, ay], fill=(255, 255, 255), width=3)
+    d.line([W - 74, ay - 12, W - 60, ay], fill=(255, 255, 255), width=3)
+    d.line([W - 74, ay + 12, W - 60, ay], fill=(255, 255, 255), width=3)
+    bg.save(out, quality=94)
+
+
 def render_cover(c, out):
+    if c.get("full"):
+        return render_cover_full(c, out)
     ph = c["photos"]
     n = len(ph)
     gap = 8
@@ -172,7 +218,55 @@ def render_cover(c, out):
     img.save(out, quality=94)
 
 
+def full_photo(name, top, bottom_margin=40, side=40, radius=26):
+    """Foto INTEIRA (sem corte) sobre fundo desfocado da propria foto."""
+    src = load(name)
+    bg = fill(src, W, H, 0.5, 0.5).filter(ImageFilter.GaussianBlur(40))
+    bg = Image.blend(bg, Image.new("RGB", (W, H), (12, 8, 10)), 0.55)
+    box_w, box_h = W - 2 * side, H - top - bottom_margin
+    r = min(box_w / src.width, box_h / src.height)
+    ph = src.resize((int(src.width * r), int(src.height * r)), Image.LANCZOS)
+    if r > 1.05:
+        ph = ph.filter(ImageFilter.UnsharpMask(radius=2, percent=70, threshold=2))
+    x, y = (W - ph.width) // 2, top + (box_h - ph.height) // 2
+    sh = Image.new("L", (W, H), 0)
+    ImageDraw.Draw(sh).rounded_rectangle([x + 6, y + 10, x + ph.width + 6, y + ph.height + 10], radius=radius, fill=150)
+    sh = sh.filter(ImageFilter.GaussianBlur(14))
+    bg = Image.composite(Image.new("RGB", (W, H), (0, 0, 0)), bg, sh)
+    m = Image.new("L", ph.size, 0)
+    ImageDraw.Draw(m).rounded_rectangle([0, 0, ph.width, ph.height], radius=radius, fill=255)
+    bg.paste(ph, (x, y), m)
+    return bg
+
+
+def render_slide_full(s, n, total, out):
+    """Texto numa faixa no alto, foto inteira embaixo."""
+    tmp = ImageDraw.Draw(Image.new("RGB", (W, H)))
+    fk, ft, fx = F("cond", 42), F("cond", 96), F("reg", 36)
+    lines = wrap(tmp, s.get("text", ""), fx, W - 120) if s.get("text") else []
+    asc, desc = ft.getmetrics()
+    title_h = asc + desc - 12
+    text_top = 110
+    band = text_top + 62 + title_h + len(lines) * 46 + 26
+    img = full_photo(s["photo"], band)
+    d = ImageDraw.Draw(img)
+    handle(d, y=40)
+    counter(d, n, total, y=40)
+    y = text_top
+    if s.get("kicker"):
+        tarja(d, 60, y, s["kicker"].upper(), fk)
+    y += 62
+    txt(d, (56, y - 12), s["title"].upper(), ft)
+    y += title_h
+    for ln in lines:
+        txt(d, (60, y), ln, fx, (245, 240, 242))
+        y += 46
+    img.save(out, quality=94)
+
+
 def render_slide(s, n, total, out):
+    if s.get("full"):
+        return render_slide_full(s, n, total, out)
     pos = s.get("pos", "bottom")
     if s.get("contain"):
         # foto inteira (produto) sobre fundo escuro, texto embaixo
